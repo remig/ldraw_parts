@@ -1,0 +1,61 @@
+0 Plate  2 x  4 with Coupling, Logos Horizontal, Female
+0 Name: 737b.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !KEYWORDS train, coupling
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2017-08-22 [GeraldLasser] Used Sub-Files and Primitives
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\737s01.dat
+1 16 0 0 -10 0 0 1 0 1 0 -1 0 0 stug-4x1.dat
+1 16 0 0 10 0 0 1 0 1 0 -1 0 0 stug-4x1.dat
+
+0 // BOTTOM
+1 16 0 8 -30 2 0 0 0 -1 0 0 0 2 48\4-4ring3.dat
+1 16 0 8 -20 4 0 0 0 -1 0 0 0 -4 48\2-4ring4.dat
+
+0 // VERTICALS INSIDE
+0 BFC INVERTNEXT
+1 16 0 0 -30 6 0 0 0 8 0 0 0 6 48\4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 0 4 -20 16 0 0 0 4 0 0 0 -16 48\1-6cylo.dat
+1 16 7.2723885 6 -34.2151535 0 1 -.7276115 2 0 0 0 0 -.3591535 rect3.dat
+1 16 6.7363885 6 -34.2871535 -.1916115 -1 0 0 0 2 -.2871535 0 0 rect2p.dat
+1 16 0 4 -30 8 0 0 0 4 0 0 0 -8 48\1-12cylo.dat
+1 16 0 4 -30 8 0 0 0 4 0 0 0 8 48\2-4cylo.dat
+1 16 0 4 -30 -8 0 0 0 4 0 0 0 -8 48\1-12cylo.dat
+1 16 -7.2723885 6 -34.2151535 0 -1 .7276115 -2 0 0 0 0 -.3591535 rect3.dat
+1 16 -6.7363885 6 -34.2871535 -.1916115 1 0 0 0 2 .2871535 0 0 rect2p.dat
+0 BFC INVERTNEXT
+1 16 0 4 -20 -16 0 0 0 4 0 0 0 -16 48\1-6cylo.dat
+1 16 0 6 -20 16 0 0 0 0 2 0 1 0 rect.dat
+
+1 16 0 0 -20 20 0 0 0 8 0 0 0 -20 48\2-4cylo.dat
+
+0 // INSIDE COVER
+1 16 0 4 -20 -16 0 0 0 -1 0 0 0 -16 48\1-6chrd.dat
+1 16 0 4 -20 16 0 0 0 -1 0 0 0 -16 48\1-6chrd.dat
+1 16 0 4 -30 8 0 0 0 -1 0 0 0 8 48\4-4ndis.dat
+4 16 8 4 -22 -8 4 -22 -16 4 -20 16 4 -20
+3 16 16 4 -20 8 4 -33.856 8 4 -22
+3 16 -8 4 -22 -8 4 -33.856 -16 4 -20
+
+0 // TOP COVER
+1 16 0 0 -30 6 0 0 0 1 0 0 0 6 48\4-4ndis.dat
+1 16 0 0 -20 -20 0 0 0 1 0 0 0 -20 48\1-8chrd.dat
+1 16 0 0 -20 0 0 20 0 1 0 -20 0 0 48\1-8chrd.dat
+1 16 0 0 -20 0 0 -20 0 1 0 -20 0 0 48\1-8chrd.dat
+1 16 0 0 -20 20 0 0 0 1 0 0 0 -20 48\1-8chrd.dat
+4 16 20 0 -20 6 0 -24 6 0 -36 14.142 0 -34.142
+4 16 20 0 -20 -20 0 -20 -6 0 -24 6 0 -24
+4 16 -6 0 -36 -6 0 -24 -20 0 -20 -14.142 0 -34.142
+3 16 0 0 -40 6 0 -36 -6 0 -36
+3 16 6 0 -36 0 0 -40 14.142 0 -34.142
+3 16 0 0 -40 -6 0 -36 -14.142 0 -34.142

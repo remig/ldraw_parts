@@ -1,0 +1,12 @@
+0 Train Coupling Hook Type 1 Round Base Connector
+0 Name: u886ac01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP This part was only used together with Plate 3176
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 x508a.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u886a.dat

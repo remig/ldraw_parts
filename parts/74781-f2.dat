@@ -1,0 +1,24 @@
+0 Monorail Track Point Left - Curved
+0 Name: 74781-f2.dat
+0 Author: Mikkel Bech Jensen [gaia]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Use the following transformation matrices for 1 x 2 Plates and 1 x 2 Tile with Arrow
+0 !HELP 1 16 97.5274 1 -70 1 0 0 0 1 0 0 0 1 3023.dat
+0 !HELP 1 16 97.5274 -7 -70 1 0 0 0 1 0 0 0 1 3069bp14.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Unitron, Airport Shuttle
+0 !KEYWORDS Set 6347, Set 6991
+
+1 16 -32.1191 10.0962 81.0191 .8765 -.0514 -.478 .0609 .9981 .0044 .4769 -.033 .878 2890.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2886.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2885.dat
+1 16 0 0 -69.5 1 0 0 0 1 0 0 0 1 2887.dat
+1 47 -134 13 0 .6814 0 -.7328 0 -1 0 -.7328 0 -.6814 2884.dat
+1 16 97.5274 9 -35 1 0 0 0 1 0 0 0 1 2883.dat
+1 16 167.5274 5 0 1 0 0 0 1 0 0 0 1 2890.dat
+1 16 -28.4204 13 -16.4482 -.2148 0 -.9766 0 1 0 .9766 0 -.2148 2911.dat
+1 16 -113.1576 13 30.1409 .5443 0 .8388 0 1 0 -.8388 0 .5443 2911.dat

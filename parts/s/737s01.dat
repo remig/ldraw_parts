@@ -1,0 +1,29 @@
+0 ~Plate  2 x  4 with Open Side without Studs for Train Coupling
+0 Name: s\737s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2017-08-21 [GeraldLasser] Subfiled for increased accuracy
+
+0 BFC CERTIFY CCW
+
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stug4-1x3.dat
+0 BFC INVERTNEXT
+1 16 0 8 0 36 0 0 0 -4 0 0 0 16 box5.dat
+4 16 40 8 20 36 8 16 -36 8 16 -40 8 20 
+4 16 36 8 -16 36 8 16 40 8 20 40 8 -20
+4 16 -40 8 20 -36 8 16 -36 8 -16 -40 8 -20 
+3 16 20 8 -20 36 8 -16 40 8 -20
+3 16 -40 8 -20 -36 8 -16 -20 8 -20
+3 16 -16 8 -20 -20 8 -20 -36 8 -16
+3 16 20 8 -20 16 8 -20 36 8 -16
+4 16 -36 8 -16 36 8 -16 16 8 -20 -16 8 -20
+
+1 16 0 4 -20 0 0 40 4 0 0 0 40 0 box3u2p.dat
+1 16 -30 4 -20 10 0 0 0 0 4 0 1 0 rect.dat
+1 16 30 4 -20 10 0 0 0 0 4 0 1 0 rect.dat
+
+3 16 -20 0 -20 -40 0 20 -40 0 -20
+3 16 20 0 -20 40 0 -20 40 0 20
+4 16 -40 0 20 -20 0 -20 20 0 -20 40 0 20

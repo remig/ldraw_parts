@@ -1,0 +1,17 @@
+0 ~Logo Ford Badge with Corners
+0 Name: s\logofordl02.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Exact dimensions X = 19; Z = 7.2
+
+0 BFC CERTIFY CCW
+
+0 // Corners
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\logofordb01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\logofordb01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\logofordb01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\logofordb01.dat
+0 // Disc
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\logofordl01.dat

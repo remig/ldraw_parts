@@ -1,0 +1,36 @@
+0 ~Wheel Technic Street Bike 81mm D x28
+0 Name: s\51378s04.dat
+0 Author: Andreas Laber [Tandini]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 11 0 0 88 88 0 0 0 3 0 48\4-4cylo.dat
+1 16 0 0 -12.5 0 0 4 4 0 0 0 23.5 0 48\4-4con22.dat
+1 16 0 0 33.5 0 0 4 4 0 0 0 -19.5 0 48\4-4con22.dat
+1 16 0 0 -12.5 1 0 0 0 1 0 0 0 -1 48\1-4ring92.dat
+1 16 0 0 -12.5 0 -1 0 1 0 0 0 0 -1 48\1-4ring92.dat
+1 16 0 0 -12.5 -1 0 0 0 -1 0 0 0 -1 48\1-4ring92.dat
+1 16 0 0 -12.5 -1 0 0 0 1 0 0 0 -1 48\1-4ring92.dat
+1 16 0 0 33.5 1 0 0 0 1 0 0 0 1 48\1-4ring92.dat
+1 16 0 0 33.5 0 -1 0 1 0 0 0 0 1 48\1-4ring92.dat
+1 16 0 0 33.5 -1 0 0 0 -1 0 0 0 1 48\1-4ring92.dat
+1 16 0 0 33.5 -1 0 0 0 1 0 0 0 1 48\1-4ring92.dat
+1 16 0 0 -15 0 0 93.5 93.5 0 0 0 2.5 0 48\4-4cyli.dat
+1 16 0 0 33.5 0 0 93.5 93.5 0 0 0 2.5 0 48\4-4cyli.dat
+1 16 0 0 -15 0 0 5.843 5.843 0 0 0 1 0 48\4-4rin15.dat
+1 16 0 0 36 0 0 5.843 5.843 0 0 0 -1 0 48\4-4rin15.dat
+0 BFC INVERTNEXT
+1 16 0 0 -15 0 0 3.985 3.985 0 0 0 19 0 48\4-4con21.dat
+0 BFC INVERTNEXT
+1 16 0 0 36 0 0 3.985 3.985 0 0 0 -18.5 0 48\4-4con21.dat
+0 (chamfer)
+0 BFC INVERTNEXT
+1 16 0 0 17.5 0 0 1.18 1.18 0 0 0 -1 0 48\4-4con70.dat
+0 (filet - next 2 cones & ring)
+0 BFC INVERTNEXT
+1 16 0 0 4 0 0 1.18 1.18 0 0 0 2 0 48\4-4con70.dat
+0 BFC INVERTNEXT
+1 16 0 0 6 0 0 1.16338 1.16338 0 0 0 1 0 48\4-4con70.dat
+1 16 0 0 7 0 0 1.131064 1.131064 0 0 0 1 0 48\4-4ring71.dat

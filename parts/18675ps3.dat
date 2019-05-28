@@ -1,0 +1,18 @@
+0 Dish  6 x  6 Inverted - No Studs with Handle with Lines and Window Pattern
+0 Name: 18675ps3.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS TIE Fighter, Star Wars, First Order, 18576pb07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675s01.dat
+
+0 BFC NOCLIP
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675ps3s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\18675ps3s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675ps3s02.dat
+1 0 0 0 0 -1 0 0 0 1 0 0 0 1 s\18675ps3s02.dat

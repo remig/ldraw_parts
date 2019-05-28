@@ -1,0 +1,23 @@
+0 ~Train Coupling Hook Type 1 Base Common Part
+0 Name: s\u886s02.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u886s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u886s01.dat
+
+1 16 0 3 0 -1.41421 0 -1.41421 0 -1 0 1.41421 0 -1.41421 3-4ndis.dat
+1 16 0 0 0 -1.41421 0 -1.41421 0 1 0 1.41421 0 -1.41421 3-4ndis.dat
+1 16 0 0 0 3.181981 0 -3.181981 0 1 0 3.181981 0 3.181981 1-4edge.dat
+1 16 0 0 0 0 0 2 0 1 0 2 0 0 1-8ring1.dat
+1 16 0 0 0 0 0 .5 0 1 0 .5 0 0 1-8ring8.dat
+1 16 0 0 0 0 0 -2 0 1 0 2 0 0 1-8ring1.dat
+1 16 0 0 0 0 0 -.5 0 1 0 .5 0 0 1-8ring8.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 0 0 2 0 3 0 -2 0 0 4-4cylo.dat
+1 16 0 -5 -16 2 0 0 0 5 0 0 0 2 2-4cylc.dat
+1 16 0 -5 -20 -2 0 0 0 5 0 0 0 -2 2-4cylc.dat
+1 16 0 0 -18 0 0 2 0 -5 0 2 0 0 box3u8p.dat

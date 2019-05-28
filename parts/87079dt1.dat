@@ -1,0 +1,13 @@
+0 Tile  2 x  4 with Yellow License Plate and White "Michigan GT 1967" Sign Sticker
+0 Name: 87079dt1.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Ford, Mustang, Set 10265
+
+0 // Main
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 87079.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6258203b.dat

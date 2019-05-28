@@ -1,0 +1,13 @@
+0 =Sticker with White/Black Triangles and Racing Number "2", Right
+0 Name: 169675g.dat
+0 Author: [PTadmin]
+0 !LDRAW_ORG Unofficial_Part Alias
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 4555, Cargo, Container
+
+0 // Alias of 821435c
+
+1 16 0 0 0  1 0 0  0 1 0  0 0 1 821435c.dat
