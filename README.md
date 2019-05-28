@@ -1,4 +1,4 @@
-# ldraw_parts
+# LDraw Part Library for Web Lic
 
 This is a clone of the LDraw parts library created and maintained by [LDraw.org](https://www.ldraw.org/).
 This repository, and the part files in it, are optimized for use with [Web Lic](https://github.com/remig/web_lic).
@@ -8,3 +8,5 @@ This is obviously worse for manually working with the part folders, but this gre
 
 Without this flat hierarchy, a web app like Lic either has to issue multiple front end HTTP requests, one in 'parts' then, failing that, one in 'p', or it needs some back end part name mapping to correctly resolve the desired folder.
 Neither solution is ideal; the first is very slow while the second is very complicated, given that Lic has no back end anything.
+
+This repository also includes all available unofficial, public parts.  It also includes any parts submitted to Lic's website from end users, via Lic's 'Upload missing part' feature.
