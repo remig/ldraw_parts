@@ -3,29 +3,29 @@
 0 Author: Remi Gagne
 0 Most colors from http://ryanhowerter.net/colors
 
-0 !COLOUR Black                                                 CODE   0   VALUE #1b2a34   EDGE #F4F4F4
-0 !COLOUR Blue                                                  CODE   1   VALUE #1e5aa8   EDGE #1E1E1E
+0 !COLOUR Black                                                 CODE   0   VALUE #1b2a34   EDGE #E0E0E0
+0 !COLOUR Blue                                                  CODE   1   VALUE #0055BF   EDGE #1E1E1E
 0 !COLOUR Green                                                 CODE   2   VALUE #00852b   EDGE #1E1E1E
 0 !COLOUR Teal                                                  CODE   3   VALUE #069d9f   EDGE #1E1E1E
-0 !COLOUR Red                                                   CODE   4   VALUE #b40000   EDGE #1E1E1E
+0 !COLOUR Red                                                   CODE   4   VALUE #C91A09   EDGE #1E1E1E
 0 !COLOUR Dark_Pink                                             CODE   5   VALUE #d3359d   EDGE #1E1E1E
 0 !COLOUR Brown                                                 CODE   6   VALUE #543324   EDGE #1E1E1E
-0 !COLOUR Light_Grey                                            CODE   7   VALUE #8a928d   EDGE #1E1E1E
-0 !COLOUR Dark_Grey                                             CODE   8   VALUE #545955   EDGE #1E1E1E
+0 !COLOUR Light_Grey                                            CODE   7   VALUE #9BA19D   EDGE #1E1E1E
+0 !COLOUR Dark_Grey                                             CODE   8   VALUE #6D6E5C   EDGE #1E1E1E
 0 !COLOUR Light_Blue                                            CODE   9   VALUE #97cbd9   EDGE #1E1E1E
 0 !COLOUR Bright_Green                                          CODE  10   VALUE #58ab41   EDGE #1E1E1E
-0 !COLOUR Turquoise                                             CODE  11   VALUE #00aaa4   EDGE #1E1E1E
+0 !COLOUR Turquoise                                             CODE  11   VALUE #55A5AF   EDGE #1E1E1E
 0 !COLOUR Salmon                                                CODE  12   VALUE #f06d61   EDGE #1E1E1E
 0 !COLOUR Pink                                                  CODE  13   VALUE #f6a9bb   EDGE #1E1E1E
 0 !COLOUR Yellow                                                CODE  14   VALUE #fac80a   EDGE #1E1E1E
 0 !COLOUR White                                                 CODE  15   VALUE #f4f4f4   EDGE #1E1E1E
 0 !COLOUR Light_Green                                           CODE  17   VALUE #add9a8   EDGE #1E1E1E
 0 !COLOUR Light_Yellow                                          CODE  18   VALUE #ffd67f   EDGE #1E1E1E
-0 !COLOUR Tan                                                   CODE  19   VALUE #b0a06f   EDGE #1E1E1E
+0 !COLOUR Tan                                                   CODE  19   VALUE #E4CD9E   EDGE #1E1E1E
 0 !COLOUR Light_Violet                                          CODE  20   VALUE #afbed6   EDGE #1E1E1E
 0 !COLOUR Purple                                                CODE  22   VALUE #671fa1   EDGE #1E1E1E
 0 !COLOUR Dark_Blue_Violet                                      CODE  23   VALUE #0e3e9a   EDGE #1E1E1E
-0 !COLOUR Orange                                                CODE  25   VALUE #d67923   EDGE #1E1E1E
+0 !COLOUR Orange                                                CODE  25   VALUE #FE8A18   EDGE #1E1E1E
 0 !COLOUR Magenta                                               CODE  26   VALUE #901f76   EDGE #1E1E1E
 0 !COLOUR Lime                                                  CODE  27   VALUE #a5ca18   EDGE #1E1E1E
 0 !COLOUR Dark_Tan                                              CODE  28   VALUE #897d62   EDGE #1E1E1E
@@ -135,7 +135,7 @@
 0 !COLOUR Metallic_Silver                                       CODE  80   VALUE #A5A9B4   EDGE #1E1E1E                               METAL
 0 !COLOUR Metallic_Green                                        CODE  81   VALUE #899B5F   EDGE #1E1E1E                               METAL
 0 !COLOUR Metallic_Gold                                         CODE  82   VALUE #DBAC34   EDGE #1E1E1E                               METAL
-0 !COLOUR Metallic_Black                                        CODE  83   VALUE #1A2831   EDGE #F4F4F4                               METAL
+0 !COLOUR Metallic_Black                                        CODE  83   VALUE #1A2831   EDGE #000000                               METAL
 0 !COLOUR Metallic_Dark_Grey                                    CODE  87   VALUE #6D6E5C   EDGE #1E1E1E                               METAL
 0 !COLOUR Metallic_Bright_Red                                   CODE 184   VALUE #D60026   EDGE #1E1E1E                               METAL
 0 !COLOUR Metallic_Dark_Green                                   CODE 186   VALUE #008E3C   EDGE #1E1E1E                               METAL
