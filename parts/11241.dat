@@ -1,0 +1,15 @@
+0 Animal Foal Friends
+0 Name: 11241.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS Horse
+1 16 0 -72 10 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11241s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11241s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11241s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11241s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11241s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11241s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11241s05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11241s05.dat

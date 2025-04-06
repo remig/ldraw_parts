@@ -1,0 +1,8 @@
+0 ~Logo Lamborghini Text Black
+0 Name: s\logolambt02.dat
+0 Author: Jens Brühl [jb70]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !HELP Exact dimensions X = 30; Z = 8
+0 BFC CERTIFY CCW
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 logo-lamborghini-text.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 logo-lamborghini-text-bkgd.dat
