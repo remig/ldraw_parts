@@ -1,25 +1,9 @@
 0 Slope Brick 10  6 x  8 with Slate Roof Pattern
 0 Name: 4515p03.dat
 0 Author: Imre Papp [ampi]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [Steffen] BFC'ed; made use of subfile
-0 !HISTORY 2008-07-08 [guyvivan] Fix pattern with new subpart and vertices not coplanar
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2016-06-02 [Holly-Wood] Fixed concave quads, BFCed, symsplitted
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
-0 // Subpart
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4515s01.dat
-
-0 // Slate Roof Pattern:
 4 16 -68.96 1.6752 49.4198 -69.3 .2375 58.4997 -72.41 .0918 59.4202 -78.26 .4925 56.8897
 4 16 -70.8 2.1312 46.5397 -68.96 1.6752 49.4198 -78.26 .4925 56.8897 -80 1.0752 53.2096
 4 16 -72.06 2.8407 42.0585 -70.8 2.1312 46.5397 -80 1.0752 53.2096 -80 1.8763 48.1496

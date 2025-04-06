@@ -1,17 +1,10 @@
 0 Sticker  0.9 x  5.8 with "CITY" and Black Skyline on Blue Gradient Background
 0 Name: 4589552e.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Trains, set 8404
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !KEYWORDS set 8404, Trains
 1 16 0 -0.25 0 58 0 0 0 0.25 0 0 0 9 box5-12.dat
-
 4 73 48 -0.25 9 47 -0.25 9 43.07 -0.25 1.854 43.476 -0.25 1.46
 4 73 43.722 -0.25 1.221 44.108 -0.25 0.847 49 -0.25 9 48 -0.25 9
 3 15 48 -0.25 9 43.476 -0.25 1.46 43.722 -0.25 1.221

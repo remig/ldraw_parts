@@ -1,13 +1,8 @@
 0 Figure Duplo Adult Hips
 0 Name: 47393.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 9 20 29 0 0 0 0 11 0 -4 0 2-4cylo.dat
 1 16 0 9 20 29 0 0 0 0 11 0 -1 0 2-4chrd.dat
 1 16 0 9 16 29 0 0 0 0 11 0 1 0 2-4chrd.dat
@@ -269,7 +264,6 @@
 1 16 0 -29 -8 0 0 -12 7 0 0 0 -1 0 rect2p.dat
 1 16 0 -29 12 12 0 0 0 0 -7 0 1 0 rect3.dat
 1 16 0 -36 14 12 0 0 0 1 0 0 0 2 rect3.dat
-0 // Added lines/Condlines
 5 24 24.44 -6.328 -12.935 22 -5.7405 -13.858 25 -1 -14 22 -11.0158 -10
 5 24 22 -5.7405 -13.858 25 -1 -14 24.44 -6.328 -12.935 22 0 -15
 5 24 25 -1 -14 24.44 -6.328 -12.935 22 -5.7405 -13.858 26.684 -3 -12

@@ -1,16 +1,10 @@
 0 Maxifig Tool Oar
 0 Name: 457.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !CATEGORY Homemaker
-0 !KEYWORDS Accessory, Boat, Indians, Paddle, Tennis, bat, racket
-
-0 !HISTORY 2007-08-11 [mikeheide] Fixed triangle added missing lines
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
+0 !KEYWORDS Accessory, Bat, boat, indians, Paddle, racket, Tennis
 1 16 -30 -1.33333 0 30 0 0 0 1 0 0 0 20 4-4disc.dat
 0 BFC INVERTNEXT
 1 16 -30 1.33333 0 30 0 0 0 1 0 0 0 20 4-4disc.dat
@@ -89,4 +83,3 @@
 0 new lines
 2 24 -1.1931 0 -4 -1.11398 1.333 -3.73474
 2 24 -1.11398 -1.333 -3.73474 -1.1931 0 -4
-0

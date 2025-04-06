@@ -1,13 +1,10 @@
-0 Technic Bionicle Weapon Spearhead with Fork Tip
+0 Constraction Weapon Spearhead with Fork Tip
 0 Name: 44817.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Rahkshi, Staff of Disintegration, Guurahk
-
+0 !CATEGORY Constraction Accessory
+0 !KEYWORDS  bionicle,  Guurahk,  Staff of Disintegration, Rahkshi
 1 16 0 0 0 0 1 0 1 0 0 0 0 -1 connhol2.dat
 1 16 0 0 -20 0 1 0 -1 0 0 0 0 1 connhol2.dat
 0 BFC INVERTNEXT

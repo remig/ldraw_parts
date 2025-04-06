@@ -1,17 +1,11 @@
 0 Minifig Ladle
 0 Name: 4337.dat
 0 Author: Niels Karsdorp [nielsk]
-0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !CATEGORY Minifig Accessory
 0 !KEYWORDS Fabuland, Spoon
 0 !CMDLINE -c14
-
-0 !HISTORY 2007-11-03 [mikeheide] added edgelines, fixed quads
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
 1 16 0 0 0 4 0 0 0 68 0 0 0 4 4-4cyli.dat
@@ -31,8 +25,6 @@
 3 16 3.804 68.986 -0.986 4.001 72.51 -1.142 4.001 68 0
 3 16 -4.001 68 0 -4.001 72.51 -1.142 -3.804 68.986 -0.986
 3 16 -4.001 72.51 -1.142 -4.001 73.494 -1.979 -3.804 68.986 -0.986
-0 // Edges around bottom
-0
 2 24 2.9151 80.9457 -8.85456 3.18166 80.5578 -8.37875
 2 24 2.829 81.071 -9.00834 2.9151 80.9457 -8.85456
 2 24 1.85476 82.229 -13.1449 2.39154 81.3397 -9.259
@@ -91,4 +83,3 @@
 2 24 -4.001 73.3283 -1.91932 -4.001 73.4565 -1.94712
 2 24 -3.84677 69.8936 -1.141 -4.001 73.4565 -1.94712
 2 4 -3.81544 69.1906 -0.995056 -3.84677 69.8936 -1.141
-0

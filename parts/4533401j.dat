@@ -1,17 +1,10 @@
 0 Sticker  1.6 x  5.7 with Red "00:15:10" and Planet
 0 Name: 4533401j.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS set 10188, Star Wars, Death Star, Yavin
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS Death Star, Set 10188, Star Wars, Yavin
 1 16 0 -0.25 0 57.5 0 0 0 0.25 0 0 0 16 box5-12.dat
-
 4 4 20.85 -0.25 10.1 21.4 -0.25 9.05 22.6 -0.25 9.05 24.05 -0.25 10.1
 4 4 21.15 -0.25 8.9 20.65 -0.25 9.9 19.75 -0.25 7.9 20.75 -0.25 7.9
 4 4 20.75 -0.25 7.9 19.75 -0.25 7.9 19.85 -0.25 7.65 20.35 -0.25 7.65

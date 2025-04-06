@@ -1,15 +1,10 @@
 0 ~Bike  2 Wheel Motorcycle Frame  3 x  6 x  3 - Left Side
 0 Name: 4481.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Vehicle
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4481s01.dat
-0 // patch
 4 16 9 0.25 19.75 9 20 19.75 9 20 17 9 8 17
 3 16 9 0.25 19.75 9 8 17 9 7.246 16.971
 3 16 9 0.25 19.75 9 7.246 16.971 9 3.004 12.729
@@ -51,13 +46,10 @@
 4 16 0 -4.088 -67.036 0 -2.744 -67.632 1 -2.744 -67.632 1 -4.088 -67.036
 4 16 1 -4.088 -67.036 1 -2.744 -67.632 1 -4.017 -69.833 1 -6.36 -68.794
 5 24 0 33.5 -36.438 1 33.5 -36.438 1 33.5 -33.614 0 33.5307 -47.3045
-0 // pinholes
 0 BFC INVERTNEXT
 1 16 8 36 -30.5 0 -8 0 -2 0 0 0 0 -2 4-4cylc.dat
 0 BFC INVERTNEXT
 1 16 6 32 -51 0 -6 0 -2 0 0 0 0 -2 4-4cylc.dat
 0 BFC INVERTNEXT
 1 16 7 2.25 -53.5 0 -7 0 -2 0 0 0 0 -2 4-4cylc.dat
-0 // logo
 1 16 11 0 -62 0 -1 0 1 0 0 0 0 1 logo5.dat
-

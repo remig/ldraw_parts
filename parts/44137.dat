@@ -1,19 +1,13 @@
 0 Technic Connector Block  4 x  4 x  2
 0 Name: 44137.dat
 0 Author: Kevin Roach [KROACH]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 connhol3.dat
 1 16 0 0 20 0 -1 0 1 0 0 0 0 1 connhole.dat
 1 16 -10 -40 60 0 1 0 -1 0 0 0 0 1 connhol3.dat
 1 16 10 -40 60 0 -1 0 1 0 0 0 0 1 connhol3.dat
 1 16 0 -60 40 -1 0 0 0 0 -1 0 -1 0 connhol3.dat
-0 // section 1
 0 BFC INVERTNEXT
 1 16 0 -10 0 0 0 -8 0 2 0 8 0 0 2-4cylo.dat
 3 16 -2 -5.364 7.602 -2 -5.364 12.968 -2 -3.444 11.685
@@ -105,7 +99,6 @@
 2 24 10 -9 8 10 -9 16.272
 2 24 10 6.364 3.636 10 6.364 13.636
 2 24 10 9 20 10 9 0
-0 // section 2
 1 16 -10 0 20 0 20 0 9 0 0 0 0 9 1-8cylo.dat
 1 16 -10 0 20 0 8 0 -9 0 0 0 0 9 1-4cylo.dat
 1 16 10 0 20 0 -8 0 -9 0 0 0 0 9 1-4cylo.dat
@@ -235,7 +228,6 @@
 2 24 -8 -24.599 33.636 -8 -26.364 33.636
 2 24 -10 -13.636 46.364 -10 6.364 26.364
 2 24 10 6.364 26.364 10 -13.636 46.364
-0 // section 3
 1 16 -20 -40 60 0 18 0 3.4442 0 -8.3149 -8.3149 0 -3.4442 1-8cylo.dat
 1 16 20 -40 60 0 -18 0 3.4442 0 -8.3149 -8.3149 0 -3.4442 1-8cylo.dat
 2 24 -20 -34 53.393 -20 -36.556 51.685
@@ -347,7 +339,6 @@
 2 24 20 -49 50 20 -49 60
 2 24 -2 -31 43.444 -2 -31 60
 2 24 2 -31 60 2 -31 43.444
-0 // section 4
 0 BFC INVERTNEXT
 1 16 0 -60 30 0 0 -8 8 0 0 0 2 0 2-4cylo.dat
 1 16 -2 -50.699 40.5 0 1 0 1.6989 0 0 0 0 -5.864 rect.dat

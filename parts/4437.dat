@@ -1,15 +1,9 @@
 0 Fabuland Hammer
 0 Name: 4437.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Figure Accessory
-
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
 1 16 0 22 0 4 0 0 0 -33 0 0 0 4 4-4cylc.dat
 1 16 0 -12 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 -12 0 4 0 0 0 -10 0 0 1 4 2-4cyli.dat
@@ -88,7 +82,6 @@
 0 BFC INVERTNEXT
 1 16 0 -55 -11 6 0 0 0 0 6 0 26 0 4-4cylc.dat
 1 16 0 -55 15 6 0 0 0 0 6 0 -1 0 4-4ndis.dat
-
 4 16 6.9196 -66.6 15 6 -61 15 -6 -61 15 -6.9196 -66.6 15
 4 16 -6.9196 -66.6 15 -6 -61 15 -9.8182 -59.4545 15 -8.6991 -63.3136 15
 4 16 -9.8182 -59.4545 15 -6 -61 15 -6 -55 15 -10.1049 -57.4022 15

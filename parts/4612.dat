@@ -1,15 +1,9 @@
 0 Brick  2 x  4 x  2 with Tail
 0 Name: 4612.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Fabuland, aeroplane, airplane, plane
-
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !KEYWORDS aeroplane, Airplane, Fabuland, Plane
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4612s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4612s01.dat
 1 16 0 4 0 1 0 0 0 -11 0 0 0 -1 stud4.dat

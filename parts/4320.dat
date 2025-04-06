@@ -1,26 +1,10 @@
 0 ~Fabuland Roof Support
 0 Name: 4320.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Brick
-0 !KEYWORDS Slope
-
-0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
-0 !HISTORY 2002-02-16 [cwdee] fixed small overlap when asembled with roof parts
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-11-17 [Philo] BFCed
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2011-12-29 [Steffen] prepended ~ to title
-0 !HISTORY 2017-09-05 [PTadmin] renamed from 787
-0 !HISTORY 2017-12-23 [cwdee] Removed empty comments
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS slope
 1 16 0 -21.2 56 0 0 16 21.2 0 0 0 1 0 rect.dat
 1 16 0 -32.8 40 1 0 0 0 -8.2 0 0 0 1 stud4a.dat
 1 16 0 -24.8 20 1 0 0 0 -6.2 0 0 0 1 stud4a.dat
@@ -103,7 +87,6 @@
 4 16 -16 0 56 -20 0 60 20 0 60 16 0 56
 2 24 20 -48 60 20 -3.4 -51.5
 2 24 -20 -48 60 -20 -3.4 -51.5
-
 1 16 14 0 -54 0 0 2 0 -1 0 -2 0 0 1-4ndis.dat
 1 16 6 0 -54 -2 0 0 0 -1 0 0 0 -2 1-4ndis.dat
 4 16 16 0 -56 20 0 -58 4 0 -58 4 0 -56
@@ -149,7 +132,6 @@
 1 16 6 0 -54 -2 0 0 0 1 0 0 0 -2 1-4edge.dat
 1 16 14 0 -54 0 0 2 0 1 0 -2 0 0 1-4edge.dat
 2 24 4 0 -54 4 0 -50
-
 1 16 -14 0 -54 0 0 -2 0 -1 0 -2 0 0 1-4ndis.dat
 1 16 -6 0 -54 2 0 0 0 -1 0 0 0 -2 1-4ndis.dat
 4 16 -4 0 -56 -4 0 -58 -20 0 -58 -16 0 -56

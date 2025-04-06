@@ -1,15 +1,8 @@
 0 Slope Brick Curved Top  2 x  2 x  1 with Dimples
 0 Name: 44675.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 2 24 -10 0 20 10 0 20
 4 16 -10 0 20 10 0 20 9 2 20 -9 2 20
 2 24 -9 2 20 9 2 20
@@ -1347,4 +1340,3 @@
 4 16 -12.298 9.301 4.456 -14.242 10.596 5.758 -14.242 8.475 14.242 -12.298 6.529 15.544
 4 16 -14.242 10.596 5.758 -15.544 11.195 7.702 -15.544 10.046 12.298 -14.242 8.475 14.242
 3 16 -15.544 11.195 7.702 -16 11 10 -15.544 10.046 12.298
-0

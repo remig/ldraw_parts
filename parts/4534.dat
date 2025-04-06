@@ -1,17 +1,8 @@
 0 Container Cupboard  2 x  3 x  4
 0 Name: 4534.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-02-20 [anathema] Added missing detail; rebuilt using primitives; BFC'd
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
 1 16 10 92 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 -10 92 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 0 BFC INVERTNEXT
@@ -106,4 +97,3 @@
 1 16 24 4 -17 2 0 0 0 1 0 0 0 2 4-4edge.dat
 1 16 0 4 1 0 0 26 0 -1 0 15 0 0 rect1.dat
 1 16 0 88 0.5 0 0 -26 0 1 0 15.5 0 0 rect1.dat
-0

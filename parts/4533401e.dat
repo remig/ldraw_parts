@@ -1,17 +1,10 @@
 0 Sticker  1.1 x  1.6 with Buttons and Circuitry
 0 Name: 4533401e.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS set 10188, Star Wars
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS Set 10188, Star Wars
 1 16 0 -0.25 0 16 0 0 0 0.25 0 0 0 11 box5-12.dat
-
 4 80 6.02699 -0.25 6.4 6.15434 -0.25 7.04023 4.8175 -0.25 7.59397 4.58 -0.25 6.4
 4 80 6.15434 -0.25 5.75977 6.02699 -0.25 6.4 4.58 -0.25 6.4 4.8175 -0.25 5.20603
 4 80 6.517 -0.25 5.217 6.15434 -0.25 5.75977 4.8175 -0.25 5.20603 5.49383 -0.25 4.19383

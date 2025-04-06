@@ -1,17 +1,10 @@
 0 Fabuland Camera with Bulb Flash
 0 Name: 4334.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Handle angle: 12°
-
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Figure Accessory
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 -3 -19.0362 16 0 0 0 0 -11 0 -1.5 0 box4.dat
 2 24 15 -13 -22.0362 16 -14 -20.5362
 2 24 15 7 -22.0362 16 8 -20.5362

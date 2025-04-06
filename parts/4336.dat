@@ -1,22 +1,15 @@
 0 Fabuland Bed
 0 Name: 4336.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Figure Accessory
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 -16 0 0 0 1 0 -4 0 1 0 0 stug4-1x5.dat
 1 16 10 -20 0 0 0 -1 0 1 0 1 0 0 stug-1x6.dat
 1 16 -10 -20 0 0 0 -1 0 1 0 1 0 0 stug-1x6.dat
 1 16 0 0 0 24 0 0 0 -16 0 0 0 64 box4.dat
 0 BFC INVERTNEXT
 1 16 0 -40 0 32 0 0 0 20 0 0 0 72 box3u4a.dat
-
 0 BFC INVERTNEXT
 1 16 -40 -26 0 0 3 0 0 0 -10 72 0 0 box4-1.dat
 0 BFC INVERTNEXT

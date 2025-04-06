@@ -1,20 +1,13 @@
 0 Figure Flask with Handle (Needs Work)
 0 Name: 4429.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Handle angle: 15°
 0 !HELP Handle horizontal: Y=7.55, Z=17.57
 0 !HELP Handle vertical: Y=23.92, Z=24.58
-
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Figure Accessory
-0 !KEYWORDS Fabuland, Belville, Bottle, Jug, Pitcher
-
-0 // Needs Work: intersecting surfaces could be removed for trans versions
-
+0 !KEYWORDS Belville, Bottle, Fabuland, Jug, Pitcher
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 0 9 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 0 BFC INVERTNEXT

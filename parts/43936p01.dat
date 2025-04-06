@@ -1,12 +1,10 @@
-0 Animal Serpent Basilisk Body Segment with Pattern (MOCKUP)
+0 Animal Serpent Basilisk Body Segment with Scales Pattern
 0 Name: 43936p01.dat
-0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Harry Potter
-0 !CMDLINE -c378
-
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 43936.dat
+0 !KEYWORDS bricklink 43936px1, chamber of secrets, Harry Potter, set 4730
+0 !KEYWORDS Snake
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43936s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43936p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\43936p01s01.dat

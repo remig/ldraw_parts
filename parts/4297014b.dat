@@ -1,14 +1,9 @@
 0 Sticker  1.6 x  1.6 with Black "BANG!" on White/Red Background
 0 Name: 4297014b.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !KEYWORDS Batman
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 4 4 -16 0 16 16 0 16 16 0 -16 -16 0 -16
 4 4 -16 -0.25 16 16 -0.25 16 16 0 16 -16 0 16
 4 4 -16 0 -16 16 0 -16 16 -0.25 -16 -16 -0.25 -16
@@ -234,8 +229,5 @@
 3 4 9.75 -0.25 8.25 9 -0.25 5.25 9.5 -0.25 4.25
 3 15 9 -0.25 -3.25 7.5 -0.25 -3 7 -0.25 -3
 3 15 7.5 -0.25 -3 7.5 -0.25 -2.75 7 -0.25 -3
-0
 0 Pattern created wholly or in part by Quad2Dat
 0 Thanks James
-0
-0

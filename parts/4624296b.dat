@@ -1,27 +1,17 @@
 0 Sticker  1.75 x  1.75 Round with White "STOP FUEL" on Red Background
 0 Name: 4624296b.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Disney, Cars, Set 8206
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitive with conditional lines
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS Cars, Disney, Set 8206
 1 4 0 -0.25 0 0 0 -17.5 0 1 0 -17.5 0 0 3-16chrd.dat
 1 4 0 -0.25 0 0 0 17.5 0 1 0 -17.5 0 0 3-16chrd.dat
 1 4 0 -0.25 0 0 0 17.5 0 1 0 17.5 0 0 3-16chrd.dat
 1 4 0 -0.25 0 0 0 -17.5 0 1 0 17.5 0 0 3-16chrd.dat
 1 4 0 -0.25 0 -16.1679 0 -6.69696 0 1 0 -6.69696 0 16.1679 1-8chrd.dat
 1 4 0 -0.25 0 16.1679 0 6.69696 0 1 0 -6.69696 0 16.1679 1-8chrd.dat
-
 1 16 0 -0.25 0 17.5 0 0 0 0.25 0 0 0 17.5 4-4cyli.dat
 1 16 0 0 0 -17.5 0 0 0 -1 0 0 0 17.5 4-4disc.dat
-
 3 15 -10.967 -0.25 3.989 -12.36 -0.25 3.989 -12.379 -0.25 3.622
 4 15 -12.379 -0.25 3.622 -12.341 -0.25 3.248 -10.967 -0.25 3.906 -10.967 -0.25 3.989
 4 15 -12.341 -0.25 3.248 -12.229 -0.25 2.943 -10.955 -0.25 3.769 -10.967 -0.25 3.906

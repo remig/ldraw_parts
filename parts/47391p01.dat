@@ -1,13 +1,8 @@
 0 Figure Duplo Head Adult with Brown Eyes and Lopsided Open Mouth Pattern
 0 Name: 47391p01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\47391s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\47391s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\47391s02.dat
@@ -35,7 +30,6 @@
 3 16 0 -13.7978 -24.3859 0 -10.73 -24.1824 2.37 -10.7 -23.8789
 3 16 6.339326 -13.808241 -23.696951 2.37 -10.7 -23.8789 4.5 -10.86 -23.6332
 3 0 6.0256 -21.7512 -22.4866 5.7 -19.47 -22.8793 6.14535 -18.69665 -22.95215
-
 4 16 0 -13.7978 -24.3859 6.339326 -13.808241 -23.696951 6.14535 -18.69665 -22.95215 5.7 -19.47 -22.8793
 4 16 0 -21.7512 -23.1399 0 -13.7978 -24.3859 5.7 -19.47 -22.8793 6.0256 -21.7512 -22.4866
 4 16 6.0245 -29.63 -22.4825 6.0242 -31.6843 -22.4814 0 -31.6843 -23.1233 0 -21.7512 -23.1399

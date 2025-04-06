@@ -1,12 +1,14 @@
-0 Animal Serpent Basilisk Head with Pattern (MOCKUP)
+0 Animal Serpent Basilisk Head with Scales Pattern
 0 Name: 43746p01.dat
-0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !HELP Use the following coordinates for a complete head with eyes and teeth
+0 !HELP 1 46 34 9.5 -10 0 -1 0 1 0 0 0 0 1 6141.dat
+0 !HELP 1 46 -34 9.5 -10 0 1 0 1 0 0 0 0 -1 6141.dat
+0 !HELP 1 21 -10 -3.5 -45 1 0 0 0 -1 0 0 0 -1 44658.dat
+0 !HELP 1 21 10 -3.5 -45 1 0 0 0 -1 0 0 0 -1 44658.dat
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Harry Potter
-0 !CMDLINE -c378
-
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 43746.dat
+0 !KEYWORDS chamber of secrets, Harry Potter, set 4730, Snake
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43746s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43746p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\43746p01s01.dat

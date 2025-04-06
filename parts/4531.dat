@@ -1,20 +1,8 @@
 0 Hinge Tile  1 x  2 with 2 Fingers
 0 Name: 4531.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2004-08-02 [guyvivan] Made BFC compliant
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-07-15 [MMR1988] Add Bumps
-0 !HISTORY 2010-07-16 [MagFors] Primitive substitution
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 1 16 0 12 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 20 12 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT

@@ -1,13 +1,8 @@
 0 Technic Axle Joiner Double Flexible
 0 Name: 45590.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
 1 16 0 0 -10 1 0 0 0 0 -1 0 20 0 axlehole.dat
 1 16 20 0 -10 1 0 0 0 0 -1 0 20 0 axlehole.dat
 1 16 20 0 -10 1 0 0 0 0 -1 0 20 0 axlehol2.dat
@@ -76,4 +71,3 @@
 3 16 16.5557 8.3151 10 13.4443 6.3639 10 13.637 6.363 10
 3 16 13.637 -6.363 10 13.4443 -6.3639 10 16.5557 -8.3151 10
 3 16 3.4443 -8.3151 10 6.5557 -6.3639 10 6.363 -6.363 10
-0

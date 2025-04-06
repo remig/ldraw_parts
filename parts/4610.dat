@@ -1,18 +1,11 @@
 0 Fabuland Telephone Base
 0 Name: 4610.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Figure Accessory
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4610s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4610s01.dat
-
 4 16 1.2 -29.8261 -10.6685 -1.2 -29.8261 -10.6685 -1.9135 -28.5587 -12.4428 1.9135 -28.5587 -12.4428
 4 16 -1.2 -31.221 -8.7155 1.2 -31.221 -8.7155 4.1458 -31.6912 -8.0572 -4.1458 -31.6912 -8.0572
 3 16 0 -32.1704 -7.3864 -4.1458 -31.6912 -8.0572 4.1458 -31.6912 -8.0572
@@ -56,8 +49,6 @@
 4 16 15.2 -10 -25 16 -5 -26 -16 -5 -26 -15.2 -10 -25
 4 16 15.2 -10 -25 -15.2 -10 -25 -12 -30 3 12 -30 3
 2 24 -15.2 -10 -25 15.2 -10 -25
-
-0 // 1 16 20 -38 15 0 -40 0 4 0 0 0 0 4 s4-4cyli.dat
 0 BFC INVERTNEXT
 1 16 0 -30.5235 -9.692 1.2 0 0 0 0.81373 0.69749 0 0.58124 -0.97648 4-8sphe.dat
 1 16 0 -30.5235 -9.692 1.2 0 0 0 0.81373 0.69749 0 0.58124 -0.97648 4-4edge.dat

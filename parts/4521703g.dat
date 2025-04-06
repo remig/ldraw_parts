@@ -1,21 +1,13 @@
 0 Sticker  0.8 x  1.8 with Black "LE 0158" and Border
 0 Name: 4521703g.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-0 !HISTORY 2012-01-09 [cwdee] Corrected dimensions
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 1 16 0 -0.25 0 17.5 0 0 0 0.25 0 0 0 7.5 box5-12.dat
 4 0 -15.5 -0.25 -5.5 -15.5 -0.25 5.5 -17.5 -0.25 7.5 -17.5 -0.25 -7.5
 4 0 15.5 -0.25 5.5 15.5 -0.25 -5.5 17.5 -0.25 -7.5 17.5 -0.25 7.5
 4 0 15.5 -0.25 -5.5 -15.5 -0.25 -5.5 -17.5 -0.25 -7.5 17.5 -0.25 -7.5
 4 0 -15.5 -0.25 5.5 15.5 -0.25 5.5 17.5 -0.25 7.5 -17.5 -0.25 7.5
-0 //
 4 0 -13.1861 -0.25 2.8951 -13.1861 -0.25 -2.5 -12.4738 -0.25 -1.8624 -12.4738 -0.25 2.8951
 4 0 -12.4738 -0.25 -1.8624 -13.1861 -0.25 -2.5 -9.8156 -0.25 -2.5 -9.8156 -0.25 -1.8624
 4 0 -8.9501 -0.25 -2.5 -8.238 -0.25 -1.8624 -8.238 -0.25 -0.0281 -8.9501 -0.25 2.8951

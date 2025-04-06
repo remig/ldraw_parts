@@ -1,23 +1,10 @@
 0 Minifig Loudhailer
 0 Name: 4349.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS town, megaphone, cone, space gun, blaster, bullhorn
-
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2001-10-01 [pneaster] used existing primitives to enhance appearance
-0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [jriley] BFC compliancy (2003-06-08)
-0 !HISTORY 2008-07-08 [mikeheide] added edgelines (2007-11-02)
-0 !HISTORY 2008-07-09 [mikeheide] Corrected title (2008-03-01)
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
+0 !KEYWORDS Blaster, bullhorn, cone, megaphone, space gun, town
 1 16 0 0 18 0 0 -1 1 0 0 0 -1 0 stud2.dat
 1 16 0 20 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 0 18 7.104 0 0 0 0 7.104 0 1 0 4-4edge.dat
@@ -86,7 +73,6 @@
 1 16 0 0 -22 2 0 0 0 0 2 0 18 0 4-4con2.dat
 1 16 0 0 -22 2.5 0 0 0 0 2.5 0 1 0 4-4ring3.dat
 1 16 0 0 -22 1.5 0 0 0 0 1.5 0 1 0 4-4ring4.dat
-0
 2 24 3.70215 5.90586 1.5 3.79525 6.49892 1.03116
 2 24 3.70215 5.90586 1.5 3.696 5.9533 1.531
 2 24 4 6.76422 0 3.85108 6.86373 0.75
@@ -132,4 +118,3 @@
 2 24 3.7518 5.87268 -1.25 3.696 6.30272 -1.531
 2 24 3.84139 6.44346 -0.798775 3.90072 6.82123 -0.5
 2 24 3.7518 5.87268 -1.25 3.84139 6.44346 -0.798775
-0

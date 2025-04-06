@@ -1,19 +1,8 @@
 0 Plate  2 x  2 with 1 Wheel Pin
 0 Name: 4488.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [mkennedy] Made BFC Compliant and optimized (2003-07-10)
-0 !HISTORY 2008-07-08 [WilliamH] Used new wpin2a primitive (2006-06-26)
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2018-11-26 [cwdee] Update description
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 10 4 0 1 0 0 0 -3 0 0 0 1 stud3.dat
 1 16 -10 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT
@@ -66,4 +55,3 @@
 4 16 20 8.53 -3.53 20 8 -3.89 22 8 -3.89 22 8.53 -3.53
 1 16 22 5 0 0 -1 0 3.53 0 3.53 -3.53 0 3.53 1-4chrd.dat
 4 16 22 8.53 -3.53 22 8 -3.89 22 8 3.89 22 8.53 3.53
-0

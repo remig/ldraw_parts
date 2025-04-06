@@ -1,21 +1,9 @@
 0 Jack Lifter
 0 Name: 4627.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-
-0 !HISTORY 1997-10-29 [PTadmin] Official Update 1997-16
-0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-12-04 [anathema] Added !CATEGORY, optimised and BFC'd
-0 !HISTORY 2011-02-28 [Brickaneer] Round tip improved.
-0 !HISTORY 2015-05-31 [MMR1988] Fixed scaled 2D Prims, changed cyli+edge into cylo
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 0 0 -7 2.4 0 0 0 0 2.4 0 1 0 4-4cylc.dat
 1 16 0 0 7 2.4 0 0 0 0 2.4 0 -1 0 4-4cylc.dat
 1 16 -13 0 -6 0 0 -2.5 2.5 0 0 0 12 0 2-4cylc.dat

@@ -1,21 +1,9 @@
 0 Forklift Forks  4 x  6 (Needs Work)
 0 Name: 4517.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !CATEGORY Vehicle
-
-0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed (2006-01-18)
-0 !HISTORY 2008-07-08 [mikeheide] added needs work in title (2007-11-01)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
-0 // Needs work: Spring attachment
-
-
 2 24 -36 58 -8 -36 58 -94
 1 16 -34 58 -94 -2 0 0 0 1 0 0 0 -2 1-4edge.dat
 1 16 -22 58 -94 2 0 0 0 1 0 0 0 -2 1-4edge.dat
@@ -273,4 +261,3 @@
 1 16 -36 52 -18 0 1 0 2 0 0 0 0 2 1-4ndis.dat
 4 16 -36 58 -94 -36 54 -94 -36 54 -8 -36 58 -8
 4 16 -36 54 -16 -36 -4 -16 -36 -4 -12 -36 54 -12
-0

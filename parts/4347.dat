@@ -1,13 +1,8 @@
 0 ~Window  1 x  4 x  5 with Fixed Glass - Frame
 0 Name: 4347.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 20 116 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 0 116 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 -20 116 0 1 0 0 0 -1 0 0 0 1 stud3.dat
@@ -40,4 +35,3 @@
 1 16 0 58 -10 0 0 -32 -50 0 0 0 4 0 box4.dat
 2 24 -40 120 -10 40 120 -10
 2 24 -40 120 10 40 120 10
-0

@@ -1,17 +1,10 @@
 0 Sticker  5.9 x  1.9 with SW Death Star Wall Light Double Column
 0 Name: 4533401a.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS set 10188, Star Wars
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS Set 10188, Star Wars
 1 16 0 -0.25 0 17.5 0 0 0 0.25 0 0 0 60 box5-12.dat
-
 4 0 5.24028 -0.25 52.3 5.26175 -0.25 52.7371 4.46334 -0.25 52.8158 4.438 -0.25 52.3
 4 0 14.1382 -0.25 52.7371 14.1597 -0.25 52.3 14.962 -0.25 52.3 14.9367 -0.25 52.8158
 4 0 14.074 -0.25 53.17 14.1382 -0.25 52.7371 14.9367 -0.25 52.8158 14.8609 -0.25 53.3266

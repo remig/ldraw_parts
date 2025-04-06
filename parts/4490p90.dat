@@ -1,25 +1,15 @@
 0 Arch  1 x  3 with Classic Space Logo Pattern
 0 Name: 4490p90.dat
 0 Author: Christophe Mitillo [Christophe_Mitillo]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-10-24 [MagFors] Used subfile
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4490s01.dat
-0 // backside
 1 16 0 18 10 10 0 0 0 0 -10 0 -1 0 2-4ndis.dat
 4 16 -30 0 10 -10 8 10 -10 24 10 -30 24 10
 4 16 30 24 10 10 24 10 10 8 10 30 0 10
 4 16 30 0 10 10 8 10 -10 8 10 -30 0 10
-0 // sides
 4 16 -30 0 10 -30 24 10 -30 24 -10 -30 0 -10
 4 16 30 0 -10 30 24 -10 30 24 10 30 0 10
-
-0 // Pattern
 3 16 10 18 -10 10 24 -10 30 24 -10
 4 16 30 0 -10 9.239 14.173 -10 10 18 -10 30 24 -10
 3 16 30 0 -10 7.071 10.929 -10 9.239 14.173 -10

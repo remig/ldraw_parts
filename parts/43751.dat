@@ -1,17 +1,9 @@
 0 Minifig Hair Wavy
 0 Name: 43751.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-12-03 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 -1 stud4o.dat
 2 24 4.85 4.358 -12.16 6.919 4.223 -10.821
 2 24 1.392 3.792 -13.008 4.85 4.358 -12.16
@@ -1287,7 +1279,6 @@
 5 24 11.624 7.602 13.398 13.458 8.513 11.182 12.27 10.664 11.182 12.236 5.627 13.744
 5 24 14.753 5.733 10.604 15.403 7.785 7.574 13.458 8.513 11.182 16.176 5.019 7.917
 5 24 11.517 13.623 10.426 12.27 10.664 11.182 13.442 12.522 8.014 10.392 12.082 12.957
-0 // Added lines/Condlines
 5 24 6.883 1.644 -15.528 8.532 2.048 -13.499 7.571 -0.797 -15.76 8.398 3.803 -12.298
 5 24 8.532 2.048 -13.499 7.571 -0.797 -15.76 6.883 1.644 -15.528 8.382 -0.287 -13.12
 5 24 7.571 -0.797 -15.76 6.883 1.644 -15.528 8.532 2.048 -13.499 5.986 -0.587 -16.796

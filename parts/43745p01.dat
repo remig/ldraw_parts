@@ -1,22 +1,15 @@
 0 Minifig Head Elf with Green Eyes Pattern
 0 Name: 43745p01.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Dobby, Harry Potter
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43745s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\43745s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43745p01a.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\43745p01a.dat
 0 BFC INVERTNEXT
 1 16 0 -24 0 6 0 0 0 24 0 0 0 6 4-4cylc.dat
-0 // Middle Condlines
 5 24 0 -17.621 13.028 0 -16.61 12.722 -0.915 -17.339 12.873 0.915 -17.339 12.873
 5 24 0 -11.02 10.435 0 -10.678 10.392 -0.816 -10.925 10.463 0.816 -10.925 10.463
 5 24 0 -12.036 10.339 0 -11.02 10.435 -0.816 -10.925 10.463 0.816 -10.925 10.463

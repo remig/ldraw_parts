@@ -1,24 +1,16 @@
 0 Sticker  3.2 x 10.6 Trapezoid on Left Side with Wall and Hieroglyphs
 0 Name: 4613908b.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP place at 428.986 -35.65 -158.82 0 -0.96352 -0.26764 0 0.26764 -0.96352 1 0 0 on 51542.dat
-
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Pharaoh's Quest, Set 7327
 0 !CMDLINE -c28
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 4 16 98 0 -32.5 -115 0 -32.5 -98 0 32.5 98 0 32.5
 4 16 -98 0 32.5 -115 0 -32.5 -115 -0.25 -32.5 -98 -0.25 32.5
 4 16 -115 0 -32.5 98 0 -32.5 98 -0.25 -32.5 -115 -0.25 -32.5
 4 16 98 0 -32.5 98 0 32.5 98 -0.25 32.5 98 -0.25 -32.5
 4 16 98 0 32.5 -98 0 32.5 -98 -0.25 32.5 98 -0.25 32.5
-0 // pattern
 4 72 -4.68 -0.25 -6.9 -4.64 -0.25 -7.93 -4.2 -0.25 -7.45 -4.16 -0.25 -6.82
 4 72 -4.2 -0.25 -6.03 -4.68 -0.25 -6.9 -4.16 -0.25 -6.82 -3.41 -0.25 -6.11
 4 72 -3.01 -0.25 -5.27 -4.2 -0.25 -6.03 -3.41 -0.25 -6.11 -1.74 -0.25 -5.11

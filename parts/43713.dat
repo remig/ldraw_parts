@@ -1,14 +1,8 @@
 0 Wedge  6 x  4 Triple Curved Inverted
 0 Name: 43713.dat
 0 Author: John Riley [jriley]
-0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-11-02 [mikeheide] rotated 180 degree; changed name; changed 2 edgelines to optional lines
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 2 24 -20 0 20 -40 0 20
 2 24 -40 0 -20 -20 0 -100
 2 24 20 0 20 40 0 20
@@ -338,4 +332,3 @@
 5 24 20 14.8516 -76.5685 -20 14.8516 -76.5685 20 11.6509 -84.8928 20 17.6023 -67.8138
 5 24 20 11.6509 -84.8928 -20 11.6509 -84.8928 20 8.0245 -92.7231 20 14.8516 -76.5685
 5 24 20 8.0245 -92.7231 -20 8.0245 -92.7231 20 4 -100 20 11.6509 -84.8928
-0

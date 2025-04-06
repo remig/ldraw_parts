@@ -1,17 +1,9 @@
 0 Sticker Tail Right with Red "J" on White
 0 Name: 4297014d.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Batman, Joker
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-0 !HISTORY 2016-07-01 [cwdee] Updated description
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 4 15 -55 -0.25 38 -42.75 -0.25 26 -14.5 -0.25 26 -21 -0.25 38
 3 4 -42.75 -0.25 26 -25 -0.25 22.5 -14.5 -0.25 26
 3 4 -42.75 -0.25 26 -40 -0.25 22 -25 -0.25 22.5
@@ -82,10 +74,8 @@
 4 15 -17.5 -0.25 20 -17.25 -0.25 18.25 -15.5 -0.25 15.5 -17.25 -0.25 21
 4 15 -11.25 -0.25 22 -15.75 -0.25 21.75 -17.25 -0.25 21 -15.5 -0.25 15.5
 4 15 -11.25 -0.25 22 -15.5 -0.25 15.5 12.5 -0.25 -20.25 55 -0.25 -38
-0
 0 Pattern created wholly or in part by Quad2Dat
 0 Thanks James
-0
 4 15 2 0 -38 -17 0 -30 -55 0 38 -21 0 38
 3 15 2 0 -38 -21 0 38 55 0 -38
 4 15 55 0 -38 -21 0 38 -21 -0.25 38 55 -0.25 -38
@@ -93,4 +83,3 @@
 4 15 -17 -0.25 -30 -55 -0.25 38 -55 0 38 -17 0 -30
 4 15 -17 0 -30 2 0 -38 2 -0.25 -38 -17 -0.25 -30
 4 15 -21 0 38 -55 0 38 -55 -0.25 38 -21 -0.25 38
-0

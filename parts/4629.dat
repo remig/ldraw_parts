@@ -1,27 +1,13 @@
 0 Jack Base
 0 Name: 4629.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP (lifter = 4627, handle = 4628, base = 4629)
 0 !HELP hole for lifter: -25 -10.5 0
 0 !HELP hole for handle: -35 -15.5 0
 0 !HELP Examples: see files 4629c01(lowered) and 4629c02(raised)
-
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-
-0 !HISTORY 1997-10-29 [PTadmin] Official Update 1997-16
-0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-12-04 [anathema] Added !CATEGORY, BFC'd
-0 !HISTORY 2010-12-27 [MagFors] Reduced filesize, closed some gaps, edited HELP-info
-0 !HISTORY 2013-08-30 [MagFors] Reduced innerheight for lifter clearance
-0 !HISTORY 2015-11-17 [BlackBrick89] Corrected flat scaled 2D primitives
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 2 24 -45 0 -10 -33 0 -10
 2 24 -17 0 -10 38 0 -10
 2 24 -17 0 10 38 0 10
