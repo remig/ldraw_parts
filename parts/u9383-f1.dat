@@ -1,11 +1,8 @@
 0 ~Constraction Ball Cannon Spring (Relaxed)
 0 Name: u9383-f1.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 2 24 15 4 0 13.858 4.976 5.74
 2 24 16 3 0 14.782 3.976 6.123
 2 24 15 2 0 13.858 2.976 5.74

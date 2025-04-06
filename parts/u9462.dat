@@ -1,11 +1,9 @@
-0 ~Electric Spike Prime Force Sensor Button
+0 Electric Powered Up Force Sensor Button
 0 Name: u9462.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
+0 !KEYWORDS Spike Prime
 5 24 6 0 0 6 0 20 5.602 -2 0 5.602 2 0
 5 24 -6 0 0 -6 0 20 -5.602 2 0 -5.602 -2 0
 4 16 5.602 -2 0 5.602 -2 20 6 0 20 6 0 0

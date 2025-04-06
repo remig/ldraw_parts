@@ -1,10 +1,8 @@
-0 ~Electric Spike Prime Hub On Button
+0 ~Electric Powered Up 6 Port Hub On Button
 0 Name: u9396.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
+0 !KEYWORDS Mindstorms, Robotic Inventor, Spike Prime
 1 16 0 0 0 17.25 0 0 0 2 0 0 0 17.25 48\4-4cylc.dat
 1 16 0 2 0 17.25 0 0 0 -2 0 0 0 17.25 48\4-4disc.dat

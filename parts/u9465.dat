@@ -1,11 +1,9 @@
-0 ~Electric Spike Prime Distance Sensor Lighting Ring
+0 ~Electric Powered Up Distance Sensor Lighting Ring
 0 Name: u9465.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
+0 !KEYWORDS Mindstorms, Robot Inventor, Spike Prime
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9465s01.dat
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\u9465s02.dat
 1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\u9465s01.dat

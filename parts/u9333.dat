@@ -1,13 +1,8 @@
 0 ~Electric Power Functions Pole Reverser Top without Secondary Inverter (Needs Work)
 0 Name: u9333.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 // Needs Work: Inner surface not modelled
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9333s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u9333s01.dat
 1 16 0 0 40 0 0 -1 0 1 0 1 0 0 s\58124s01.dat
@@ -35,6 +30,5 @@
 5 24 -10 -10 -29 10 -10 -29 10 -5 -38 10 -12.5 -23
 5 24 -10 -12.5 -23 10 -12.5 -23 10 -14.5 -17 10 -10 -29
 5 24 -10 -14.5 -17 10 -14.5 -17 4 -15.25 -14 10 -12.5 -23
-0 // The two following quads are there to avoid see inside when the switch is tilted
 4 0 16 -6 10 16 -6 16 -16 -6 16 -16 -6 10
 4 0 16 -6 -21 16 -6 -10 -16 -6 -10 -16 -6 -21

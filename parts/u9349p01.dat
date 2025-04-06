@@ -1,22 +1,14 @@
 0 ~Minifig Compass Dial with Fleur de Lis Pattern
 0 Name: u9349p01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS Pirates, Armada, 24-point, windrose
-
-0 // This is lego designID 70925
-0 // It is unclear if it is an assembly or a printed part
-
+0 !KEYWORDS 24-point, Armada, Pirates, windrose
 1 6 0 -10 0 1 0 0 0 -6 0 0 0 1 4-4con4.dat
 1 6 0 -10 0 5 0 0 0 -1 0 0 0 5 4-4edge.dat
 1 6 0 -16 0 4 0 0 0 -1 0 0 0 4 4-4edge.dat
 1 6 0 -16 0 4 0 0 0 1 0 0 0 -4 4-4disc.dat
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9349s01.dat
-0 // top surface
 3 0 -10.13 -10 -1.33 -10.73 -10 -1.83 -10.1 -10 -1.49
 3 0 -10.04 -10 -1.6 -10.73 -10 -1.83 -9.96 -10 -1.66
 3 0 -9.96 -10 -1.66 -10.73 -10 -1.83 -9.84 -10 -1.68

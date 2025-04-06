@@ -1,22 +1,8 @@
 0 Technic Shock Absorber  9L Spring Soft (Extended)
 0 Name: u9409-f1.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-04-02 [tchang] Add BFC statement
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-0 !HISTORY 2017-12-22 [Philo] Corrected number of turns, wire winding and origin
-0 !HISTORY 2017-12-22 [PTadmin] Renamed from 110
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // Created with spring2dat H=94 R=12 D=24 S=2 T=2 B=2
-
 2 24 -12 4 0 -11.0866 4.4896 4.5922
 2 24 -13 3 0 -12.0104 3.4896 4.9749
 2 24 -12 2 0 -11.0866 2.4896 4.5922

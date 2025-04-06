@@ -1,15 +1,8 @@
 0 Technic Shock Absorber  9L Spring Extra Hard (Compressed)
 0 Name: u9411-f2.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // Created with spring2dat H=54 R=5 D=24 S=2 T=2 B=2
-
 2 24 -12 4 0 -11.0866 4.675 4.5922
 2 24 -13 3 0 -12.0104 3.675 4.9749
 2 24 -12 2 0 -11.0866 2.675 4.5922
