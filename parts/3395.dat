@@ -1,0 +1,7 @@
+0 Tile  2 x  4 Inverted with Groove
+0 Name: 3395.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3395s01.dat
+4 16 -40 8 -20 -40 8 20 40 8 20 40 8 -20

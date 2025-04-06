@@ -1,0 +1,18 @@
+0 Tile  1 x  1 with TV Logo on Blue Background Pattern
+0 Name: 3070bp1k.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CW
+0 !KEYWORDS 6553, Cameraman, Crisis, helicopter, News, Reporter, television, van
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
+0 Subpart TV Logo Pattern
+1 1 0 0 0 0.343 0 0 0 1 0 0 0 0.343 s\71472s01.dat
+0 Border
+4 1 -9.5 0 9.5 9.5 0 9.5 7.098 0 6.313 -7.098 0 6.313
+4 1 -9.5 0 -9.5 -9.5 0 9.5 -7.098 0 6.313 -7.098 0 -6.313
+4 1 9.5 0 -9.5 -9.5 0 -9.5 -7.098 0 -6.313 7.098 0 -6.313
+4 1 9.5 0 9.5 9.5 0 -9.5 7.098 0 -6.313 7.098 0 6.313
+4 16 -10 0 10 10 0 10 9.5 0 9.5 -9.5 0 9.5
+4 16 -10 0 -10 -10 0 10 -9.5 0 9.5 -9.5 0 -9.5
+4 16 10 0 -10 -10 0 -10 -9.5 0 -9.5 9.5 0 -9.5
+4 16 10 0 10 10 0 -10 9.5 0 -9.5 9.5 0 9.5

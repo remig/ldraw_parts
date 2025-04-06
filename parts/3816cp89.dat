@@ -1,0 +1,12 @@
+0 Minifig Leg Right with White Apron Pattern
+0 Name: 3816cp89.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !HELP Move down 12 units to align with hips
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 3816cp89.dat
+0 !HELP 1 16 0 28 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+0 BFC CERTIFY CCW
+0 !KEYWORDS BrickLink 970c00pb0297, Brickowl 406093, Ned Flanders
+0 !KEYWORDS Rebrickable 970c12pr0633, Set 71006, The Simpsons
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 3817cp89.dat

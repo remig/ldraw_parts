@@ -1,0 +1,9 @@
+0 Train Battery Box Car with Two Contact Holes, Red Switch Lever, Red Wheels and Magnets (Complete)
+0 Name: 3443ac02.dat
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS Bricklink 3443c10, set 180, set 181, set 182, set 183
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3443ac01.dat
+1 1 0 134 -100 0 0 1 0 1 0 -1 0 0 735.dat
+1 4 0 134 100 0 0 -1 0 1 0 1 0 0 735.dat
