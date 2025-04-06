@@ -1,18 +1,11 @@
 0 Minifig Torso with Dress and Red Beads Necklace Pattern
 0 Name: 973pd13.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS The Simpsons, Marge, Simpson, set 6059283, set 71005
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !KEYWORDS Marge, Set 6059283, Set 71005, Simpson, The Simpsons
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // front
 4 4 -0.5102 3.3 -10 -0.683 2.6551 -10 -1.8 3.3 -10 -0.683 3.9449 -10
 4 4 -1.1551 4.417 -10 -0.683 3.9449 -10 -1.8 3.3 -10 -1.8 4.5898 -10
 4 4 -2.4449 4.417 -10 -1.8 4.5898 -10 -1.8 3.3 -10 -2.917 3.9449 -10
@@ -237,7 +230,6 @@
 3 10 -17.8 28.9 -10 -17.05 26.8 -10 -14.9 12.6 -10
 3 10 -17.05 26.8 -10 -16.35 25.7 -10 -14.9 12.6 -10
 3 10 -16.35 25.7 -10 -15.1 24.25 -10 -14.9 12.6 -10
-0 // back
 4 4 0.5102 3.3 10 0.683 2.6551 10 1.8 3.3 10 0.683 3.9449 10
 4 4 1.1551 4.417 10 0.683 3.9449 10 1.8 3.3 10 1.8 4.5898 10
 4 4 2.4449 4.417 10 1.8 4.5898 10 1.8 3.3 10 2.917 3.9449 10

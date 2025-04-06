@@ -1,25 +1,17 @@
 0 Minifig Torso with Sweater V-Neck over Light Blue Shirt Pattern
 0 Name: 973p94.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS 973pb0708
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 1 16 0 0 -10 1 0 0 0 1 0 0 0 1 s\973p94s01.dat
 1 16 0 0 -10 -1 0 0 0 1 0 0 0 1 s\973p94s01.dat
 1 16 0 0 10 -1 0 0 0 1 0 0 0 -1 s\973p94s01.dat
 1 16 0 0 10 1 0 0 0 1 0 0 0 -1 s\973p94s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\973p94s02.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\973p94s02.dat
-
 4 0 -8.9 1.75 -10 -9 0.8 -10 -9.95 0.8 -10 -9.55 2.05 -10
 4 0 -8.7 2.3 -10 -8.9 1.75 -10 -9.55 2.05 -10 -9.05 3.15 -10
 4 0 -8.2 3.35 -10 -9.05 3.15 -10 -8.5 4.25 -10 -7.55 4.6 -10

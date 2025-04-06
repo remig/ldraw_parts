@@ -1,18 +1,10 @@
 0 Figure Friends Dish Rectangular
 0 Name: 97785.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Kitchen, Cookware, Meal, 93082
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-03-01 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !KEYWORDS 93082, Cookware, Kitchen, Meal
 3 16 -16.724 -7 10.65 -16.678 -5.7 10.744 -17.452 -7 6.285
 3 16 -17.452 -5.7 6.245 -17.452 -7 6.285 -16.678 -5.7 10.744
 3 16 -13.796 -7 13.88 -13.715 -5.7 13.928 -16.724 -7 10.65
@@ -369,7 +361,6 @@
 4 16 -13.185 0 -9.184 13.185 0 -9.184 13.612 0 -6.506 -13.612 0 -6.506
 4 16 -11.91 0 -10.554 11.91 0 -10.554 13.185 0 -9.184 -13.185 0 -9.184
 4 16 -10.202 0 -11.099 10.202 0 -11.099 11.91 0 -10.554 -11.91 0 -10.554
-0 // Added lines/Condlines
 5 24 -16.724 -7 10.65 -16.678 -5.7 10.744 -17.452 -7 6.285 -13.715 -5.7 13.928
 5 24 -16.678 -5.7 10.744 -17.452 -7 6.285 -16.724 -7 10.65 -17.452 -5.7 6.245
 5 24 -17.452 -5.7 6.245 -17.452 -7 6.285 -16.678 -5.7 10.744 -17.452 -7 -6.285

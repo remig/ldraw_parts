@@ -1,20 +1,12 @@
 0 Minifig Torso with Bandage and Gold Necklace Pattern
 0 Name: 973pq0.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Pharaoh's Quest, Mummy Warrior
+0 !KEYWORDS Mummy Warrior, Pharaoh's Quest
 0 !CMDLINE -c71
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neck mark
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // front pattern
 4 0 -11.015 10.095 -10 -10.66 10.46 -10 -10.21 10.085 -10 -10.66 9.625 -10
 4 0 -10.66 10.46 -10 -10.085 10.94 -10 -9.69 10.555 -10 -10.21 10.085 -10
 4 0 -10.085 10.94 -10 -9.37 11.49 -10 -9.055 11.055 -10 -9.69 10.555 -10
@@ -873,7 +865,6 @@
 4 16 -14.6 31.5 -10 -7.485 30.945 -10 -7.67 30.83 -10 -11.945 30.505 -10
 4 16 1.25 31.18 -10 3.79 30.265 -10 -3.095 29.565 -10 -7.485 30.945 -10
 3 16 -7.67 30.83 -10 -8.425 29.33 -10 -11.945 30.505 -10
-0 // back pattern
 4 0 11.015 10.095 10 10.66 10.46 10 10.21 10.085 10 10.66 9.625 10
 4 0 10.66 10.46 10 10.085 10.94 10 9.69 10.555 10 10.21 10.085 10
 4 0 10.085 10.94 10 9.37 11.49 10 9.055 11.055 10 9.69 10.555 10

@@ -1,30 +1,13 @@
 0 Minifig Torso with Classic Space Pattern
 0 Name: 973p90.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2000-05-07 [PTadmin]    Official Update 2000-01
-0 !HISTORY 2000-11-05 [cwdee]      Moved neck mark from s\973s01.dat
-0 !HISTORY 2001-10-26 [PTadmin]    Official Update 2001-01
-0 !HISTORY 2002-07-15 [Holly-Wood] refined pattern
-0 !HISTORY 2002-08-18 [PTadmin]    Official Update 2002-04
-0 !HISTORY 2007-07-29 [PTadmin]    Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin]    Official Update 2008-01
-0 !HISTORY 2013-08-07 [Steffen]    BFCed, inlined subpart, changed gold color to 82
-0 !HISTORY 2013-11-30 [MagFors]    Removed T-junctions
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neck Mark
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Plain Back
 4 16 -19 32 10 19 32 10 19 29 10 -19 29 10
 4 16 -19 29 10 19 29 10 14.345 2 10 -14.345 2 10
 4 16 12 0 10 -12 0 10 -14.345 2 10 14.345 2 10
-0 // Main Color
 4 16 -14.345 2 -10 -12 0 -10 12 0 -10 14.354 2 -10
 3 16 14.354 2 -10 11.716 6.971 -10 11.289 6.597 -10
 4 16 14.354 2 -10 19 29 -10 11.773 7.525 -10 11.716 6.971 -10

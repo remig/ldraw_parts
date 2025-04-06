@@ -1,20 +1,12 @@
 0 Minifig Torso with Waistcoat, White Shirt and Bandolier Pattern
 0 Name: 973pq3.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Pharaoh's Quest, Jake Raines
+0 !KEYWORDS Jake Raines, Pharaoh's Quest
 0 !CMDLINE -c19
-
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neck mark
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // front pattern
 1 80 0.79 28.15 -10 0 0 -0.46 -0.46 0 0 0 1 0 2-4disc.dat
 1 80 2.64 28.15 -10 0 0 0.46 0.46 0 0 0 1 0 2-4disc.dat
 4 80 -10.05 5.05 -10 -10.571 4.749 -10 -10.651 5.05 -10 -10.571 5.351 -10
@@ -1953,7 +1945,6 @@
 4 16 9.429 11.618 -10 8.29 12.617 -10 8.32 13.029 -10 9.67 12.59 -10
 3 16 9.707 11.533 -10 9.429 11.618 -10 9.67 12.59 -10
 3 16 9.988 11.325 -10 9.707 11.533 -10 9.67 12.59 -10
-0 // rear pattern
 4 0 2.059 10.009 10 1.908 10.479 10 1.522 10.268 10 1.53 9.739 10
 4 0 1.53 9.739 10 1.522 10.268 10 0.989 10.193 10 0.935 9.677 10
 4 0 0.935 9.677 10 0.989 10.193 10 0.5 10.342 10 0.396 9.828 10

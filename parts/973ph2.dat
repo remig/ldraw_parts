@@ -1,39 +1,22 @@
 0 Minifig Torso with Slytherin Uniform Pattern
 0 Name: 973ph2.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Harry Potter, Hogwarts School of Witchcraft and Wizardry
-0 !KEYWORDS Slytherin House, Salazar Slytherin, Snake, Green and Silver
-0 !KEYWORDS Draco Malfoy, Vincent Crabbe, Gregory Goyle, Tom Riddle
-
+0 !KEYWORDS Draco Malfoy, Green and Silver, Gregory Goyle, Harry Potter
+0 !KEYWORDS Hogwarts School of Witchcraft and Wizardry, Salazar Slytherin
+0 !KEYWORDS Slytherin House, Snake, Tom Riddle, Vincent Crabbe
 0 !CMDLINE -c7
-
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2012-04-08 [BlackBrick89] Colour cleanup
-0 !HISTORY 2013-12-03 [MagFors] Corrected overlapping quads
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // Torso
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -19 32 10 -19 29 10 19 29 10 19 32 10
-1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.DAT
-0 // Pattern
-0 // Shirt and Sweater details
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973ph0a.dat
-0 // Tie and Crest - Silver Detail
 1 80 0 0 0 1 0 0 0 1 0 0 0 1 s\973ph2a.dat
-0 // Tie
 3 2 1.4 2 -10 1.75 5.5 -10 2.75 3.25 -10
 4 2 -1.05 4.5 -10 -0.75 5.5 -10 1.75 5.5 -10 1.4 2 -10
 4 2 -1.75 9.25 -10 -0.5 10.5 -10 2.325 7.25 -10 1.75 6.25 -10
-0 // Crest
 4 2 11.5 22 -10 12 22 -10 12 21.5 -10 11.5 21.5 -10
 4 2 11.25 22.5 -10 11 23 -10 12 23 -10 12 22.5 -10
 4 2 10.75 22.25 -10 10 22.5 -10 11 23 -10 11.25 22.5 -10
@@ -62,7 +45,6 @@
 4 2 15 21 -10 13 19.5 -10 12.75 20 -10 12.75 21.5 -10
 3 2 13 19.5 -10 15 21 -10 13.75 18.5 -10
 4 2 13 15.5 -10 13.75 18.5 -10 15 21 -10 15 16.5 -10
-0 // Sweater
 4 2 -8.25 3.5 -10 -9.25 0.75 -10 -10.25 0.75 -10 -9.25 3.5 -10
 4 2 3 10.75 -10 0 14 -10 0 15.25 -10 3.5 12 -10
 4 2 5.25 8 -10 3 10.75 -10 3.5 12 -10 6 8.5 -10

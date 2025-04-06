@@ -1,24 +1,14 @@
 0 Minifig Torso with Stethoscope and Pocket with Pens Pattern
 0 Name: 973p86.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS Doctor, Physician, Hospital
-
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2012-04-08 [BlackBrick89] Colour cleanup
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
+0 !KEYWORDS doctor, Hospital, Physician
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // COMMENT neck mark
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // COMMENT plain back
 4 16 -19 32 10 -19 29 10 19 29 10 19 32 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
 4 16 12 0 10 14.345 2 10 -14.345 2 10 -12 0 10
-0 // COMMENT front pattern
 3 0 -12.3 11 -10 -13.9 11.4 -10 -12.1 11.9 -10
 4 0 -12.3 11 -10 -14.6 10.7 -10 -14.7 10.9 -10 -13.9 11.4 -10
 4 0 -11.4 7.5 -10 -12.7 7.8 -10 -12.3 11 -10 -10.9 11.1 -10

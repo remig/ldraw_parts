@@ -1,13 +1,9 @@
-0 Minifig Torso with SW Blast Armor (Green Plates) Bl.Grey Pattern
+0 Minifig Torso with SW Blast Armour (Green Plates) Bl.Grey Pattern
 0 Name: 973prb.dat
 0 Author: Daniel Goerner [TK-949]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !KEYWORDS Armor
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973psbs01.dat
@@ -16,7 +12,6 @@
 1 2 0 0 0 -1 0 0 0 1 0 0 0 1 s\973psbs03.dat
 4 2 -8.3 25.6 -10 -10.7 25.6 -10 -10.7 27.8 -10 -8.3 27.8 -10
 4 2 8.3 27.8 -10 10.7 27.8 -10 10.7 25.6 -10 8.3 25.6 -10
-
 4 4 8.87 8.03 -10 5.78 8.03 -10 5.78 8.72 -10 8.87 8.72 -10
 3 0 9.55 9.4 -10 8.87 8.72 -10 5.78 8.72 -10
 4 0 5.78 8.03 -10 5.1 8.03 -10 5.1 8.72 -10 5.78 8.72 -10

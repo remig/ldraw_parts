@@ -1,19 +1,11 @@
 0 Minifig Torso with White/Yellow/Orange Racesuit Pattern
 0 Name: 973p95.dat
 0 Author: Johann Eisner [technicbasics]
-0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS set 60180, monster truck
-
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
+0 !KEYWORDS monster truck, set 60180
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neck mark
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Plain front
 4 0 -11.25 26.25 -10 -14 25.4 -10 -14 27 -10 -10.5 27 -10
 4 0 -11.25 23.25 -10 -11.25 26.25 -10 -10.5 27 -10 -10.5 20.5 -10
 4 15 -14 25.4 -10 -11.25 26.25 -10 -11.25 23.25 -10 -14 22.55 -10
@@ -219,7 +211,6 @@
 3 16 -5.15 .55 -10 -3.35 .85 -10 -3.5 .7 -10
 3 16 -5.15 .55 -10 2.3 3.15 -10 -3.35 .85 -10
 4 16 -2.95 .9 -10 -3.35 .85 -10 2.3 3.15 -10 2.6 2.95 -10
-0 // Plain back
 4 0 11.25 26.25 10 14 25.4 10 14 27 10 10.5 27 10
 4 0 11.25 23.25 10 11.25 26.25 10 10.5 27 10 10.5 20.5 10
 4 15 14 25.4 10 11.25 26.25 10 11.25 23.25 10 14 22.55 10

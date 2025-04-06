@@ -1,18 +1,11 @@
 0 Minifig Torso with Medium Blue Trim and Flowers Pattern
 0 Name: 973p96.dat
 0 Author: Johann Eisner [technicbasics]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Halterneck, halter top, two pink flowers, blue ribbon bow
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
+0 !KEYWORDS blue ribbon bow, halter top, Halterneck, two pink flowers
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Plane front
 4 14 -9.3 7.7 -10 -10.25 7.307 -10 -10.328 7.7 -10 -10.25 8.093 -10
 4 14 -9.3 7.7 -10 -10.25 8.093 -10 -10.027 8.427 -10 -9.693 8.65 -10
 4 14 -9.3 7.7 -10 -9.693 8.65 -10 -9.3 8.728 -10 -8.907 8.65 -10
@@ -740,7 +733,6 @@
 3 16 12.252 28.798 -10 12.9 29.7 -10 13.5 29.5 -10
 3 0 -2.35 8.6 -10 -2.861 8.6 -10 -2.533 8.854 -10
 3 0 -2.4 8 -10 -2.35 8.6 -10 -1.9 8.05 -10
-0 // Plane back
 4 73 7.211 1.171 10 6.911 .692 10 10.07 .7 10 9.72 1.1 10
 4 73 7.211 1.171 10 9.72 1.1 10 9.37 1.5 10 6.78 1.482 10
 4 73 6.78 1.482 10 9.37 1.5 10 8.82 1.9 10 6.349 1.793 10

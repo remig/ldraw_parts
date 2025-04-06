@@ -1,17 +1,10 @@
 0 Minifig Torso Riddler Black Question Mark on Chest and Back and Lavender Belt Pattern
 0 Name: 973pbn.dat
 0 Author: Heiko Jelnikar [KlotzKiste]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.24 0 -4.24 0 -8 0 -4.24 0 -4.24 1-4cyli.dat
-
-0 // FRONT
 4 0 0.04 20.14 -10 -1.27 19.6 -10 -1.38 20.14 -10 -1.27 20.68 -10
 4 0 0.04 20.14 -10 -1.27 20.68 -10 -0.97 21.14 -10 -0.5 21.45 -10
 4 0 0.04 20.14 -10 -0.5 21.45 -10 0.04 21.56 -10 0.58 21.45 -10
@@ -273,8 +266,6 @@
 3 16 -17.31 19.19 -10 -17.15 24.36 -10 -14.69 24.34 -10
 4 16 -6.62 13.6 -10 -14.69 24.34 -10 -12.01 24.27 -10 -9.35 24.09 -10
 4 16 -6.62 13.6 -10 -9.35 24.09 -10 -6.17 23.7 -10 -3.59 23.28 -10
-
-0 // BACK
 4 0 -0.04 20.14 10 1.27 19.59 10 1.38 20.14 10 1.27 20.68 10
 4 0 -0.04 20.14 10 1.27 20.68 10 0.97 21.14 10 0.5 21.45 10
 4 0 -0.04 20.14 10 0.5 21.45 10 -0.04 21.56 10 -0.58 21.45 10

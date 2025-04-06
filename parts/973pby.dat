@@ -1,17 +1,11 @@
 0 Minifig Torso with Red Straps and Belt, Yellow Clasps and Cord and Muscles Outline Pattern
 0 Name: 973pby.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS DC, Super Heroes, Martian Manhunter, Justice League, set 76040
-
+0 !KEYWORDS DC, Justice League, Martian Manhunter, set 76040, Super Heroes
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 71 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // back
 4 4 3.636 11.717 10 4.848 12.525 10 2.99 16.323 10 0 14.303 10
 4 4 7.111 4.04 10 9.939 1.778 10 12.929 4.04 10 10.182 6.465 10
 3 4 -10.99 .727 10 -13.892 3.153 10 -12.364 .808 10
@@ -255,8 +249,6 @@
 3 16 19 32 10 18.747 31.677 10 18.747 30.545 10
 3 16 -10.02 .727 10 -9.293 .848 10 -9.778 .97 10
 3 288 -10.246 12.673 10 -9.015 12.461 10 -8.323 12.889 10
-
-0 // front
 4 16 19 32 -10 18.828 31.677 -10 -18.909 31.677 -10 -19 32 -10
 4 0 -3.345 29.059 -10 -3.539 27.921 -10 -4.17 27.441 -10 -4.177 28.472 -10
 3 4 -3.879 16.889 -10 -9.778 15.515 -10 -6.949 18.828 -10

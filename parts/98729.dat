@@ -1,21 +1,13 @@
 0 Minifig Headdress Catwoman
 0 Name: 98729.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !CATEGORY Minifig Headwear
-
-0 !HISTORY 2012-04-21 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2012-04-21 [MagFors] File preparation for LDraw Parts Tracker
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98729s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\98729s01.dat
 1 16 0 -4 0 6 0 0 0 -1 0 0 0 -6 4-4disc.dat
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
-0 //
 2 24 0 13.887 -13 0 13.582 -16
 5 24 0 -1.042 -11.329 0 4.078 -13 -5.419 4.078 -11.667 5.419 4.078 -11.667
 5 24 0 4.078 13 0 -1.042 11.328 -5.08 -1.059 9.957 5.08 -1.059 9.957

@@ -1,23 +1,15 @@
 0 Minifig Torso with MBA Level 2 Logo Pattern
 0 Name: 973pt1.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Master Builder Academy
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Master Builder Academy Main Pattern
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973pt0a.dat
-0 // Level 2 Pattern
 3 191 13.25 6.2 -10 13.1 7.1 -10 13.3 7.25 -10
 4 191 13.3 7.25 -10 13.1 7.1 -10 12.95 7.9 -10 13.3 8.05 -10
 4 191 13.3 8.05 -10 12.95 7.9 -10 12.7 8.6 -10 13.1 9 -10
@@ -114,4 +106,3 @@
 4 16 -1.799 24.4 -10 -0.4 24.05 -10 -0.6 23.8 -10 -1.662 23.712 -10
 4 16 -1.272 23.128 -10 -1.662 23.712 -10 -0.6 23.8 -10 -0.45 23.35 -10
 3 16 -0.688 22.738 -10 -1.272 23.128 -10 -0.45 23.35 -10
-0

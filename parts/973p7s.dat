@@ -1,22 +1,15 @@
 0 Minifig Torso with Prisoner and "50380" Pattern
 0 Name: 973p7s.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CMDLINE -c15
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973p7sa.dat
-0 //
 4 16 -13.0586 12.7975 -10 -13.6481 12.5699 -10 -13.5597 12.8394 -10 -13.1035 12.8521 -10
 4 16 -12.9631 12.674 -10 -13.2686 12.1748 -10 -13.5402 12.2876 -10 -13.0586 12.7975 -10
 3 16 -13.5256 11.7964 -10 -13.4955 11.8732 -10 -13.4128 11.9014 -10

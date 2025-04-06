@@ -1,23 +1,15 @@
 0 Minifig Torso with Classic Space Simulated Wear Pattern
 0 Name: 973p91.dat
 0 Author: Christophe Mitillo [Christophe_Mitillo]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS BrickLink 973pb1652, Benny
+0 !KEYWORDS Benny, BrickLink 973pb1652
 0 !CMDLINE -c1
-
-0 !HISTORY 2015-10-25 [MagFors] Minor improvements
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 4 15 -13.4 14.7 -10 -13.6 14.5 -10 -13.8 14.5 -10 -13.4 15.1 -10
 4 15 -13.4 15.1 -10 -13.8 14.5 -10 -14.1 14.7 -10 -14.4 15.1 -10
 4 15 -13.4 15.1 -10 -14.4 15.1 -10 -14.4 15.6 -10 -14.2 16 -10

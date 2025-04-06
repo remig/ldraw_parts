@@ -1,24 +1,14 @@
 0 Minifig Torso with Jacket over Medium Blue Skin and Light Blue Waist Pattern
 0 Name: 973pd1d.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS The Simpsons, Itchy, Simpson, set 71005
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 !KEYWORDS Itchy, Set 71005, Simpson, The Simpsons
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Back
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
-
-0 // Front
 4 16 -11.429 .327 -10 -12 0 -10 -14.345 2 -10 -11.265 .653 -10
 4 16 -11.429 .327 -10 -8.49 .327 -10 12 0 -10 -12 0 -10
 4 0 -11.429 .327 -10 -11.265 .653 -10 -9.143 1.143 -10 -8.49 .327 -10

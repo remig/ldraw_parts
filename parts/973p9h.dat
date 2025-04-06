@@ -1,16 +1,11 @@
 0 Minifig Torso with Pinstripe Vest, Red Tie and Pocket Watch Pattern
 0 Name: 973p9h.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS 973pb1183
-
+0 !KEYWORDS 2-sided, Bricklink 973pb1183
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Front
 4 0 -15.35 16.8 -10 -16.5 17.75 -10 -16.1 18.3 -10 -15.2 17.65 -10
 4 0 -14.7 16.15 -10 -15.35 16.8 -10 -14.35 16.8 -10 -13.75 16.1 -10
 4 0 -14.2 15.55 -10 -14.7 16.15 -10 -13.75 16.1 -10 -13.45 15.5 -10
@@ -1392,7 +1387,6 @@
 3 0 2.35 28.95 -10 2.77966 29.57034 -10 3.05 29.3 -10
 3 0 0.15 25.63 -10 0.15 26.39634 -10 0.4087 25.68146 -10
 3 0 0.4087 25.68146 -10 0.15 26.39634 -10 0.65514 25.73048 -10
-0 // Back
 4 0 14.2 17.2 10 14 16 10 14.7 16.8 10 14.60372 17.55325 10
 4 0 14 16 10 13.5 16.5 10 13 15.6 10 13.5 14.9 10
 4 0 13.5 14.9 10 13 15.6 10 12.7 14.3 10 13.2 12.9 10

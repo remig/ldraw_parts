@@ -1,29 +1,16 @@
 0 Minifig Torso with SW Tunic and Belt Pattern
 0 Name: 973psf.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Young Boba Fett, Jango Fett, Star Wars, Clone
-0 !KEYWORDS Episode 2, Set 7153, Bounty Hunter
+0 !KEYWORDS bounty hunter, clone, Episode 2, Jango Fett, Set 7153, Star Wars
+0 !KEYWORDS Young Boba Fett
 0 !CMDLINE -c11
-
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2015-07-02 [MagFors] bfc'd, inlined subfiles, created raster
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // neck mark
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // plain back
 4 16 -19 29 10 19 29 10 19 32 10 -19 32 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
 4 16 14.345 2 10 -14.345 2 10 -12 0 10 12 0 10
-0 // front pattern
 4 0 0.5 29.5 -10 0.5 30.25 -10 1 29.25 -10 1 28 -10
 4 0 0.5 28 -10 0.5 29.5 -10 1 28 -10 1 26.5 -10
 4 0 0.5 26.25 -10 0.5 28 -10 1 26.5 -10 1.25 25 -10
@@ -334,6 +321,3 @@
 3 0 -8.75 20.9 -10 -8.75 21.1 -10 -4.5 21 -10
 3 0 -8.75 20.7 -10 -8.75 20.9 -10 -4.5 20.8 -10
 3 0 -8.75 20.5 -10 -8.75 20.7 -10 -4.5 20.6 -10
-0 // Pattern created wholly or in part by Quad2Dat
-0 // Thanks James
-0 // blended raster created with LPC 

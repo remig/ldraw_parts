@@ -1,18 +1,10 @@
 0 Minifig Torso with HP Harry Potter Uniform Gryffindor Stripe and Shield Pattern
 0 Name: 973pha.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
-0 // Torso
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neckmark
 1 71 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Front Pattern
 4 82 -16.13 26.03 -10 -17.03 26.03 -10 -17.12 26.56 -10 -16.13 26.62 -10
 4 82 -15.13 26.05 -10 -16.13 26.03 -10 -16.13 26.62 -10 -15.13 26.64 -10
 4 82 -14.23 26.07 -10 -15.13 26.05 -10 -15.13 26.64 -10 -14.23 26.68 -10
@@ -1078,7 +1070,6 @@
 4 16 -4.84 19.97 -10 -6.24 20.05 -10 -5.26 23.17 -10 -3.95 22.84 -10
 4 16 -3.86 19.74 -10 -4.84 19.97 -10 -3.95 22.84 -10 -2.58 22.48 -10
 3 16 -3.86 19.74 -10 -2.58 22.48 -10 -1.32 22.11 -10
-0 // Back Pattern
 4 82 16.1 25.4 10 17 25.58 10 17.07 26 10 16.1 25.8 10
 4 82 15.1 25.2 10 16.1 25.4 10 16.1 25.8 10 15.1 25.66 10
 4 82 14.2 25.05 10 15.1 25.2 10 15.1 25.66 10 14.2 25.57 10

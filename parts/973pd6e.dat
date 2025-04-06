@@ -1,19 +1,14 @@
 0 Minifig Torso with White Orca Belly Pattern
 0 Name: 973pd6e.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS CMF, Batman, Movie, Bricklink 973pb2561
-
+0 !KEYWORDS Batman, Bricklink 973pb2561, CMF, Movie
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -19 29 10 19 29 10 19 32 10 -19 32 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
 4 16 14.345 2 10 -14.345 2 10 -12 0 10 12 0 10
 1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 3 16 -14.345 2 -10 -11.33 4.87 -10 -9.87 3.06 -10
 3 16 -14.345 2 -10 -12.67 6.72 -10 -11.33 4.87 -10
 3 16 -14.345 2 -10 -13.73 8.72 -10 -12.67 6.72 -10

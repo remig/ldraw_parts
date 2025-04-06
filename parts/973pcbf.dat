@@ -1,22 +1,14 @@
 0 Minifig Torso with Police Jacket, Silver Badge, 4 Buttons and Belt Pattern
 0 Name: 973pcbf.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Constable, Bobby, 1337
-0 !KEYWORDS Series 11
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS 1337, Bobby, Constable, Series 11
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 4 80 0.1 19.88 -10 -1.042 19.88 -10 -0.9551 20.317 -10 -0.7075 20.6875 -10
 4 80 0.1 19.88 -10 -0.7075 20.6875 -10 -0.337 20.9351 -10 0.1 21.022 -10
 4 80 0.1 19.88 -10 0.1 21.022 -10 0.537 20.9351 -10 0.9075 20.6875 -10

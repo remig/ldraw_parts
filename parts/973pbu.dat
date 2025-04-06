@@ -1,19 +1,11 @@
 0 Minifig Torso with Iron Spider Pattern
 0 Name: 973pbu.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS MARVEL, Super Heroes, Spider-Man, set 76037
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 !KEYWORDS Marvel, set 76037, Spider-Man, Super Heroes
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Back
 4 16 -12.751 .978 10 -13.456 1.503 10 -14.345 2 10 -12 0 10
 3 16 -13.841 2.284 10 -14.345 2 10 -13.456 1.503 10
 3 16 -12.083 1.551 10 -6.52 5.369 10 -11.667 4.98 10
@@ -470,8 +462,6 @@
 3 92 8.289 17.017 10 7.359 16.957 10 7.697 16.417 10
 4 82 7.697 16.417 10 3.167 12.327 10 8.26 15.277 10 8.004 15.859 10
 3 16 2.917 31.429 10 19 32 10 -.083 31.51 10
-
-0 // Front
 4 16 -12.167 1.061 -10 -10.167 .898 -10 -12 0 -10 -12.171 .766 -10
 3 16 -12.171 .766 -10 -12 0 -10 -12.825 .954 -10
 3 92 -12.167 1.061 -10 -12.171 .766 -10 -12.825 .954 -10

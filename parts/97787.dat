@@ -1,20 +1,10 @@
 0 Figure Friends Spatula with  3 Holes
 0 Name: 97787.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Figure Accessory
-0 !KEYWORDS Kitchen, Cookware, Meal, 93082
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-01-24 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-0 !HISTORY 2015-10-14 [cwdee] Description change
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
+0 !KEYWORDS 93082, Cookware, Kitchen, Meal
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\97781s01.dat
 3 16 -2.551 -8.75 3.081 -3.506 -8.75 2.38 -2.501 -18.068 3.31
 3 16 -2.501 -18.068 3.31 -1.372 -17.643 3.735 -2.551 -8.75 3.081
@@ -284,8 +274,6 @@
 2 24 1.127 -34.31 6.875 0 -34.007 6.875
 2 24 9.97 -34.715 6.875 3.434 -25.693 6.875
 2 24 3.434 -25.693 6.875 0 -24.327 6.875
-
-0 // Added lines/Condlines
 5 24 -3.506 -8.75 2.38 -2.501 -18.068 3.31 -2.551 -8.75 3.081 -3.511 -8.75 -2.392
 5 24 -2.501 -18.068 3.31 -2.551 -8.75 3.081 -3.506 -8.75 2.38 -1.372 -17.643 3.735
 5 24 -1.372 -17.643 3.735 -2.551 -8.75 3.081 -2.501 -18.068 3.31 2.551 -8.75 3.081

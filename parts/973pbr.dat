@@ -1,19 +1,11 @@
 0 Minifig Torso with White Tiger Pattern
 0 Name: 973pbr.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS MARVEL, Super Heroes, Spider-Man, set 76059
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 !KEYWORDS Marvel, set 76059, Spider-Man, Super Heroes
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Back
 4 0 -12.327 .816 10 -13.714 2.041 10 -13.388 1.469 10 -12.816 1.061 10
 4 16 -14.345 2 10 -12 0 10 -12.816 1.061 10 -13.388 1.469 10
 4 16 -14.449 5.714 10 -14.345 2 10 -13.714 2.041 10 -14.204 4.653 10
@@ -179,8 +171,6 @@
 4 16 14.939 8.571 10 16.163 15.02 10 13.551 14.776 10 14.204 8.898 10
 3 16 -19 32 10 .082 25.551 10 4.857 26.163 10
 4 7 .163 24.816 10 .136 25.061 10 -.082 25.388 10 -.096 25.145 10
-
-0 // Front
 3 16 -12 0.571 -10 -12 0 -10 -12.735 0.816 -10
 3 16 -12 0 -10 -12 0.571 -10 -9.224 0.571 -10
 4 16 -14.286 5.224 -10 -13.796 2.122 -10 -14.345 2 -10 -14.612 6.694 -10

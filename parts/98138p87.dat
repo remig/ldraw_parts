@@ -1,15 +1,9 @@
 0 Tile  1 x  1 Round with White Animal Paw on Dark Brown Background Pattern
 0 Name: 98138p87.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS BrickLink 98138pb055, Friends
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s01.dat
 1 16 0 0 0 9 0 0 0 1 0 0 0 9 4-4ering.dat
 4 15 -1.6 0 2.1 -2.9086 0 2.6371 -2.8743 0 1.8753 -2.646 0 1.1477

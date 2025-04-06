@@ -1,21 +1,13 @@
 0 Minifig Torso with SW Jawa Pattern
 0 Name: 973pss.dat
 0 Author: John Troxler [Gargan]
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // neck mark
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // plain back
 4 16 -19 32 10 -19 29 10 19 29 10 19 32 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
 4 16 12 0 10 14.345 2 10 -14.345 2 10 -12 0 10
-0 // front pattern
 4 0 -5.68 6.243 -10 -4.987 6.53 -10 -4.911 6.148 -10 -5.661 6.148 -10
 4 0 -5.661 6.148 -10 -4.911 6.148 -10 -4.987 5.765 -10 -5.68 6.052 -10
 4 0 -5.68 6.052 -10 -4.987 5.765 -10 -5.204 5.44 -10 -5.734 5.971 -10
@@ -703,4 +695,3 @@
 1 6 4.08 18.747 -10 0.9917 0 0.1288 0.1288 0 -0.9917 0 1 0 4-4ndis.dat
 1 6 10.345 23.853 -10 0.9999 0 0.0155 0.0155 0 -0.9999 0 1 0 4-4ndis.dat
 1 6 -6.73 24.232 -10 0.985 0 0.1727 0.1727 0 -0.985 0 1 0 4-4ndis.dat
-0

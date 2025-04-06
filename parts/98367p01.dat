@@ -1,20 +1,15 @@
 0 Minifig Shield Rectangular Curved with Stud with Gold Lightning Wings and Arrows Pattern
 0 Name: 98367p01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS CMF Series 6, collectable, collectible, roman, soldier
-
+0 !KEYWORDS Collectable, Collectible, roman, Series 6, soldier, CMF
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98367s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98367p01s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\98367p01s01.dat
 1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\98367p01s01.dat
 1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\98367p01s01.dat
-
 5 24 -19.488 28.864 -12.341 -19.488 -28.864 -12.341 -19.814 -27.775 -12.167 -18.717 29.622 -12.74
 5 24 -18.717 29.622 -12.74 -18.717 -29.622 -12.74 -19.488 28.864 -12.341 -18.026 -29.775 -13.08
 5 24 -18.026 29.775 -13.08 -18.026 -29.775 -13.08 -18.717 -29.622 -12.74 -12.035 29.775 -15.409

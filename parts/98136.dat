@@ -1,20 +1,11 @@
 0 Animal Cobra Threatening
 0 Name: 98136.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Snake
-
-0 !HISTORY 2014-01-04 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-01-04 [Wesley] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98136s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\98136s01.dat
-0 // handle
 1 16 0 -14.17 51.25 3.2 0 0 0 0 3.2 0 1 0 4-4edge.dat
 1 16 0 -14.17 51.75 0.8 0 0 0 0 0.8 0 -0.5 0 4-4con4.dat
 1 16 0 -14.17 53.25 4 0 0 0 0 4 0 -1.5 0 4-4cylo.dat
@@ -38,12 +29,9 @@
 1 16 0 -14.17 63.75 3.2 0 0 0 0 3.2 0 1 0 4-4edge.dat
 1 16 0 -14.17 64.25 0.8 0 0 0 0 0.8 0 -0.5 0 4-4con4.dat
 1 16 0 -14.17 70 4 0 0 0 0 4 0 -5.75 0 4-4cylc.dat
-0 // underside stud
 0 BFC INVERTNEXT
 1 16 0 -5 0 6 0 0 0 5 0 0 0 6 4-4cylc.dat
-0 // "mini stud"
 1 16 0 -10.49 47.5 1.25 0 0 0 -1.125 0 0 0 1.25 4-4cylc.dat
-0 // edges
 2 24 0 -44.125 -11.25 0 -46.319 -13.458
 2 24 0 -46.817 2.945 0 -44.125 0.5
 2 24 0 -29.891 10.41 0 -36.033 11.177

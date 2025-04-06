@@ -1,22 +1,14 @@
 0 Minifig Torso with Jacket, Orange Vest, Green Neck-chief Pattern
 0 Name: 973pb3.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !KEYWORDS Batman, Joker
-
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // neck mark
-1 16 0 -4 0 4.243 0 -4.243  0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // plain back
+1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 4 16 -19 32 10 -19 29 10 19 29 10 19 32 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
 4 16 12 0 10 14.345 2 10 -14.345 2 10 -12 0 10
-0 // front pattern
 4 0 -18.25 28.25 -10 -18.25 29 -10 -17 29.25 -10 -17 28.25 -10
 4 0 -14 29.5 -10 -14 28.5 -10 -17 28.25 -10 -17 29.25 -10
 4 0 -10 30 -10 -10.5 29 -10 -14 28.5 -10 -14 29.5 -10
@@ -451,7 +443,3 @@
 3 2 1.75 14 -10 1.25 15 -10 2.25 15 -10
 3 16 -6.75 18.75 -10 -7.5 16 -10 -8.75 17 -10
 3 16 -7.5 16 -10 -8.25 12 -10 -8.75 17 -10
-0 //
-0 // Pattern created wholly or in part by Quad2Dat
-0 // Thanks James
-0 //

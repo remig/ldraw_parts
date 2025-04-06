@@ -1,25 +1,14 @@
 0 Minifig Torso with SW Closed Shirt and Brown Belt Pattern
 0 Name: 973pr0.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, Anakin, Skywalker
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-0 !HISTORY 2012-05-03 [TK-949] Color Corrected
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !KEYWORDS Anakin, Skywalker, Star Wars
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Plain back
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 14.345 2 10 19 29 10 -19 29 10 -14.345 2 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
-0 // Neck mark
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Pattern
 3 0 -19 29 -10 -19 29.133 -10 -18.286 29.391 -10
 4 0 -18.152 28.688 -10 -18.908 28.469 -10 -19 29 -10 -18.286 29.391 -10
 4 0 -17.319 28.913 -10 -18.152 28.688 -10 -18.286 29.391 -10 -17.186 29.706 -10

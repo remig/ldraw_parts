@@ -1,18 +1,10 @@
 0 Figure Friends Mixing Bowl
 0 Name: 97791.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Kitchen, Cookware, Meal, 93082
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-01-30 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !KEYWORDS 93082, Cookware, Kitchen, Meal
 4 16 0 -12.605 14.578 0 -12.605 12.312 6.156 -12.605 10.663 7.289 -12.605 12.625
 4 16 7.289 -12.605 12.625 6.156 -12.605 10.663 10.663 -12.605 6.156 12.625 -12.605 7.289
 4 16 12.625 -12.605 7.289 10.663 -12.605 6.156 12.312 -12.605 0 14.578 -12.605 0
@@ -204,7 +196,6 @@
 3 16 -3.0616 3 7.3912 -5.6568 3 5.6568 -5.749 -0.063 9.958
 3 16 0 -0.063 11.498 -3.0616 3 7.3912 -5.749 -0.063 9.958
 3 16 0 3 8 -3.0616 3 7.3912 0 -0.063 11.498
-0 // Added lines/Condlines
 5 24 10.663 -12.605 -6.156 12.625 -12.605 -7.289 14.578 -12.605 0 6.411 -12.455 -10.874
 5 24 6.411 -12.455 -10.874 9.954 -12.479 -10.656 12.625 -12.605 -7.289 3.506 -11.779 -16.849
 5 24 1.319 -11.951 -15.326 3.506 -11.779 -16.849 6.411 -12.455 -10.874 0 -11.635 -17.908

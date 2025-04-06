@@ -1,14 +1,9 @@
 0 Minifig Torso with Skull and DkPink Roses Pattern
 0 Name: 973pc00.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !KEYWORDS Rock band, set 850486
-
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
@@ -17,7 +12,6 @@
 1 16 -3.25 16.1 -10 1.673 0 0 0 0 -1.673 0 1 0 4-4disc.dat
 1 16 3.25 16.1 -10 1.673 0 0 0 0 -1.673 0 1 0 4-4disc.dat
 1 5 0 0 0 1 0 0 0 1 0 0 0 1 s\973pc44a.dat
-
 4 2 5 28.9 -10 4.55 28.45 -10 3.65 28.05 -10 4.7 29.6 -10
 3 2 -1.15 27.15 -10 -1.4 27.9 -10 -0.5 27.2 -10
 4 2 3.15 29.5 -10 3.75 29.95 -10 3.65 28.05 -10 2.65 28.85 -10
@@ -913,4 +907,3 @@
 4 16 -0.35 19.75 -10 -0.337 20.227 -10 -0.135 20.171 -10 -0.15 19.65 -10
 4 16 -1.346 20.45 -10 -1.067 20.521 -10 -0.802 20.48 -10 -0.75 19.65 -10
 4 16 -0.75 19.65 -10 -0.802 20.48 -10 -0.55 20.35 -10 -0.6 19.75 -10
-

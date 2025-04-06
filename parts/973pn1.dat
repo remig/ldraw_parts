@@ -1,27 +1,14 @@
 0 Minifig Torso with Samurai Robe, Sash and Dagger Pattern
 0 Name: 973pn1.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Castle, Ninja, Nippon, Japan, feudal, medieval
-0 !KEYWORDS Shogun, Emperor
-
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-10-08 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
+0 !KEYWORDS Castle, emperor, feudal, Japan, medieval, Ninja, Nippon, shogun
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Torso
 4 16 -12 0 10 12 0 10 14.35 2 10 -14.35 2 10
 4 16 -19 29 10 -14.35 2 10 14.35 2 10 19 29 10
 4 16 -19 29 10 19 29 10 19 32 10 -19 32 10
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Pattern
 4 82 5.4 16 -10 5.71 13.25 -10 4.27 13.95 -10 4.15 16.2 -10
 4 82 6.5 10.5 -10 10.5 0 -10 9 0 -10 5.1 10.5 -10
 4 82 -8.5 0 -10 -10 0 -10 -6.5 10.5 -10 -5.1 10.5 -10

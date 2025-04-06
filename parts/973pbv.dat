@@ -1,19 +1,11 @@
 0 Minifig Torso with Spider Man Pattern
 0 Name: 973pbv.dat
 0 Author: Johann Eisner [technicbasics]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Super Heros, BrickLink 973pb1228
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS BrickLink 973pb1228, Super Heros
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neck mark
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Plain front
 4 0 -7.533 3.139 -10 -8 3.25 -10 -8 3.75 -10 -7.533 3.639 -10
 4 0 -6.211 3.176 -10 -7.533 3.139 -10 -7.533 3.639 -10 -6.211 3.676 -10
 4 0 -5.225 3.44 -10 -6.211 3.176 -10 -6.211 3.676 -10 -5.225 3.94 -10
@@ -1266,7 +1258,6 @@
 4 16 16.31 30.174 -10 15.563 30.223 -10 19 32 -10 16.974 30.167 -10
 4 4 -5.227 27.389 -10 -5.226 26.335 -10 -5.6 27.6 -10 -5.25 27.75 -10
 4 4 5.6 27.6 -10 5.226 26.335 -10 5.227 27.389 -10 5.25 27.75 -10
-0 // Plain back
 4 0 -1.244 6.716 10 0 6.571 10 0 6.821 10 -1.244 6.966 10
 4 0 -2.441 7.144 10 -1.244 6.716 10 -1.244 6.966 10 -2.441 7.394 10
 4 0 -3.544 7.84 10 -2.441 7.144 10 -2.441 7.394 10 -3.544 8.09 10

@@ -1,16 +1,8 @@
 0 ~Electric Mindstorms EV3 Large Motor Top Cover
 0 Name: 99555.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-05-20 {LEGO MINDSTORMS Team} Original part shape
-0 !HISTORY 2012-07-06 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-08-01 [MMR1988] Fixed one quad
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 2 24 45 0 40 45 0 -11
 2 24 42 3 40 42 3 -11
 2 24 42 57 -7 42 13 -7
@@ -50,7 +42,6 @@
 1 16 0 19.5 62 -42 0 0 0 0 0.5 0 1 0 rect2a.dat
 1 16 43 19.5 43 0 0 1 0.5 0 0 0 1 0 rect1.dat
 4 16 29 3 3 42 3 40 42 3 -11 29 3 -11
-
 1 16 35.5 38 -17 6.5 0 0 0 0 29 0 -1 0 rect3.dat
 2 24 45 9 -20 45 69 -20
 4 16 45 69 -20 45 9 -20 29 9 -20 44 69 -20
@@ -108,4 +99,4 @@
 1 16 -42 9 -11 0 13 0 0 0 -6 -6 0 0 1-4cylc.dat
 1 16 -29 9 -11 0 -1 0 0 0 -3 -3 0 0 1-4ring2.dat
 4 16 -45 0 40 -45 0 -11 -29 0 -11 -29 0 0
-2 24 42 19 62 -42 19 62 
+2 24 42 19 62 -42 19 62

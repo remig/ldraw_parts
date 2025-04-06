@@ -1,18 +1,11 @@
 0 Tile  1 x  1 Round with White Earth Element Pattern
 0 Name: 98138pm0.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Elves
-
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s01.dat
 1 16 0 0 0 9 0 0 0 1 0 0 0 9 4-4ering.dat
-
 4 16 0 0 7.6 0 0 9 -3.444 0 8.315 -1.15 0 6.55
 4 16 -2.8 0 4.5 -3.444 0 8.315 -6.364 0 6.364 -3.35 0 3.4
 4 16 -5.6 0 1.25 -3.8 0 2.2 -6.364 0 6.364 -6.3 0 1.45

@@ -1,19 +1,11 @@
 0 Minifig Torso with Spider-Girl Pattern
 0 Name: 973pbp.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS MARVEL, Super Heroes, Spider-Man, set 76057
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 !KEYWORDS Marvel, Set 76057, Spider-Man, Super Heroes
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Back
 4 15 -14.583 5.583 10 -14.417 5.667 10 -14.083 8.333 10 -14.917 7.583 10
 4 15 -14.417 5.667 10 -12.417 8.167 10 -12.167 10.667 10 -14.083 8.333 10
 4 15 -15 8.167 10 -12.917 10.333 10 -12.5 12.917 10 -15.333 10.083 10
@@ -281,8 +273,6 @@
 4 16 13.667 28.917 10 17.833 30.417 10 18.833 31.75 10 13.25 29 10
 4 16 15.167 27.5 10 15.5 27.75 10 17.833 30.417 10 13.667 28.917 10
 4 16 16.083 17.333 10 15.583 19 10 12.333 18.25 10 14.667 16.667 10
-
-0 // Front
 3 15 -14.417 10 -10 -14.083 9.083 -10 -15.167 9.917 -10
 4 15 -14.583 6.667 -10 -15 9.167 -10 -12.917 7.583 -10 -14.25 6.417 -10
 4 15 -9.667 5.583 -10 -9.333 5.833 -10 -7.75 3.833 -10 -9.333 2.917 -10

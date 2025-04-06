@@ -1,18 +1,11 @@
 0 Tile  1 x  1 Round with Groove with Pink Circle Inside Blue Circle Pattern
 0 Name: 98138px1.dat
 0 Author: Bertrand Lequy [Berth]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS yellow submarine, Beatles, set 21306
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS Beatles, set 21306, yellow submarine
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s01.dat
 1 16 0 0 0 9 0 0 0 1 0 0 0 9 4-4ering.dat
-
 4 16 0 0 0 -3.44333 0 0.68492 -3.51079 0 0 -3.44333 0 -0.68492
 4 16 0 0 0 -3.44333 0 -0.68492 -3.24354 0 -1.34352 -2.91911 0 -1.95049
 4 16 0 0 0 -2.91911 0 -1.95049 -2.4825 0 -2.4825 -1.95049 0 -2.91911

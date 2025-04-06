@@ -1,26 +1,13 @@
 0 Minifig Torso with SW Stormtrooper Pattern
 0 Name: 973psk.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, Classic Trilogy, Empire, Imperial
-0 !KEYWORDS trooper, soldier, military, armor, blast armor
-
+0 !KEYWORDS Armor, blast armor, Classic Trilogy, Empire, Imperial, Military
+0 !KEYWORDS soldier, Star Wars, trooper
 0 !CMDLINE -c15
-
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2015-07-05 [MagFors] bfc'd, inlined subfiles
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Front Print torso
 4 72 15.85 32 -10 16.55 32 -10 16.55 28.8 -10 15.85 27.4 -10
 4 72 16.55 28.8 -10 17.65 28.8 -10 17.65 28.2 -10 16.55 28.2 -10
 4 72 12.65 26.7 -10 13.35 27.4 -10 15.85 27.4 -10 13.6 26.7 -10
@@ -545,8 +532,6 @@
 3 7 1.55 24.5 -10 1.35 26.65 -10 1.45 26.75 -10
 3 72 1.35 26.65 -10 0.9 26.65 -10 0.85 27.35 -10
 3 16 -4.43 27.35 -10 -4.05 25.6 -10 -4.05 23.9 -10
-
-0 // start back side
 1 7 3.1 11 10 -0.5 0 0 0 0 0.5 0 -1 0 4-4ring3.dat
 1 7 3.1 11 10 -0.8 0 0 0 0 0.8 0 -1 0 4-4disc.dat
 1 16 3.1 11 10 -2 0 0 0 0 2 0 -1 0 4-4ndis.dat

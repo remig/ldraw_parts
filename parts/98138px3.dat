@@ -1,18 +1,11 @@
 0 Tile  1 x  1 Round with Groove with Blue Cross and Purple Circle Pattern
 0 Name: 98138px3.dat
 0 Author: Bertrand Lequy [Berth]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS yellow submarine, Beatles, set 21306
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS Beatles, set 21306, yellow submarine
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s01.dat
 1 16 0 0 0 9 0 0 0 1 0 0 0 9 4-4ering.dat
-
 4 26 -2.762 0 0 -2.708 0 0.538 -3.538 0 0.704 -3.608 0 0
 4 26 -2.708 0 -0.538 -2.762 0 0 -3.608 0 0 -3.538 0 -0.704
 4 26 -2.552 0 -1.056 -2.708 0 -0.538 -3.538 0 -0.704 -3.333 0 -1.38

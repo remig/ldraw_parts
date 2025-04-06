@@ -1,17 +1,12 @@
-0 Minifig Torso Female with Gold Star and Zipper and Red Tied Sash and Muscles Outline Pattern
+0 Minifig Torso with Female Gold Star and Zipper and Red Tied Sash and Muscles Outline Pattern
 0 Name: 973pc1.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Marvel, Super Heroes, Avengers, Captain Marvel, Carol Danvers, set 76049
-
+0 !KEYWORDS Avengers, bricklink 973pb2194, Captain Marvel, Carol Danvers, Marvel
+0 !KEYWORDS set 76049, Super Heroes
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // front
 3 16 -16.911 31.838 -10 -19 32 -10 -16.198 31.838 -10
 3 16 -18.495 28.929 -10 -19 29 -10 -18.653 30.061 -10
 4 4 -10.14 2.818 -10 -9.66 1.851 -10 -9.36 .835 -10 -13.663 2.343 -10
@@ -666,8 +661,6 @@
 4 78 -7.843 26.628 -10 -7.548 26.429 -10 -8.006 25.819 -10 -8.245 26.094 -10
 4 82 -7.843 26.628 -10 -8.603 26.674 -10 -7.504 27.918 -10 -7.59 27.25 -10
 4 78 -7.504 27.918 -10 -7.161 27.9 -10 -7.26 27.138 -10 -7.59 27.25 -10
-
-0 // back
 3 4 -6.693 31.677 10 -3.723 31.838 10 -18.535 31.838 10
 4 16 18.693 31.838 10 18.693 30.168 10 19 29 10 19 32 10
 3 4 13.973 3.807 10 11.587 4.429 10 11.269 3.468 10

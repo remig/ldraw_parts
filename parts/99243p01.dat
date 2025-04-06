@@ -1,25 +1,16 @@
 0 Minifig Headdress Aztec Bird with Eyes and Cheeks Pattern
 0 Name: 99243p01.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
 0 !KEYWORDS Series 7
 0 !CMDLINE -c297
-
-0 !HISTORY 2014-02-18 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-02-24 [Wesley] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\99243s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\99243s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\99243p01s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\99243p01s01.dat
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
-0 // center
 3 16 -7.696 3.274 -16.344 0 1 -11.772 7.696 3.274 -16.344
 4 16 1.754 -5.545 -25.351 -1.754 -5.545 -25.351 -1.711 -1.856 -27.495 1.711 -1.856 -27.495
 4 16 -2.494 -18.412 -4.669 2.494 -18.412 -4.669 2.591 -19.318 -2.126 -2.591 -19.318 -2.126
@@ -113,7 +104,6 @@
 5 24 -2.114 -36.886 4.432 2.114 -36.886 4.432 3.163 -37.743 6.852 -1.812 -34.918 2.489
 5 24 1.307 12.02 18.729 -1.307 12.02 18.729 -1 5.947 20.041 1.581 15.329 18.002
 5 24 1.581 15.329 18.002 -1.581 15.329 18.002 -1.307 12.02 18.729 1.877 17.429 17.525
-
 5 24 0 23.579 13.202 0 23.719 13.835 4.08 23.579 12.555 -4.08 23.579 12.555
 5 24 0 1.23 13.02 0 23.579 13.202 4.08 23.579 12.555 -4.08 23.579 12.555
 5 24 0 -6.237 9.084 0 1.23 13.02 4.982 1.23 12.028 -4.982 1.23 12.028

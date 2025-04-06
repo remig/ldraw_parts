@@ -1,20 +1,13 @@
-0 Minifig Torso with Aviator Jacket w/ Eagle/"SMH" on Back Pattern
+0 Minifig Torso with Aviator Jacket with Eagle and "SMH" on Back Pattern
 0 Name: 973pq5.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Pharaoh's Quest, Jake Raines
+0 !KEYWORDS Bricklink 973pb0785, Jake Raines, Pharaoh's Quest, set 30090
+0 !KEYWORDS Set 7307, Set 7326
 0 !CMDLINE -c308
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neck mark
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // front pattern
 3 14 -6.2 1.4 -10 -5.6 2.5 -10 -4.5 2.7 -10
 4 14 -6.2 1.4 -10 -4.5 2.7 -10 -3.2 3.1 -10 3.6 3.3 -10
 3 14 -6.2 1.4 -10 3.6 3.3 -10 4.5 2.7 -10
@@ -1315,7 +1308,6 @@
 3 16 12.94725 21.2 -10 11.69725 21.43 -10 13.57725 21.33 -10
 3 16 -12.18 24.47 -10 -12.78 24.94 -10 -12.35 24.86 -10
 3 16 14.37725 22.66 -10 14.34725 24.66 -10 16.81774 27.1 -10
-0 // rear pattern
 4 15 5.40511 15.21 10 5.27511 15.13 10 5.29511 14.9 10 5.77511 15 10
 4 15 5.77511 15 10 5.29511 14.9 10 5.33511 14.66 10 6.07511 14.6 10
 4 15 6.07511 14.6 10 5.33511 14.66 10 5.29511 14.22 10 6.38511 13.96 10

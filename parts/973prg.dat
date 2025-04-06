@@ -1,18 +1,11 @@
 0 Minifig Torso SW Belt Pockets and Necklace Blissl Flute Pattern
 0 Name: 973prg.dat
 0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Star Wars, Yoda
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // front
 4 28 -11.625 9.719 -10 -11.64 7.724 -10 -11.68 6.196 -10 -11.85 3.23 -10
 3 28 -11.625 9.719 -10 -11.458 8.967 -10 -11.64 7.724 -10
 4 28 -11.458 8.967 -10 -11.625 9.719 -10 -11.095 10.701 -10 -11.047 10.152 -10
@@ -559,8 +552,6 @@
 3 84 3.525 9.007 -10 2.628 7.453 -10 2.728 9.464 -10
 3 84 -0.474 8.052 -10 -0.702 5.919 -10 -1.453 6.356 -10
 3 84 -0.296 8.36 -10 -0.702 5.919 -10 -0.474 8.052 -10
-0 // back
-
 4 28 10.387 13.094 10 10.566 12.625 10 10.896 12.224 10 11.064 12.502 10
 4 28 9.819 13.22 10 10.566 12.625 10 10.387 13.094 10 9.69 13.434 10
 3 28 9.819 13.22 10 9.69 13.434 10 8.927 13.546 10

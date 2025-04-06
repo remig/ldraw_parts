@@ -1,18 +1,10 @@
 0 Minifig Cape Cloth Short
 0 Name: 99464.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !CATEGORY Canvas
-0 !KEYWORDS Cloak, Shawl, Drape, Poncho, Neckwear
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
-0 // Bottom surface
-
+0 !CATEGORY Sheet Fabric
+0 !KEYWORDS Cloak, Drape, Neckwear, Poncho, Shawl
 4 16 0.1 0 -11.06 0.1 0 9.7 6.02 0 0 6.51 0 -2.48
 4 16 1.82 0 -11.55 0.1 0 -11.06 6.51 0 -2.48 7.92 0 -4.58
 4 16 3.15 0 -12.88 1.82 0 -11.55 7.92 0 -4.58 10.02 0 -5.99
@@ -154,7 +146,6 @@
 2 24 -22.62 0 -55.58 -15.6 0 -56.56
 2 24 -15.6 0 -56.56 -8.5 0 -57.21
 2 24 -8.5 0 -57.21 0 0 -57.4
-0 // Bottom surface
 4 16 6.02 -0.3 0 0.1 -0.3 9.7 0.1 -0.3 -11.06 6.51 -0.3 -2.48
 4 16 6.51 -0.3 -2.48 0.1 -0.3 -11.06 1.82 -0.3 -11.55 7.92 -0.3 -4.58
 4 16 7.92 -0.3 -4.58 1.82 -0.3 -11.55 3.15 -0.3 -12.88 10.02 -0.3 -5.99
@@ -296,7 +287,6 @@
 2 24 -22.62 -0.3 -55.58 -15.6 -0.3 -56.56
 2 24 -15.6 -0.3 -56.56 -8.5 -0.3 -57.21
 2 24 -8.5 -0.3 -57.21 0 -0.3 -57.4
-0 // Edge
 4 16 0.1 0 -11.06 1.82 0 -11.55 1.82 -0.3 -11.55 0.1 -0.3 -11.06
 4 16 1.82 0 -11.55 3.15 0 -12.88 3.15 -0.3 -12.88 1.82 -0.3 -11.55
 4 16 3.15 0 -12.88 3.64 0 -14.7 3.64 -0.3 -14.7 3.15 -0.3 -12.88

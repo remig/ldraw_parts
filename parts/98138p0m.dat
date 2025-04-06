@@ -1,18 +1,11 @@
 0 Tile  1 x  1 Round with Empire Biscuit Pattern
 0 Name: 98138p0m.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS BrickLink 98138pb057, Disney Castle, Brave, Set 71040, Cookie, Cake
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS Brave, BrickLink 98138pb057, cake, Cookie, Disney Castle, set 71040
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s01.dat
 1 16 0 0 0 9 0 0 0 1 0 0 0 9 4-4ering.dat
-
 4 320 -3 0 0.7 -3.1 0 0.1 0 0 0 -2.5 0 1.3
 4 320 -2.2 0 1.9 -2.5 0 1.3 0 0 0 -1.75 0 2.45
 4 320 -1.1 0 2.9 -1.75 0 2.45 0 0 0 -0.5 0 3.1

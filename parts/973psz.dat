@@ -1,23 +1,14 @@
 0 Minifig Torso with SW Darth Vader Death Star Pattern
 0 Name: 973psz.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, Sith
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
+0 !KEYWORDS sith, Star Wars
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Plain back
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 14.345 2 10 19 29 10 -19 29 10 -14.345 2 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
-0 // Neck mark
 1 135 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Pattern
 4 2 -9.732 27.723 -10 -10.929 27.723 -10 -10.929 28.92 -10 -9.732 28.92 -10
 4 2 -7.92 27.723 -10 -9.118 27.723 -10 -9.118 28.92 -10 -7.92 28.92 -10
 4 2 3.411 12.954 -10 0.462 12.954 -10 0.462 14.296 -10 3.411 14.296 -10

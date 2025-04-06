@@ -1,16 +1,8 @@
 0 Technic Pin 1.0 with Base Collar and Notches
 0 Name: connect6.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Primitive UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2004-11-25 [guyvivan] Use more primitives 3-8(chrd;cyli) 1-4rin12 and add 4 conditional lines
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2010-01-15 [cwdee] Update ring3 to 4-4ring3
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 0 BFC INVERTNEXT
 1 16 5.801 -11 0 0 0.199 0 0 0 1 -1 0 0 1-4cyls.dat
 0 BFC INVERTNEXT
@@ -206,10 +198,10 @@
 1 16 0 -20 0 6.00522 0 -2.48744 0 2 0 2.48744 0 6.00522 3-8cyli.dat
 1 16 0 -20 0 6.00522 0 -2.48744 0 2 0 2.48744 0 6.00522 3-8edge.dat
 1 16 0 -18 0 6.00522 0 -2.48744 0 2 0 2.48744 0 6.00522 3-8edge.dat
-1 16 0 -18 0 0.461939 0 -0.191342 0 -1 0 0.191342 0 0.461939 3-8rin12.dat
+1 16 0 -18 0 0.461939 0 -0.191342 0 -1 0 0.191342 0 0.461939 3-8ring12.dat
 1 16 0 -18 0 5.54328 0 -2.2961 0 1 0 2.2961 0 5.54328 3-8edge.dat
 1 16 0 -18 0 -5.54328 0 2.2961 0 1 0 -2.2961 0 -5.54328 3-8edge.dat
-1 16 0 -18 0 -0.461939 0 0.191342 0 -1 0 -0.191342 0 -0.461939 3-8rin12.dat
+1 16 0 -18 0 -0.461939 0 0.191342 0 -1 0 -0.191342 0 -0.461939 3-8ring12.dat
 1 16 0 -20 0 -6.00522 0 2.48744 0 2 0 -2.48744 0 -6.00522 3-8edge.dat
 1 16 0 -18 0 -6.00522 0 2.48744 0 2 0 -2.48744 0 -6.00522 3-8edge.dat
 1 16 0 -4 0 6 0 0 0 2 0 0 0 6 4-4cyli.dat
@@ -217,4 +209,3 @@
 1 16 0 -2 0 8 0 0 0 2 0 0 0 8 4-4cyli.dat
 1 16 0 -2 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 0 -2 0 2 0 0 0 1 0 0 0 2 4-4ring3.dat
-0

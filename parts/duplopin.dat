@@ -1,18 +1,8 @@
 0 Duplo Train Track Connector Male
 0 Name: duplopin.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Primitive UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-10-24 [Steffen] BFCed
-0 !HISTORY 2010-04-24 [mikeheide] Fixed intersection problems
-0 !HISTORY 2013-01-13 [MMR1988] added two edges, rectified, removed overlapping quads, changed code order
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
-0 // pin
-
 3 16 0 0 0 8 0 -8.8092 8.485 0 -8.485
 4 16 0 0 0 -8.485 0 -8.485 -8 0 -8.8092 8 0 -8.8092
 1 16 0 0 0 8.4853 0 8.4853 0 11 0 -8.4853 0 8.4853 3-4cylc.dat
@@ -36,9 +26,6 @@
 1 16 0 5 0 4.2427 0 4.2426 0 -1 0 -4.2426 0 4.2427 3-4disc.dat
 3 16 0 5 0 4.243 5 -4.243 4 5 -4.4052
 4 16 -4 5 -4.4052 -4.243 5 -4.243 0 5 0 4 5 -4.4052
-
-0 // stem
-
 1 16 0 5 -12.2026 0 0 4 0 -1 0 7.7974 0 0 rect2p.dat
 4 16 4 11 -8.8092 4 5 -20 4 5 -4.4052 4 11 -4.4052
 3 16 4 11 -8.8092 4 14 -13 4 5 -20

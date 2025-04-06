@@ -1,19 +1,12 @@
 0 Minifig Torso with US Cavalry Soldier Pattern
 0 Name: 973pw3.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS Wild West, Western, military, uniform, United States, army, U.S. Army
-0 !KEYWORDS cavalry, horse troops, insignia, suspenders, trooper, enlisted, NCO
-0 !KEYWORDS Private, Corporal, Sergeant, soldier, veteran
+0 !KEYWORDS army, cavalry, Corporal, enlisted, horse troops, insignia, Military
+0 !KEYWORDS NCO, Private, Sergeant, soldier, suspenders, trooper, U.S. Army
+0 !KEYWORDS Uniform, United States, veteran, western, wild west
 0 !CMDLINE -c1
-
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
-0 // White
-
 4 15 -10.313 3.06 -10 -9.733 0 -10 -10.407 0 -10 -10.992 3.051 -10
 4 15 -10.992 3.051 -10 -11.528 6.347 -10 -10.863 6.366 -10 -10.313 3.06 -10
 4 15 -11.528 6.347 -10 -11.99 9.809 -10 -11.352 9.836 -10 -10.863 6.366 -10
@@ -62,8 +55,6 @@
 4 15 11.068 20.056 -10 11.586 20.664 -10 11.703 20.641 -10 11.664 20.047 -10
 3 15 11.215 22.528 -10 11.192 22.775 -10 11.179 22.475 -10
 3 15 11.215 22.528 -10 11.192 22.775 -10 11.586 22.775 -10
-
-0 // Black
 1 0 -12.02 21.72 -10 0.511 0 0 0 0 -0.511 0 0.511 0 4-4ndis.dat
 1 0 12.02 21.72 -10 0.511 0 0 0 0 -0.511 0 0.511 0 4-4ndis.dat
 4 0 -10.407 0 -10 -11.158 0 -10 -11.731 3.036 -10 -10.992 3.051 -10
@@ -206,8 +197,6 @@
 3 0 17.65 32 -10 15.902 27.564 -10 14.723 27.564 -10
 4 0 17.65 32 -10 17.65 29 -10 17.371 27.564 -10 15.902 27.564 -10
 4 0 17.65 32 -10 4.2 31.6 -10 -3.8 31.6 -10 -17.65 32 -10
-
-0 // Main Color
 4 16 -14.345 2 -10 -11.731 3.036 -10 -11.158 0 -10 -12 0 -10
 3 16 -12.304 6.324 -10 -11.731 3.036 -10 -14.345 2 -10
 4 16 -16.672 15.5 -10 -12.799 9.785 -10 -12.304 6.324 -10 -14.345 2 -10
@@ -313,27 +302,14 @@
 3 16 4.29 27.11 -10 4.593 27.564 -10 9.275 27.564 -10
 4 16 12.742 24.301 -10 11.641 24.301 -10 10.284 27.564 -10 14.723 27.564 -10
 4 16 -12.742 24.301 -10 -14.723 27.564 -10 -10.284 27.564 -10 -11.641 24.301 -10
-
-0 // Subpart Gold Detail
 1 334 0 0 0 1 0 0 0 1 0 0 0 1 s\973pw3a.dat
-
-0 // Subparts Buttons
 1 16 1.445 5.8 -10 1 0 0 0 1 0 0 0 1 s\973pw1a.dat
 1 16 0.945 12.1 -10 1 0 0 0 1 0 0 0 1 s\973pw1a.dat
 1 16 1.245 18.3 -10 1 0 0 0 1 0 0 0 1 s\973pw1a.dat
 1 16 1.245 24.6 -10 1 0 0 0 1 0 0 0 1 s\973pw1a.dat
-
-0 // Subpart Belt Logo
 1 334 0 0 0 1 0 0 0 1 0 0 0 1 s\973pw1b.dat
-
-0 // Subpart Minifig Torso without Front or Back
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-
-0 // Back Shell
 4 16 19 32 10 -19 32 10 -19 29 10 19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -12 0 10 12 0 10 14.345 2 10 -14.345 2 10
-
-0 // Neck Mark
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0

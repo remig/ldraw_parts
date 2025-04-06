@@ -1,13 +1,9 @@
-0 Minifig Torso Polo Shirt with Pocket with Pen and LEGO Logo on Back Pattern
+0 Minifig Torso with Polo Shirt with Pocket and Pen with LEGO Logo on Back Pattern
 0 Name: 973p98.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Bricklink 973pb2032
-
+0 !KEYWORDS Bricklink 973pb2032, set 10261, Set 10303, Set 31105, Set 60097
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 4 0 -17.3 29.7 -10 -17.4 30.1 -10 -8.5 30.3 -10 -8.5 29.9 -10
@@ -265,7 +261,6 @@
 3 16 -12 0 -10 -14.345 2 -10 -13.15 3.7 -10
 3 16 -14.345 2 -10 -13.25 4.1 -10 -13.15 3.7 -10
 3 16 -0.6388 11.0915 -10 -1.35 12.05 -10 -0.3058 11.3334 -10
-
 1 16 0 16 10 -1.05 0 0 0 0 -1.05 0 -1 0 s\99141s02.dat
 4 0 -8 1.7 10 8.7 1.8 10 7.7 2.2 10 6.1 2.5 10
 4 0 -8 1.7 10 6.1 2.5 10 3.1 2.7 10 -0.1 2.7 10

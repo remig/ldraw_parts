@@ -1,21 +1,12 @@
 0 Minifig Torso with LOTR Button Shirt with Braces Pattern
 0 Name: 973pm2.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Lord of the Rings, Frodo Baggins
+0 !KEYWORDS Frodo Baggins, Lord of the Rings
 0 !CMDLINE -c378
-
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-0 !HISTORY 2013-02-04 [Wesley] changed color 92 to 78, added cmdline
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Front Pattern
 4 0 -6.3 1 -10 -7.04 1 -10 -6.6 1.6 -10 -5.96 1.48 -10
 4 0 -5.96 1.48 -10 -6.6 1.6 -10 -6.3 2 -10 -5.54 1.92 -10
 4 0 -5.54 1.92 -10 -6.3 2 -10 -6 2.3 -10 -5.08 2.32 -10
@@ -1125,7 +1116,6 @@
 4 16 -2.62 17.56 -10 -3.28 17.3 -10 -2.3 18.8 -10 -2.48 17.72 -10
 3 16 -2.48 17.72 -10 -2.3 18.8 -10 -2.3 18.2 -10
 3 0 8.96 15.02 -10 9.76 14.98 -10 9.7 14 -10
-0 // Back Pattern
 4 308 14.68 30.32 10 17.8 31.62 10 8 31.62 10 6.14 31.36 10
 3 308 0 31.62 10 6.14 31.36 10 8 31.62 10
 4 308 3.17 29.503 10 6.14 31.36 10 0 31.62 10 0.54 29.2 10

@@ -1,19 +1,11 @@
-0 Minifig Torso with LOTR Leather Armor with Buckle Pattern
+0 Minifig Torso with LOTR Leather Armour with Buckle Pattern
 0 Name: 973pm0.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Lord of the Rings, Uruk-Hai
-
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !KEYWORDS Armor, Lord of the Rings, Uruk-hai
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Front
 4 80 -10.98 13.1 -10 -11.672 12.813 -10 -11.73 13.1 -10 -11.672 13.387 -10
 4 80 -10.98 13.1 -10 -11.672 13.387 -10 -11.51 13.63 -10 -11.267 13.792 -10
 4 80 -10.98 13.1 -10 -11.267 13.792 -10 -10.98 13.85 -10 -10.693 13.792 -10
@@ -1281,7 +1273,6 @@
 3 16 0 31.8 -10 -19 32 -10 19 32 -10
 3 16 -13.02 18.2 -10 -12.94 18.7 -10 -12.64 18.78 -10
 3 16 13.02 18.2 -10 12.64 18.78 -10 12.94 18.7 -10
-0 // Back
 4 80 5.6 4.1 10 6.248 3.832 10 6.302 4.1 10 6.248 4.368 10
 4 80 5.6 4.1 10 6.248 4.368 10 6.096 4.596 10 5.868 4.748 10
 4 80 5.6 4.1 10 5.868 4.748 10 5.6 4.802 10 5.332 4.748 10
@@ -2344,4 +2335,3 @@
 4 16 -4.28 4.605 10 -3.2 7.18 10 -3.705 7.28 10 -4.567 5.033 10
 4 16 -4.567 5.033 10 -3.705 7.28 10 -4.133 7.567 10 -4.995 5.32 10
 4 16 -4.995 5.32 10 -4.133 7.567 10 -4.42 7.995 10 -5.5 5.42 10
-0

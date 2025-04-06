@@ -1,19 +1,13 @@
 0 Minifig Torso with Vertical Red Stripes and 'Clutchers' Pattern
 0 Name: 973pc3g.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 4 0 -6.85 1 -10 -8.05 1 -10 -6.95 1.95 -10 -6.35 2.3 -10
 4 0 -5.45 1.8 -10 -6.85 1 -10 -6.35 2.3 -10 -5.65 2.65 -10
 4 0 -4.55 2.15 -10 -5.45 1.8 -10 -5.65 2.65 -10 -4.85 2.9 -10
@@ -1519,4 +1513,3 @@
 3 16 -9.82 31.19 -10 -10.87 31.02 -10 -11.7 31.3 -10
 3 0 6.23 31.02 -10 6.2 31.3 -10 7.33 31.3 -10
 4 16 6.2 31.3 -10 6.23 31.02 -10 6 31.3 -10 5.94 31.42 -10
-0

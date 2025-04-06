@@ -1,20 +1,12 @@
-0 Minifig Torso with LOTR Scale Armor and Belt Pattern
+0 Minifig Torso with LOTR Scale Armour and Belt Pattern
 0 Name: 973pm6.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Lord of the Rings, Rohan Soldier
+0 !KEYWORDS Armor, Lord of the Rings, Rohan Soldier
 0 !CMDLINE -c72
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neck mark
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // front pattern
 4 80 -8.5 16.67 -10 -10.2 14.9 -10 -10.9 16.1 -10 -10.2 17.6 -10
 4 80 -8.5 16.67 -10 -10.2 17.6 -10 -9.4 18.86 -10 -8.5 19.86 -10
 4 80 -8.5 16.67 -10 -8.5 19.86 -10 -7.593 18.86 -10 -6.793 17.6 -10
@@ -1069,7 +1061,6 @@
 4 0 17.21 30.63 -10 17.48 31 -10 18 31 -10 17.2 29.54 -10
 4 76 18 29 -10 17.69 27.55 -10 17.2 29.54 -10 18 31 -10
 3 80 -11.45 24.17 -10 -12.052 24.539 -10 -11.714 24.418 -10
-0 // rear pattern
 3 80 -11.5 21.1 10 -10.8 22.3 10 -13.2 22.87 10
 3 80 -10.8 22.3 10 -11.79 24.36 10 -13.2 22.87 10
 3 80 -15.607 22.3 10 -13.2 22.87 10 -15.047 23.88 10

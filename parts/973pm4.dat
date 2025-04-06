@@ -1,20 +1,12 @@
 0 Minifig Torso with LOTR Shirt, Dark Brown Belt & Bag Pattern
 0 Name: 973pm4.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Lord of the Rings, Samwise Gamgee
 0 !CMDLINE -c28
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neck mark
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // front pattern
 4 0 -9.39 1 -10 -10.29 1 -10 -10.74 1.75 -10 -9.96 1.97 -10
 4 0 -9.96 1.97 -10 -10.74 1.75 -10 -11.08 2.68 -10 -10.32 2.95 -10
 4 0 -10.32 2.95 -10 -11.08 2.68 -10 -11.29 3.55 -10 -10.51 3.85 -10
@@ -1747,7 +1739,6 @@
 3 308 17.32 24.75 -10 17.575 27.125 -10 18 29.01 -10
 3 16 17.32 24.75 -10 18 29.01 -10 19 29 -10
 3 308 -17.92 28.41 -10 -18 29 -10 -16.44 28.61 -10
-0 // rear pattern
 4 308 -2.5004 23.99 10 -2.5513 23.7337 10 -2.1186 23.5545 10 -2.032 23.99 10
 4 308 -2.5513 24.2463 10 -2.5004 23.99 10 -2.032 23.99 10 -2.1186 24.4255 10
 4 308 -2.6965 24.4635 10 -2.5513 24.2463 10 -2.1186 24.4255 10 -2.3653 24.7947 10

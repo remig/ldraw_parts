@@ -1,23 +1,14 @@
 0 Minifig Torso with SW Robe, Sash and Silver Neck Clasp Pattern
 0 Name: 973pr1.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, Emperor, Palpatine, Death Star
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
+0 !KEYWORDS Death Star, emperor, Palpatine, Star Wars
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Plain back
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 14.345 2 10 19 29 10 -19 29 10 -14.345 2 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
-0 // Neck mark
 1 135 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Pattern
 4 0 -5.955 4.649 -10 -6.22 4.217 -10 -6.255 4.648 -10 -6.188 5.044 -10
 4 0 -5.955 1.228 -10 -6.188 0.828 -10 -6.255 1.225 -10 -5.928 1.582 -10
 4 0 -5.928 4.285 -10 -6.131 3.9 -10 -6.22 4.217 -10 -5.955 4.649 -10

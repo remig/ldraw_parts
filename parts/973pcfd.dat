@@ -1,19 +1,14 @@
 0 Minifig Torso with Light Blue Parabola Shaped Belly Pattern
 0 Name: 973pcfd.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS CMF, series 15, Shark Suit, Bricklink 973pb2209
-
+0 !KEYWORDS Bricklink 973pb2209, CMF, Series 15, Shark Suit
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -19 29 10 19 29 10 19 32 10 -19 32 10
 4 16 19 29 10 -19 29 10 -14.35 2 10 14.35 2 10
 4 16 14.35 2 10 -14.35 2 10 -12 0 10 12 0 10
 1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 3 16 -12 0 -10 -11.4 1 -10 -10.8 0.8 -10
 4 16 -11.8 1.4 -10 -11.4 1 -10 -12 0 -10 -14.345 2 -10
 3 16 -11.8 1.4 -10 -14.345 2 -10 -11.9 1.7 -10

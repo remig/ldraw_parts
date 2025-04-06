@@ -1,21 +1,14 @@
 0 Minifig Torso with Space Port Logo, Tube and 'C1' Pattern
 0 Name: 973p8e.dat
 0 Author: Tomas Kralicek [RabbiT_CZ]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Bricklink 973px176, Town
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 !KEYWORDS Bricklink 973px176, town
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -12 0 10 12 0 10 14.345 2 10 -14.345 2 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
 4 16 -19 29 10 19 29 10 19 32 10 -19 32 10
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 4 15 -11.5 25.54 -10 -12.34 26.6 -10 -11.86 26.94 -10 -11.04 25.94 -10
 4 15 -12.96 26.1 -10 -12.12 25.04 -10 -12.58 24.64 -10 -13.42 25.76 -10
 4 0 4.92 10.9 -10 4.92 11.36 -10 6.14 11.36 -10 6.14 10.9 -10
@@ -967,7 +960,6 @@
 3 14 9.48 26.54 -10 9.4 26.74 -10 9.62 26.74 -10
 4 14 9.4 26.74 -10 9.48 26.54 -10 9.26 26.54 -10 8.12 26.74 -10
 3 14 8.12 26.74 -10 9.26 26.54 -10 8.34 26.54 -10
-
 3 16 .86 18.68 -10 -2.5 16.68 -10 .8 19.06 -10
 3 16 -2.5 16.68 -10 .86 18.68 -10 .96 18 -10
 3 16 -2.5 16.68 -10 .96 18 -10 1.04 17.58 -10

@@ -1,23 +1,13 @@
 0 Minifig Torso with SW Nute Gunray Pattern
 0 Name: 973prh.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
-0 // Torso
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Plain Back
 4 16 -19 32 10 19 32 10 19 29 10 -19 29 10
 4 16 -19 29 10 19 29 10 14.345 2 10 -14.345 2 10
 4 16 -14.345 2 10 14.345 2 10 12 0 10 -12 0 10
-0 // Neckmark
 1 71 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Front Pattern
 4 0 -3.078 13.164 -10 -0.834 8.167 -10 -0.444 8.526 -10 -2.622 13.38 -10
 4 0 -3.218 13.544 -10 -3.078 13.164 -10 -2.622 13.38 -10 -2.771 13.665 -10
 4 0 -3.325 13.972 -10 -3.218 13.544 -10 -2.771 13.665 -10 -2.84 13.979 -10

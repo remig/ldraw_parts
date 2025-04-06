@@ -1,27 +1,16 @@
 0 Minifig Torso with SW Wrap-Around Tunic Pattern
 0 Name: 973ps3.dat
 0 Author: Matt Schild [mschild]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, Classic Trilogy, Tatooine, farm boy, Luke Skywalker, Mark Hamill
+0 !KEYWORDS Classic Trilogy, farm boy, Luke Skywalker, Mark Hamill, Star Wars
+0 !KEYWORDS Tatooine
 0 !CMDLINE -c15
-
-0 !HISTORY 2002-05-27 [mschild] fixed overlaps
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-04-08 [TK-949] Complete Rewrite
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 4 0 -11.43 27.2 -10 -11.42 27.39 -10 -9.8 27.21 -10 -9.75 27.05 -10
 3 0 -11.78 27.78 -10 -11.96 27.81 -10 -10.72 29.27 -10
 3 0 -11.6 27.69 -10 -11.78 27.78 -10 -10.72 29.27 -10

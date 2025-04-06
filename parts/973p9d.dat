@@ -1,14 +1,9 @@
 0 Minifig Torso with Dark Pink Stomach Lines Pattern
 0 Name: 973p9d.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 80102, Bricklink 973pb3417
-0 !KEYWORDS Pig, Animal, Costume
-
+0 !KEYWORDS animal, Bricklink 973pb3417, Costume, pig, set 80102
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10

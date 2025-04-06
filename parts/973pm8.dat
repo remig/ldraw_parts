@@ -1,20 +1,12 @@
 0 Minifig Torso with LOTR Jacket and Yellow Vest Pattern
 0 Name: 973pm8.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Lord of the Rings, Merry
 0 !CMDLINE -c288
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neck mark
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // front pattern
 4 0 1.0759 18.1241 -10 1.2456 17.8832 -10 0.7935 17.4061 -10 0.4748 17.8564 -10
 4 0 1.0105 18.4113 -10 1.0759 18.1241 -10 0.4748 17.8564 -10 0.3535 18.3946 -10
 4 0 1.0606 18.7018 -10 1.0105 18.4113 -10 0.3535 18.3946 -10 0.4467 18.9374 -10
@@ -1514,7 +1506,6 @@
 4 0 9.533 23.335 -10 10.611 23.659 -10 10.209 23.049 -10 9.755 22.992 -10
 4 0 9.533 23.335 -10 9.755 22.992 -10 9.575 23.002 -10 9.46 23.088 -10
 4 16 9.533 23.335 -10 9.46 23.088 -10 7.65 23.63 -10 8.686 25.02 -10
-0 // rear pattern
 4 0 -1.9 14.4 10 0 14.4 10 0 15 10 -1.9 15 10
 4 0 -3.9 14.4 10 -1.9 14.4 10 -1.9 15 10 -3.8 15 10
 4 0 -5.84 14.44 10 -3.9 14.4 10 -3.8 15 10 -5.74 15.03 10

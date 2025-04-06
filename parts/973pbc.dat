@@ -1,17 +1,10 @@
 0 Minifig Torso with Iron Man Armoured Suit Mark VII Pattern
 0 Name: 973pbc.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // frontside pattern
 4 0 -1.276 30.827 -10 -1.276 31.321 -10 0 31.337 -10 0 30.821 -10
 4 0 -2.559 30.859 -10 -2.559 31.305 -10 -1.276 31.321 -10 -1.276 30.827 -10
 4 0 -2.559 30.859 -10 -3.987 30.824 -10 -3.987 31.288 -10 -2.559 31.305 -10
@@ -768,8 +761,6 @@
 4 16 -12 0 -10 -2.73 0.482 -10 2.73 0.482 -10 12 0 -10
 4 16 -4.79 0.431 -10 -3.451 0.482 -10 -2.73 0.482 -10 -12 0 -10
 4 16 2.73 0.482 -10 3.451 0.482 -10 4.79 0.431 -10 12 0 -10
-
-0 // backside pattern
 4 0 -2.02 30.646 10 2.02 30.646 10 2.98 31.202 10 -2.98 31.202 10
 3 0 2.879 30.343 10 2.98 31.202 10 2.02 30.646 10
 4 0 2.879 28.626 10 2.879 30.343 10 2.02 30.646 10 2.02 26.556 10

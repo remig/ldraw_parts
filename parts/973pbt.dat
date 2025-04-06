@@ -1,19 +1,11 @@
 0 Minifig Torso with Iron Man Armoured Suit Classic Pattern
 0 Name: 973pbt.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS MARVEL, Super Heroes, Toy Fair
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 !KEYWORDS Marvel, Super Heroes, Toy Fair
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Back
 3 16 -12.497 .851 10 -13.007 1.135 10 -12 0 10
 3 16 -12 0 10 -11.794 .734 10 -12.497 .851 10
 3 16 -13.692 2.204 10 -14.345 2 10 -13.443 1.611 10
@@ -343,8 +335,6 @@
 4 82 6.433 20.163 10 8.577 19.837 10 9.237 20.082 10 8.412 23.102 10
 4 0 14.763 16.571 10 16.254 16.407 10 16.356 16.989 10 14.928 17.143 10
 4 0 -8.495 31.837 10 -2.887 31.265 10 3.464 31.265 10 8.66 31.837 10
-
-0 // Front
 4 0 11.711 1.224 -10 12.454 1.388 -10 12.978 1.083 -10 12.206 .652 -10
 3 16 12.206 .652 -10 12.978 1.083 -10 12 0 -10
 3 16 10.639 .653 -10 12 0 -10 9.278 .765 -10

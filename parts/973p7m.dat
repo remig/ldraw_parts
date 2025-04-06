@@ -1,16 +1,12 @@
-0 Minifig Torso w/ Shirt, Badge, Blue Tie, "POLICE" Back Pattern
+0 Minifig Torso with Shirt, Badge, Blue Tie, "POLICE" Back Pattern
 0 Name: 973p7m.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
+0 !KEYWORDS Bricklink 973pb0801, set 10675, Set 3661, Set 4207, Set 7288
+0 !KEYWORDS Set 7498
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 1 82 8.89 15.69 -10 0.6404 0 0 0 0 -0.64 0 1 0 s\3070bp70a.dat
 1 16 -0.2782 11.8107 10 -0.3996 0 0 0 0 -0.36 0 -1 0 s\973p7ma.dat
 4 0 7 1.1 10 7.7 1.2 10 6.8 2.3 10 6.3 1.8 10
@@ -75,7 +71,6 @@
 3 16 -5.7 2.9 10 -4 3.9 10 -10.6678 8.2107 10
 3 16 -4 3.9 10 -1.9 4.2 10 -10.6678 8.2107 10
 3 16 -1.9 4.2 10 0 4.2 10 -10.6678 8.2107 10
-0 //
 4 16 -9.5 13.6 -10 -10.0444 13.2857 -10 -10.1286 13.6 -10 -10.0444 13.9143 -10
 4 16 -9.5 13.6 -10 -10.0444 13.9143 -10 -9.81431 14.1444 -10 -9.5 14.2286 -10
 4 16 -9.5 13.6 -10 -9.5 14.2286 -10 -9.18569 14.1444 -10 -8.9556 13.9143 -10

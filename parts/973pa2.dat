@@ -1,28 +1,17 @@
 0 Minifig Torso with Pharaoh Breastplate Pattern
 0 Name: 973pa2.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Adventurers, Egypt, Egyptian, ancient, mummy, archeology
-0 !KEYWORDS pyramid, ruins, crypt, Nile, Cairo, Giza, King Tut, gold
-0 !KEYWORDS necklace, pectoral, chestplate
+0 !KEYWORDS Adventurers, ancient, archeology, Cairo, chestplate, crypt, Egypt
+0 !KEYWORDS egyptian, Giza, gold, King Tut, mummy, necklace, Nile, pectoral
+0 !KEYWORDS pyramid, ruins
 0 !CMDLINE -c0
-
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2015-06-28 [MagFors] bfc'd, inlined subfiles, reworked
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 4 16 -12 0 10 12 0 10 14.345 2 10 -14.345 2 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -19 29 10 19 29 10 19 32 10 -19 32 10
-0 // pattern
 4 82 11.637 0.871 -10 11.45 3.312 -10 12.5 3.8 -10 12.376 1.574 -10
 4 82 7.543 1.506 -10 6.474 1.885 -10 7.963 3.396 -10 8.75 2.375 -10
 4 82 11.35 3.825 -10 10.461 5.797 -10 11.881 7.157 -10 12.5 4.55 -10

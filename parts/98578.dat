@@ -1,17 +1,9 @@
 0 Technic Spiked Ball Half
 0 Name: 98578.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Weapon, Hero Factory, EV3
-
-0 !HISTORY 2013-02-18 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2013-02-18 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
+0 !KEYWORDS EV3, hero factory, Weapon
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98578s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\98578s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\98578s01.dat
@@ -24,7 +16,6 @@
 1 16 0 0 0 -1 0 0 0 -40 0 0 0 1 axlehol6.dat
 1 16 0 0 0 1 0 0 0 -40 0 0 0 -1 axlehol6.dat
 1 16 0 0 0 1 0 0 0 -40 0 0 0 1 axlehol6.dat
-0 // Axle stop
 4 16 0 -20.25 -8.5 0 -20.25 -3.3 -0.7 -20.25 -3.2 -1.2 -20.25 -8.5
 3 16 -1.2 -20.25 -8.5 -0.7 -20.25 -3.2 -1.2 -20.25 -5.75
 4 16 -1.2 -20.25 -5.75 -0.7 -20.25 -3.2 -1.6 -20.25 -2.9 -2 -20.25 -5.602

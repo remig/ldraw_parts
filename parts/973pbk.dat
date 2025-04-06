@@ -1,23 +1,15 @@
 0 Minifig Torso with Open Suit Revealing Superman Logo Pattern
 0 Name: 973pbk.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Clark Kent, Batman The Movie, DC Super Heroes Unite
-
+0 !KEYWORDS Batman The Movie, Clark Kent, DC Super Heroes Unite
 0 !CMDLINE -c272
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 4 0 0 18.4 -10 3.446 16.15 -10 4.345 15.291 -10 7.5 11.2 -10
 4 0 0.79 18.831 -10 3.446 16.15 -10 0 18.4 -10 0 19.538 -10
 4 0 0 18.4 -10 -4.545 15.391 -10 -3.796 16.15 -10 -0.79 18.831 -10

@@ -1,19 +1,11 @@
-0 Minifig Torso Scarlet Spider Pattern
+0 Minifig Torso with Hoodie Scarlet Spider over Red Shirt and Silver Belt Pattern
 0 Name: 973pbs.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS MARVEL, Super Heroes, Spider-Man, set 76057
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 !KEYWORDS Bricklink 973pb2435, Marvel, Set 76057, Spider-Man, Super Heroes
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Back
 3 16 12.245 .98 10 12.245 .816 10 14.345 2 10
 4 0 11.429 1.551 10 11.837 .653 10 12.245 .816 10 12.245 .98 10
 3 16 11.347 .653 10 12 0 10 11.837 .653 10
@@ -382,8 +374,6 @@
 4 16 -16.245 22.531 10 -15.51 22.367 10 -15.184 23.429 10 -16.245 23.347 10
 3 16 -19 32 10 -8.408 31.673 10 8.082 31.673 10
 4 16 1.184 10.082 10 2.041 10.041 10 2.939 13.224 10 1.551 13.633 10
-
-0 // Front
 3 16 -11.837 .735 -10 -12 0 -10 -14.345 2 -10
 3 16 -12 0 -10 -11.837 .735 -10 -11.347 .735 -10
 3 0 -11.592 1.306 -10 -11.347 .735 -10 -11.837 .735 -10

@@ -1,28 +1,16 @@
 0 Minifig Torso with SW Imperial Officer Pattern
 0 Name: 973psq.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, Classic Trilogy, Empire, Death Star, set 7201
-0 !KEYWORDS military, uniform, tunic, jacket, rank insignia
-0 !KEYWORDS Captain, Major, Commander, General, Admiral, Governor, Grand Moff
-
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-04-08 [BlackBrick89] Colour/pattern cleanup
-0 !HISTORY 2012-05-25 [TK-949] Complete Rewrite
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !KEYWORDS admiral, captain, Classic Trilogy, commander, Death Star, Empire
+0 !KEYWORDS General, Governor, Grand Moff, Jacket, Major, Military
+0 !KEYWORDS rank insignia, set 7201, Star Wars, tunic, Uniform
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973psqs01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973psqs01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973psqs02.dat
@@ -33,7 +21,6 @@
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973psqs06.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973psqs07.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973psqs07.dat
-
 1 80 0 28.69 -10 1.1875 0 0 0 0 -1.1875 0 1 0 4-4disc.dat
 1 0 -10.55 29.41 -10 0.49 0 0 0 0 -0.49 0 1 0 4-4disc.dat
 1 0 -12.71 29.41 -10 0.49 0 0 0 0 -0.49 0 1 0 4-4disc.dat
@@ -101,7 +88,6 @@
 4 0 -13.38 5.672 -10 -13.48 5.68 -10 -13.5 6.13 -10 -13.04 6.01 -10
 4 0 -9.9 5.77 -10 -9.98 6.35 -10 -9.87 6.22 -10 -9.84 5.97 -10
 4 0 -10.03 5.71 -10 -10.118 6.278 -10 -9.98 6.35 -10 -9.9 5.77 -10
-
 4 1 4.44 6.26 -10 3.3 6.26 -10 3.3 8.06 -10 4.44 8.06 -10
 4 1 6.16 6.26 -10 5.02 6.26 -10 5.02 8.06 -10 6.16 8.06 -10
 4 1 7.88 6.26 -10 6.74 6.26 -10 6.74 8.06 -10 7.88 8.06 -10

@@ -1,20 +1,12 @@
-0 Minifig Torso with LOTR Armor, Brown Belt & Gold Buckle Pattern
+0 Minifig Torso with LOTR Armour, Brown Belt & Gold Buckle Pattern
 0 Name: 973pm5.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Lord of the Rings, Eomer
+0 !KEYWORDS Armor, Éomer, Lord of the Rings
 0 !CMDLINE -c320
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neck mark
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // front pattern
 4 16 3.168 12.721 -10 3.534 13.603 -10 4.237 13.415 -10 3.798 12.357 -10
 4 16 2.587 11.963 -10 3.168 12.721 -10 3.798 12.357 -10 3.101 11.449 -10
 4 16 1.829 11.382 -10 2.587 11.963 -10 3.101 11.449 -10 2.193 10.752 -10
@@ -2323,7 +2315,6 @@
 4 0 -13.516 10.986 -10 -13.453 10.5 -10 -13.6 10.76 -10 -13.62 11 -10
 4 0 -13.7 11.42 -10 -13.516 10.986 -10 -13.62 11 -10 -13.74 11.09 -10
 3 0 -13.74 11.09 -10 -14.054 11.14 -10 -13.7 11.42 -10
-0 // rear pattern
 4 80 -3.349 11.612 10 -2.964 12.036 10 -3.671 12.542 10 -3.94 12.3 10
 4 80 -3.804 11.3 10 -3.349 11.612 10 -3.94 12.3 10 -4.284 12.073 10
 4 80 -3.449 12.832 10 -3.671 12.542 10 -2.964 12.036 10 -2.628 12.624 10

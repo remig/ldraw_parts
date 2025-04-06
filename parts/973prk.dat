@@ -1,21 +1,13 @@
 0 Minifig Torso with SW Shadow Trooper Pattern
 0 Name: 973prk.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, expanded universe, Empire, Imperial
-0 !KEYWORDS soldier, military, armor, blast armor
-
+0 !KEYWORDS Armor, blast armor, Empire, expanded universe, Imperial, Military
+0 !KEYWORDS soldier, Star Wars
 0 !CMDLINE -c0
-
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Front Print
 4 7 15.85 32 -10 16.55 32 -10 16.55 28.8 -10 15.85 27.4 -10
 4 7 16.55 28.8 -10 17.65 28.8 -10 17.65 28.2 -10 16.55 28.2 -10
 4 7 13.35 27.4 -10 15.85 27.4 -10 12.65 26.7 -10 11.9 27.1 -10
@@ -515,8 +507,6 @@
 3 16 -13.47 11.24 -10 -14.3 11.9 -10 -14.84 13.18 -10
 4 7 -14.84 13.18 -10 -14.3 11.9 -10 -14.5 11.84 -10 -14.96 13.02 -10
 3 7 3.8 28.9 -10 3.8 32 -10 5.4 32 -10
-
-0 // Back Print
 1 7 3.1 11 10 -0.5 0 0 0 0 0.5 0 -1 0 4-4ring3.dat
 1 7 3.1 11 10 -0.8 0 0 0 0 0.8 0 -1 0 4-4disc.dat
 1 16 3.1 11 10 -2 0 0 0 0 2 0 -1 0 4-4ndis.dat

@@ -1,17 +1,10 @@
 0 Minifig Torso Batman Logo in Yellow Oval with Yellow Utility Belt and Gold Buckle Pattern
 0 Name: 973pbo.dat
 0 Author: Heiko Jelnikar [KlotzKiste]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.24 0 -4.24 0 -8 0 -4.24 0 -4.24 1-4cyli.dat
-
-0 // FRONT
 4 272 -14.06 10.58 -10 -14.39 9.66 -10 -14.45 10.6 -10 -14.25 11.5 -10
 4 272 -13.77 11.23 -10 -14.06 10.58 -10 -14.25 11.5 -10 -14.05 11.96 -10
 4 272 -13.5 11.7 -10 -13.77 11.23 -10 -14.05 11.96 -10 -13.74 12.31 -10
@@ -652,8 +645,6 @@
 3 297 4.13 23.75 -10 3.08 27.07 -10 4.13 29.51 -10
 3 297 3.08 27.07 -10 2.39 27.41 -10 4.13 29.51 -10
 3 297 0.67 27.96 -10 -0.18 28.51 -10 4.13 29.51 -10
-
-0 // BACK
 4 272 2.53 3.07 10 -0.41 3.39 10 8.31 0.5 10 4.73 2.59 10
 3 272 6.81 1.61 10 4.73 2.59 10 8.31 0.5 10
 4 272 -8.77 0.5 10 -0.41 3.39 10 -3.59 3.11 10 -5.67 2.57 10

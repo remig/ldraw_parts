@@ -1,16 +1,11 @@
-0 Minifig Torso Female with LtPurple Scarf and Gray Belt Pattern
+0 Minifig Torso Female with Light Purple Scarf with Fringe and Grey Belt Pattern
 0 Name: 973p7y.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !KEYWORDS BrickLink 973pb0962, set 10222
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Front
 4 272 16 23.1 -10 17.7 28 -10 15.2 14.2 -10 15.1 16 -10
 3 272 15.05 17 -10 16 23.1 -10 15.1 16 -10
 3 272 14.95 18 -10 16 23.1 -10 15.05 17 -10
@@ -958,7 +953,6 @@
 4 29 3.654 17.164 -10 4.782 16.937 -10 0.5 13.7 -10 0.25 14.75 -10
 3 29 0.25 14.75 -10 2.636 17.426 -10 3.654 17.164 -10
 4 29 1.7 17.7 -10 2.636 17.426 -10 0.25 14.75 -10 0.984 17.902 -10
-0 // Back
 4 272 -16 23.1 10 -17.7 28 10 -15.2 14.2 10 -15.1 16 10
 3 272 -15.05 17 10 -16 23.1 10 -15.1 16 10
 3 272 -14.95 18 10 -16 23.1 10 -15.05 17 10

@@ -1,18 +1,11 @@
-0 Minifig Torso with Dress, White Apron and Red Beads Necklace
+0 Minifig Torso with Dress, White Apron and Red Beads Necklace Pattern
 0 Name: 973p88.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS The Simpsons, Marge, Simpson
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS Bricklink 973pb1619, Marge, Set 71006, Simpson, The Simpsons
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // front
 4 4 1.8 3.3 -10 0.683 2.6551 -10 0.5102 3.3 -10 0.683 3.9449 -10
 4 4 1.8 3.3 -10 0.683 3.9449 -10 1.1551 4.417 -10 1.8 4.5898 -10
 4 4 1.8 3.3 -10 1.8 4.5898 -10 2.4449 4.417 -10 2.917 3.9449 -10
@@ -359,7 +352,6 @@
 3 15 -5.7 31.35 -10 -17.7 31.5 -10 0 31.5 -10
 3 16 0 31.5 -10 -17.7 31.5 -10 -19 32 -10
 3 16 -17.7 29.65 -10 -19 32 -10 -17.7 31.5 -10
-0 // back
 4 4 -1.8 3.3 10 -0.683 2.6551 10 -0.5102 3.3 10 -0.683 3.9449 10
 4 4 -1.8 3.3 10 -0.683 3.9449 10 -1.1551 4.417 10 -1.8 4.5898 10
 4 4 -1.8 3.3 10 -1.8 4.5898 10 -2.4449 4.417 10 -2.917 3.9449 10

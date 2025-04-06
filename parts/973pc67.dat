@@ -1,19 +1,13 @@
 0 Minifig Torso with Clockwork Robot Pattern
 0 Name: 973pc67.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 4 80 -13.8 16.2 -10 -14.14 16.059 -10 -14.168 16.2 -10 -14.14 16.341 -10
 4 80 -13.8 16.2 -10 -14.14 16.341 -10 -14.061 16.461 -10 -13.941 16.54 -10
 4 80 -13.8 16.2 -10 -13.941 16.54 -10 -13.8 16.568 -10 -13.659 16.54 -10

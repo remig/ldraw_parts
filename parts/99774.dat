@@ -1,17 +1,9 @@
 0 Minifig Ski 4L without Hinge
 0 Name: 99774.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Footwear
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-02-27 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 4 16 -5 3 22.7 5 3 22.7 10 3 14 -10 3 14
 4 16 10 3 14 5 3 22.7 4.9 0 22.8 10 0 14
 1 16 10 1.5 -3.9 0 -1 0 1.5 0 0 0 0 17.9 rect2a.dat

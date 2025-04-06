@@ -1,29 +1,15 @@
 0 Minifig Torso with Police Female Shirt with Gold Badge, Pocket and Black Tie Pattern
 0 Name: 973p7l.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS set 10246, set 70809  
-0 !KEYWORDS detective's, office, officer
-
+0 !KEYWORDS detective's, office, officer, set 10246, Set 70809
 0 !CMDLINE -c73
-
-0 // Subfile
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-
-0 // Neck mark
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Back
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
-
-0 // Front
-0 // Black
 1 0 7.6 13.5 -10 .2 0 0 0 0 -.2 0 1 0 4-4ring2.dat
 1 0 9.4 13.5 -10 .2 0 0 0 0 -.2 0 1 0 4-4ring2.dat
 1 0 9.4 15.3 -10 .2 0 0 0 0 -.2 0 1 0 4-4ring2.dat
@@ -103,8 +89,6 @@
 3 0 -5.8 13.1 -10 -5.5 13.9 -10 -5 13.9 -10
 3 0 -6.3 13.977 -10 -6.3 19 -10 -5.5 19 -10
 4 0 3.225 17.625 -10 1.1 6 -10 -2.8 15.3 -10 -4.5 24.6 -10
-
-0 // Metallic Gold
 4 82 5.456 10.299 -10 6.5 12.4 -10 7.672 12.4 -10 6.948 10.057 -10
 4 82 6.948 10.057 -10 7.672 12.4 -10 8.5 11.572 -10 8.5 9.976 -10
 4 82 10.052 10.057 -10 8.5 9.976 -10 8.5 11.572 -10 9.328 12.4 -10
@@ -151,8 +135,6 @@
 4 82 8.8 15.9 -10 8.8 14.7 -10 8.2 14.7 -10 8.2 15.9 -10
 4 82 10 14.1 -10 8.8 14.1 -10 8.8 14.7 -10 10 14.7 -10
 4 82 7 14.7 -10 8.2 14.7 -10 8.2 14.1 -10 7 14.1 -10
-
-0 // Main Colour
 1 16 -9.5 12.4 -10 .6 0 0 0 0 -.6 0 1 0 4-4disc.dat
 1 16 -9.5 12.4 -10 1.2 0 0 0 0 -1.2 0 1 0 4-4ndis.dat
 1 16 -11.9 19 -10 -.8 0 0 0 0 .8 0 1 0 1-4disc.dat

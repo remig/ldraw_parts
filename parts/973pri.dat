@@ -1,20 +1,11 @@
-0 Minifig Torso SW Jawa with Dark Brown Pouches and Black and Tan Straps
+0 Minifig Torso SW Jawa with Dark Brown Pouches and Black and Tan Straps Pattern
 0 Name: 973pri.dat
 0 Author: John Troxler [Gargan]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
-0 // Torso
+0 !KEYWORDS Bricklink 973pb1736, set 75059, Set 75136
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-
-0 // Neck mark
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Front
 3 0 -2.227 26.341 -10 -2.24 26.42 -10 -1.915 26.498 -10
 3 0 9.846 25.734 -10 8.984 26.388 -10 10.301 26.305 -10
 3 0 1.308 22.676 -10 1.826 23.075 -10 1.827 22.748 -10
@@ -1262,8 +1253,6 @@
 4 308 -0.134 24.039 -10 1.459 24.97 -10 -0.442 23.514 -10 -0.599 23.627 -10
 4 308 -7.512 17.429 -10 -6.912 18.092 -10 -7.408 17.249 -10 -7.504 17.268 -10
 4 308 -14.787 28.501 -10 -14.478 28.892 -10 -14.08 29.15 -10 -14.911 28.236 -10
-
-0 // Back
 1 0 -6.447 9.303 10 -0.378 0 -0.378 0.378 0 -0.378 0 -1 0 2-4disc.dat
 1 0 -11.331 3.188 10 -0.534 0 0 0 0 -0.534 0 -1 0 4-4disc.dat
 1 0 -4.367 11.717 10 -0.534 0 0 0 0 -0.534 0 -1 0 4-4disc.dat

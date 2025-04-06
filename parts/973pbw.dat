@@ -1,17 +1,12 @@
 0 Minifig Torso with Silver Zod Emblem and Oval Belt Buckle and Muscles Outline Pattern
 0 Name: 973pbw.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS DC, Super Heroes, General Zod, Villain, Man of Steel, set 76002, set 76003, set 76009
-
+0 !KEYWORDS 2-sided, DC, General Zod, Man of Steel, set 76002, Set 76003
+0 !KEYWORDS set 76009, Super Heroes, villain
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 71 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Back
 3 16 -14.345 2 10 -14.163 3.794 10 -14.965 8.306 10
 3 16 -14.163 3.794 10 -14.345 2 10 -13.918 3.546 10
 4 16 -12 0 10 -11.551 2.474 10 -13.918 3.546 10 -14.345 2 10
@@ -324,9 +319,6 @@
 3 16 18.316 27.038 10 19 29 10 18.655 28.948 10
 4 16 -19 32 10 8.776 31.753 10 12.286 31.753 10 19 32 10
 3 16 17.944 24.94 10 17.441 22.101 10 19 29 10
-
-
-0 // Front
 4 72 -15.061 12.167 -10 -15.061 11.25 -10 -15.184 11.25 -10 -15.388 11.75 -10
 4 16 -14.898 13.167 -10 -11.061 11.5 -10 -12.196 10.075 -10 -15.061 12.167 -10
 4 16 -13.965 2.8 -10 -14.345 2 -10 -15.388 11.75 -10 -15.184 11.25 -10

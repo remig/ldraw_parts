@@ -1,20 +1,12 @@
 0 Minifig Torso with DarkBlue Muscles and Gold Necklace Pattern
 0 Name: 973pq2.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Pharaoh's Quest, Anubis Guard
+0 !KEYWORDS Anubis Guard, Pharaoh's Quest
 0 !CMDLINE -c0
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neck mark
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // front pattern
 4 272 0.85 11.2 -10 2 11.1 -10 1.45 8.9 -10 0.7 9 -10
 4 272 2.55 11 -10 3.6 10.65 -10 2.7 8.55 -10 1.95 8.8 -10
 4 272 4.1 10.45 -10 5.1 10 -10 3.9 8.1 -10 3.2 8.4 -10
@@ -854,7 +846,6 @@
 3 16 -13.45 3.68 -10 -13.18 1.865 -10 -14.345 2 -10
 3 16 -14.345 2 -10 -13.48 4.13 -10 -13.45 3.68 -10
 3 16 -14.345 2 -10 -13.53 4.725 -10 -13.48 4.13 -10
-0 // rear pattern
 4 272 -0.85 11.2 10 -2 11.1 10 -1.45 8.9 10 -0.7 9 10
 4 272 -2.55 11 10 -3.6 10.65 10 -2.7 8.55 10 -1.95 8.8 10
 4 272 -4.1 10.45 10 -5.1 10 10 -3.9 8.1 10 -3.2 8.4 10
