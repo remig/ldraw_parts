@@ -1,13 +1,8 @@
 0 ~Technic Excavator Bucket  6 x  9 Rib and Tooth
 0 Name: s\4700s01.dat
 0 Author: Guus-Jan Wijnhoven [guus]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 4 16 3.75 87.9 -61.5 3.75 86 -63.7 3.75 87.3 -72.1 3.75 89.5 -70.2
 2 24 3.75 87.3 -72.1 3.75 86 -63.7
 2 24 3.75 87.9 -61.5 3.75 89.5 -70.2
@@ -97,4 +92,3 @@
 5 24 3.75 55.5 -137.03 -3.75 55.5 -137.03 -3.75 62.9 -132.22 3.75 11.3 -162.56
 2 24 3.75 11.3 -162.56 -3.75 11.3 -162.56
 1 16 -3.75 22.5 -78.125 0 7.5 0 62.6997 0 25 25 0 -62.6997 48\1-4cyli.dat
-0

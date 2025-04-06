@@ -1,11 +1,8 @@
-0 ~Dish  6 x  6 Inverted Millenium Falcon Cockpit Pattern, Window Section - 1/8
+0 ~Dish  6 x  6 Inverted Millennium Falcon Cockpit Pattern, Window Section - 1/8
 0 Name: s\44375ps0s00.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 -7.376 1.2751 -27.529 -5.176 0 -19.318 -7.654 0 -18.478 -10.9067 1.2749 -26.3305
 4 16 -3.7194 1.2752 -28.2562 -2.61 0 -19.828 -5.176 0 -19.318 -7.376 1.2751 -27.529
 4 16 -10 0 -17.32 -14.2503 1.2751 -24.6815 -10.9067 1.2749 -26.3305 -7.654 0 -18.478
@@ -72,8 +69,6 @@
 4 71 -32.8732 7.9984 -42.841 -36.528 11 -47.604 -30 11 -51.96 -27.0006 8.0006 -46.765
 4 16 -20.0912 7.2493 -48.5035 -13.5874 7.2508 -50.7112 -12.94 6 -48.295 -19.135 6 -46.195
 4 16 -30.44 6 -39.67 -32.7193 6 -37.669 -34.486 7.2493 -39.4358 -31.9601 7.2484 -41.651
-
-0 // Condlines
 5 24 0 0 -20 -2.61 0 -19.828 0 0 0 -5.22 3 -39.656
 5 24 -2.61 0 -19.828 -5.176 0 -19.318 0 0 0 -10.352 3 -38.636
 5 24 -5.176 0 -19.318 -7.654 0 -18.478 0 0 0 -15.308 3 -36.956

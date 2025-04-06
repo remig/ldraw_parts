@@ -1,19 +1,8 @@
 0 ~Animal Horse Head Mane
 0 Name: s\4492m.dat
 0 Author: Sascha Broich
-0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-12-07 [MagFors] Made BFC compliant
-0 !HISTORY 2014-12-10 [MagFors] Recreated cond-lines
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
-0 // mane side
 3 16 7.25 -56 -16 4.275 -61.315 -13.5 3.848 -62.813 -16
 3 16 7.25 -56 -16 3.848 -62.813 -16 3.25 -64.5 -19.5
 3 16 4.446 -60.647 -12.5 7.7 -52.75 -11.5 5.343 -56.5 -7.25
@@ -34,10 +23,8 @@
 3 16 7.7 -51.5 -11.4 7.7 -51 -11 7.775 -51.75 -10.75
 3 16 8.288 -45 -6.25 8.3 -44 -6.5 8.356 -45 -5.5
 3 16 8.98 -36.5 -0.75 9 -35.5 -1 9.008 -36 -0.5
-0 // forehead side
 3 16 7.207 -61 -37.25 7.118 -60 -37 6.639 -64 -29.975
 3 16 7.118 -60 -37 6.74 -59.27 -31.275 6.639 -64 -29.975
-0 // Added lines/Condlines
 5 24 3.848 -62.813 -16 7.25 -56 -16 4.275 -61.315 -13.5 3.25 -64.5 -19.5
 5 24 7.7 -52.75 -11.5 5.343 -56.5 -7.25 4.446 -60.647 -12.5 7.8 -52 -10.5
 5 24 7.7 -52.75 -11.5 7.8 -52 -10.5 5.343 -56.5 -7.25 7.775 -51.75 -10.75

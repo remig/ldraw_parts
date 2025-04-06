@@ -1,15 +1,8 @@
 0 ~Tyre 26/ 52 x 30 Off Road - 1/16
 0 Name: s\55976s00.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
-0 // Created with stl2dat conversion tool
-
 5 24 -25 58 0 25 58 0 25 56.8856 11.3152 -26.5145 58 -8.55617
 2 24 2.93674 62.4667 25.8745 10 62.4667 25.8745
 5 24 -3.06326 65.5955 27.1705 2.93674 65.5955 27.1705 -1.06326 66.176 25.2566 0.936739 64.6526 28.9344

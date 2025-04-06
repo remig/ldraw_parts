@@ -1,13 +1,8 @@
 0 ~Wedge 10 x  3 x  1 Double Rounded without Studs
 0 Name: s\50956s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 1 16 0 0 40 1 0 0 0 1 0 0 0 1 s\50956s02.dat
 4 16 -10 0 -30 10 0 -30 10 0 10 -10 0 10
 4 16 10 0.1 -50 10 0 -30 -10 0 -30 -10 0.1 -50
@@ -66,4 +61,3 @@
 5 24 -10 4 -110 -30 20 -110 -35 20 -90 -25 20 -130
 5 24 -10 6.9 -130 -25 20 -130 -30 20 -110 -20 20 -150
 5 24 -10 10.5 -150 -20 20 -150 -25 20 -130 -16.25 20 -165
-0

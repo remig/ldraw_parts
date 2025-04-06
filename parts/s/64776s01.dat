@@ -1,18 +1,8 @@
 0 ~Die 6 Sided Edge
 0 Name: s\64776s01.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
-0 // Created with CATIA V5.
-0 // Converted with stl2dat to DAT file and finished with MLCad.
-
-
-
 2 24 -6.686 6.15 6.15 -6.364 6.364 6.364
 2 24 -6.947 4.947 4.947 -7.018 5.553 5.553
 2 24 -7.018 5.553 5.553 -6.686 6.15 6.15
@@ -101,4 +91,3 @@
 5 24 -8.95 -13.966 7.485 -8.712 -5.834 7.248 -8.754 -13.979 6.754 -8.753 -13.958 8.217
 5 24 -8.95 -13.966 7.485 -8.753 -13.958 8.217 -8.515 -5.8 7.979 -8.95 -22 7.485
 5 24 -8.95 -22 7.485 -8.95 -13.966 7.485 -8.754 -22 6.754 -8.753 -22 8.217
-0

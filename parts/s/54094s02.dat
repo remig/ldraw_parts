@@ -1,15 +1,8 @@
 0 ~Tail Plane  2 x 14 x  8 Top and Bottom
 0 Name: s\54094s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-09-17 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 192 -140 0 0 -20 0 -8 0 120 0 0 box5.dat
 0 BFC INVERTNEXT
 1 16 0 192 -140 0 0 -16 0 -4 0 116 0 0 box5.dat
@@ -129,7 +122,6 @@
 4 16 18 3.75 -18 18 3.75 18 20 3.75 18 20 3.75 -18
 4 16 18 3.75 -20 -18 3.75 -20 -18 3.75 -18 18 3.75 -18
 4 16 18 3.75 18 -18 3.75 18 -18 3.75 20 18 3.75 20
-0 // Middle condlines
 5 24 0 160.04 -200.016 0 184 -259.944 7.982 184 -253.996 -7.982 184 -253.996
 5 24 0 88.858 -137.836 0 120.009 -165.093 3.648 120.009 -163.252 -3.648 120.009 -163.252
 5 24 0 53.258 -106.685 0 88.858 -137.836 2.558 53.258 -105.392 -2.558 53.258 -105.392

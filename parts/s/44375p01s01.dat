@@ -1,15 +1,8 @@
 0 ~Dish  6 x  6 Inverted with AT-AT Half Pattern (Needs Work)
 0 Name: s\44375p01s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
-0 // Needs Work: Gradations not modelled
-
 4 0 28.021 1.237 3.445 27.98 1.233 3.683 27.53 1.165 3.624 27.54 1.161 3.041
 4 0 27.53 1.165 3.624 27.361 1.14 3.602 26.949 1.074 3.256 27.54 1.161 3.041
 3 0 26.949 1.074 3.256 27.361 1.14 3.602 26.898 1.07 3.541

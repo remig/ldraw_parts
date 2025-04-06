@@ -1,13 +1,8 @@
 0 ~Technic Large Beam Pinhole Fillet
 0 Name: s\45803s02.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
 4 16 9 -10 0 10 -10 0 9.239 -10 3.827 8.315 -10 3.444
 4 16 8.315 -10 3.444 9.239 -10 3.827 7.071 -10 7.071 6.364 -10 6.364
 4 16 3.444 -10 8.315 6.364 -10 6.364 7.071 -10 7.071 4.185 -10 9
@@ -39,4 +34,3 @@
 5 24 12 -7.5 0 14 -5 0 11.087 -7.5 4.592 11.087 -7.5 -4.592
 5 24 12.935 -5 5.358 12.935 2.5 5.358 14 -5 0 10.5 -5 9
 5 24 14 2.5 0 14 -5 0 12.935 2.5 5.358 12.935 2.5 -5.358
-0 //

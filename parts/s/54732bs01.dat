@@ -1,15 +1,8 @@
 0 ~Electric Mindstorms EV3 Cable Connector Socket Plug Hole
 0 Name: s\54732bs01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-05-19 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2012-05-20 {LEGO MINDSTORMS Team} Original part shape
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 -7.5 -25 16 -5.5 0 0 0 -1 0 0 0 16 rect.dat
 1 16 5.5 -34 19.5 -7.5 0 0 0 -1 0 0 0 12.5 rect.dat
 1 16 -0.5 -29 3.5 -1.5 0 0 0 -1 0 0 0 3.5 rect.dat
@@ -48,7 +41,6 @@
 1 16 -5 -2 18 0.5 0 0 0 -6 0 0 0 -6 box4-1.dat
 1 16 -2.5 -2 18 0.5 0 0 0 -6 0 0 0 -6 box4-1.dat
 1 16 0 -2 18 0.5 0 0 0 -6 0 0 0 -6 box4-1.dat
-0 // Electrical contacts
 1 334 -6.25 -4.75 15 0 2 0 1.932 0 0.518 0.518 0 -1.932 t04o3333.dat
 1 334 -6.25 -4.75 15 0 2 0 -1.932 0 0.518 -0.518 0 -1.932 t04o3333.dat
 1 334 -6.25 -4.75 15 0 -2 0 1.932 0 0.518 0.518 0 -1.932 t04o3333.dat

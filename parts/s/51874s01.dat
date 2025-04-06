@@ -1,13 +1,8 @@
 0 ~Animal Dragon Tail End
 0 Name: s\51874s01.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 4 16 6.41 27.63 3 6.4 27.7 2 5.57 47.64 2 5.57 47.71 3
 4 16 5.44 50.8 3 5.44 50.87 2 4.79 66.64 2 4.78 66.71 3
 3 16 7.55 0 3 6.54 24.36 2 6.54 24.43 3
@@ -492,4 +487,3 @@
 5 24 18.84 35.89 2.9 13.98 34.04 0 18.83 35.89 0 13.55 34.04 1.5
 5 24 13.06 52.19 2.32 11.76 53.15 0 13.02 52.21 0 11.33 53.15 1.5
 5 24 16.08 28.76 2.63 14.46 29.89 0 16.02 28.78 0 14.03 29.89 1.5
-0

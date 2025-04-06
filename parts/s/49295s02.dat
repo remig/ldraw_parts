@@ -1,11 +1,8 @@
-0 ~Tyre  1/8 for Wheel 88 x 14 with  4 Spokes with Integral Tyre
+0 ~Tyre for Wheel 14 x 80 with  4 Spokes with Integral Tyre - 1/8
 0 Name: s\49295s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 0 0 1 0 0 0 0 -1 0 7 0 48\1-4con109.dat
 1 16 0 0 7 2.22449 0 0 0 0 -2.22449 0 6.2 0 48\1-4con48.dat
 1 16 0 0 13.2 2.73783 0 0 0 0 -2.73783 0 4.3 0 48\1-4con38.dat

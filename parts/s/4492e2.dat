@@ -1,18 +1,8 @@
 0 ~Animal Horse Eye Ring
 0 Name: s\4492e2.dat
 0 Author: Sascha Broich
-0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-12-07 [MagFors] Made BFC compliant
-0 !HISTORY 2014-12-10 [MagFors] Recreated cond-lines
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 3 16 7.3 -44.25 -34 7.2 -44.535 -32.565 7.224 -45.5 -34
 3 16 7.2 -44.535 -32.565 7.204 -45.6902 -33.0433 7.224 -45.5 -34
 3 16 7.2 -44.535 -32.565 7.213 -45.348 -31.348 7.204 -45.6902 -33.0433
@@ -35,7 +25,6 @@
 3 16 7.45 -44.535 -35.435 7.361 -45.6902 -34.9568 7.564 -46.2323 -35.7677
 3 16 7.45 -44.535 -35.435 7.3 -44.25 -34 7.361 -45.6902 -34.9568
 3 16 7.3 -44.25 -34 7.224 -45.5 -34 7.361 -45.6902 -34.9568
-0 // Added lines/Condlines
 5 24 7.2 -44.535 -32.565 7.224 -45.5 -34 7.3 -44.25 -34 7.204 -45.6902 -33.0433
 5 24 7.224 -45.5 -34 7.3 -44.25 -34 7.2 -44.535 -32.565 7.361 -45.6902 -34.9568
 5 24 7.2 -44.535 -32.565 7.204 -45.6902 -33.0433 7.224 -45.5 -34 7.213 -45.348 -31.348

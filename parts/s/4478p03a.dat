@@ -1,13 +1,8 @@
 0 ~Baseplate 32 x 32 Road 9-Stud Driveway - Crazy Paving Stones
 0 Name: s\4478p03a.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 4 16 130 0 306 133 0 320 122 0 320 122 0 309
 4 16 149 0 305 166 0 320 136 0 320 133 0 305
 4 16 197 0 300 204 0 320 190 0 320 187 0 305
@@ -608,4 +603,3 @@
 3 16 233 0 309 249 0 288 253 0 299
 3 16 276 0 318 273 0 313 276 0 312
 3 16 243 0 320 270 0 315 272 0 320
-0

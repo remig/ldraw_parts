@@ -1,17 +1,8 @@
 0 ~Hinge Arm Locking Ridge Segment
 0 Name: s\483s01.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Subpart UPDATE 2004-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
-0 !HISTORY 2003-07-02 [technog] BFC'd, added type 5 lines, made use of primitives
-0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
-0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 4 16 0 -9 1.425 0 -9 -1.425 -1 -8.801 -1.425 -1 -8.801 1.425
 4 16 0 -9 -1.425 0 -9 1.425 1 -8.801 1.425 1 -8.801 -1.425
 4 16 0 9 -1.425 0 9 1.425 -1 8.801 1.425 -1 8.801 -1.425
@@ -64,4 +55,3 @@
 1 16 4.9 4.9 0 0 -3.9 0 0 0 -3.9 1.425 0 0 box2-5.dat
 0 BFC INVERTNEXT
 1 16 -4.9 4.9 0 0 0 3.9 0 -3.9 0 1.425 0 0 box2-5.dat
-0

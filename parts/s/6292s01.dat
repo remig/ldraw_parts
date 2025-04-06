@@ -1,13 +1,8 @@
 0 ~Duplo Tyre 25/ 53 x 19 - 1/20
 0 Name: s\6292s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
 2 24 1.7 -56.484 -3.5 3.3 -56.2598 -4.4
 2 24 1.7 -56.484 -3.5 0 -56.6395 -3.3
 2 24 0 -56.6395 -3.3 -1.7 -56.484 -3.5

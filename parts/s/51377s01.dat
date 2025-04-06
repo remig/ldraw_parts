@@ -1,14 +1,8 @@
 0 ~Wheel Rim 14 x 18 with  8 Spokes - Spoke
 0 Name: s\51377s01.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-07-31 [MagFors] Retitled, recreated condlines
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 -5 3.6955 0 1.5307 1.5307 0 -3.6955 0 1 0 1-8disc.dat
 1 16 0 0 -5 3.6955 0 1.5307 1.5307 0 -3.6955 0 1 0 1-8edge.dat
 0 BFC INVERTNEXT
@@ -56,7 +50,6 @@
 1 16 0 0 -17 17.5537 0 7.271 7.271 0 -17.5537 0 10 0 48\1-24cyli.dat
 1 16 0 0 -7 17.5537 0 7.271 7.271 0 -17.5537 0 10 0 48\1-24edge.dat
 1 16 0 0 -17 17.5537 0 7.271 7.271 0 -17.5537 0 10 0 48\1-24edge.dat
-0 // Added lines/Condlines
 5 24 17.3868 4.6587 2.75 16.6299 6.8883 2.75 20.2845 5.4351 4 11.0868 4.5924 2
 5 24 17.8461 2.3496 2.75 17.3868 4.6587 2.75 20.8203 2.7411 4 11.5908 3.1056 2
 5 24 18 0 2.75 17.8461 2.3496 2.75 21 0 4 11.8968 1.566 2

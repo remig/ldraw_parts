@@ -1,13 +1,8 @@
 0 ~Technic Gear Rack with Pegholes and Axleholes - End
 0 Name: s\64781s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 1 16 0 0 -50 1 0 0 0 1 0 0 0 1 connhole.dat
 1 16 0 -10 -50 1 0 0 0 1 0 0 0 1 4-4ring9.dat
 1 16 0 -10 -50 -10 0 0 0 1 0 0 0 -10 2-4edge.dat
@@ -19,7 +14,6 @@
 1 16 0 10 -50 7.0711 0 -7.0711 0 20 0 7.0711 0 7.0711 1-4edge.dat
 1 16 0 10 -50 -10 0 0 0 1 0 0 0 -10 2-4edge.dat
 1 16 0 10 -50 -1 0 0 0 -1 0 0 0 1 4-4ring9.dat
-0 // Inlined /modified bush0
 1 16 -10 0 -30 0 20 0 0 0 -1 -1 0 0 axlehol5.dat
 2 24 -10 -5.58 -32 -10 -6 -30
 5 24 10 -6 -30 5 -6 -30 10 -5.58 -32 10 -5.58 -28

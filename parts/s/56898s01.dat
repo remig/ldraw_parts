@@ -1,15 +1,8 @@
 0 ~Tyre 14/ 43 x 30 Offset Tread Segment
 0 Name: s\56898s01.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-0 !HISTORY 2018-02-06 [Philo] Extended description
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 4 16 -4.96 -37.675 -18 0 -38 -18 0 -48.5349 -18 -7.2326 -47.993 -18
 4 16 5.4354 -48.2296 -18 0 -48.5349 -18 0 -38 -18 4.96 -37.675 -18
 1 16 -3.6163 -48.264 -10.25 3.6163 0.07449 0 -0.271 0.99722 0 0 0 7.75 rect.dat

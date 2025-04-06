@@ -1,15 +1,8 @@
-0 ~Tile  6 x  6 x 2/3 with 4 Studs and Card Holder without Text
+0 ~Plate  6 x  6 x  0.667 with 4 Studs and Card-holder without Text
 0 Name: s\45522s01.dat
 0 Author: John Riley [jriley]
-0 !LDRAW_ORG Subpart UPDATE 2005-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
@@ -148,4 +141,3 @@
 3 16 -56 4 34 -56 -2 34 -56 4 28
 3 16 -56 4 50 -56 -2 44 -56 4 44
 3 16 56 4 44 56 -2 44 56 4 50
-0

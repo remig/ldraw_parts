@@ -1,13 +1,8 @@
 0 ~Minifig Key Ring - 1/4
 0 Name: s\62808s01.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 3 16 2.35 -2 -16.25 2.48 -4.98 -16.25 3.98 -3.98 -16.25
 4 16 2.35 -2 -16.25 3.98 -3.98 -16.25 5.2 -2.15 -16.25 5.24 -2 -16.25
 3 16 5.24 -2 -16.25 5.2 -2.15 -16.25 5.2 -2.15 -19.25
@@ -307,4 +302,3 @@
 5 24 1.36 -8.8 -1.48 2.29 -7.95 -2.13 1.36 -10.54 -4.85 1.36 -6.01 1.1
 5 24 2.29 -5.47 0.16 2.29 -7.95 -2.13 2.29 -6.46 -3.28 1.36 -6.01 1.1
 5 24 2.29 -9.49 -5.13 2.29 -7.95 -2.13 1.36 -8.8 -1.48 2.29 -7.66 -5.62
-0

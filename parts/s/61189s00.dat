@@ -1,11 +1,8 @@
 0 ~Minifig Helmet SW Clone Trooper Phase I - Front Face
 0 Name: s\61189s00.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 3 16 14.754 -1.311 -1.525 14.725 -1.72 .018 14.466 -2.557 .75
 3 16 14.466 -2.557 .75 14.725 -1.72 .018 14.733 -1.624 .746
 3 16 7.545 -9.426 -3.556 8.132 -9.37 .524 4.64 -10.957 .335

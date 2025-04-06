@@ -1,19 +1,8 @@
 0 ~Animal Horse Eye Pupil
 0 Name: s\4492e3.dat
 0 Author: Sascha Broich
-0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-09-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-12-07 [MagFors] Made BFC compliant
-0 !HISTORY 2014-12-10 [MagFors] Recreated cond-lines
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
-0 // black of eye
 3 16 7.438 -47.75 -34.5 7.433 -47.8071 -34.7871 7.361 -45.6902 -34.9568
 3 16 7.438 -47.75 -34.5 7.361 -45.6902 -34.9568 7.224 -45.5 -34
 3 16 7.433 -47.8071 -34.7871 7.419 -47.9697 -35.0303 7.564 -46.2323 -35.7677
@@ -37,7 +26,6 @@
 3 16 7.419 -47.9697 -33.9697 7.433 -47.8071 -34.213 7.204 -45.6902 -33.0433
 3 16 7.419 -47.9697 -33.9697 7.204 -45.6902 -33.0433 7.269 -46.2323 -32.2323
 4 16 7.433 -47.8071 -34.213 7.438 -47.75 -34.5 7.224 -45.5 -34 7.204 -45.6902 -33.0433
-0 // Added lines/Condlines
 5 24 7.433 -47.8071 -34.7871 7.361 -45.6902 -34.9568 7.438 -47.75 -34.5 7.564 -46.2323 -35.7677
 5 24 7.361 -45.6902 -34.9568 7.438 -47.75 -34.5 7.433 -47.8071 -34.7871 7.224 -45.5 -34
 5 24 7.224 -45.5 -34 7.438 -47.75 -34.5 7.361 -45.6902 -34.9568 7.433 -47.8071 -34.213

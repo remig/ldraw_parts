@@ -1,14 +1,8 @@
 0 ~Plane Bottom  8 x 16 x  2 Curved Half
 0 Name: s\54090s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-09-05 [Philo] File preparation for LDraw Parts Tracker
-
 4 16 0 41.75 102 0 41.75 100 3.875 40.712 100 3.875 40.712 102
 4 16 15.095 40 102 15.095 40 100 16.125 40.712 100 16.125 40.712 102
 4 16 3.875 40.712 102 3.875 40.712 100 4.905 40 100 4.905 40 102

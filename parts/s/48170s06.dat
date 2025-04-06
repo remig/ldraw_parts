@@ -1,13 +1,8 @@
 0 ~Technic Brick with Vertical Click Rotation Hinge - Socket
 0 Name: s\48170s06.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 -10 10 -40 0 1 0 -1 0 0 0 0 1 s\48170s02.dat
 2 24 -11.365 0 -20 -11.365 0 -25.181
 4 16 -12.045 19.545 -24.773 -9 21.583 -26.6 -9 21.583 -30.387 -12.045 19.545 -30.621
@@ -179,4 +174,3 @@
 2 24 -16 10 -22.4 -14.974 15.171 -23.016
 2 24 -12.045 19.545 -24.773 -14.974 15.171 -23.016
 2 24 -12.045 19.545 -24.773 -9 21.584 -26.6
-0

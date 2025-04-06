@@ -1,13 +1,8 @@
 0 ~Technic Sprocket Wheel 25.4 Bion. LC Pattern Outer Border 1/12
 0 Name: s\57520ps1.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 4 16 -15.7063 -9 -6.5059 -18.7512 -8.0258 -8.5727 -17.8856 -8.026 -10.3264 -14.722 -9 -8.5
 4 16 -22.5169 -6.6 -13.0002 -20.601 -7.1899 -11.894 -21.1633 -7.1199 -11.3466 -23.545 -6.4923 -11.826
 3 16 -23.545 -6.4923 -11.826 -21.1633 -7.1199 -11.3466 -21.8406 -7.0375 -10.6694
@@ -55,4 +50,3 @@
 4 16 -20.653 -8.0259 0 -20.4754 -8.0261 -2.6952 -16.8538 -9.0002 -2.2185 -17 -9 0
 4 16 -31.726 -5 -4.177 -29.8897 -5.4939 -3.9352 -30.0876 -5.4654 -2.5498 -32 -5 0
 3 16 -30.2151 -5.476 0 -32 -5 0 -30.0876 -5.4654 -2.5498
-0 //

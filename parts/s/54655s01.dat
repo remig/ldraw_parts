@@ -1,14 +1,8 @@
-0 ~Electric Motor Boat Rudder with Tube Half
+0 ~Electric Motor Boat Rudder with Tube - Half
 0 Name: s\54655s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-10-01 [Philo] File preparation for LDraw Parts Tracker
-
 2 24 1.873 -40 28.142 1.873 -42.991 28.153
 2 24 1.873 42.991 28.153 1.873 40 28.142
 4 16 1.877 -5 31.33 1.877 -40 28.142 1.877 -32.187 22.67 1.877 -8.66 27.67

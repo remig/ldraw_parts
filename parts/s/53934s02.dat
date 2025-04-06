@@ -1,9 +1,7 @@
-0 ~Rock  4 x  4 x  1.667 Bottom Bicoloured, Colour 2
+0 ~Rock  4 x  4 x  1.667 Bottom Dual Mould Upper Section
 0 Name: s\53934s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 3 16 -36.25 -32.25 18.45 -36.23 -32.17 -18.47 -34.53 -23.43 17.78
 3 16 -36.25 -32.25 18.45 -34.53 -23.43 17.78 -18.41 -32.16 36.25

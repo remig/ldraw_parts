@@ -1,19 +1,12 @@
 0 ~Door Left with Hollow Hinge - Bottom
 0 Name: s\58381s02.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-10-19 [Rolf] Separated from s\58381s01.dat
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 2 24 10 0 50 10 0 0
 1 16 0 0 0 10 0 0 0 -1 0 0 0 -10 48\3-4edge.dat
 1 16 0 -8 0 0 0 -10 0 1 0 10 0 0 48\1-4edge.dat
 1 16 0 -8 0 -10 0 0 0 1 0 0 0 -10 48\1-12edge.dat
-
 1 16 0 0 0 0 0 -6 0 -1 0 -6 0 0 48\4-4aring.dat
 1 16 0 0 0 0 0 -2 0 -1 0 -2 0 0 48\4-4ring3.dat
 1 16 0 0 0 0 0 -2 0 -1 0 -2 0 0 48\4-4ring4.dat

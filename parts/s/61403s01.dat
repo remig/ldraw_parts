@@ -1,18 +1,8 @@
 0 ~Circular Saw Blade 14 Tooth - 1/14 Segment
 0 Name: s\61403s01.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
-0 // Created with CATIA V5 as STL file, converted with stl2dat to DAT file and finished with MLCAD
-
-
-
-
 3 16 0 70.5 -3.5 7.8935 70.0567 -3.5 0 61.5 -3.5
 3 16 15.6877 68.7324 -3.5 0 61.5 -3.5 7.8935 70.0567 -3.5
 3 16 23.2847 66.5438 -3.5 0 61.5 -3.5 15.6877 68.7324 -3.5
@@ -280,4 +270,3 @@
 5 24 6.8858 61.1133 3.5 6.382 56.6416 1.5 0 61.5 3.5 12.6837 55.5709 1.5
 5 24 13.685 59.9581 3.5 12.6837 55.5709 1.5 18.8259 53.8013 1.5 6.8858 61.1133 3.5
 5 24 20.3122 58.0488 3.5 18.8259 53.8013 1.5 24.7314 51.3552 1.5 13.685 59.9581 3.5
-0

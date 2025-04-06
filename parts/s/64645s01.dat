@@ -1,14 +1,8 @@
-0 ~Boat Base 13 x 16 Stern / Bow Half
+0 ~Boat Base 13 x 16 Stern / Bow - Half
 0 Name: s\64645s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-10-01 [Philo] File preparation for LDraw Parts Tracker
-
 4 16 64 0 -60 64.27 0 -58.5 55.73 0 -58.5 56 0 -60
 4 16 56 0 -60 55.717 0 -61.5 64.283 0 -61.5 64 0 -60
 4 16 59.664 63 -58.5 55.73 63 -58.5 55.73 0 -58.5 63.253 48.431 -58.5

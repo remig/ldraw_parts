@@ -1,19 +1,9 @@
 0 ~Tyre 20/ 40 x 33 Off Road - 1/4
 0 Name: s\6581a.dat
-0 Author: Jeff Boen
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 Author: Jeff Boen [onyx]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
-0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-12-28 [MMR1988] Completely Reworked
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6581b.dat
-
 4 16 -25 -40.6474 5.3505 -25 -41 0 -25 -49.9954 -0.674828 -25 -48.6203 11.6646
 3 16 -25 -39.6019 10.6108 -25 -40.6474 5.3505 -25 -48.6203 11.6646
 4 16 -25 -37.8799 15.6907 -25 -39.6019 10.6108 -25 -48.6203 11.6646 -25 -45.2857 21.1945
@@ -38,21 +28,16 @@
 4 16 -25 39.6019 10.6108 -25 37.8799 15.6907 -25 44.8057 22.1912 -25 48.8665 10.5861
 3 16 -25 40.6474 5.3505 -25 39.6019 10.6108 -25 48.8665 10.5861
 4 16 -25 40.6474 5.3505 -25 48.8665 10.5861 -25 49.9954 0.674828 -25 41 0
-
 0 BFC INVERTNEXT
 1 16 -25 0 0 0 3 0 41 0 0 0 0 41 48\2-4cylo.dat
-
 1 16 -22 0 0 0 1 0 1 0 0 0 0 1 48\2-4ring37.dat
-1 16 -22 0 0 0 1 0 2 0 0 0 0 2 48\2-4rin19.dat
+1 16 -22 0 0 0 1 0 2 0 0 0 0 2 48\2-4ring19.dat
 1 16 -22 0 0 0 1 0 1 0 0 0 0 1 48\2-4ring40.dat
-
 0 BFC INVERTNEXT
 1 16 -22 0 0 0 5 0 37 0 0 0 0 37 48\2-4cylo.dat
-
 1 16 -17 0 0 0 -1 0 1 0 0 0 0 1 48\2-4ring37.dat
-1 16 -17 0 0 0 -1 0 2 0 0 0 0 2 48\2-4rin19.dat
+1 16 -17 0 0 0 -1 0 2 0 0 0 0 2 48\2-4ring19.dat
 1 16 -17 0 0 0 -1 0 10 0 0 0 0 10 48\2-4ring4.dat
-
 0 BFC INVERTNEXT
-1 16  -15 0 0  0 -2 0  2 0 0  0 0 2 48\2-4con25.dat  
+1 16 -15 0 0 0 -2 0 2 0 0 0 0 2 48\2-4con25.dat
 1 16 -17 0 0 0 5 0 50 0 0 0 0 50 48\2-4edge.dat

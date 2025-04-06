@@ -1,17 +1,8 @@
 0 ~Wedge  3 x  2 without Studs
 0 Name: s\6565s01.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Subpart UPDATE 2004-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2003-06-30 [Steffen] BFCed; subfiled for fixing mirrored studs; fixed one non-coplanar quad
-0 !HISTORY 2003-11-09 [OrionP] fixed small gap on the inside
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 1 16 -10 4 10 -1 0 0 0 -5 0 0 0 1 stud3.dat
 1 16 -10 4 -10 -1 0 0 0 -5 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT
@@ -91,4 +82,3 @@
 4 16 5 20 -5 15 20 25 15 4 25 -1 4 -23
 4 16 -1 4 27 -1 24 27 -1 24 -23 -1 4 -23
 4 16 -20 0 -30 -20 24 -30 -20 24 30 -20 0 30
-0

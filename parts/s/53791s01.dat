@@ -1,16 +1,8 @@
 0 ~Electric Mindstorms NXT Battery Case Subpart
 0 Name: s\53791s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
-0 // Bottom Pegholes
-
-
 1 16 -30 0 -120 0 0 1 0 -16 0 -1 0 0 npeghol2.dat
 4 16 -20 -18 -114 -20 -18 -112 -60 -18 -112 -60 -18 -114
 4 16 -46 -18 -126 -46 -18 -114 -54 -18 -114 -54 -18 -126
@@ -43,7 +35,6 @@
 0 BFC INVERTNEXT
 1 16 -20 -18 -120 0 0 6 0 16 0 6 0 0 4-4cyli.dat
 1 16 -20 0 -120 0 0 1 0 -1 0 -1 0 0 4-4ring8.dat
-0 // Sides and edges
 1 16 -20 -40 -120 9 0 0 0 40 0 0 0 -9 1-4cyli.dat
 0 BFC INVERTNEXT
 1 16 -20 -40 -120 8 0 0 0 22 0 0 0 -8 1-4cyli.dat
@@ -87,7 +78,6 @@
 2 24 -80 0 -114 -69 0 -114
 2 24 -80 0 -114 -80 0 -40
 2 24 -80 -41 -40 -80 0 -40
-0 //
 2 24 -80 -43.01 -45.42 -80 -41.68 -43.44
 2 24 -80 -43.01 -45.42 -78.01 -41.68 -43.44
 2 24 -80 -41.68 -43.44 -80 -41 -40
@@ -100,4 +90,3 @@
 2 24 -76.98 -40.99 -40 -80 -40.99 -40
 2 24 -72 -40 -40 -80 -40 -40
 4 16 -72 -40 -40 -80 -40 -40 -80 -40.99 -40 -76.98 -40.99 -40
-0

@@ -1,15 +1,8 @@
 0 ~Electric Mindstorms NXT Colour Sensor Shell Front Black Dishes
 0 Name: s\64893s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-0 !HISTORY 2018-03-25 [cwdee] Correct description spelling
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 3 16 7.5 3.083 -3.261 7.715 3.207 -3.375 10.657 2.622 -3.375
 4 16 8.074 0.886 -1.841 7.5 1 -1.841 7.5 3.083 -3.261 10.657 2.622 -3.375
 4 16 10.657 2.622 -3.375 11.71 5.163 -6 15.278 2.778 -6 13.334 0.834 -3.375
@@ -330,7 +323,6 @@
 2 24 8.152 4.623 -3.922 10.611 6.043 -6
 2 24 0 -0.083 -3.261 2.702 1.477 -2.564
 2 24 2.702 1.477 -2.564 5.124 2.876 -2.691
-0 // Conditional edges
 5 24 8.25 8 -3.375 7.622 11.157 -3.375 5.081 10.105 -1.5 11 8 -6
 5 24 7.622 11.157 -3.375 5.081 10.105 -1.5 5.5 8 -1.5 5.834 13.834 -3.375
 5 24 10.163 12.21 -6 7.622 11.157 -3.375 8.25 8 -3.375 7.778 15.778 -6

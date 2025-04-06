@@ -1,11 +1,8 @@
 0 ~Minifig Hips Mermaid Tail Standing without Front Surface
 0 Name: s\51345s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 10 68 0 1 0 0 0 -1 0 0 0 1 stud4o.dat
 1 16 -10 68 0 1 0 0 0 -1 0 0 0 1 stud4o.dat
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 hipstud.dat

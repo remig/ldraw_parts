@@ -1,13 +1,8 @@
 0 ~Baseplate 32 x 32 Road 9-Stud 3-Lane - White/Green "2"
 0 Name: s\6100s07.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 4 2 -30 0 -47 25 0 -47 25 0 -32 -30 0 -32
 4 15 30 0 -52 30 0 -27 25 0 -32 25 0 -47
 4 15 -35 0 -30 -35 0 -52 -30 0 -47 -30 0 -32
@@ -30,4 +25,3 @@
 4 2 13 0 45 -20 0 45 -15 0 30 10 0 30
 3 2 -30 0 33 -15 0 30 -20 0 45
 4 2 -30 0 33 -30 0 10 -15 0 10 -15 0 30
-0

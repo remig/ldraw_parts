@@ -1,19 +1,8 @@
 0 ~Dish  6 x  6 Webbed - segment
 0 Name: s\4285s01.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Subpart UPDATE 2004-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2002-07-30 [sbliss] Added missing quads, conditional lines, fixed ghost edges.
-0 !HISTORY 2002-09-05 [BrickCaster] Moved webbing to this subpart, plus small corrections
-0 !HISTORY 2003-07-20 [Steffen] BFCed, removed "Round" from part name
-0 !HISTORY 2003-09-07 [BrickCaster] Recalculated, added optional lines, general cleanup
-0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
-0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 1 16 22.688 1 -6.592 0.516 -1 0 0 0 -1 2.592 0 0 rect2a.dat
 1 16 22.688 1 6.592 0.516 -1 0 0 0 -1 -2.592 0 0 rect2a.dat
 4 16 53.943 9.9 10.73 52.962 7.5 10.535 53.606 7.5 4 54.606 9.9 4
@@ -115,4 +104,3 @@
 5 24 53.606 7.5 -4 60 10 0 58.847 10 -11.705 53.606 7.5 4
 5 24 52.962 7.5 -10.535 58.847 10 -11.705 55.433 10 -22.961 53.606 7.5 -4
 5 24 49.889 7.5 -20.665 55.433 10 -22.961 49.889 10 -33.334 52.962 7.5 -10.535
-0

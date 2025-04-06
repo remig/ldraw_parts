@@ -1,15 +1,8 @@
 0 ~Bike  2 Wheel Motorcycle Body with Dirt Bike Fairing - Half
 0 Name: s\50860s01.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
-0 !HISTORY 2009-05-12 [westrate] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 4 16 10 -44.61 -31.61 10 -43.23 -28.4 10 -47.89 -25.99 10 -50.99 -31.45
 4 16 10 -45.64 -34.94 10 -44.61 -31.61 10 -50.99 -31.45 10 -51.33 -35.09
 4 16 10 -46.31 -38.37 10 -45.64 -34.94 10 -51.33 -35.09 10 -51.47 -38.74
@@ -1650,4 +1643,3 @@
 5 24 5.97 -49.03 86.35 9.83 -48.99 86.01 10.05 -48.89 85.1 9.35 -49.09 86.85
 5 24 6.77 -49.27 88.46 7.41 -49.89 88.07 7.78 -49.23 88.12 6.66 -49.48 88.44
 5 24 15.83 -33.71 -17.11 13.82 -40.11 -14.79 15.93 -33.05 -16.74 15.69 -34.43 -17.29
-0

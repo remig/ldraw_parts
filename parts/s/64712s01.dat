@@ -1,13 +1,8 @@
-0 ~Wheel 32 x 64 Conical with Spikes - 1/12 Inner 
+0 ~Wheel 32 x 64 Conical with Spikes - 1/12 Inner
 0 Name: s\64712s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
 1 16 0 0 0 40 0 0 0 1 0 0 0 40 48\1-12edge.dat
 1 16 0 -10 0 40 0 0 0 1 0 0 0 40 48\1-12edge.dat
 0 BFC INVERTNEXT
@@ -70,4 +65,3 @@
 1 16 55.901 31 28.177 0.274125 0.866025 0 0 0 5 -0.474798 0.5 0 rect2p.dat
 4 16 50.1964 36 28.0572 49.7964 36 28.75 58.8897 36 34 55.6266 36 28.6519
 4 16 55.6266 36 28.6519 58.8897 36 34 61.1182 36 30.1402 56.1748 36 27.7023
-0 //

@@ -1,15 +1,8 @@
 0 ~Slope Brick Curved  8 x  8 x  2 Double - Quarter
 0 Name: s\54095s01.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
-0 !HISTORY 2010-01-11 [arezey] Create from scratch using LEGO Universe Team version as reference
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 1 16 24.535 0.365 40 0 -0.73 -4.535 0 9.07 -0.365 40 0 0 rect1.dat
 1 16 34.95 2.165 40 0 -0.2371 -5.88 0 1 -1.435 40 0 0 rect1.dat
 1 16 46.325 6.135 40 0 -5.07 -5.495 0 10.99 -2.535 40 0 0 rect1.dat
@@ -192,7 +185,6 @@
 5 24 43.65 8.72 76 43.65 8.72 64 23.88 3.75 0 60 19.19 76
 5 24 16.13 3.363 64 16.13 3.29 76 23.88 3.29 76 3.88 3.29 0
 5 24 16.13 3.75 0 16.13 3.387 60 23.88 3.29 76 3.88 3.29 0
-0 //
 3 16 76 47 67 76 47 65 74 47 65
 3 16 64 47 67 66 47 65 64 47 65
 3 16 76 47 55 76 47 53 74 47 55
@@ -347,4 +339,3 @@
 2 24 64 47 7 64 47 5
 2 24 64 47 7 66 47 5
 2 24 66 47 5 64 47 5
-0 //

@@ -1,15 +1,8 @@
 0 ~Tail Plane  2 x 14 x  8 Half Surface
 0 Name: s\54094s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-09-17 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 3 16 45.824 0 -12.982 80.039 0 -9.475 62.992 -23.995 -10.657
 3 16 95.285 -24.035 -7.651 62.992 -23.995 -10.657 80.039 0 -9.475
 3 16 15.13 0 -15.323 45.824 0 -12.982 35.359 -23.971 -12.403
@@ -340,7 +333,6 @@
 5 24 151.415 -154 -2.865 151.847 -156 -2.8665 151.514 -156 -3.0664 152.482 -154 -0.605
 5 24 152.977 -156 -0.475 152.482 -154 -0.605 153.166 -156 0 151.415 -154 -2.865
 5 24 122.0015 -156 -6.0795 121.423 -155.441 -6.112 138.687 -156 -5.037 121.6685 -156 -6.0971
-0 // Groove sides - can't receive pattern with SlicerPro!
 2 24 60.871 -63.311 -10.653 43.2756 -30.448 -11.8924
 2 24 47.6043 -33.9902 -11.6093 63.122 -62.909 -10.52
 2 24 42.5004 -29.0001 -11.9387 65.272 -29 -10.504

@@ -1,13 +1,8 @@
 0 ~Wing 56 x 20 - Half
 0 Name: s\54093s01.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 0 BFC INVERTNEXT
 1 16 0 8 0 0 -60 0 8 0 0 0 0 100 box3u4a.dat
 4 16 -60 0 100 0 0 100 0 0 160 -80 0 160
@@ -274,4 +269,3 @@
 1 16 -38 16 -130 0 0 -38 0 -12 0 -26 0 0 box4-4a.dat
 0 BFC INVERTNEXT
 1 16 -38 16 130 0 0 -38 0 -12 0 -26 0 0 box4-4a.dat
-0

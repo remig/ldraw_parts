@@ -1,11 +1,8 @@
 0 ~Fabuland Fishing Rod Half
 0 Name: s\4327s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 -6.5 -11.2583 0 0 5.85637 -5.07176 -8.8791 0 2.92818 -15.3791 0 2-4cylc.dat
 1 16 0 -15.3791 -26.6374 0 0 5.85637 -5.07176 0.5 0 2.92818 0.86603 0 2-4chrd.dat
 3 16 2.3505 -24.6499 -152.85 2.3768 -26.395 -151.562 2.5726 -26.9499 -152.375

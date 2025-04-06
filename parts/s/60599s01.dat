@@ -1,13 +1,8 @@
 0 ~Door  2 x  4 x  6 Frame Half
 0 Name: s\60599s01.dat
 0 Author: Owen Burgoyne [C3POwen]
-0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 4 16 0 144 20 0 144 16 -36 144 16 -40 144 20
 4 16 -40 144 20 -36 144 16 -36 144 -16 -40 144 -20
 1 16 -32 144 -15 0 0 -2 0 -1 0 -2 0 0 1-8ndis.dat
@@ -88,7 +83,6 @@
 4 16 0 144 -20 0 136 -20 -36 136 -20 -40 144 -20
 4 16 -40 144 -20 -36 136 -20 -36 4 -20 -40 0 -20
 4 16 -40 0 -20 -36 4 -20 0 4 -20 0 0 -20
-0 // Front left stud
 1 16 -30 0 -10 -4.24264 0 -4.24264 0 1 0 -4.24264 0 4.24264 7-8edge.dat
 2 24 -33.895 0 -14.474 -34 0 -15
 1 16 -32 0 -15 -2 0 0 0 1 0 0 0 -2 3-8edge.dat

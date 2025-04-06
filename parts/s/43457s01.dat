@@ -1,13 +1,8 @@
 0 ~Electric RC Race Buggy Battery Half Lid
 0 Name: s\43457s01.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 2 24 -78 38 0 -78 38 -108
 4 16 -78 38 -60 -78 38 0 -78 41 0 -78 41 -60
 4 16 -78 38 -108 -78 38 -76 -78 41 -76 -78 41 -108
@@ -956,4 +951,3 @@
 3 16 43 42 0 43 38 -8 43 38 0
 3 16 47 42 0 47 38 0 47 38 -8
 2 24 47 42 0 47 38 -8
-0

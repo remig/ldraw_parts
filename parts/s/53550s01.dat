@@ -1,19 +1,11 @@
 0 ~Technic Bionicle Weapon Ball Shooter Magazine Half
 0 Name: s\53550s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // Arms
-
 1 16 0 3 0 1 0 0 0 1 0 0 0 1 s\53550s02.dat
 1 16 0 20 0 -1 0 0 0 1 0 0 0 1 s\53550s02.dat
 1 16 0 37 0 1 0 0 0 1 0 0 0 1 s\53550s02.dat
-0 //
 1 16 0 30 0 0 0 -1 0 20 0 1 0 0 axle.dat
 1 16 -1 30 0 0 0 -7 0 1 0 8 0 0 2-4edge.dat
 1 16 -1 30 0 0 0 -7 0 -1 0 -8 0 0 2-4disc.dat
@@ -353,4 +345,3 @@
 2 24 -3.125 43 -16.5 10 43.304 -16.652
 2 24 0.042 47.765 -18.882 1 47.765 -18.882
 2 24 -5 46 -18 0.042 47.765 -18.882
-0 //

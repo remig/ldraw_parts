@@ -1,13 +1,8 @@
 0 ~"HA 7990" Text
 0 Name: s\59826s01.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 3 0 -40.531 0 -7.5 -37.448 0 -7.5 -37.448 0 -0.812
 3 0 -40.531 0 -7.5 -37.448 0 -0.812 -40.531 0 7.766
 3 0 -40.531 0 7.766 -37.448 0 1.766 -37.448 0 7.766
@@ -276,4 +271,3 @@
 3 15 34.112 0 7.438 36.087 0 7.828 23.945 0 7.828
 3 15 40.881 0 2.65 41.047 0 0.028 44 0 12.5
 3 15 23.945 0 7.828 44 0 12.5 12.086 0 7.828
-0 //

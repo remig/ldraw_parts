@@ -1,11 +1,8 @@
 0 ~Duplo Gear 24 Tooth  3 Teeth
 0 Name: s\6529s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 BFC INVERTNEXT
 1 16 0 0 13.5 0 0 51 -51 0 0 0 -27 0 48\1-8cylo.dat
 1 16 6.9832 -53.0423 0 0.99144 0.13053 0 0.13053 -0.99144 0 0 0 1 dtooth.dat

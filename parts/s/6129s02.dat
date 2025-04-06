@@ -1,13 +1,8 @@
 0 ~Animal Dragon Body Jaw Side with Metallic Gold Oriental Pattern
 0 Name: s\6129s02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 3 16 12.8 -28.48 -89.85 12.8 -28.68 -89.94 12.72 -28.44 -90.04
 4 16 11.5 -28.98 -93.49 12.72 -28.44 -90.04 12.8 -28.68 -89.94 12.79 -31.05 -91.07
 3 16 11.5 -27.74 -92.91 12.72 -28.44 -90.04 11.5 -28.98 -93.49
@@ -388,4 +383,3 @@
 5 24 16.77 -30.6 -81.17 16.59 -40.42 -86.11 15.4 -40.13 -88.47 17.78 -41.38 -84.08
 5 24 19.5 -40.26 -70.58 19.5 -51.67 -75.94 19.5 -50.45 -77.25 19 -47.86 -67.88
 5 24 19 -47.86 -67.88 19.5 -51.67 -75.94 19.5 -40.26 -70.58 18.63 -53.25 -68.61
-

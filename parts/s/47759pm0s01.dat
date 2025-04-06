@@ -1,13 +1,8 @@
 0 ~Wedge  2 x  4 Triple with Spider Eyes Pattern - Side
 0 Name: s\47759pm0s01.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 4 8 26.73 6.73 -9.3 26.16 6.16 -9.44 26.42 6.42 -10 27.06 7.06 -10
 4 8 27.16 7.16 -9.31 26.73 6.73 -9.3 27.06 7.06 -10 27.59 7.59 -9.55
 3 8 26.16 6.16 -9.44 25.1 5.1 -10 26.42 6.42 -10

@@ -1,13 +1,8 @@
-0 ~Technic Bionicle Toa Inika Thigh Armor Half
+0 ~Technic Bionicle Toa Inika Thigh Armour Half
 0 Name: s\53543s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
 4 16 -6 -1 -16 -6 0.538 -26 -10 1 -29 -10 -1 -16
 1 16 -3 7 26.5 0 -1 0 -1 0 0 0 0 -7.5 box3u5p.dat
 1 16 -13 6 34 3 0 0 0 0 -3 0 14 0 2-4edge.dat
@@ -436,4 +431,3 @@
 5 24 -19.181 5.685 -26.333 -18.982 5.885 -26.333 -18.391 5.7 -28 -20.403 6.315 -20.664
 5 24 -20.621 6.431 -19.621 -20.421 6.631 -19.621 -20.203 6.515 -20.664 -20.724 6.5 -19
 5 24 -20.724 6.5 -19 -20.524 6.7 -19 -20.421 6.631 -19.621 -21.431 7 -15
-0 //

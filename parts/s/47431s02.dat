@@ -1,13 +1,8 @@
 0 ~Technic Brick Fist - Half
 0 Name: s\47431s02.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 6 14 -20 0 0 6 -10 0 0 0 -1 0 rect3.dat
 1 16 18 12 -20 0 0 2 12 0 0 0 -1 0 rect2a.dat
 1 16 5.1275 -3.5 -20 5.1275 0 0 0 0 -3.5 0 1 0 rect2a.dat
@@ -618,4 +613,3 @@
 2 24 12.728 -6 12.728 9.649 -6 7.853
 2 24 6.297 -6 9.97 6.297 -8 9.97
 2 24 9.649 -6 7.853 9.649 -8 7.853
-0

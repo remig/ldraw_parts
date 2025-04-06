@@ -1,11 +1,8 @@
 0 ~Duplo Windscreen  4 x  4 x  2 Curved Half
 0 Name: s\6345s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 6 -11.1861 2 0 -1 0 -1.76777 0 -1.76777 -1.76777 0 1.76777 5-16chrd.dat
 2 24 6 -12.1428 4.3098 6 -12.9539 0.2322
 1 16 6 -1.9712 12.6076 0 -1 0 -1.47123 0 -0.19492 -0.29238 0 0.98082 8\2-4chrd.dat

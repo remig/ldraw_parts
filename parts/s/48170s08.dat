@@ -1,13 +1,8 @@
 0 ~Rotation Joint Ball Half - 1/4 torus
 0 Name: s\48170s08.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 4 16 16.619 5 0 16.42 4 0 15.17 4 -6.284 15.354 5 -6.36
 4 16 15.354 5 -6.36 15.17 4 -6.284 11.611 4 -11.611 11.751 5 -11.751
 4 16 11.751 5 -11.751 11.611 4 -11.611 6.284 4 -15.17 6.36 5 -15.354
@@ -95,4 +90,3 @@
 5 24 0 -3.621 -12.021 0 -1.95 -13.488 -5.162 -1.95 -12.461 5.162 -1.95 -12.461
 5 24 0 -5.088 -10.25 0 -3.621 -12.021 -4.6 -3.621 -11.106 4.6 -3.621 -11.106
 5 24 0 -6 -9 0 -5.088 -10.25 -3.923 -5.088 -9.47 3.923 -5.088 -9.47
-0

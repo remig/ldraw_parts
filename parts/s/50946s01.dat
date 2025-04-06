@@ -1,13 +1,8 @@
 0 ~Car Grille  2 x  2.5 x  3 with Sloped Front without Frame
 0 Name: s\50946s01.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 1 16 -10 0 10 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 10 0 10 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 -0.001 8 10 -20 0 0 0 -8 0 0 0 10 box4-4a.dat
@@ -213,4 +208,3 @@
 5 24 -13.296 16.543 -24.27 -2.296 20.543 -27.774 -13.296 16.543 -20.27 -1.913 19.619 -29.063
 5 24 2.296 20.543 -27.774 0 21 -28.4 0 20 -29.59 2.296 20.543 -22.28
 5 24 -2.296 20.543 -27.774 0 21 -28.4 0 20 -29.59 -2.296 20.543 -22.28
-0

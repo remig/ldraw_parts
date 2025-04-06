@@ -1,16 +1,8 @@
-0 ~Octan Logo Dropshaped Half with Black Border 
+0 ~Octan Logo Dropshaped Half with Black Border
 0 Name: s\821421cs01.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-
-
-
-
-0 // Main
 4 16 1.499 0 -2.385 20.068 0 1.004 19.398 0 3.017 1.4 0 -1.1
 4 16 1.499 0 -2.385 20.201 0 -2.385 20.3 0 -1.1 20.068 0 1.004
 3 16 1.4 0 -1.1 19.398 0 3.017 18.36 0 4.863
@@ -39,8 +31,6 @@
 4 16 17.294 0 -7.999 14.011 0 -9.994 15.195 0 -9.486 16.295 0 -8.813
 4 16 18.18 0 -7.063 18.914 0 -6.005 14.011 0 -9.994 17.294 0 -7.999
 4 16 20.201 0 -2.385 18.914 0 -6.005 19.512 0 -4.862 19.942 0 -3.647
-
-0 // Black
 4 0 20.201 0 -2.385 20.559 0 -2.436 20.662 0 -1.095 20.3 0 -1.1
 4 0 20.3 0 -1.1 20.662 0 -1.095 20.422 0 1.082 20.068 0 1.004
 4 0 20.289 0 -3.744 20.559 0 -2.436 20.201 0 -2.385 19.942 0 -3.647

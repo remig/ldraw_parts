@@ -1,13 +1,8 @@
 0 ~Technic Turntable Type 2 Base - Bracket
 0 Name: s\48452s01.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 50 0 20 0 -1 0 0 0 1 -1 0 0 peghole.dat
 1 16 50 0 0 0 -1 0 0 0 1 -1 0 0 peghole.dat
 1 16 50 0 -20 0 -1 0 0 0 1 -1 0 0 peghole.dat
@@ -35,9 +30,9 @@
 1 16 50 0 20 0 -1 0 0 0 1 1 0 0 4-4ring8.dat
 1 16 50 0 0 0 -1 0 0 0 1 1 0 0 4-4ring8.dat
 1 16 50 0 -20 0 -1 0 0 0 1 1 0 0 4-4ring8.dat
-1 16 30 0 -20 0 1 0 0 0 1 -1 0 0 2-4RING8.DAT
-1 16 30 0 0 0 1 0 0 0 1 -1 0 0 2-4RING8.DAT
-1 16 30 0 20 0 1 0 0 0 1 -1 0 0 2-4RING8.DAT
+1 16 30 0 -20 0 1 0 0 0 1 -1 0 0 2-4ring8.dat
+1 16 30 0 0 0 1 0 0 0 1 -1 0 0 2-4ring8.dat
+1 16 30 0 20 0 1 0 0 0 1 -1 0 0 2-4ring8.dat
 1 16 32 0 20 0 1 0 0 0 2 -2 0 0 2-4ring3.dat
 1 16 32 0 0 0 1 0 0 0 2 -2 0 0 2-4ring3.dat
 1 16 32 0 -20 0 1 0 0 0 2 -2 0 0 2-4ring3.dat
@@ -175,4 +170,3 @@
 4 16 63.214 13 0 66.164 13 17.728 67.911 13 8.939 68.5 13 0
 4 16 66.164 13 -17.728 63.214 13 0 68.5 13 0 67.911 13 -8.939
 4 16 63.214 13 -26.363 63.214 13 0 66.164 13 -17.728 63.287 13 -26.215
-0

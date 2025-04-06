@@ -1,15 +1,8 @@
 0 ~Boat Base 13 x 16 Stern / Bow Half
 0 Name: s\64651s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-10-01 [Philo] File preparation for LDraw Parts Tracker
-
- 
 1 16 20 24 190 1 0 0 0 1 0 0 0 1 s\95227s01.dat
 1 16 80 24 190 1 0 0 0 1 0 0 0 1 s\95227s01.dat
 1 16 60 28 190 1 0 0 0 -7 0 0 0 -1 stud3.dat
@@ -446,7 +439,6 @@
 1 16 20 38 29.996 0 -4 0 0 0 10 1.25 0 0 box4-1.dat
 1 16 10 38 20 1.25 0 0 0 0 10 0 4 0 box4-2p.dat
 1 16 10 38 40 -1.25 0 0 0 0 10 0 -4 0 box4-1.dat
-
 1 16 20 13.5 -10 0 -4 0 0 0 10.5 -1.25 0 0 box4-1.dat
 1 16 10 13.5 0 1.25 0 0 0 0 10.5 0 -4 0 box4-1.dat
 2 24 20 48 3.746 20 48 0
@@ -2850,7 +2842,7 @@
 1 16 90 0 30 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 110 0 30 3.23358 0 -1.33939 0 1 0 1.33939 0 3.23358 11-16edge.dat
 1 16 110 0 30 0.46194 0 -0.19134 0 1 0 0.19134 0 0.46194 2-4ring7.dat
-1 16 110 0 30 -0.46194 0 0.19134 0 1 0 -0.19134 0 -0.46194 3-16rin7.dat
+1 16 110 0 30 -0.46194 0 0.19134 0 1 0 -0.19134 0 -0.46194 3-16ring7.dat
 1 16 110 0 30 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 110 0 30 0 0 6 0 1 0 -6 0 0 5-16edge.dat
 1 16 70 0 10 3.5 0 0 0 1 0 0 0 3.5 4-4edge.dat

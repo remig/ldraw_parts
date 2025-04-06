@@ -1,14 +1,8 @@
-0 ~Wedge 10 x  3 x  1 Double Rounded without Studs with Louvers Pattern
+0 ~Wedge 10 x  3 x  1 Double Rounded without Studs with Louvres Pattern
 0 Name: s\50956p02s01.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-
-
-0 // Main
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50956p02s02.dat
 1 16 0 0 40 1 0 0 0 1 0 0 0 1 s\50956s02.dat
 4 16 -10 0 -30 10 0 -30 10 0 10 -10 0 10
@@ -31,8 +25,6 @@
 3 16 -10 10.5 -150 -10 6.9 -130 -25 20 -130
 4 16 10 20 -190 10 14.9 -170 -10 14.9 -170 -10 20 -190
 4 16 -10 10.5 -150 -10 14.9 -170 10 14.9 -170 10 10.5 -150
-
-0 // Lines Condlines
 2 24 -10 0 -30 -10 0 10
 2 24 -10 0.1 -50 -10 0 -30
 2 24 -10 0.1 -50 -10 0.6 -70
