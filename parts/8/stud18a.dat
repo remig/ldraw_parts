@@ -1,14 +1,8 @@
 0 Stud Tube Open Snap (Fast Draw)
 0 Name: 8\stud18a.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG 8_Primitive UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4-4ring7.dat
 2 24 0 -1 7 1 -1 6.586
 2 24 1 -2 6.586 1 -1 6.586
@@ -210,7 +204,6 @@
 4 16 4.243 -4 -4.243 4.243 0 -4.243 1 -1 -5.586 1 -4 -5.586
 4 16 1 -1 -6.586 0 -1 -7 0 0 -7 4.95 0 -4.95
 4 16 1 -2 -6.586 1 -1 -6.586 4.95 0 -4.95 4.95 -2 -4.95
-0 //
 5 24 5.657 -4 5.657 5.657 -2 5.657 1 -2 7.586 7.586 -4 1
 5 24 0 -1 6 0 0 6 4.243 0 4.243 -1 -1 5.586
 5 24 4.243 0 4.243 4.243 -4 4.243 1 -4 5.586 5.586 -1 1

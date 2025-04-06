@@ -1,11 +1,8 @@
 0 Hi-Res Ring 36 x 1.0
 0 Name: 48\4-4ring36.dat
-0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Unofficial_48_Primitive
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 37 0 0 36.6818 0 4.8285 35.6904 0 4.698 36 0 0
 4 16 36.6818 0 4.8285 35.7383 0 9.5756 34.7724 0 9.3168 35.6904 0 4.698
 4 16 35.7383 0 9.5756 34.1843 0 14.1599 33.2604 0 13.7772 34.7724 0 9.3168
@@ -54,4 +51,3 @@
 4 16 34.1843 0 -14.1599 35.7383 0 -9.5756 34.7724 0 -9.3168 33.2604 0 -13.7772
 4 16 35.7383 0 -9.5756 36.6818 0 -4.8285 35.6904 0 -4.698 34.7724 0 -9.3168
 4 16 36.6818 0 -4.8285 37 0 0 36 0 0 35.6904 0 -4.698
-0 // Build by Primitive Generator 2

@@ -1,11 +1,8 @@
 0 Hi-Res Ring 38 x 1.0
 0 Name: 48\4-4ring38.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_48_Primitive
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 39 0 0 38.6646 0 5.0895 37.6732 0 4.959 38 0 0
 4 16 38.6646 0 5.0895 37.6701 0 10.0932 36.7042 0 9.8344 37.6732 0 4.959
 4 16 37.6701 0 10.0932 36.0321 0 14.9253 35.1082 0 14.5426 36.7042 0 9.8344
@@ -54,4 +51,3 @@
 4 16 36.0321 0 -14.9253 37.6701 0 -10.0932 36.7042 0 -9.8344 35.1082 0 -14.5426
 4 16 37.6701 0 -10.0932 38.6646 0 -5.0895 37.6732 0 -4.959 36.7042 0 -9.8344
 4 16 38.6646 0 -5.0895 39 0 0 38 0 0 37.6732 0 -4.959
-0 // Build by Primitive Generator 2

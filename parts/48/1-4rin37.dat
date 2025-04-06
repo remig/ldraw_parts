@@ -1,13 +1,8 @@
-0 Hi-Res Ring 37 x 0.25
+0 ~Hi-Res Ring 37 x 0.25 (Obsolete)
 0 Name: 48\1-4rin37.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG 48_Primitive UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 4 16 37 0 0 38 0 0 37.6732 0 4.959 36.6818 0 4.8285
 4 16 36.6818 0 4.8285 37.6732 0 4.959 36.7042 0 9.8344 35.7383 0 9.5756
 4 16 35.7383 0 9.5756 36.7042 0 9.8344 35.1082 0 14.5426 34.1843 0 14.1599
@@ -20,7 +15,4 @@
 4 16 14.1599 0 34.1843 14.5426 0 35.1082 9.8344 0 36.7042 9.5756 0 35.7383
 4 16 9.5756 0 35.7383 9.8344 0 36.7042 4.959 0 37.6732 4.8285 0 36.6818
 4 16 4.8285 0 36.6818 4.959 0 37.6732 0 0 38 0 0 37
-
-0 end of file 
-
-
+0 end of file

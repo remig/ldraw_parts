@@ -1,15 +1,8 @@
 0 Hi-Res Ring 179 x 0.25
 0 Name: 48\1-4ring179.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG 48_Primitive UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
-0 // Build by Primitive Generator 2
-
 4 16 180 0 0 178.452 0 23.49 177.4606 0 23.3595 179 0 0
 4 16 178.452 0 23.49 173.862 0 46.584 172.8961 0 46.3252 177.4606 0 23.3595
 4 16 173.862 0 46.584 166.302 0 68.886 165.3781 0 68.5033 172.8961 0 46.3252

@@ -1,13 +1,8 @@
 0 Hi-Res Cylinder 0.4375
 0 Name: 48\7-16cyli.dat
 0 Author: Niels Karsdorp [nielsk]
-0 !LDRAW_ORG 48_Primitive UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 4 16 1 1 0 .9914 1 .1305 .9914 0 .1305 1 0 0
 4 16 .9914 1 .1305 .9659 1 .2588 .9659 0 .2588 .9914 0 .1305
 4 16 .9659 1 .2588 .9239 1 .3827 .9239 0 .3827 .9659 0 .2588
@@ -51,4 +46,3 @@
 5 24 -.7934 1 .6088 -.7934 0 .6088 -.7071 1 .7071 -.866 1 .5
 5 24 -.866 1 .5 -.866 0 .5 -.7934 1 .6088 -.9239 1 .3827
 5 24 -.9239 1 .3827 -.9239 0 .3827 -.866 1 .5 -.9742 1 .261
-0
