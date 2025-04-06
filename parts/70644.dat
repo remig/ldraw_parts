@@ -1,19 +1,8 @@
 0 Technic Hook Large Metallic
 0 Name: 70644.dat
-0 Author: Adriano Aicardi 
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 Author: Adriano Aicardi
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 2007-05-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, corrected Bad Vertex Sequence, added conditional lines, fixed inside dimension (2004-07-26)
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2013-12-20 [PTadmin] Renamed from 30
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 0 -20 -10 1 0 0 0 0 1 0 1 0 peghole.dat
 1 16 0 -20 -10 8 0 0 0 0 8 0 1 0 4-4ndis.dat
 0 BFC INVERTNEXT
@@ -275,4 +264,3 @@
 4 16 -9.8 46 5 -15.6 45.8 5 -20.6 36.4 5 -19.2 35.8 5
 3 16 -19.2 35.8 5 -20.6 36.4 5 -20 35.8 5
 5 24 8.2 17 -10 8.2 17 10 12.944 11 10 7 19 8
-0

@@ -1,13 +1,8 @@
 0 Plate  2 x  6 x  0.667 with Four Studs On Side and Four Raised
 0 Name: 87609.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 1 16 0 12 10 -7.391 0 3.0615 0 -8 0 -3.0615 0 -7.391 3-8cyli.dat
 1 16 0 4 10 -7.391 0 3.0615 0 -1 0 -3.0615 0 -7.391 3-8edge.dat
 1 16 0 12 10 7.391 0 3.0615 0 -1 0 -3.0615 0 7.391 5-8edge.dat
@@ -87,7 +82,6 @@
 4 16 -60 16 30 -56 16 26 -56 16 -6 -60 16 -10
 4 16 60 16 30 56 16 26 -56 16 26 -60 16 30
 4 16 60 16 -10 56 16 -6 56 16 26 60 16 30
-0 // outside
 2 24 40 8 -10 60 8 -10
 1 16 60 12 10 0 -1 0 4 0 0 0 0 20 rect.dat
 4 16 60 8 -10 60 8 30 40 8 10 40 8 -10

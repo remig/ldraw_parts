@@ -1,18 +1,8 @@
 0 Garage Plate  8 x 18
 0 Name: 820.dat
 0 Author: Arne Hackstein
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
-0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [tchang] Add BFC (2007-20-06)
-0 !HISTORY 2009-06-04 [tchang] Suppress "old" in description, change header format, downsize with Rectifier
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 2 24 170 8 76 -176 8 76
 2 24 -176 8 -76 170 8 -76
 2 24 174 8 80 -180 8 80
@@ -118,7 +108,6 @@
 1 16 72 3 0 0 -1 0 0 0 3 -42 0 0 rect2p.dat
 1 16 154 6.0115 40.5 0 1 0 0 0 -1.2885 -1.5 0 0 rect3.dat
 1 16 154 6.0115 -40.5 0 1 0 0 0 -1.2885 -1.5 0 0 rect3.dat
-0 //
 1 16 70 0 70 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 50 0 70 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 30 0 70 1 0 0 0 1 0 0 0 1 stud.dat
@@ -151,4 +140,3 @@
 1 16 -130 0 -70 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -150 0 -70 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -170 0 -70 1 0 0 0 1 0 0 0 1 stud.dat
-0 //

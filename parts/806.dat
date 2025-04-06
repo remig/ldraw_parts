@@ -1,17 +1,8 @@
 0 Car Base  6 x 17 with 2 Holes and Steering Gear Slot
 0 Name: 806.dat
 0 Author: Arne Hackstein
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
-0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed (2005-11-23)
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
 1 16 200 4 40 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 80 4 40 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 60 4 40 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -177,4 +168,3 @@
 1 16 -20 4 -40 0 1 0 0 0 4 20 0 0 rect2p.dat
 1 16 -16 6 -36 0 -1 0 0 0 2 20 0 0 rect2p.dat
 1 16 -16 6 36 0 -1 0 0 0 2 20 0 0 rect2p.dat
-0

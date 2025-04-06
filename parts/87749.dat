@@ -1,20 +1,11 @@
 0 Minifig Hips with Tentacles
 0 Name: 87749.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Squid, Octopus, Alien
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-09-07 [MagFors] File preparation for LDraw Parts Tracker
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
+0 !KEYWORDS Alien, Octopus, Squid
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 hipstud.dat
 1 16 -10 0 0 -1 0 0 0 1 0 0 0 -1 hipstud.dat
-
 4 16 -16.25 40 80 -16.25 35.71 80 -15.413 35.477 76.875 -15.413 40 76.875
 4 16 -10 40 73.75 -10 35.649 73.75 -6.875 34.53 74.587 -6.875 40 74.587
 4 16 -4.587 40 76.875 -6.875 40 74.587 -6.875 34.53 74.587 -4.587 35.346 76.875

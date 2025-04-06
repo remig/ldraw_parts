@@ -1,19 +1,9 @@
 0 Minifig Hair Bubble Style (Afro)
 0 Name: 87995.dat
 0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
-
-0 !HISTORY 2014-01-10 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-01-10 [angmarec] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-0 !HISTORY 2014-06-22 [cwdee] Add missing CATEGORY
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 -1 stud4.dat
 1 16 0 -4 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat
 0 BFC INVERTNEXT
@@ -245,7 +235,6 @@
 5 24 -11.24 4.273 -6.493 -10.245 8.643 -7.981 -10.724 10.437 -7.309 -9.398 7.872 -8.942
 5 24 -11.24 4.273 -6.493 -9.398 7.872 -8.942 -10.245 8.643 -7.981 -9.174 5.41 -9.185
 5 24 -11.24 4.273 -6.493 -9.174 5.41 -9.185 -9.398 7.872 -8.942 -8.277 4.245 -9.948
-0 // /////
 3 16 -14.259 -2.219 14.319 -12.543 -3.951 14.418 -13.574 -2.33 15.295
 3 16 -12.993 -3.036 15.466 -13.574 -2.33 15.295 -12.543 -3.951 14.418
 3 16 -11.22 -4.207 15.757 -12.336 -3.047 15.964 -12.543 -3.951 14.418

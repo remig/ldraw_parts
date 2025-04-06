@@ -1,19 +1,10 @@
 0 Tail 12 x  2 x  5
 0 Name: 87614.dat
 0 Author: Tim Gould [timgould]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Angle of bar is 55.342 degrees
 0 !HELP along this line: 2 4 0 -3.289 -68.205 0 -107.289 82.226
-
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-10-02 [MagFors] Finished part
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-0 !HISTORY 2013-08-29 [cwdee] Removed category Plane
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 4 16 20 8 80 16 8 76 -16 8 76 -20 8 80
 4 16 -16 8 76 -16 8 -76 -20 8 -80 -20 8 80
 4 16 -20 8 -80 -16 8 -76 16 8 -76 20 8 -80
@@ -29,7 +20,6 @@
 3 16 -20 0 -80 -4 0 -80 -4 0 -72.9643
 4 16 -20 0 -80 -4 0 -72.9643 -4 0 -65.9295 -20 0 80
 4 16 -20 0 80 -4 0 -65.9295 -2 0 -65.9295 -2 0 80
-0 // Top
 1 16 0 -108 100 -4 0 0 0 0 -4 0 -1 0 2-4edge.dat
 1 16 0 -108 100 -4 0 0 0 -1 0 0 0 4 2-4edge.dat
 1 16 0 -108 100 4 0 0 0 0 -4 0 1 0 2-4ndis.dat
@@ -73,7 +63,6 @@
 1 16 0 -108 130 0 0 -20 0 -4 0 -28 0 0 box3u8p.dat
 1 16 10 -112 130 0 0 1 0 1 0 -1 0 0 stug2-1x3.dat
 1 16 -10 -112 130 0 0 1 0 1 0 -1 0 0 stug2-1x3.dat
-0 // Main tail
 1 16 0 -54 120 2 0 0 0 -20 -54 0 -27 40 rect3.dat
 2 24 -2 -108 103.382 -2 -107.023 103.17
 2 24 -2 -107.023 103.17 -2 -106.469 103.038
@@ -99,7 +88,6 @@
 2 24 2 0 -67.0171 2 0 80
 4 16 2 0 80 2 -108 160 2 -108 103.382 2 -104.618 100
 4 16 2 -104.618 84.307 2 0 -67.0171 2 0 80 2 -104.618 100
-0 // Bar
 1 16 0 -108 100 -4 0 0 0 0 4 0 4 0 2-8sphe.dat
 1 16 0 -108 100 4 0 0 0 0 4 0 -15.5 0 4-4cyli.dat
 1 16 0 -108 84.5 0 0 -4 4 0 0 0 -1.248 0 4-4cylse.dat

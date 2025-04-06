@@ -1,22 +1,11 @@
 0 Minifig Weapon Hand Dagger
 0 Name: 88812.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Hassansin Braces, Sword
-
-0 !HISTORY 2011-10-13 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2011-10-14 [Rolf] File preparation for LDraw Parts Tracker
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
-0 // Minifig Weapon Base
+0 !KEYWORDS Hassansin Braces, sword
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\88811s01.dat
-
-0 // Blade
 1 16 4.0385 -13.009 -11.552 -0.4725 -1 0 0 0 0.759 5.302 -0.0888 0 rect2p.dat
 1 16 4.2875 -13.009 -20.508 -0.2235 -1 0 0 0 0.759 -3.654 0.0611 0 rect2p.dat
 1 16 3.397 -13.009 -27.7615 0.667 -1 0 0 0 -0.759 3.5995 0.1822 0 rect2p.dat

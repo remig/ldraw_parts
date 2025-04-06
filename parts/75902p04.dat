@@ -1,17 +1,11 @@
-0 Minifig Shield Round Bowed with Mercedes-Benz Logo
+0 Minifig Shield Round Bowed with Mercedes-Benz Logo Pattern
 0 Name: 75902p04.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !KEYWORDS Arocs, Bricklink 75902pb06, Set 42043
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\75902s01.dat
-
 5 24 18 0 -7.4 24 0 -6.2 17.8452 -2.349 -7.4 17.8452 2.349 -7.4
 5 24 17.8452 2.349 -7.4 23.7936 3.132 -6.2 18 0 -7.4 17.3862 4.6584 -7.4
 5 24 17.3862 4.6584 -7.4 23.1816 6.2112 -6.2 17.8452 2.349 -7.4 16.6302 6.8886 -7.4

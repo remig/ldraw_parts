@@ -1,13 +1,9 @@
 0 Tile  2 x  4 with Metallic Silver Lines Pattern
 0 Name: 87079pz7.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 41493, Brickheadz, Black Panther
-
+0 !KEYWORDS Black Panther, Brickheadz, Set 41493
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
 3 16 -40 0 20 -40 0 -20 -38.143 0 -8.097
 3 16 -40 0 20 -38.143 0 -8.097 -37.732 0 -6.653

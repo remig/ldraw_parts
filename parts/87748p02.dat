@@ -1,16 +1,10 @@
 0 Minifig Ring with Triangle with Gold Bands and Turtle Pattern
 0 Name: 87748p02.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
 0 !KEYWORDS tortoise
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87748s01.dat
 1 16 0 0 0 -0.5 0 0.866 0 1 0 -0.866 0 -0.5 s\87748s01.dat
 1 16 0 0 0 -0.5 0 -0.866 0 1 0 0.866 0 -0.5 s\87748s01.dat
@@ -57,4 +51,3 @@
 4 16 -3.52 -4 6.54 -3.21 -4 6.22 3.21 -4 6.22 3.52 -4 6.54
 4 16 -3.21 -4 6.22 -2.79 -4 5.91 2.79 -4 5.91 3.21 -4 6.22
 3 16 -2.79 -4 5.91 0 -4 5.71 2.79 -4 5.91
-0 //

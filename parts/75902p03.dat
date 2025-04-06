@@ -1,19 +1,12 @@
 0 Minifig Shield Round Bowed with Gold Eagle Pattern
 0 Name: 75902p03.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
 0 !KEYWORDS Series 10
 0 !CMDLINE -c308
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\75902s01.dat
-0 // pattern
 1 16 0 0 -6.2 1 0 0 0 0 -1 0 1 0 s\75902p03s01.dat
 1 16 0 0 -6.2 -1 0 0 0 0 -1 0 1 0 s\75902p03s01.dat
 5 24 0 -9 -8.6 0 -18 -7.4 1.1745 -8.9226 -8.6 -1.1745 -8.9226 -8.6

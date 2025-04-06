@@ -1,17 +1,9 @@
 0 Plane Rear  6 x 10 x  4
 0 Name: 87616.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS boat, hull
-
-0 !HISTORY 2011-09-21 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2011-09-22 [MagFors] File preparation for LDraw Parts Tracker
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87616s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87616s01.dat
 1 16 -20 88 -20 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
@@ -27,7 +19,6 @@
 1 16 20 90.75 0 1 0 0 0 -1.3125 0 0 0 1 stud4.dat
 1 16 -20 90.75 0 1 0 0 0 -1.3125 0 0 0 1 stud4.dat
 1 16 0 90.75 -20 1 0 0 0 -1.3125 0 0 0 1 stug4-1x3.dat
-0 // Added lines/Condlines
 5 24 0 68.61 64.55 0 88 27.29 22.28 68.66 60.15 -22.28 68.66 60.15
 5 24 0 0 157.25 0 1.87 157.25 14.56 2.11 151.09 -14.56 2.11 151.09
 5 24 0 1.87 157.25 0 14.29 140 10.05 12.56 140 -10.05 12.56 140

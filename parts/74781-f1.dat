@@ -1,24 +1,19 @@
-0 Monorail Track Point Left - Straight
+0 Monorail Track Point Left (Straight)
 0 Name: 74781-f1.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Unofficial_Shortcut
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
-0 !HELP Use the following transformation matrices for 1 x 2 Plates and 1 x 2 Tile with Arrow
-0 !HELP 1 16 29.4 1 -70 1 0 0 0 1 0 0 0 1 3023.dat
-0 !HELP 1 16 29.4 -7 -70 1 0 0 0 1 0 0 0 1 3069bp14.dat
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !HELP Use the following transformation matrices for
+0 !HELP 1 x 2 Plates and 1 x 2 Tile with Arrow
+0 !HELP 1 16 36.2 1 -70 1 0 0 0 1 0 0 0 1 3023.dat
+0 !HELP 1 16 36.2 -7 -70 1 0 0 0 1 0 0 0 1 3069bp14.dat
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Unitron, Airport Shuttle
-0 !KEYWORDS Set 6347, Set 6991
-
-1 16 23.98 5 110.589 .773 0 -.634 0 1 0 .634 0 .773 2890.dat
+0 !KEYWORDS Airport Shuttle, Set 6347, Set 6991, Unitron
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2886.dat
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 2885.dat
+1 47 -134 13 0 .68438 0 -.72973 0 -1 0 .72985 0 .68438 2884.dat
+1 16 -89.802 13 -16.486 -.21303 0 -.97704 0 1 0 .97704 0 -.21303 2911.dat
+1 16 36.2 9 -35 1 0 0 0 1 0 0 0 1 2883.dat
+1 16 106.15 8.107 0 .99444 -.11021 0 .11021 .99444 0 0 0 1 2890.dat
+1 16 -76.144 13 68.105 .33216 0 .94322 0 1 0 -.94322 0 .33216 2911.dat
+1 16 11.669 5 104.683 .80902 0 -.58779 0 1 0 .58779 0 .80902 2890.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2887.dat
-1 47 -134 13 0 -.878 0 -.48 0 -1 0 -.48 0 .878 2884.dat
-1 16 29.4 9 -35 1 0 0 0 1 0 0 0 1 2883.dat
-1 16 100.499 8.102 0 .995 -.105 0 .105 .995 0 0 0 1 2890.dat
-1 16 -97.589 13 -10.781 -.141 0 -.99 0 1 0 .99 0 -.141 2911.dat
-1 16 -62.619 13 71.722 .349 0 .937 0 1 0 -.937 0 .349 2911.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2885.dat

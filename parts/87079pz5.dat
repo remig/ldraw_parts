@@ -1,15 +1,11 @@
 0 Tile  2 x  4 with Lego Logo and White "#LEGOSDCC" Pattern
 0 Name: 87079pz5.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS BrickLink 87079pb401, Brickheadz, San Diego, Comic Con, 2016
-
+0 !KEYWORDS 2016, Brickheadz, BrickLink 87079pb401, Comic Con, San Diego
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
-1 16 -20 0 0 0.78 0 0 0 0 1 0 -0.78 0 s\logolego01.dat
+1 16 -20 0 0 0.78 0 0 0 0 1 0 -0.78 0 s\logolegos02.dat
 4 0 -36 0 -16 -35.6 0 -15.6 -35.6 0 15.6 -36 0 16
 4 0 -36 0 -16 -4 0 -16 -4.4 0 -15.6 -35.6 0 -15.6
 4 0 -4.4 0 15.6 -4.4 0 -15.6 -4 0 -16 -4 0 16

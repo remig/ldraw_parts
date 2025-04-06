@@ -1,13 +1,9 @@
 0 Tile  2 x  4 with 10 Yellow Rectangles Pattern
 0 Name: 87079pza.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 41498, Brickheadz, Boba Fett
-
+0 !KEYWORDS Boba Fett, Brickheadz, Set 41498
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
 4 14 -32.38 0 -3.5 -36.19 0 -3.5 -36.19 0 -15.5 -32.38 0 -15.5
 4 14 -24.76 0 -3.5 -28.57 0 -3.5 -28.57 0 -15.5 -24.76 0 -15.5

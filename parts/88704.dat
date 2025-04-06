@@ -1,23 +1,13 @@
 0 Minifig Whip Bent Flexible
 0 Name: 88704.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2017-03-10 [Philo] Full rewrite for LDraw Parts Tracker
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\88704s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\88704s01.dat
-
 1 16 21.145 -32.802 0 2.82843 5.65686 0 -2.82843 5.65685 0 0 0 -4 4-4cylc.dat
 1 16 26.802 -27.145 0 2.82843 -0.70711 0 -2.82843 -0.70711 0 0 0 -4 4-4disc.dat
-
 1 16 0 -13.6 0 -1 0 0 0 1 0 0 0 -1 s\93247s01.dat
 1 16 0 -13.6 0 -1 0 0 0 1 0 0 0 1 s\93247s01.dat
 1 16 0 -13.6 0 1 0 0 0 1 0 0 0 -1 s\93247s01.dat
@@ -51,7 +41,6 @@
 1 16 0 -3.6 0 -4 0 0 0 3.6 0 0 0 -4 4-4cylc.dat
 1 16 0 0 0 -4 0 0 0 -1 0 0 0 -4 4-4disc.dat
 1 16 0 -3.6 0 0 0 3.5 0 -20.4 0 3.5 0 0 4-4cylo.dat
-
 2 24 21.948 -33.605 -1.966 22.535 -34.192 -1.135
 2 24 22.535 -34.192 -1.135 22.75 -34.407 0
 2 24 22.75 -34.407 0 22.535 -34.192 1.135

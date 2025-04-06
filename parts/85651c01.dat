@@ -1,18 +1,11 @@
-0 Sail Triangular 17 x 21 Formed Shape 1
+0 Sheet Fabric 17 x 21 Triangular Sail (Formed Shape 1)
 0 Name: 85651c01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Shaped for 4184 The Black Pearl, rear mast
-
 0 BFC CERTIFY CCW
-
-0 !CATEGORY Canvas
+0 !CATEGORY Sheet Fabric
 0 !KEYWORDS Black Pearl, set 4184
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 3 16 -17.54 302.45 -55.56 -17.22 264.98 -52.24 -18.41 261.73 -83.07
 3 16 -22.59 330.45 -95.31 -21.58 348.04 -121.27 -21.94 366.65 -108.34
 4 16 -17.22 264.98 -52.24 -17.54 302.45 -55.56 -15.53 282.7 -23.05 -15.7 248.01 -31.06
@@ -499,8 +492,6 @@
 3 16 4.89 377.33 -12.03 4.76 377.41 -11.83 12.12 378.31 -7.87
 3 16 12.24 378.22 -8.08 17.33 378.21 -5.12 17.42 378.12 -5.33
 3 16 12.24 378.22 -8.08 12.12 378.31 -7.87 17.33 378.21 -5.12
-0 // Unmatched edges
-0 // Added lines/Condlines
 5 24 -17.54 302.45 -55.56 -17.22 264.98 -52.24 -18.41 261.73 -83.07 -15.53 282.7 -23.05
 5 24 -17.22 264.98 -52.24 -18.41 261.73 -83.07 -17.54 302.45 -55.56 -16.71 232.57 -67.3
 5 24 -18.41 261.73 -83.07 -17.54 302.45 -55.56 -17.22 264.98 -52.24 -20.04 289.58 -95.95

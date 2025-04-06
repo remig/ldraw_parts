@@ -1,17 +1,10 @@
 0 Sticker  1.1 x  2.9 with Blue Sitting Person Icon
 0 Name: 821420c.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Train, Set 4547, Set 10002, Metroliner
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !KEYWORDS Metroliner, set 10002, set 4547, Train
 1 16 0 -0.25 0 29 0 0 0 0.25 0 0 0 11 box5-12.dat
-
 4 1 4.05 -0.25 3.34 3.49 -0.25 3.54 1.775 -0.25 -1.15 2.8 -0.25 -1.9
 4 1 2.8 -0.25 -1.9 1.775 -0.25 -1.15 1.65 -0.25 -1.375 2.625 -0.25 -2.225
 4 1 2.275 -0.25 -2.675 2.475 -0.25 -2.475 1.65 -0.25 -1.375 1.5 -0.25 -1.575

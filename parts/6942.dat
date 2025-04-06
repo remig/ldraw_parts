@@ -1,20 +1,9 @@
 0 Dish  5 x  5
 0 Name: 6942.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS round, cone, lampshade, lightshade, tile, bowl, Scala Cone  5 x  5
-
-0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
-0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [sbliss] BFC'ed, fixed L3P errors (2004-04-19)
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2010-05-09 [cwdee] Remove CATEGORY Round
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
+0 !KEYWORDS Round, Scala Cone 5 x 5, bowl, cone, lampshade, lightshade, tile
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 0 4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 4 0 20 0 0 0 1 0 0 0 20 4-4edge.dat
@@ -28,13 +17,12 @@
 1 16 0 4 0 -1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ring1.dat
 1 16 0 0 0 10 0 0 0 1 0 0 0 10 4-4ring1.dat
-1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4rin10.dat
+1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4ring10.dat
 1 16 0 0 0 22 0 0 0 1.316 0 0 0 22 4-4cyli.dat
 1 16 0 4 0 -8 0 0 0 -1 0 0 0 8 4-4ring1.dat
 1 16 0 4 0 -4 0 0 0 -1 0 0 0 4 4-4ring4.dat
 0 BFC INVERTNEXT
 1 16 0 4 0 20 0 0 0 4 0 0 0 20 4-4cyli.dat
-
 5 24 20 8 0 45.527 -12.708 0 18.478 8 -7.654 18.478 8 7.654
 5 24 45.527 -12.708 0 45.905 -13.391 0 42.061 -12.708 -17.422 42.061 -12.708 17.422
 5 24 45.905 -13.391 0 45.993 -14.166 0 42.411 -13.391 -17.567 42.411 -13.391 17.567
@@ -531,4 +519,3 @@
 4 16 43.084 -15.778 0 39.804 -15.778 -16.488 40.497 -15.993 -16.775 43.834 -15.993 0
 4 16 42.473 -15.292 0 39.24 -15.292 -16.254 39.804 -15.778 -16.488 43.084 -15.778 0
 4 16 20.325 1.316 -8.419 39.24 -15.292 -16.254 42.473 -15.292 0 22 1.316 0
-0

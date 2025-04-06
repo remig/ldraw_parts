@@ -1,13 +1,8 @@
-0 Technic Chain Tread 38 Reinforced
+0 Technic Chain Tread 5 Wide Reinforced
 0 Name: 88323.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\57518s01.dat
 1 16 18 -12 -29.5 0 -1 0 0 0 2 -1.5 0 0 rect.dat
 1 16 15.5 -14 -29.5 -2.5 0 0 0 1 0 0 0 -1.5 rect2a.dat

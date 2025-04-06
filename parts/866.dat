@@ -1,25 +1,15 @@
 0 Train Track 12V Curved Insert Type 1 (Needs Work)
 0 Name: 866.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP The curve elements are rotated around this point (MLCAD Syntax):
-0 !HELP    0 ROTATION CENTER -160 0 -800 0 "CURVECENTER"
-0 !HELP    0 ROTATION CONFIG 1 1
+0 !HELP 0 ROTATION CENTER -160 0 -800 0 "CURVECENTER"
+0 !HELP 0 ROTATION CONFIG 1 1
 0 !HELP with a step of 0.5625 degrees
-
-0 !HELP The underside is designed by LEGO in a way which does not fit onto a 
+0 !HELP The underside is designed by LEGO in a way which does not fit onto a
 0 !HELP plate (sadly): the two center rims prevent that.
-
 0 BFC CERTIFY CW
-
 0 !CMDLINE -c1
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // Needs work: underside geometry is still mockup at the prism cutouts at the ends
-
 1 16 -81.586 13.5 -3.854 1.99037 0 1.56827 0 -1.5 0 -0.196034 0 15.923 box.dat
 1 16 -3.929 13.5 -15.374 1.96157 0 3.12145 0 -1.5 0 -0.39018 0 15.6926 box.dat
 1 16 -9.324 13.5 -14.321 0.982103 0 3.01353 0 -1.5 0 -0.188346 0 15.7136 box.dat

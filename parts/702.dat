@@ -1,19 +1,8 @@
 0 Brick  4 x  4 Corner
 0 Name: 702.dat
 0 Author: R. M. Rodinsky [dublar]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
-0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
-0 !HISTORY 2007-07-19 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-09-22 [Brickaneer] BFC-ed (CCW added and polygon winding corrected).
-0 !HISTORY 2009-09-28 [arezey] Fixed edgelines, used stug2.dat, fixed t-junctions
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 4 16 20 24 60 16 24 56 -16 24 56 -20 24 60
 4 16 -20 24 60 -16 24 56 -16 24 -16 -20 24 -20
 4 16 -20 24 -20 -16 24 -16 56 24 -16 60 24 -20
@@ -44,4 +33,3 @@
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug2.dat
 1 16 40 0 0 1 0 0 0 1 0 0 0 1 stug2.dat
 1 16 0 0 40 1 0 0 0 1 0 0 0 1 stug2.dat
-0 //

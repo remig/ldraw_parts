@@ -1,23 +1,10 @@
 0 Fabuland Roof Chimney
 0 Name: 790.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Origin is 0 -24 20 relative to Fabuland Roof Slope
-
 0 BFC CERTIFY CCW
 0 !CATEGORY Brick
-
-0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
-0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-11-19 [Philo] BFCed with Windz, BFCed
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
-0 // inside
-
-
 0 BFC INVERTNEXT
 1 16 0 -2 -20 17 0 0 0 -24 0 0 0 -17 box4-1.dat
 1 16 10.447 -14 -3 -6.553 0 0 0 0 12 0 1 0 rect2a.dat
@@ -33,7 +20,6 @@
 5 24 0 -26 -5 0 -2 -5 -1.914 -26 -4.62 1.914 -26 -4.62
 1 16 -2.725 -14 -4.078 -0.811 0.55565 0 0 0 12 0.542 1 0 rect2p.dat
 1 16 -3.715 -14 -3.268 -0.179 12.864 0 0 0 12 0.268 8.592 0 rect2p.dat
-0 // inside step
 4 16 17 -2 -37 20 -2 -39 -20 -2 -39 -17 -2 -37
 4 16 -17 -2 -37 -20 -2 -39 -20 -2 6 -17 -2 -3
 4 16 17 -2 -37 17 -2 -3 20 -2 6 20 -2 -39
@@ -66,7 +52,6 @@
 1 16 -22 2 -7 2 0 0 0 -13 4 0 -4 -13 rect1.dat
 1 16 0 15 -41 0 0 24 0 -1 0 2 0 0 rect.dat
 4 16 -24 -2 6 -24 -3.2 10 24 -3.2 10 24 -2 6
-0 // outside skirt
 1 16 24 5.5 -41 0 -1 0 0 0 9.5 -2 0 0 rect1.dat
 4 16 24 -4 -39 24 15 -39 24 9.3 -20 24 -4 -20
 4 16 24 -4 -20 24 6 -20 24 -0.3 1 24 -4 1
@@ -79,7 +64,6 @@
 2 24 -24 6 -20 -24 -3.2 10
 1 16 0 -5.05 10 24 0 0 0 0 1.85 0 -1 0 rect2p.dat
 1 16 0 5.5 -43 0 0 -24 -9.5 0 0 0 1 0 rect1.dat
-0 // outside step
 4 16 21 -4 -41 24 -4 -43 24 -4 1 21 -4 1
 4 16 20 -28 -40 21 -4 -41 21 -4 1 20 -28 0
 3 16 20.879 -6.9 10 20.879 -6.9 0.879 21 -4 1
@@ -105,13 +89,9 @@
 4 16 20 -28 -40 -20 -28 -40 -21 -4 -41 21 -4 -41
 4 16 20 -28 0 20.879 -6.9 0.879 -20.879 -6.9 0.879 -20 -28 0
 1 16 0 -6.9 5.44 -20.879 0 0 0 1 0 0 0 -4.5605 rect3.dat
-0 // top block
 1 16 10 -28 -10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 -28 -10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 10 -28 -30 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 -28 -30 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 0 -28 -20 20 0 0 0 1 0 0 0 20 rect.dat
-0 // peg
 1 16 0 14 0 4 0 0 0 -16 0 0 0 4 4-4cylc.dat
-0 //
-0 //

@@ -1,18 +1,8 @@
 0 Window  1 x  3 x  5 Shutter
 0 Name: 791.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-09-24 [MagFors] bfc'd, used more box primitives
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 25 54 -2 27 0 0 0 0 54 0 4 0 box4.dat
 4 16 4 6 2 -2 0 2 52 0 2 48 6 2
 4 16 48 6 2 52 0 2 52 108 2 48 102 2
@@ -24,7 +14,6 @@
 4 16 4 6 -2 -2 0 -2 -2 108 -2 4 102 -2
 1 16 0 0 0 2 0 0 0 2 0 0 0 2 bump5000.dat
 1 16 0 108 0 -2 0 0 0 -2 0 0 0 2 bump5000.dat
-
 0 BFC INVERTNEXT
 1 16 26 100.4515 2 0 0 22 -1.5485 0 0 0 -1 0 box5.dat
 4 16 4 98.903 2 4 95.806 2 48 95.806 2 48 98.903 2

@@ -1,22 +1,14 @@
 0 Minifig Helmet Army with White Stencil Cross Pattern
 0 Name: 87998p01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !CATEGORY Minifig Headwear
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-0 !HISTORY 2012-12-24 [cwdee] Update category
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87998s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87998s01.dat
 1 16 0 -4 0 -1 0 0 0 -1 0 0 0 -1 stud16.dat
 1 16 0 -4 0 0 0 8 0 -1 0 8 0 0 4-4disc.dat
 1 16 0 4 0 0 0 13 0 -1 0 13 0 0 4-4edge.dat
-0 // Front pattern and middle condlines
 4 16 0 0.401 -15.015 1.25 0.401 -14.892 1.25 -0.272 -14.607 0 -2 -14
 4 15 1.25 -0.272 -14.607 1.25 0.401 -14.892 1.913 0.974 -15.068 2.078 0.872 -15.009
 3 15 1.913 0.974 -15.068 1.25 0.401 -14.892 0 1.325 -15.405
