@@ -1,21 +1,13 @@
-0 Minifig Leg Left with DarkBlue and Gold Loincloth Pattern
+0 ~Minifig Leg Left with DarkBlue and Gold Loincloth Pattern (Obsolete)
 0 Name: 3817pq1.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
-0 BFC CERTIFY CCW
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Move down 12 LDU to align with hips
-
-0 !KEYWORDS Pharaoh's Quest, Amset-Ra, Anubis Guard
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
+0 BFC CERTIFY CCW
+0 !KEYWORDS Amset-Ra, Anubis Guard, Pharaoh's Quest
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817s01.dat
 4 16 1.5 20 -6 1.5 20 -11 19.18 20 -11 19.18 20 -6
 4 16 1.5 20 -11 1.5 28 -11 19.5 28 -11 19.18 20 -11
-0 // pattern
 4 0 2 9.13 -6 2 9.82 -6 2.61 10.38 -6 2.63 9.75 -6
 4 0 2.61 10.38 -6 3.81 11.12 -6 4.14 10.73 -6 2.63 9.75 -6
 4 0 3.81 11.12 -6 5.73 11.83 -6 5.54 11.24 -6 4.14 10.73 -6

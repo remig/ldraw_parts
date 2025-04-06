@@ -1,15 +1,10 @@
 0 Minifig Head with Black Eyebrows, Reddish Brown Dimples, Lopsided Open Mouth Grin Pattern
 0 Name: 3626cpd69.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Batman Movie, Dick Grayson, Bricklink 3626cpb1717
-
+0 !KEYWORDS Batman Movie, Bricklink 3626cpb1717, Dick Grayson
 0 !CMDLINE -c78
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
 1 16 0 4 0 8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
@@ -20,7 +15,6 @@
 1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
 1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
 1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
-
 4 70 -10.29 12.56 -7.55 -10.383 12.436 -7.411 -10.421 12.56 -7.354 -10.383 12.684 -7.411
 4 70 -10.29 12.56 -7.55 -10.383 12.684 -7.411 -10.29 12.736 -7.55 -10.197 12.684 -7.688
 4 70 -10.29 12.56 -7.55 -10.197 12.684 -7.688 -10.159 12.56 -7.746 -10.197 12.436 -7.688
@@ -316,8 +310,6 @@
 4 16 9.37 11.586 -8.926 9.493 11.654 -8.742 12.011 4 -4.975 9.192 4 -9.192
 3 16 9.192 4 -9.192 9.247 11.654 -9.111 9.37 11.586 -8.926
 3 16 9.192 4 -9.192 9.192 11.82 -9.192 9.247 11.654 -9.111
-
-0 // FACE Front Lines 3-8
 5 24 -12.0107 4 -4.9751 -12.0107 17 -4.9751 -9.1923 4 -9.1923 -13 4 0
 5 24 -9.1923 4 -9.1923 -9.1923 17 -9.1923 -4.9751 4 -12.0107 -12.0107 4 -4.9751
 5 24 -4.9751 4 -12.0107 -4.9751 17 -12.0107 0 4 -13 -9.1923 4 -9.1923

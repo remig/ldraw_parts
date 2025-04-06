@@ -1,15 +1,9 @@
-0 Minifig Head with Black Mask, Blue Eyes and Black Lips Pattern
+0 Minifig Head Female with Black Mask, Blue Eyes and Black Lips Pattern
 0 Name: 3626bpba.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Harley Quinn, set 7886, Batman, 2006
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
+0 !KEYWORDS 2006, Batman, Bricklink 3626bpb0306, Harley Quinn, set 7886
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 4 0 9.1924 0 9.1924 0 13 0 -9.1924 0 9.1924 3-4cyli.dat
 1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
@@ -19,7 +13,6 @@
 1 16 0 17 0 5.6569 0 5.6569 0 6.4 0 -5.6569 0 5.6569 t04o6250.dat
 1 16 0 17 0 5.6569 0 -5.6569 0 6.4 0 5.6569 0 5.6569 t04o6250.dat
 1 16 0 17 0 -5.6569 0 -5.6569 0 6.4 0 5.6569 0 -5.6569 t04o6250.dat
-0 //
 4 0 0 7.9 -13 -0.293 7.891 -12.942 -1.7 9.7 -12.662 0 11 -13
 4 0 -1.7 9.7 -12.662 -0.293 7.891 -12.942 -0.965 7.624 -12.808 -2.077 9.29 -12.587
 4 0 -1.662 7.241 -12.67 -2.463 8.987 -12.51 -2.077 9.29 -12.587 -0.965 7.624 -12.808
@@ -391,7 +384,6 @@
 4 16 4.414 19.828 -10.658 8.157 19.828 -8.157 8.923 18.531 -8.924 4.83 18.531 -11.659
 4 16 4.975 17 -12.01 4.83 18.531 -11.659 8.923 18.531 -8.923 9.192 17 -9.192
 3 16 4.975 17 -12.011 9.192 17 -9.192 4.975 14.4 -12.011
-0 //
 5 24 -9.192 4 -9.192 -9.192 17 -9.192 -4.975 4 -12.011 -18.385 4 0
 5 24 -4.975 4 -12.011 -4.975 17 -12.011 0 4 -13 -9.192 4 -9.192
 5 24 0 4 -13 0 17 -13 4.975 4 -12.011 -4.975 4 -12.011

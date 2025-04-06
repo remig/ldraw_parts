@@ -1,23 +1,11 @@
 0 Minifig Head with SW Tusken Raider Pattern
 0 Name: 3626bpst.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, Tatooine, desert, warrior, nomad, sand person
-0 !KEYWORDS sand people
-
+0 !KEYWORDS desert, nomad, sand people, sand person, Star Wars, Tatooine
+0 !KEYWORDS Warrior
 0 !CMDLINE -c487
-
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-03-23 [MagFors] bfc'd, inlined silver subfile, used torus primitives
-0 !HISTORY 2013-03-23 [MagFors] Changed colour 383 to 80 (printed silver)
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
@@ -25,7 +13,6 @@
 1 16 0 17 0 0 0 -8 0 6.4 0 8 0 0 t04o6250.dat
 1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs05.dat
-0 // pattern
 1 0 -3.5 10 -12.3038 0.9808 -0.1951 0 0 0 1 -0.1951 0.9808 0 4-4disc.dat
 1 0 3.5 10 -12.3038 0.9808 0.1951 0 0 0 1 0.1951 0.9808 0 4-4disc.dat
 1 80 -6.1619 12.75 -11.2173 0.4157 -0.2778 0 0 0 0.5 -0.2778 0.4157 0 4-4disc.dat

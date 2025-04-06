@@ -1,18 +1,8 @@
 0 Baseplate 16 x 32 with Rounded Corners and Set 350 Dots Pattern
 0 Name: 374p01.dat
 0 Author: Lars C. Hassing [larschassing]
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [mikeheide] Made BFC compliant (2004-08-26)
-0 !HISTORY 2008-07-07 [mikeheide] Used Stud group primitive (2004-11-03)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
 1 16 -20 0 20 1 0 0 0 1 0 0 0 1 stug4.dat
 1 16 40 0 40 1 0 0 0 1 0 0 0 1 stug2.dat
 1 16 40 0 0 1 0 0 0 1 0 0 0 1 stug2.dat
@@ -138,4 +128,3 @@
 1 16 -280 0 120 -40 0 0 0 4 0 0 0 40 1-4cyli.dat
 1 16 280 0 -120 40 0 0 0 4 0 0 0 -40 1-4cyli.dat
 1 16 -280 0 -120 -40 0 0 0 4 0 0 0 -40 1-4cyli.dat
-0

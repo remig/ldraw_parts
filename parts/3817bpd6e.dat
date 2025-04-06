@@ -1,14 +1,10 @@
-0 Minifig Leg Left with Black Orca Pattern
+0 ~Minifig Leg Left with Black Orca Pattern (Obsolete)
 0 Name: 3817bpd6e.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-
+0 !KEYWORDS Batman, Bricklink 970c00pb610, CMF, Movie
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs02.dat
-
 4 0 2 -3.349 -8.084 11.7 -3.349 -8.084 11.25 -6.187 -6.187 2 -6.187 -6.187
 4 0 2 0 -8.75 12.15 -1.7 -8.412 11.7 -3.349 -8.084 2 -3.349 -8.084
 3 0 12.7 0 -8.75 12.15 -1.7 -8.412 2 0 -8.75
@@ -48,8 +44,6 @@
 5 24 2 0 -8.75 18.546 0 -8.75 2 -3.349 -8.084 2 3.349 -8.084
 5 24 2 3.349 -8.084 18.659 3.349 -8.084 2 0 -8.75 2 6.187 -6.187
 5 24 2 6.187 -6.187 18.755 6.187 -6.187 2 3.349 -8.084 2 7.399 -4
-
-0 // side
 3 16 18.25 -8.75 0 18.273 -8.084 -3.349 18.273 -8.084 3.349
 3 16 18.755 6.187 -6.187 18.804 7.399 -4 18.546 0 8.75
 4 16 18.273 -8.084 3.349 18.273 -8.084 -3.349 18.337 -6.187 -6.187 18.337 -6.187 6.187

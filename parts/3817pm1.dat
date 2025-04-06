@@ -1,20 +1,13 @@
-0 Minifig Leg Left with LOTR Scale Armor Pattern
+0 ~Minifig Leg Left with LOTR Scale Armour Pattern (Obsolete)
 0 Name: 3817pm1.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Lord of the Rings, Eomer, Theoden
+0 !KEYWORDS Éomer, Lord of the Rings, Théoden
 0 !CMDLINE -c308
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817s01.dat
 4 16 1.5 20 -6 1.5 20 -11 19.18 20 -11 19.18 20 -6
 4 16 1.5 20 -11 1.5 28 -11 19.5 28 -11 19.18 20 -11
-0 // pattern
 4 76 13.76 10.118 -6 13.954 10.248 -6 14.142 10.118 -6 14.988 9.037 -6
 4 76 9.11 7.878 -6 9.304 8.008 -6 9.492 7.878 -6 9.648 7.7 -6
 4 76 11.573 8.563 -6 11.58 8.164 -6 10.156 8.269 -6 11.415 9.207 -6

@@ -1,20 +1,8 @@
 0 Door  1 x  4 x  6 Grooved
 0 Name: 3644.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2003-01-21 [sbliss]  Completed header; BFC'ed; changed polygons/edges to primitives
-0 !HISTORY 2003-07-06 [Steffen] fixed BFC errors
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-04-05 [cwdee]   Extend description
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 2 24 2 136 70 -2 136 70
 2 24 -2 136 70 -2 136 63
 2 24 -2 136 61 -2 136 56
@@ -379,4 +367,3 @@
 1 16 -2 68 20 0 1 0 68 0 0 0 0 -1 box3u8p.dat
 0 BFC INVERTNEXT
 1 16 -2 68 13 0 1 0 68 0 0 0 0 -1 box3u8p.dat
-0

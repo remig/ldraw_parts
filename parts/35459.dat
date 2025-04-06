@@ -1,11 +1,8 @@
 0 Tile  1 x  3 Inverted with Bar Hole
 0 Name: 35459.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 0 0 29 0 0 0 1 0 0 0 9 box4.dat
 1 16 0 1 0 30 0 0 0 7 0 0 0 10 box4.dat
 0 BFC INVERTNEXT
@@ -47,7 +44,6 @@
 2 24 14.1989 4 1 14.1989 1 1
 2 24 14.1989 4 -1 14.1989 1 -1
 2 24 5.8012 1 -1 5.8012 4 -1
-
 1 16 -20 0 0 -1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 -20 0 0 -1 0 0 0 4 0 0 0 1 stud2s2e.dat
 1 16 -20 4 0 -6 0 0 0 1 0 0 0 6 4-4edge.dat

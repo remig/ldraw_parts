@@ -1,20 +1,9 @@
 0 Arm Piece with Towball Socket
 0 Name: 3613.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS flexible, hinge, aquazone,
-
-0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2016-08-18 [Holly-Wood] Fixed gap, BFCed, added Conds, removed identical lines
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 !KEYWORDS Aquazone, flexible, Hinge
 1 16 0 0 -14 8 0 0 0 0 8 0 -1 0 4-4edge.dat
 1 16 8 0 -16 -0.199 0 0 1 -1 0 0 0 1 1-4edge.dat
 1 16 10 0 -16 -0.199 0 0 1 -1 0 0 0 1 1-4edge.dat
@@ -64,7 +53,6 @@
 2 24 -3.062 -7.391 -26 0 -8 -26
 2 24 -7.801 -1 -16 -7.602 -2 -26
 2 24 -9.801 -1 -16 -9.642 -1.8 -24
-
 1 16 0 0 -10 10 0 0 0 0 10 0 -5 0 4-4cyli.dat
 1 16 0 0 -14 8 0 0 0 0 8 0 1 0 4-4disc.dat
 1 16 8 0 -16 -0.199 0 0 1 1 0 0 0 1 1-4ndis.dat
@@ -203,7 +191,6 @@
 4 16 -8 0 -14 -8 0 -15 -7.801 1 -15 -7.3912 3.0616 -14
 4 16 8 0 -14 8 0 -15 7.801 -1 -15 7.3912 -3.0616 -14
 4 16 7.801 1 -15 8 0 -15 8 0 -14 7.3912 3.0616 -14
-
 5 24 7.3912 3.0616 -14 7.391 3.062 -26 5.6568 5.6568 -14 8 0 -15
 5 24 5.6568 5.6568 -14 5.657 5.657 -26 3.0616 7.3912 -14 7.3912 3.0616 -14
 5 24 3.0616 7.3912 -14 3.062 7.391 -26 0 8 -14 5.6568 5.6568 -14
@@ -358,5 +345,4 @@
 5 24 -3.354 -8.098 -25.848 0 -8.765 -25.848 -3.603 -8.697 -25.414 -3.061 -7.391 -26
 5 24 -8 0 -15 -8 0 -14 -7.801 1 -15 -7.801 -1 -15
 5 24 8 0 -14 8 0 -15 7.801 -1 -15 7.801 1 -15
-
 1 16 0 0 -10 1 0 0 0 1 0 0 0 -1 arm2.dat

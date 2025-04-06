@@ -1,15 +1,10 @@
 0 Minifig Head with Single Large Black Eye with Pupil Pattern
 0 Name: 3626cp02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Mixel
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
+0 !KEYWORDS Bricklink 3626cpb1112, Brickowl 560976, Mixel
+0 !KEYWORDS Rebrickable 3626cpr1001, Set 41517, set 41564, set 41574
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 9.19239 0 9.19239 0 13 0 -9.19239 0 9.19239 3-4cyli.dat
 1 16 0 4 0 5.65685 0 5.65685 0 -6.4 0 5.65685 0 -5.65685 t04o6250.dat
@@ -20,7 +15,6 @@
 1 16 0 4 0 5.65685 0 -5.65685 0 -6.4 0 -5.65685 0 -5.65685 t04o6250.dat
 1 16 0 17 0 -5.65685 0 5.65685 0 6.4 0 -5.65685 0 -5.65685 t04o6250.dat
 1 16 0 17 0 -5.65685 0 -5.65685 0 6.4 0 5.65685 0 -5.65685 t04o6250.dat
-
 4 16 2.25 12.8 -12.5525 0.2524 11.9231 -12.9497 0.0878 12.8 -12.9824 0.2524 13.6769 -12.9497
 4 16 2.25 12.8 -12.5525 0.2524 13.6769 -12.9497 0.7211 14.4203 -12.8565 1.4226 14.917 -12.7171
 4 16 2.25 12.8 -12.5525 1.4226 14.917 -12.7171 2.25 15.0914 -12.5525 3.0774 14.917 -12.388

@@ -1,18 +1,10 @@
 0 Minifig Crown Tiara
 0 Name: 33322.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS diadem, bride, Belville, Friends, Disney Princess
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-10-05 [MagFors] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !KEYWORDS Belville, bride, diadem, Disney Princess, Friends
 1 16 0 6.5 0 1.875 0 0 0 -6.5 0 0 0 1.875 4-4cylc.dat
 4 16 -1.105 -17.524 -3.354 0 -17.524 -2.896 0 -16.419 -3.354 -0.781 -16.419 -3.677
 4 16 0 -17.524 -2.896 1.105 -17.524 -3.354 0.781 -16.419 -3.677 0 -16.419 -3.354
@@ -548,7 +540,6 @@
 2 24 -7.212 -11.062 -1.315 -7.535 -11.062 -0.534
 2 24 -9.098 -11.062 -2.096 -8.317 -10.604 -1.315
 2 24 -8.317 -10.604 -1.315 -7.535 -11.062 -2.096
-0 // Added lines/Condlines
 5 24 0 -17.524 -2.896 0 -16.419 -3.354 -1.105 -17.524 -3.354 0.781 -16.419 -3.677
 5 24 -1.105 -17.524 -3.354 0 -17.524 -2.896 0 -16.419 -3.354 -0.781 -18.629 -3.677
 5 24 -0.781 -16.419 -3.677 -1.105 -17.524 -3.354 0 -16.419 -3.354 -1.562 -17.524 -4.458

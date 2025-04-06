@@ -1,24 +1,15 @@
-0 Minifig Head with LOTR Thick Gray Eyebrows and Smile Pattern
+0 Minifig Head with LOTR Thick Grey Eyebrows and Smile Pattern
 0 Name: 3626cpm1.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Lord of the Rings
-0 !KEYWORDS Gandalf
-
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
-0 // Head Missing Decorative Surface
+0 !KEYWORDS BrickLink 3626cpb0729, Gandalf, Lord of the Rings, set 30213
+0 !KEYWORDS set 79003, set 79010, set 9469
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs01.dat
 1 16 0 4 0 0 0 -8 0 -6.4 0 -8 0 0 t04o6250.dat
 1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
 1 16 0 17 0 0 0 8 0 6.4 0 -8 0 0 t04o6250.dat
 1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
-
-0 // Pattern
 4 16 -12.0107 17 -4.9751 -12.0107 4 -4.9751 -13 4 0 -13 17 0
 3 8 -9.1923 6.63231 -9.1923 -9.1923 6.48332 -9.1923 -9.3 6.6 -9.03115
 4 8 -9.45 6.25 -8.8067 -9.3 6.6 -9.03115 -9.1923 6.48332 -9.1923 -9.1923 5.9923 -9.1923
@@ -640,7 +631,6 @@
 3 16 9.1923 6.64877 -9.1923 9.1923 7.83903 -9.1923 9.35488 6.6 -8.94903
 4 16 11.087 4 -6.35724 11.087 17 -6.35724 12.0107 17 -4.9751 12.0107 4 -4.9751
 4 16 13 17 0 13 4 0 12.0107 4 -4.9751 12.0107 17 -4.9751
-0 // Conditional Lines
 5 24 -13 17 0 -13 4 0 -13 17 5.3846 -12.0107 17 -4.9751
 5 24 -12.0107 17 -4.9751 -12.0107 4 -4.9751 -13 17 0 -9.1923 17 -9.1923
 5 24 -9.1923 17 -9.1923 -9.1923 4 -9.1923 -12.0107 17 -4.9751 -4.9751 17 -12.0107
@@ -650,4 +640,3 @@
 5 24 9.1923 17 -9.1923 9.1923 4 -9.1923 4.9751 17 -12.0107 12.0107 17 -4.9751
 5 24 12.0107 17 -4.9751 12.0107 4 -4.9751 9.1923 17 -9.1923 13 17 0
 5 24 13 17 0 13 4 0 12.0107 17 -4.9751 13 17 5.3846
-0

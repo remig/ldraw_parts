@@ -1,14 +1,8 @@
 0 Baseplate 16 x 32 with Rounded Corners + Set 352 Dots Pattern
 0 Name: 374p02.dat
 0 Author: Peter Watts [FrozenPea]
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2004-08-27 [mikeheide] Corrected BFC errors, fixed overlapping studs
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
 1 16 -180 0 80 1 0 0 0 1 0 0 0 1 stug8.dat
 1 16 -180 0 -80 1 0 0 0 1 0 0 0 1 stug8.dat
 1 16 -290 0 110 1 0 0 0 1 0 0 0 1 stug3.dat
@@ -146,4 +140,3 @@
 1 16 -280 0 120 -40 0 0 0 4 0 0 0 40 1-4cyli.dat
 1 16 280 0 -120 40 0 0 0 4 0 0 0 -40 1-4cyli.dat
 1 16 -280 0 -120 -40 0 0 0 4 0 0 0 -40 1-4cyli.dat
-0

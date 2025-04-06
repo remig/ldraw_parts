@@ -1,20 +1,12 @@
 0 Minifig Food Carrot Top
 0 Name: 33183.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 !HELP For full carrot, use:
 0 !HELP 1 25 0 0 0 1 0 0 0 1 0 0 0 1 33172.dat
-0 !HELP 1  2 0 5 0 1 0 0 0 1 0 0 0 1 33183.dat
-
+0 !HELP 1 2 0 5 0 1 0 0 0 1 0 0 0 1 33183.dat
 0 BFC CERTIFY CCW
 0 !CATEGORY Minifig Accessory
-
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
-0 !HISTORY 2009-12-13 [westrate] File preparation for LDraw Parts Tracker
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 3 16 -3.83 -25.32 0 -4 -24.32 0 -3.43 -25.32 -1.96
 3 16 -4 -24.32 0 -3.46 -24.32 -2 -3.43 -25.32 -1.96
 3 16 -2 -24.32 -3.46 -1.98 -25.32 -3.43 -3.46 -24.32 -2
@@ -803,4 +795,3 @@
 5 24 -8.46 -38.85 1.57 -11.3 -38.91 1.1 -8.76 -38.27 3.09 -8.21 -39.16 0
 5 24 -11.3 -38.91 1.1 -11.74 -38.84 0.88 -12.17 -38.22 2.34 -11.38 -39.03 0
 5 24 -11.74 -38.84 0.88 -12.23 -38.76 0.4 -12.59 -38.16 1.83 -11.73 -38.89 0
-0

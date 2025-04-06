@@ -1,27 +1,20 @@
-0 Minifig Head with Black Eyebrows and Eyes with Eyelash, Broad Grin Pattern 
+0 Minifig Head Female with Black Eyebrows and Eyes with Eyelash, Broad Grin Pattern
 0 Name: 3626cpd8e.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Lego Batman Movie, Wonder Twin Zan, Bricklink 3626cpb1987
-
+0 !KEYWORDS Bricklink 3626cpb1987, Lego Batman Movie, Wonder Twin Zan
 0 !CMDLINE -c84
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 12.0104 0 4.9749 0 13 0 -4.9749 0 12.0104 5-8cyli.dat
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
 1 16 0 4 0 8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
 1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
-
 1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
 1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
 1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
 1 16 0 17 0 -8 0 0 0 6.4 0 0 0 8 t04o6250.dat
-
 4 92 -9.81 10.63 -8.268 -9.91 10.83 -8.118 -9.87 11.22 -8.178 -9.7 10.7 -8.433
 4 92 -9.42 10.98 -8.852 -9.7 10.7 -8.433 -9.87 11.22 -8.178 -9.66 11.61 -8.492
 4 92 -9.192 11.08 -9.192 -9.42 10.98 -8.852 -9.66 11.61 -8.492 -9.39 11.86 -8.896
@@ -375,8 +368,6 @@
 4 16 9.81 10.63 -8.268 9.91 10.83 -8.118 12.011 4 -4.975 9.192 4 -9.192
 3 16 9.192 4 -9.192 9.7 10.7 -8.433 9.81 10.63 -8.268
 4 16 9.42 10.98 -8.852 9.7 10.7 -8.433 9.192 4 -9.192 9.192 11.08 -9.192
-
-0 // FACE Front Lines 3-8
 5 24 -12.0107 4 -4.9751 -12.0107 17 -4.9751 -9.1923 4 -9.1923 -13 4 0
 5 24 -9.1923 4 -9.1923 -9.1923 17 -9.1923 -4.9751 4 -12.0107 -12.0107 4 -4.9751
 5 24 -4.9751 4 -12.0107 -4.975 17 -12.011 0 4 -13 -9.1923 4 -9.1923

@@ -1,20 +1,8 @@
 0 Hinge Plate  2 x  9 Base with Small Hole
 0 Name: 3324d.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC Compliant (2004-11-16)
-0 !HISTORY 2008-07-08 [guyvivan] Fixed bad orientation of studs and move hole and size near hinge (2005-11-01)
-0 !HISTORY 2008-07-09 [PTadmin] Renamed from 3324 (2005-12-22)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 0 2 -30 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 2 -50 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 2 -70 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -116,4 +104,3 @@
 0 BFC INVERTNEXT
 1 16 0 -2 -18 3 0 0 0 4 0 0 0 3 4-4cyli.dat
 4 16 3 2 -15 -3 2 -15 -16 2 -14 16 2 -14
-0

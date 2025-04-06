@@ -1,22 +1,14 @@
 0 Minifig Head with Smirk, Black Hair and Goatee Pattern
 0 Name: 3626bp82.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // Head Missing Face
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 4 0 13 0 0 0 13 0 0 0 13 2-4cyli.dat
 1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
 1 16 0 17 0 0 0 -8 0 6.4 0 8 0 0 t04o6250.dat
 1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
-
-0 // Face - Pattern
 4 16 -13 17 0 -13 4 0 -12.011 4 -4.975 -12.011 17 -4.975
 4 0 -9.722 4 -8.399 -9.555 5.419 -8.649 -11.084 5.419 -6.361 -11.128 4 -6.296
 3 0 -9.555 5.419 -8.649 -10.021 5.872 -7.952 -11.084 5.419 -6.361

@@ -1,17 +1,8 @@
 0 ~Car Steering Wheel
 0 Name: 3828.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] BFC'd (2005-11-26)
-0 !HISTORY 2008-07-08 [PTadmin] Renamed from 3829b (2006-04-27)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
 1 16 0 -2 0 14 0 0 0 1 0 0 0 14 48\4-4edge.dat
 1 16 0 -2 0 14 0 0 0 4 0 0 0 14 48\4-4cyli.dat
 1 16 0 2 0 14 0 0 0 1 0 0 0 14 48\4-4edge.dat
@@ -85,4 +76,3 @@
 4 16 7.306 2 9.521 4.243 6 4.243 3 6 5.196 6 2 10.392
 5 24 6 2 10.392 3 6 5.196 1.553 6 5.795 4.243 6 4.243
 4 16 6 2 10.392 3 6 5.196 1.553 6 5.795 4.592 2 11.087
-0

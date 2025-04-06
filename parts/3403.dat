@@ -1,20 +1,8 @@
 0 Turntable  4 x  4 Base
 0 Name: 3403.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2002-11-04 [BrickCaster] Added groove
-0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC Compliant (2005-05-16)
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2017-12-10 [Philo] Deepened bottom dip to fit snapping top, removed ~
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
 1 16 10 20 20 1 0 0 0 -1 0 0 0 1 stug4-1x2.dat
 1 16 20 20 -10 0 0 1 0 -1 0 -1 0 0 stug4-1x2.dat
 1 16 -10 20 -20 -1 0 0 0 -1 0 0 0 -1 stug4-1x2.dat
@@ -52,7 +40,7 @@
 0 BFC INVERTNEXT
 1 16 0 4 0 2 0 0 0 4 0 0 0 2 4-4con5.dat
 1 16 0 6 0 34 0 0 0 10 0 0 0 34 48\4-4cylo.dat
-1 16 0 6 0 2 0 0 0 1 0 0 0 2 48\4-4rin15.dat
-1 16 0 6 0 2 0 0 0 1 0 0 0 2 48\4-4rin16.dat
+1 16 0 6 0 2 0 0 0 1 0 0 0 2 48\4-4ring15.dat
+1 16 0 6 0 2 0 0 0 1 0 0 0 2 48\4-4ring16.dat
 0 BFC INVERTNEXT
 1 16 0 6 0 30 0 0 0 10 0 0 0 30 48\4-4cylo.dat

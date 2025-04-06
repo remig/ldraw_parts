@@ -1,20 +1,13 @@
 0 Minifig Head with Beard Stubble, Eyebrows, Smile, Scar Pattern
 0 Name: 3626cpq0.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Pharaoh's Quest, Mac McCloud, Kingdoms
+0 !KEYWORDS Kingdoms, Mac McCloud, Pharaoh's Quest
 0 !CMDLINE -c14
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs01.dat
 1 16 0 4 0 0 0 -8 0 -6.4 0 -8 0 0 t04o6250.dat
 1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
-0 // pattern
 4 16 -12.01045 17 -4.97533 -12.01044 4 -4.97529 -13 4 0 -13 17 0
 4 16 -9.192 17 -9.19229 -9.192 16.149 -9.19226 -9.31 16.219 -9.01578 -9.375 16.71 -8.91853
 3 16 -9.375 16.71 -8.91853 -9.42333 16.879 -8.84622 -9.192 17 -9.19229

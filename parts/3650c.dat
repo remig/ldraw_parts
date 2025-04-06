@@ -1,13 +1,8 @@
 0 Technic Gear 24 Tooth Crown Type 3
 0 Name: 3650c.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3650s01.dat
 1 16 0 0 -6 13.858 0 5.74 -5.74 0 13.858 0 -1 0 1-8edge.dat
 1 16 0 0 -6 -13.858 0 -5.74 5.74 0 -13.858 0 -1 0 1-8edge.dat
@@ -103,4 +98,3 @@
 1 16 19 -19 0 0.707 -0.707 0 0.707 0.707 0 0 0 1 tooth24b.dat
 1 16 13.436 -23.27 0 0.866 -0.5 0 0.5 0.866 0 0 0 1 tooth24b.dat
 1 16 6.956 -25.953 0 0.966 -0.259 0 0.259 0.966 0 0 0 1 tooth24b.dat
-0

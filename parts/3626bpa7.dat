@@ -1,34 +1,18 @@
 0 Minifig Head with Monocle, Scar, and Moustache Pattern
 0 Name: 3626bpa7.dat
 0 Author: George Barnes [glbarnes]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS face, Adventurers, Baron von Barron, Mr. Hates, villain
-0 !KEYWORDS eyebrows, dueling scar
-
+0 !KEYWORDS Adventurers, Baron von Barron, Bricklink 3626bpa7, Brickowl 693084
+0 !KEYWORDS dueling scar, eyebrows, face, Mr. Hates, Rebrickable 3626bpr0041
+0 !KEYWORDS set 3722, set 5919, set 5988, villain
 0 !CMDLINE -c14
-
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2004-04-15 [westrate] added torus primitives
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-03-22 [MagFors] Changed colour 383 to 80 (printed silver)
-0 !HISTORY 2013-03-22 [MagFors] inlined silver subpart
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
-0 // replacing s\3626bs01.dat
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 4 0 13 0 0 0 13 0 0 0 13 2-4cyli.dat
 1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
 1 16 0 17 0 0 0 -8 0 6.4 0 8 0 0 t04o6250.dat
 1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
-
 4 80 -3.4327 6.6 -12.3172 -4.4461 6.7827 -12.1156 -3.5308 9 -12.2977 -2.4194 6.7827 -12.5188
 4 80 -1.5602 7.3029 -12.6896 -2.4194 6.7827 -12.5188 -3.5308 9 -12.2977 -0.9862 8.0816 -12.8038
 4 80 -0.7846 9 -12.8439 -0.9862 8.0816 -12.8038 -3.5308 9 -12.2977 -0.9862 9.9184 -12.8038
@@ -39,7 +23,6 @@
 4 80 -5.255 7.3029 -11.8233 -5.255 10.6971 -11.8233 -4.9748 10.8981 -12.0105 -4.9748 7.1036 -12.0105
 4 80 -5.7416 8.0816 -11.4981 -5.7416 9.9184 -11.4981 -5.255 10.6971 -11.8233 -5.255 7.3029 -11.8233
 3 80 -5.7416 9.9184 -11.4981 -5.7416 8.0816 -11.4981 -5.9125 9 -11.3839
-
 1 0 4.4135 9.3 -12.1221 0 0.2731 -1.3731 1.4 0 0 0 1.3731 -0.2731 2-4disc.dat
 4 0 3.1385 7.9 -12.3757 2.7462 7.1 -12.4537 1.8635 8.1 -12.6293 2.55 8.6 -12.4928
 4 0 3.1385 7.9 -12.3757 3.5308 7.5 -12.2977 3.2366 6.7 -12.3562 2.7462 7.1 -12.4537
@@ -261,7 +244,6 @@
 4 16 -13 17 0 -12.0104 17 -4.9749 -12.0104 4 -4.9749 -13 4 0
 4 16 -12.0104 17 -4.9749 -9.1924 17 -9.1924 -9.1924 4 -9.1924 -12.0104 4 -4.9749
 4 16 12.0104 17 -4.9749 13 17 0 13 4 0 12.0104 4 -4.9749
-
 5 24 0 4 -13 0 17 -13 -4.975 4 -12.01 4.975 4 -12.01
 5 24 -4.975 4 -12.01 -4.975 17 -12.01 0 4 -13 -9.192 4 -9.192
 5 24 4.975 4 -12.01 4.975 17 -12.01 0 4 -13 9.192 4 -9.192
@@ -271,7 +253,6 @@
 5 24 12.01 4 -4.975 12.01 17 -4.975 9.192 4 -9.192 13 4 0
 5 24 -13 4 0 -13 17 0 -12.01 4 -4.975 -12.01 4 4.975
 5 24 13 4 0 13 17 0 12.01 4 -4.975 12.01 4 4.975
-
 1 16 0 4 0 0 0 -8 0 -6.4 0 -8 0 0 t04o6250.dat
 1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
 1 16 0 17 0 0 0 8 0 6.4 0 -8 0 0 t04o6250.dat

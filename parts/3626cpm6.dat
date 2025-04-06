@@ -1,23 +1,15 @@
 0 Minifig Head with LOTR Frowning / Grimacing 2-Sided Pattern
 0 Name: 3626cpm6.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Lord of the Rings, Rohan Soldier
 0 !CMDLINE -c78
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
-0 // head framework
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cpm6a.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626cpm6a.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3626cpm6a.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3626cpm6a.dat
-0 // front pattern
 3 0 1.67 14.12 -12.668 0 14.38 -13 0 15.12 -13
 4 0 1.67 14.12 -12.668 0 15.12 -13 1.38 14.94 -12.7257 3.1 13.96 -12.3837
 3 0 3.1 13.96 -12.3837 1.38 14.94 -12.7257 2.46 14.81 -12.511
@@ -91,7 +83,6 @@
 3 16 -1.23 15.25 -12.7555 -1.02 16.07 -12.7972 -0.68 15.99 -12.8648
 4 16 -1.23 15.25 -12.7555 -0.68 15.99 -12.8648 -0.31 15.96 -12.9384 0 15.12 -13
 3 16 0 15.12 -13 -0.31 15.96 -12.9384 0 15.95 -13
-0 // rear pattern
 3 15 -0.59 15.4 12.8827 0 14.24 13 0 15.34 13
 4 15 -0.48 14.19 12.9046 0 14.24 13 -0.59 15.4 12.8827 -1.23 15.5 12.7555
 4 15 -1.04 14.14 12.7932 -0.48 14.19 12.9046 -1.23 15.5 12.7555 -2.08 15.63 12.5865

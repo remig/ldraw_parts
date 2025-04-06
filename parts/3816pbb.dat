@@ -1,19 +1,12 @@
-0 Minifig Leg Right with Iron Man Armoured Suit Mark VI Pattern
+0 ~Minifig Leg Right with Iron Man Armoured Suit Mark VI Pattern (Obsolete)
 0 Name: 3816pbb.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Tony Stark
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3816s01.dat
 4 16 -19.18 20 -11 -19.5 28 -11 -1.5 28 -11 -1.5 20 -11
 4 16 -19.18 20 -6 -19.18 20 -11 -1.5 20 -11 -1.5 20 -6
-
 4 0 -11.7 -2.9 -8.389 -11.7 -2.2 -8.537 -10.595 -1.407 -8.704 -10.002 -0.998 -8.79
 4 0 -4.975 1.616 -8.66 -5.7 1.9 -8.6 -5.1 2.3 -8.516 -4.297 2.095 -8.559
 4 0 -4.297 2.095 -8.559 -5.1 2.3 -8.516 -4.2 2.9 -8.389 -3.5 2.6 -8.453
@@ -177,4 +170,3 @@
 4 16 -18.36 0 -9 -18.5 3.42 -8.28 -15.88 3.42 -8.28 -15.648 0 -9
 4 16 -18.5 3.42 -8.28 -18.64 6.74 -6 -16.106 6.74 -6 -15.88 3.42 -8.28
 3 16 -16.171 7.7 -6 -16.106 6.74 -6 -18.64 6.74 -6
-

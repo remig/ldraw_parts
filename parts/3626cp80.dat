@@ -1,11 +1,10 @@
 0 Minifig Head with Mouth Closed Stern / Mouth Open Scared 2-Sided Pattern
 0 Name: 3626cp80.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
+0 !KEYWORDS Bricklink 3626cpb1337, Brickowl 480500, Rebrickable 3626cpr1760
+0 !KEYWORDS Set 40336, Set 70657, Set 80103
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 5 24 9.1892 17 -9.1956 9.1892 4 -9.1956 12.0089 17 -4.9788 4.9752 17 -12.0104
 5 24 4.9752 17 -12.0104 4.9704 4 -12.0124 9.1892 17 -9.1956 0 17 -13

@@ -1,11 +1,8 @@
 0 ~Electric Powered Up Remote Handset Lid
 0 Name: 35535.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 2 24 80 -16 -60 20 -16 -60
 2 24 80 -16 60 30 -16 60
 2 24 -80 -16 60 -30 -16 60

@@ -1,19 +1,10 @@
 0 Brick  1 x  3 with Cat Face Sick Pattern
 0 Name: 3622p04.dat
 0 Author: John Troxler [Gargan]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Queasy Kitty, The Lego Movie, BrickLink 3622pb052
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
-0 // Brick without front face
+0 !KEYWORDS BrickLink 3622pb052, Queasy Kitty, The LEGO Movie
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3622s01.dat
-
-0 // Front face
 4 326 -10.588 10.796 -10 -2.862 11.303 -10 -2.869 10.984 -10 -5.963 7.775 -10
 4 326 13.928 20.507 -10 15.377 21.214 -10 15.286 20.393 -10 14.643 20.133 -10
 4 326 16.42 22.342 -10 15.859 22.13 -10 5.088 23.446 -10 4.849 23.567 -10

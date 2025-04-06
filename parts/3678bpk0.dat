@@ -1,18 +1,11 @@
 0 Slope Brick 65  2 x  2 x  2 with Centre Tube with Red Eyes on White Background Pattern
 0 Name: 3678bpk0.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Disney, Cars, Guido
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS Cars, Disney, Guido
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3678bs01.dat
 4 16 20 48 10 -20 48 10 -20 0 10 20 0 10
-
 4 0 -19.353 6.835 -13.107 -19.344 37.279 -26.945 -18.647 37.002 -26.819 -18.647 7.373 -13.351
 3 0 -18.647 37.002 -26.819 -19.344 37.279 -26.945 -18.639 37.247 -26.93
 3 0 -18.634 6.62 -13.009 -19.353 6.835 -13.107 -18.647 7.373 -13.351

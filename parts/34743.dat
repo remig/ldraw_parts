@@ -1,13 +1,8 @@
 0 ~Electric Powered Up Hub Bottom
 0 Name: 34743.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 // Note: Internal structure is highly simplified
-
 0 BFC INVERTNEXT
 1 16 0 0.5 -79 0 0 39 0.5 0 0 0 158 0 box3u2p.dat
 1 16 0 28 -80 0 0 40 28 0 0 0 160 0 box3u2p.dat

@@ -1,23 +1,9 @@
 0 Minifig Police Hat
 0 Name: 3624.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !CATEGORY Minifig Headwear
-
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2003-01-30 [sbliss] Completed header; BFC'ed; broke up non-coplanar quads
-0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
-0 !HISTORY 2009-10-25 [anathema] Complete rewrite using LEGO Universe Team part
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-0 !HISTORY 2012-12-24 [cwdee] Update category
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
 3 16 13.95 -6.771 -0.699 12.07 -7.612 -5.792 14.22 -6.891 -6.324
 3 16 14.85 -6.504 -6.507 15.7 -6.005 -0.323 14.22 -6.891 -6.324
 3 16 15.7 -6.005 -0.323 13.95 -6.771 -0.699 14.22 -6.891 -6.324
@@ -589,9 +575,7 @@
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 -1 stud4.dat
 1 16 0 -4 0 6 0 0 0 -1 0 0 0 -6 4-4disc.dat
 1 16 0 -4 0 4 0 0 0 -1 0 0 0 -4 4-4ring2.dat
-1 16 0 -4 0 1 0 0 0 -1 0 0 0 -1 4-4rin12.dat
-0 //
-0 // Added lines/Condlines
+1 16 0 -4 0 1 0 0 0 -1 0 0 0 -1 4-4ring12.dat
 2 24 7.531 -8.045 -15.26 12.27 -7.012 -11.72
 2 24 12.27 -7.012 -11.72 15.23 -5.989 -6.664
 2 24 16.37 -5.347 -0.194 15.23 -5.989 -6.664
@@ -611,8 +595,6 @@
 3 16 15.42 -5.293 6.16 16.37 -5.347 -0.194 16.4 -4.878 -0.21
 3 16 15.29 -5.782 6.125 16.37 -5.347 -0.194 15.42 -5.293 6.16
 2 24 16.37 -5.347 -0.194 15.42 -5.293 6.16
-0 //
-0 // Added lines/Condlines
 5 24 13.95 -6.771 -0.699 12.07 -7.612 -5.792 14.22 -6.891 -6.324 11.27 -7.64 -1.32
 5 24 12.07 -7.612 -5.792 14.22 -6.891 -6.324 13.95 -6.771 -0.699 11.49 -7.748 -10.91
 5 24 14.22 -6.891 -6.324 13.95 -6.771 -0.699 12.07 -7.612 -5.792 15.7 -6.005 -0.323

@@ -1,18 +1,9 @@
-0 Minifig Leg Left with Golden Circuit Pattern
+0 ~Minifig Leg Left with Golden Circuit Pattern (Obsolete)
 0 Name: 3817p6w.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Move down 12 units to align with hips
-
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2013-03-18 [MagFors] Changed colour 383 to 80 (printed silver)
-0 !HISTORY 2013-03-18 [MagFors] Changed colour 334 to 82 (printed gold)
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817s01.dat
 4 16 1.5 20 -6 1.5 20 -11 19.18 20 -11 19.18 20 -6
 4 16 1.5 28 -11 19.5 28 -11 19.4699 27.2467 -11 1.5 20 -11

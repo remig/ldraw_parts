@@ -1,15 +1,9 @@
 0 Minifig Tool Wand Sprue
 0 Name: 36752b.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-
-0 // base
-
 1 16 0 7.5 -4 -4.8282 0 2 2 0 4.8282 0 4 0 3-8cylo.dat
 1 16 0 7.5 -4 -2 0 -4.8282 -4.8282 0 2 0 4 0 1-8cylo.dat
 1 16 0 7.5 -4 4.8282 0 -2 -2 0 -4.8282 0 4 0 1-8cylo.dat
@@ -29,8 +23,6 @@
 2 24 -4.8282 9.5 -4 -4.8282 9.5 0
 2 24 -4.8282 5.5 0 -4.8282 5.5 -4
 2 24 -2 2.6717 0 -2 2.6717 -4
-
-0 // steam
 1 16 0 -14 -2 2 0 0 0 16.6717 0 0 0 2 box4o8a.dat
 1 16 2 -16 -1 0 4 0 0 0 2 1 0 0 box5-4a.dat
 1 16 -2 -16 -1 0 -4 0 0 0 2 1 0 0 box5-4a.dat
@@ -70,8 +62,6 @@
 3 16 6.95 -44 -2 6.95 -44 0 5 -44 -2
 3 16 -6.95 -44 0 -6.95 -44 -2 -5 -44 -2
 3 16 5 -40 -4 5 -44 -4 2 -40 -4
-
-0 // hook
 1 16 9.75 7.5 -2 0 -4.9218 0 0 0 2 -2 0 0 box4o8a.dat
 2 24 -5 -40 -4 -2 -40 -4
 2 24 2 -40 -4 5 -40 -4
@@ -99,8 +89,6 @@
 5 24 12.75 0 0 13.75 1.5 -2 13.75 1.5 0 13.75 -3.5 -2
 5 24 13.75 1.5 0 13.75 1.5 -2 13.4456 3.0308 0 12.75 0 0
 5 24 13.75 -3.5 -2 13.75 -3.5 0 11.5784 -2.8284 0 17.75 -3.5 0
-
-0 // hook
 1 16 -9.75 7.5 -2 0 4.9218 0 0 0 2 -2 0 0 box4o8a.dat
 1 16 -9.75 1.5 0 -4 0 0 0 0 4 0 -1 0 1-4ring1.dat
 0 BFC INVERTNEXT

@@ -1,16 +1,8 @@
 0 Plant Flowers (4) on Sprue
 0 Name: 3742c01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
-0 // correct number for this assembly is 3742, four flowers on a sprue
-0 // according to LDD a single flower is called 56750
-
 1 16 0 3 0 -1 0 0 0 -1 0 0 0 1 4-4ring4.dat
 0 BFC INVERTNEXT
 1 16 0 3 0 4 0 0 0 1 0 0 0 4 bump5000.dat

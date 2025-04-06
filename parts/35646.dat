@@ -1,11 +1,8 @@
 0 Rock  1.25 x  1.25 x  1.2 Nugget
 0 Name: 35646.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 -5.6 0 1 0 0 0 -1.4 0 0 0 -1 stud4a.dat
 1 16 0 -5.6 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
 0 BFC INVERTNEXT
@@ -19,7 +16,6 @@
 1 16 0 -18 0 -2.12132 0 -2.12132 0 -6 0 2.12132 0 -2.12132 1-4con1.dat
 1 16 0 -24 0 -2.12132 0 -2.12132 0 -1 0 2.12132 0 -2.12132 7-16edge.dat
 1 16 0 -24 0 -2.12132 0 -2.12132 0 -1 0 2.12132 0 -2.12132 7-16chrd.dat
-
 2 24 11.863 -13.503 4.53 9.165 -20.725 2.038
 2 24 -5.163 -25.395 4.635 -5.435 -20.675 6.032
 2 24 -5.417 -17.825 8.817 -5.435 -20.675 6.032

@@ -1,19 +1,12 @@
-0 Minifig Hips with LOTR Coat, Shirttails and Belt Pattern
+0 ~Minifig Hips with LOTR Coat, Shirttails and Belt Pattern (Obsolete)
 0 Name: 3815pm2.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Lord of the Rings, Aragorn
+0 !KEYWORDS Aragorn, Lord of the Rings
 0 !CMDLINE -c28
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3815s01.dat
 1 16 -2 12 0 0 4 0 -6.364 0 6.364 -6.364 0 -6.364 5-16cyli.dat
-0 // pattern
 4 308 -3.38 0.5 -10 -5.88 0.5 -10 -6.52 2.21 -10 -4.1 2.9 -10
 4 308 -4.1 2.9 -10 -6.52 2.21 -10 -6.77 3.04 -10 -6.77 3.36 -10
 4 308 -4.1 2.9 -10 -6.77 3.36 -10 -6.55 3.58 -10 -5.72 3.92 -10

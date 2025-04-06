@@ -1,16 +1,10 @@
-0 Minifig Leg Right with Red Roman Tunic and Belt Pattern
+0 ~Minifig Leg Right with Red Roman Tunic and Belt Pattern (Obsolete)
 0 Name: 3816pc6a.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS CMF Series 6, collectable, collectible, soldier
-
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
+0 !KEYWORDS CMF Series 6, Collectable, Collectible, soldier
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3816s02.dat
-0 // outer side surface
 4 16 -19.5 28 -11 -19.46 27 -11 -19.459 26.999 9 -19.5 28 9
 4 16 -19.18 20 -6 -19.337 24 9 -19.34 24 -11 -19.18 20 -11
 4 84 -19.337 24 9 -19.459 26.999 9 -19.46 27 -11 -19.34 24 -11
@@ -37,13 +31,10 @@
 4 4 -18.11 -6.3 -6.3 -18.03 -8.28 -3.42 -18 -9 0 -18.36 0 0
 4 4 -18.36 0 -9 -18.23 -3.42 -8.28 -18.11 -6.3 -6.3 -18.36 0 0
 4 4 -18.64 6.74 -6 -18.5 3.42 -8.28 -18.36 0 -9 -18.36 0 0
-0 // on top of foot
 4 16 -19.18 20 -6 -19.18 20 -11 -1.5 20 -11 -1.5 20 -6
-0 // toes
 4 16 -1.5 20 -11 -19.18 20 -11 -19.34 24 -11 -1.5 24 -11
 4 84 -19.46 27 -11 -1.5 27 -11 -1.5 24 -11 -19.34 24 -11
 4 16 -19.5 28 -11 -1.5 28 -11 -1.5 27 -11 -19.46 27 -11
-0 // skirt
 4 0 -8.3 12 -6 -7.4 12.2 -6 -7.3 9.9 -6 -8.125 9.7 -6
 4 0 -8.125 9.7 -6 -7.3 9.9 -6 -7.2 7.7 -6 -8 7.7 -6
 4 0 -7.955 6.74 -6 -8 7.7 -6 -7.2 7.7 -6 -7.178 6.74 -6

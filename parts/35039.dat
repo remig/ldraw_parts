@@ -1,13 +1,9 @@
 0 Animal Spider Biomechanical Legs and Head
 0 Name: 35039.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Nexo Knights
-
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 stud.dat
 1 16 0 2.75 0 1 0 0 0 -1.3125 0 0 0 1 stud4a.dat
 1 16 0 2.75 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat

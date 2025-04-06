@@ -1,15 +1,9 @@
-0 Minifig Leg Right with Salmon Cable Pattern
+0 ~Minifig Leg Right with Salmon Cable Pattern (Obsolete)
 0 Name: 3816p6v.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Move down 12 units to align with hips
-
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3816s01.dat
 4 16 -19.18 20 -6 -19.18 20 -11 -1.5 20 -11 -1.5 20 -6
 3 16 -18.9401 20 -11 -19.18 20 -11 -19.2089 20.7222 -11

@@ -1,18 +1,11 @@
 0 Minifig Head with Half-Moon Glasses and Grey Eyebrows Pattern
 0 Name: 3626bpha.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2005-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS Albus Dumbledore, Professor, Headmaster, Harry Potter
-0 !KEYWORDS Hogwarts School of Witchcraft and Wizardry
+0 !KEYWORDS Albus Dumbledore, Harry Potter, Headmaster
+0 !KEYWORDS Hogwarts School of Witchcraft and Wizardry, professor
 0 !CMDLINE -C14
-
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 4 0 13 0 0 0 13 0 0 0 13 2-4cyli.dat
 1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
@@ -24,7 +17,6 @@
 1 16 0 17 0 5.65685 0 5.65685 0 6.4 0 -5.65685 0 5.65685 t04o6250.dat
 1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-8cyli.dat
 1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-8cyli.dat
-
 4 0 0 17.3 -12.925 0 18 -12.751 2 17.6 -12.453 2 17.2 -12.552
 3 0 2 17.6 -12.453 3 17 -12.403 2 17.2 -12.552
 4 0 -2 17.6 -12.453 0 18 -12.751 0 17.3 -12.925 -2 17.2 -12.552
@@ -277,7 +269,6 @@
 4 16 9.192 11.1 -9.192 9.192 7.6 -9.192 8.4 7.3 -9.721 7.7 7.4 -10.189
 4 16 7.7 7.4 -10.189 7.4 7.2 -10.389 6.3 10 -11.125 9.192 11.1 -9.192
 3 16 9.192 11.1 -9.192 6.3 10 -11.125 6 10.7 -11.325
-0 
 4 16 -3.7936 20.6954 -9.1592 -7.0096 20.6954 -7.0096 -5.6568 21 -5.6568 -3.0616 21 -7.3912
 4 16 -4.4144 19.8282 -10.6576 -8.1568 19.8282 -8.1568 -7.0096 20.6954 -7.0096 -3.7936 20.6954 -9.1592
 4 16 -4.8296 18.5309 -11.6592 -8.9232 18.5309 -8.9232 -8.1568 19.8282 -8.1568 -4.4144 19.8282 -10.6576
@@ -292,4 +283,3 @@
 4 16 3.0616 21 -7.3912 3.7936 20.6954 -9.1592 0 20.6954 -9.9136 0 21 -8
 4 16 3.7936 20.6954 -9.1592 4.4144 19.8282 -10.6576 0 19.8282 -11.5352 0 20.6954 -9.9136
 4 16 4.4144 19.8282 -10.6576 4.8296 18.5309 -11.6592 0 18.5309 -12.6192 0 19.8282 -11.5352
-0
