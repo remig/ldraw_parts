@@ -1,15 +1,8 @@
 0 ~Electric Brick  2 x  4 with USB Flash Drive - Middle Plate
 0 Name: u9085.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
-0 // Interior is guesstimated
-
 2 24 20 8 40 20 0 40
 2 24 -20 0 40 -20 8 40
 2 24 20 8 -40 20 0 -40
@@ -113,7 +106,6 @@
 4 16 3.0582 6 40.7095 3.182 6 40.5858 1.7221 6 40.1522 1.6552 6 40.3139
 4 16 3.9959 6 41.3016 4.1575 6 41.2346 3.182 6 40.5858 3.0582 6 40.7095
 4 16 4.325 6 42 4.5 6 42 4.1575 6 41.2346 3.9959 6 41.3016
-0 // underside
 0 BFC INVERTNEXT
 1 16 0 8 42 4.5 0 0 0 -2 0 0 0 -2 2-4cylo.dat
 4 16 4.325 6 43.825 4.5 6 48.7892 4.5 6 42 4.325 6 42

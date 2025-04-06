@@ -1,13 +1,9 @@
 0 | MinuteBot Technic Baseplate 21 x 31
 0 Name: t1031.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Technic
-
 1 16 -100 0 -100 1 0 0 0 1 0 0 0 1 s\t1031s04.dat
 1 16 -100 0 -200 1 0 0 0 1 0 0 0 1 s\t1031s04.dat
 1 16 -200 0 -100 1 0 0 0 1 0 0 0 1 s\t1031s04.dat

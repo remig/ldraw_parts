@@ -1,13 +1,9 @@
 0 ~| Brickstuff Adjustment Dial
 0 Name: t1020.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Electric
-
 4 16 10.1621 -12 4.2095 8.6603 -12 5 10 -12 0 10.9054 -12 1.4355
 4 16 10.9054 -12 -1.4355 10 -12 0 8.6603 -12 -5 10.1621 -12 -4.2095
 4 16 8.7266 -12 -6.6959 8.6603 -12 -5 5 -12 -8.6603 6.6959 -12 -8.7266

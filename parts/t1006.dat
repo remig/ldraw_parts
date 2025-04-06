@@ -1,13 +1,11 @@
 0 | Brickstuff Pico LED Plug with Red/Black Cable Stub
 0 Name: t1006.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !HELP First cable segment:
+0 !HELP 1 4 0 .5 -4 1 0 0 0 0 1 0 -1 0 t1009.dat
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Electric
-
 2 24 3 -2 0 3 1 0
 2 24 -3 -2 0 -3 1 0
 2 24 3 -2 -3 3 2 -3

@@ -1,13 +1,8 @@
 0 ~Electric Mindstorms Scout Module IR Window
 0 Name: u9047.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 2 24 -18 34 -116 -18 34 -120
 2 24 18 34 -116 18 34 -120
 1 16 18 8 -111 0 -1 0 0 0 -9 -9 0 0 1-4edge.dat
@@ -151,4 +146,3 @@
 5 24 -18 -0.365 -114.427 -9.939 -2.148 -114.437 -9.742 -2.84 -111 -10.009 -0.194 -117.354
 5 24 -18 1.568 -117.342 -10.009 -0.194 -117.354 -9.939 -2.148 -114.437 -9.939 2.724 -119.308
 1 16 0 8 -90 -18 0 0 0 -1 0 0 0 -26 rect3.dat
-0 //

@@ -1,13 +1,9 @@
 0 Maxifig Hair with Bun
 0 Name: u406.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Figure
-
 3 16 6.26 14.23 18.54 0 8.78 22.72 0 14.73 19.2
 3 16 6.92 7.5 22.14 0 8.78 22.72 6.26 14.23 18.54
 3 16 12.1 12.76 16.63 6.92 7.5 22.14 6.26 14.23 18.54

@@ -1,17 +1,11 @@
 0 ~Electric Switch: Key Right with Point Branching Pattern
 0 Name: u9002p01.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP to put this part into a pressed-down state, rotate it 4.3 degrees
 0 !HELP around the x-axis
-
 0 BFC CERTIFY CCW
 0 !KEYWORDS Train
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u9001s01.dat
 4 16 -40 -31 0 -30.75 -31 -6.7 21.4 -31 -6.7 40 -31 0
 4 16 -30.75 -31 -83.15 -30.75 -31 -6.7 -40 -31 0 -40 -31 -160
@@ -91,4 +85,3 @@
 4 15 -24.4994 -31 -45.275 -24.3297 -31 -47.8616 -7.75091 -31 -42.1991 -24.3297 -31 -42.6884
 4 15 -23.8242 -31 -40.1435 -24.3297 -31 -42.6884 -7.75091 -31 -42.1991 -22.9905 -31 -37.6877
 4 15 -21.8428 -31 -35.3635 -22.9905 -31 -37.6877 -7.75091 -31 -42.1991 -20.4039 -31 -33.2061
-

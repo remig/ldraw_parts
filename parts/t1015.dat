@@ -1,14 +1,10 @@
 0 | Brickstuff 1:9 Expansion Adapter Board with Pico Connectors
 0 Name: t1015.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Electric
 0 !KEYWORDS BRANCH10
-
 1 16 0 -4 0 79 0 0 0 4 0 0 0 9 box4.dat
 1 16 52.8078 0 -.6922 -1.3846 0 0 0 -1 0 0 0 1.3846 s\t1012s01.dat
 4 16 62.5 0 9 64 0 6 64 0 -6 62.5 0 -8.9998

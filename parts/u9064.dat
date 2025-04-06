@@ -1,15 +1,8 @@
 0 ~Electric Spybotic Fake PCB
 0 Name: u9064.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
-0 // Fake inner electronics details for see-through
-
 1 0 60 -34 0 0 -20 0 0 0 -24 35 0 0 box5.dat
 1 0 40 -16.5 0 0 -14 0 0 0 6.5 -35 0 0 box4-4a.dat
 1 0 40 -23 0 0 -14 0 0 0 -35 35 0 0 2-4cyli.dat

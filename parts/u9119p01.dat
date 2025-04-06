@@ -1,15 +1,8 @@
 0 Plant Flat Horse Chestnut Tree with Hollow Base and Brown Trunk Pattern
 0 Name: u9119p01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
-0 // Scanned from real part using David 3D laser scanner
-
 1 16 3 -8 0 1 0 0 0 1 0 0 0 1 s\u9119s01.dat
 1 16 3 -8 0 1 0 0 0 1 0 0 0 -1 s\u9119s01.dat
 1 86 3 -8 0 1 0 0 0 1 0 0 0 1 s\u9119s02.dat
@@ -25,4 +18,3 @@
 1 16 0 -4 0 20 0 0 0 4 0 0 0 20 4-4cylc.dat
 1 16 0 0 0 4 0 0 0 -1 0 0 0 4 4-4ring5.dat
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 -1 stud4.dat
-

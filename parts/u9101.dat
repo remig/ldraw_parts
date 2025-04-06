@@ -1,13 +1,8 @@
 0 Figure Fabuland Arm
 0 Name: u9101.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 -4 0 0 0 4 0 4 0 0 0 0 -4 4-4cylc.dat
 0 BFC INVERTNEXT
 1 16 7 26 -8 4 0 0 0 0 -4 0 16 0 3-8cyli.dat
@@ -120,4 +115,3 @@
 2 24 4.416 20.649 5.513 3.661 21.154 4.204
 2 24 4.704 20.457 5.748 4.416 20.649 5.513
 4 16 3.487 21.9 2.643 3.487 21.9 -2.643 0.303 2 -4.91469 0.303 2 4.91469
-0 //

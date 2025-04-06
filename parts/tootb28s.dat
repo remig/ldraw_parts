@@ -1,13 +1,8 @@
 0 Single Tooth Short for Technic Bevel Gear 28 Tooth
 0 Name: tootb28s.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Primitive UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 2 24 -2.018 -35.942 0 -6.031 -35.492 0
 2 24 2.017 -35.942 1 -2.018 -35.942 1
 2 24 -2.018 -35.942 1 -6.031 -35.492 1
@@ -48,4 +43,3 @@
 4 16 -1.616 -28.754 -4 1.615 -28.755 -4 0 -35.609 -4 -2.017 -32.61 -4
 3 16 -1.616 -28.754 -4 -2.017 -32.61 -4 -2.573 -30.943 -4
 4 16 -1.616 -28.754 -4 -2.573 -30.943 -4 -4.379 -30.739 -4 -4.824 -28.392 -4
-0

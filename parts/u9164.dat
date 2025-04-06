@@ -1,15 +1,9 @@
 0 Antenna  4H with Vertical Side Spokes
 0 Name: u9164.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Fabuland, TV, television
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
+0 !KEYWORDS Fabuland, television, TV
 1 16 30 -19 30 4 0 0 0 1 0 0 0 4 4-4disc.dat
 1 16 30 -19 -30 4 0 0 0 1 0 0 0 4 4-4disc.dat
 1 16 -30 -19 -30 4 0 0 0 1 0 0 0 4 4-4disc.dat

@@ -1,15 +1,8 @@
 0 Type Swiss721BT Upper Case "C" Bold
 0 Name: type-swiss721bt-bold-uc.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Primitive
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-
-
-
-0 // Main
 3 16 .239 0 .162 .11 0 .316 .029 0 .327
 3 16 -.433 0 .5 -.366 0 .3 -.314 0 .371
 4 16 -.166 0 .243 -.217 0 .141 -.233 0 .001 .239 0 .162
@@ -39,8 +32,6 @@
 3 16 -.433 0 .5 -.433 0 .001 -.403 0 .214
 3 16 -.433 0 .5 -.403 0 .214 -.366 0 .3
 3 16 -.433 0 -.5 -.316 0 -.368 -.404 0 -.21
-
-0 // Black
 4 0 .103 0 -.311 .178 0 -.476 .309 0 -.404 .168 0 -.277
 4 0 -.233 0 .001 -.433 0 .001 -.404 0 -.21 -.217 0 -.136
 4 0 .11 0 .316 .173 0 .285 .316 0 .412 .191 0 .478

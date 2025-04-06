@@ -1,15 +1,8 @@
 0 Type Swiss721BT Number "8" Bold
 0 Name: type-swiss721bt-bold-n8.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Primitive
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-
-
-
-0 // Main
 4 16 .098 0 .312 .055 0 .336 .134 0 .226 .125 0 .275
 4 16 .152 0 -.19 .141 0 -.13 .109 0 -.083 .061 0 -.053
 3 16 -.35 0 -.5 -.327 0 -.324 -.35 0 -.197
@@ -52,8 +45,6 @@
 4 16 -.057 0 .335 0 0 .109 .055 0 .336 -.001 0 .344
 4 16 0 0 .109 .057 0 .117 .134 0 .226 .055 0 .336
 4 16 .1 0 .14 .126 0 .177 .134 0 .226 .057 0 .117
-
-0 // Black
 4 0 0 0 -.338 0 0 -.5 .145 0 -.48 .062 0 -.328
 4 0 .1 0 .14 .057 0 .117 .061 0 -.053 .206 0 .038
 4 0 .255 0 .073 .126 0 .177 .1 0 .14 .206 0 .038

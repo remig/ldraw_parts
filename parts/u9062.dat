@@ -1,16 +1,9 @@
 0 ~Motor Pull Back  4 x  9 x  2.333 Bottom Case Type 2
 0 Name: u9062.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Vehicle
-
-0 !HISTORY 2012-05-21 [cwdee] Move studs from subpart
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32283s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\32283s01.dat
 1 16 0 10 -99 0 0 1 0 -1 0 1 0 0 stud4.dat
@@ -83,7 +76,6 @@
 2 24 -16 10 -121 16 10 -121
 2 24 -2 10 -125 -2 14 -125
 2 24 2 10 -125 2 14 -125
-0 
 1 16 3.269 12 -135.107 0.974 0.555 0 0 0 -2 -0.65 1 0 rect2p.dat
 1 16 4.893 12 -136.731 0.65 0.832 0 0 0 -2 -0.974 1 0 rect2p.dat
 1 16 5.771 12 -138.852 0.229 0.981 0 0 0 -2 -1.148 1 0 rect2p.dat
@@ -156,4 +148,3 @@
 4 16 -2 14 -145.602 -2 14 -147.602 -3.062 14 -147.391 -2.296 14 -145.543
 4 16 -2 14 -132.398 -2 14 -134.398 -2.296 14 -134.457 -3.062 14 -132.609
 4 16 2 14 -134.398 2 14 -132.398 3.062 14 -132.609 2.296 14 -134.457
-0

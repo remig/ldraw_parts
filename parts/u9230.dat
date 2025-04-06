@@ -1,18 +1,10 @@
 0 ~Train Track 12V Decoupler Plate (Needs Work)
 0 Name: u9230.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS set 7862
 0 !CMDLINE -c8
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // Needs Work: this part is not yet modelled in full detail
-
 1 16 -40 6 216 -76 0 0 0 0 2 0 1 0 rect.dat
 4 16 -120 8 220 40 8 220 36 8 216 -116 8 216
 1 16 38 8 138 -2 0 0 0 -1 0 -2 0 80 rect1.dat

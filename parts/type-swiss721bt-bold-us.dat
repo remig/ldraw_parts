@@ -1,15 +1,8 @@
 0 Type Swiss721BT Upper Case "S" Bold
 0 Name: type-swiss721bt-bold-us.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Primitive
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-
-
-
-0 // Main
 4 16 .133 0 -.135 .184 0 -.266 .195 0 -.214 .179 0 -.172
 4 16 -.386 0 -.181 -.192 0 -.181 -.063 0 -.069 -.268 0 0
 4 16 -.192 0 -.181 -.171 0 -.249 -.129 0 -.296 -.063 0 -.069
@@ -44,8 +37,6 @@
 3 16 -.172 0 .276 -.182 0 .227 -.142 0 .16
 3 16 .152 0 -.303 .184 0 -.266 .133 0 -.135
 3 16 .166 0 .2 .047 0 .097 .195 0 .056
-
-0 // Black
 4 0 -.354 0 -.316 -.275 0 -.416 -.129 0 -.296 -.171 0 -.249
 4 0 -.021 0 .113 -.142 0 .16 -.268 0 0 -.063 0 -.069
 4 0 .142 0 .481 .112 0 .306 .149 0 .261 .253 0 .422
