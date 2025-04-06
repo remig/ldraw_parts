@@ -1,20 +1,8 @@
 0 ~Electric Light Prism  1 x  6 Holder
 0 Name: 4170.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [sbliss] BFC'ed; removed bad quad (2003-01-30)
-0 !HISTORY 2008-07-08 [Steffen] fixed 4 rects on inside top rims that had bad height (2003-07-06)
-0 !HISTORY 2008-07-09 [guyvivan] Use more primitives (2004-12-12)
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 1 16 0 24 0 0 0 60 0 -24 0 10 0 0 box3u2p.dat
 0 BFC INVERTNEXT
 1 16 0 10 -6 56 0 0 0 0 -6 0 16 0 box4.dat
@@ -73,4 +61,3 @@
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 -30 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 -50 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
-0

@@ -1,16 +1,8 @@
 0 Tile  1 x  8 with "United States Capitol Building" Pattern
 0 Name: 4162p13.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
-0 // Produced by txt2dat, Copyright 2005-2007, 2009 R. Crawford
-0 // Using font: "Myriad Web Pro" style: "Regular" size: 50pt
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
 4 15 -73.82 0 -3.18 -73.4 0 -3.6 -72.99 0 -2.46 -74.15 0 -2.64
 4 15 -72.61 0 -2.86 -73.4 0 -3.6 -72.89 0 -3.9 -72.14 0 -3.1

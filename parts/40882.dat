@@ -1,19 +1,8 @@
 0 ~Animal Dinosaur Legs Short, Centre (Needs Work)
 0 Name: 40882.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-10-07 [westrate] File preparation for LDraw Parts Tracker
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // Piece is part of an assembly; only visible surfaces have been rendered.
-
 3 16 39.79 24.18 2.71 39.79 25.46 0 39.79 24.18 -2.71
 3 16 28.5 35.45 15.05 35.75 32.07 11.2 40.3 24.95 20.52
 3 16 35.75 32.07 11.2 40.25 28.5 11.2 40.3 24.95 20.52

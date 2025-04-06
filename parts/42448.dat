@@ -1,19 +1,9 @@
 0 Gate  1 x  4 x  9 Arched with Bars
 0 Name: 42448.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !CATEGORY Fence
-
-0 !HISTORY 2004-10-23 [Steffen]  un-mirrored studs, BFCed
-0 !HISTORY 2007-08-08 [mikeheide] added edges between cylinders
-0 !HISTORY 2008-02-18 [Philo] Adjusted size and added missing edges
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2013-08-29 [cwdee] Updated category
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 4 16 4 -4 0 4 4 0 4 4 70 4 -4 70
 4 16 4 -4 13.24 1.5 -4 13.24 1.5 -4 0 4 -4 0
 4 16 4 -4 33.24 1.5 -4 33.24 1.5 -4 26.76 4 -4 26.76
@@ -46,7 +36,6 @@
 2 24 1.5 4 70 4 4 70
 2 24 1.5 4 66.76 4 4 66.76
 2 24 1.5 -4 66.76 4 -4 66.76
-0 // bottom bar
 1 16 0 73 4 4 0 0 0 0 4 0 66 0 2-4cyli.dat
 1 16 0 73 4 -4 0 0 0 0 -4 0 12 0 2-4cyli.dat
 1 16 0 73 24 -4 0 0 0 0 -4 0 12 0 2-4cyli.dat
@@ -85,7 +74,6 @@
 1 16 0 73 60 4 0 0 0 0 -4 0 1 -4 2-4edge.dat
 1 16 0 73 70 0 0 4 4 0 0 0 -1 0 4-4disc.dat
 1 16 0 73 70 0 0 -4 4 0 0 0 1 0 4-4edge.dat
-0 // middle box
 2 24 0 -10 16 1.5 -10 16.2833
 2 24 0 -10 4 1.5 -10 3.7167
 4 16 0 -10 16 0 -10 4 1.5 -10 3.7167 1.5 -10 16.2833
@@ -195,7 +183,6 @@
 2 24 -1.5 4 63.7167 -1.5 10 63.7167
 2 24 0 10 64 1.5 10 63.7167
 2 24 0 10 64 -1.5 10 63.7167
-0 // first vertical bar
 1 16 0 -4 0 4 0 0 0 -45 0 0 0 4 4-4cyli.dat
 1 16 0 4 0 4 0 0 0 65 0 0 0 4 4-4cyli.dat
 1 16 0 4 0 -4 0 0 0 -8 0 0 0 -4 2-4cyli.dat
@@ -225,7 +212,6 @@
 1 16 0 -50.5 0 0 0 4 0 -6 0 -4 0 0 t04i2500.dat
 0 BFC INVERTNEXT
 1 16 0 -50.5 0 0 0 4 0 6 0 -4 0 0 t04i2500.dat
-0 // 2nd vertical bar
 1 16 0 -7 20 4 0 0 0 -67 0 0 0 4 4-4cyli.dat
 1 16 0 69 20 4 0 0 0 -62 0 0 0 4 4-4cyli.dat
 1 16 0 -77 20 4 0 0 0 -4 0 0 0 4 4-4cyli.dat
@@ -250,7 +236,6 @@
 1 16 0 -75.5 20 0 0 4 0 -6 0 -4 0 0 t04i2500.dat
 0 BFC INVERTNEXT
 1 16 0 -75.5 20 0 0 4 0 6 0 -4 0 0 t04i2500.dat
-0 // 3rd vertical bar
 1 16 0 -7 40 4 0 0 0 -79 0 0 0 4 4-4cyli.dat
 1 16 0 69 40 4 0 0 0 -62 0 0 0 4 4-4cyli.dat
 1 16 0 -89 40 4 0 0 0 -4 0 0 0 4 4-4cyli.dat
@@ -275,7 +260,6 @@
 1 16 0 -87.5 40 0 0 4 0 -6 0 -4 0 0 t04i2500.dat
 0 BFC INVERTNEXT
 1 16 0 -87.5 40 0 0 4 0 6 0 -4 0 0 t04i2500.dat
-0 // 4th vertical bar
 1 16 0 -7 60 4 0 0 0 -85 0 0 0 4 4-4cyli.dat
 1 16 0 69 60 4 0 0 0 -62 0 0 0 4 4-4cyli.dat
 1 16 0 -95 60 4 0 0 0 -4 0 0 0 4 4-4cyli.dat
@@ -488,7 +472,6 @@
 1 16 0 -74 40 -4 0 0 0 -5 -4 0 20 0 4-4cyli.dat
 1 16 0 -61 20 4 0 0 0 -13.1106 3.10858 0 19.8949 2.51728 4-4cyli.dat
 1 16 0 -36 0 4 0 0 0 -25.022 2.43505 0 19.9674 3.17341 4-4cyli.dat
-0 // Intersection lines between cylinder
 2 24 -3.7 -80.68 61.53 -4 -79 60
 2 24 -2.83 -82.11 62.83 -3.7 -80.68 61.53
 2 24 -2.83 -82.11 62.83 -1.53 -83.07 63.7
@@ -712,4 +695,3 @@
 2 24 3.7 7.7 61.53 2.83 7.44 62.83
 2 24 4 8 60 3.7 7.7 61.53
 2 24 2.48 7.39 63.06 1.6 7 63.65
-0

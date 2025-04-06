@@ -1,25 +1,13 @@
 0 Tile  1 x  8 with "Willis Tower" Pattern
 0 Name: 4162p09.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Architecture, Set 21000-2, Willis Tower, Chicago, Illinois, USA
-0 !KEYWORDS Architect, Skidmore and Owings and Merrill LLP.
-
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // (R) extract from s\777s07.dat
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS Architect, Architecture, Chicago, Illinois, Set 21000-2
+0 !KEYWORDS Skidmore and Owings and Merrill LLP., USA, Willis Tower
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
 1 16 52.5 0 4 2.8 0 0 0 1 0 0 0 2.8 4-4ndis.dat
 1 15 52.5 0 4 0 0 -0.4 0 1 0 0.4 0 0 4-4ring6.dat
-0 //
 4 15 51.294 0 2.4 51.7 0 2.4 51.7 0 3.756 51.294 0 5.456
 4 15 52.577 0 3.66 52.876 0 3.79 52.568 0 4.106 52.393 0 3.742
 3 15 51.294 0 5.456 51.7 0 4.106 51.7 0 5.119
@@ -36,7 +24,6 @@
 4 15 53.61 0 5.083 53.27 0 5.374 53.162 0 4.979 53.319 0 4.622
 3 15 53.738 0 4.622 53.238 0 4.347 53.527 0 4.073
 3 15 53 0 4.164 52.568 0 4.106 52.876 0 3.79
-0 //
 4 16 50.283 0 4.918 50.803 0 2.303 51.294 0 2.4 51.294 0 5.456
 4 16 50.1 0 4 50.283 0 3.082 50.803 0 2.303 50.283 0 4.918
 4 16 50.803 0 5.697 50.283 0 4.918 51.294 0 5.456 51.582 0 6.217
@@ -58,7 +45,6 @@
 4 16 51.7 0 4.106 52.568 0 4.106 52.666 0 5.119 51.7 0 5.119
 4 16 52.568 0 4.106 53 0 4.164 53.162 0 4.979 52.666 0 5.119
 4 16 53.238 0 4.347 53.319 0 4.622 53.162 0 4.979 53 0 4.164
-0 //
 4 15 -40.71 0 -3.992 -41.521 0 -6 -39.84 0 -6 -36.903 0 4.741
 4 15 -40.71 0 -3.992 -43.077 0 6.215 -44.745 0 6.215 -41.521 0 -6
 3 15 -35.887 0 6.215 -37.836 0 6.215 -36.903 0 4.741
@@ -153,7 +139,6 @@
 4 15 45.244 0 3.047 44.281 0 2.747 45.164 0 1.6 46.786 0 2.967
 3 15 46.786 0 2.967 45.164 0 1.6 46.786 0 1.578
 3 15 43.327 0 1.508 43.726 0 0.183 44.284 0 1.104
-0 //
 3 16 -41.521 0 -6 -80 0 -10 -39.84 0 -6
 3 16 -39.84 0 -6 -80 0 -10 -33.954 0 -6
 3 16 -33.954 0 -6 -80 0 -10 -32.382 0 -6

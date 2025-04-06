@@ -1,23 +1,11 @@
 0 Tile  1 x  8 with "Headquarters" Pattern
 0 Name: 4162p0r.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS United Nations Headquarters, 1950, New York City, USA
-0 !KEYWORDS Architect, Oscar Niemeyer, Le Corbusier
-0 !KEYWORDS Set 21018
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS 1950, Architect, Le Corbusier, New York City, Oscar Niemeyer
+0 !KEYWORDS Set 21018, United Nations Headquarters, USA
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
-
 4 15 -74.306 0 -6 -72.694 0 -6 -72.694 0 -0.435 -74.306 0 5.808
 3 15 -72.694 0 5.808 -74.306 0 5.808 -72.694 0 0.96
 3 15 -74.306 0 5.808 -72.694 0 -0.435 -72.694 0 0.96
@@ -216,7 +204,6 @@
 4 15 25.013 0 2.455 24.163 0 2.673 24.65 0 1.18 26.174 0 1.669
 4 15 25.228 0 0.153 26.69 0 0.153 26.174 0 1.669 24.65 0 1.18
 3 15 25.682 0 -1.483 25.047 0 -2.867 26.67 0 -2.244
-
 4 16 -80 0 10 -80 0 -10 -74.306 0 -6 -74.306 0 5.808
 3 16 -72.694 0 -6 -74.306 0 -6 -80 0 -10
 3 16 -66.356 0 -6 -72.694 0 -6 -80 0 -10

@@ -1,22 +1,10 @@
 0 Tile  1 x  8 with "September 2011" Pattern
 0 Name: 4162p0i.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS LOM Moulding, 2011, Mexico
-0 !KEYWORDS Set 4000002
-
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS 2011, LOM Moulding, Mexico, Set 4000002
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
-0 //
 4 15 -46.207 0 -2.043 -47.251 0 -2.672 -46.67 0 -3.323 -45.267 0 -2.773
 4 15 -47.623 0 -1.879 -47.251 0 -2.672 -46.207 0 -2.043 -46.593 0 -0.888
 3 15 -46.593 0 -0.888 -47.765 0 -0.888 -47.623 0 -1.879
@@ -249,7 +237,6 @@
 3 15 43.61 0 3.326 43.61 0 -4 44.76 0 -4
 3 15 44.76 0 5.401 44.019 0 5.401 43.614 0 4.785
 3 15 43.614 0 4.785 42.997 0 4.149 43.61 0 3.326
-0 //
 3 16 -80 0 -10 -44.943 0 -4.065 -45.904 0 -3.787
 4 16 -43.777 0 -4.158 -44.943 0 -4.065 -80 0 -10 -31.499 0 -6.602
 3 16 -80 0 -10 -45.904 0 -3.787 -46.67 0 -3.323

@@ -1,23 +1,14 @@
 0 Minifig Shovel
 0 Name: 3837.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2001-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS tool, spade, garden, town, construction, bar
-
-0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
-0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
-0 // handle
+0 !KEYWORDS bar, Construction, garden, spade, tool, town
 1 16 0 -28 0 2 0 0 0 -2 0 0 0 -2 2-8sphe.dat
 1 16 0 -12 0 2 0 0 0 -16 0 0 0 2 4-4con1.dat
 1 16 0 -12 0 4 0 0 0 52 0 0 0 4 4-4cyli.dat
 1 16 0 40 0 4 0 0 0 4 0 0 0 4 4-8sphe.dat
-0
 0 blade
 0 1 16 0 -28 0 1 0 0 0 1 0 0 0 1 3837s01.dat
 0 rotated 22.5 degrees around x axis
@@ -135,6 +126,4 @@
 2 24 -1.66 -21.462 2.222 -1.07 -21.94 2.548
 2 24 -1.07 -21.94 2.548 0 -22.215 2.743
 0 end of sub-part
-0
 0 end of file
-0

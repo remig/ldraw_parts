@@ -1,15 +1,9 @@
 0 Sticker  1 x  2 with "A41" on White/Blue
 0 Name: 4119056a.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Police
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
+0 !KEYWORDS police
 1 1 16.5 -0.25 -6.5 0 0 3 0 3 0 -3 0 0 1-4disc.dat
 1 1 -16.5 -0.25 -6.5 -3 0 0 0 3 0 0 0 -3 1-4disc.dat
 1 15 -16.5 -0.25 6.5 0 0 -3 0 3 0 3 0 0 1-4disc.dat
@@ -166,7 +160,6 @@
 3 1 -16 -0.25 -5 -14.75 -0.25 -2 -19.5 -0.25 -2
 3 1 -19.5 -0.25 -2 -16.25 -0.25 -5.5 -16 -0.25 -5
 3 1 -16.5 -0.25 -6.5 -16.25 -0.25 -5.5 -19.5 -0.25 -2
-0
 0 Pattern created wholly or in part by Quad2Dat
 0 Thanks James
 1 15 -16.5 0 6.5 -3 0 0 0 -3 0 0 0 3 1-4disc.dat
@@ -186,4 +179,3 @@
 4 15 -19.5 0 6.5 -19.5 0 -6.5 -19.5 -0.25 -6.5 -19.5 -0.25 6.5
 4 15 16.5 0 -9.5 16.5 -0.25 -9.5 -16.5 -0.25 -9.5 -16.5 0 -9.5
 4 15 -16.5 0 9.5 -16.5 -0.25 9.5 16.5 -0.25 9.5 16.5 0 9.5
-0

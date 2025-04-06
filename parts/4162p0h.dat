@@ -1,22 +1,10 @@
 0 Tile  1 x  8 with "LOM Moulding" Pattern
 0 Name: 4162p0h.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS LOM Moulding, 2011, Mexico
-0 !KEYWORDS Set 4000002
-
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS 2011, LOM Moulding, Mexico, Set 4000002
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
-0 //
 4 15 -41.573 0 5.365 -41.573 0 -4 -40.336 0 -2.893 -40.336 0 5.365
 4 15 -40.336 0 -2.893 -41.573 0 -4 -35.722 0 -4 -35.722 0 -2.893
 4 15 -32.938 0 -1.391 -34.384 0 -1.025 -34.086 0 -1.776 -33.672 0 -2.461
@@ -169,7 +157,6 @@
 4 15 41.656 0 2.785 40.592 0 1.966 40.44 0 0.568 40.578 0 -0.526
 3 15 41.656 0 2.785 40.592 0 2.785 40.592 0 1.966
 3 15 40.042 0 -2.441 39.441 0 -2.899 40.485 0 -3.109
-0 //
 4 16 -80 0 10 -80 0 -10 -41.573 0 -4 -41.573 0 5.365
 4 16 -35.722 0 -4 -41.573 0 -4 -80 0 -10 -30.994 0 -4.087
 3 16 -31.782 0 -3.874 -35.722 0 -4 -30.994 0 -4.087

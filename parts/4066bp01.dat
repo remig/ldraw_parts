@@ -1,22 +1,10 @@
 0 Duplo Brick  1 x  2 x  2 with Stop Sign Pattern
 0 Name: 4066bp01.dat
 0 Author: Tony Hafner [hafhead]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
 0 !CATEGORY Brick
-
-0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
-0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-11-22 [anathema] Added !CATEGORY
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
-0 // Box without front
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
-
-0 // Pattern area
 4 0 35 33.503 -20 36 33.0888 -20 36 62.9112 -20 35 62.497 -20
 4 0 -36 62.9112 -20 -36 33.0888 -20 -35 33.503 -20 -35 62.497 -20
 4 0 14.9112 84 -20 -14.9112 84 -20 -14.497 83 -20 14.497 83 -20
@@ -151,4 +139,3 @@
 3 4 15 40 -20 10 41 -20 7 40 -20
 4 4 -28 59.5976 -20 28 59.5976 -20 11.5976 76 -20 -11.5976 76 -20
 4 4 -28 36.4024 -20 -11.5976 20 -20 11.5976 20 -20 28 36.4024 -20
-0

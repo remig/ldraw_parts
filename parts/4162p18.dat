@@ -1,19 +1,10 @@
 0 Tile  1 x  8 with  7 Black Rectangles Pattern
 0 Name: 4162p18.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Rocket, Apollo, Saturn V, Set 21309, NASA
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
-0 // Subfile
-
+0 !KEYWORDS Apollo, NASA, Rocket, Saturn V, Set 21309
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
-
 4 0 -62.5 0 3 -75 0 3 -75 0 -3 -62.5 0 -3
 4 0 -40 0 3 -52.5 0 3 -52.5 0 -3 -40 0 -3
 4 0 -17.5 0 3 -30 0 3 -30 0 -3 -17.5 0 -3

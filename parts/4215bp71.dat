@@ -1,13 +1,8 @@
 0 Panel  1 x  4 x  3 with Telephone in Blue/Green Circle Pattern
 0 Name: 4215bp71.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4215bs01.dat
 4 1 7.021 18.6963 10 -0.25 17.25 10 -0.25 14.25 10 8.169 15.9247 10
 4 1 8.169 15.9247 10 15.3063 20.6937 10 13.185 22.815 10 7.021 18.6963 10
@@ -100,6 +95,3 @@
 3 16 -8.669 56.5753 10 -0.25 58.25 10 -40 72 10
 3 16 -0.25 58.25 10 8.169 56.5753 10 40 72 10
 3 16 40 72 10 8.169 56.5753 10 15.3063 51.8063 10
-0 //
-0 // Pattern created wholly or in part by Quad2Dat
-0 // Thanks James

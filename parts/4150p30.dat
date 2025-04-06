@@ -1,13 +1,8 @@
 0 Tile  2 x  2 Round with Zebra Stripes Pattern
 0 Name: 4150p30.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4150s01.dat
 4 0 11.8 0 8.4 11.3 0 8.4 10.7 0 7.9 11.9 0 8
 4 0 16.6 0 9.9 15.7 0 9.7 17.3 0 8.8 16.977 0 9.9
@@ -433,4 +428,3 @@
 4 0 -9.6 0 -14.5 -8.8 0 -13.2 -11 0 -11.3 -12.1 0 -12.1
 4 0 -9.6 0 -14.5 -12.1 0 -12.1 -13.4 0 -13.2 -10.2 0 -16
 4 0 -10.2 0 -16 -13.4 0 -13.2 -14.142 0 -14.142 -10.386 0 -16.652
-0 //

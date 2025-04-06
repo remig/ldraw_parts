@@ -1,17 +1,8 @@
 0 Train Signal Mast
 0 Name: 4168.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [nielsk] Reworked with primitives and made BFC Compliant (2005-10-31)
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 1 16 0 0 0 160 0 0 0 8 0 0 0 10 box4.dat
 0 BFC INVERTNEXT
 1 16 148 4 0 0 8 0 4 0 0 0 0 6 box3u4a.dat
@@ -233,5 +224,3 @@
 4 16 92 0 6 104 0 -6 108 0 -6 96 0 6
 4 16 112 0 6 124 0 -6 128 0 -6 116 0 6
 4 16 132 0 6 144 0 -6 148 0 -6 136 0 6
-0
-

@@ -1,18 +1,8 @@
 0 ~Animal Dinosaur Legs Short, Right (Needs Work)
 0 Name: 40381.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-10-07 [westrate] File preparation for LDraw Parts Tracker
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
-0 // Piece is part of an assembly; only visible surfaces have been rendered.
-
-
 1 16 50 89.5 10 1 0 0 0 -1 0 0 0 1 stud4.dat
 3 16 4.81 51.89 3.88 0.05 51.89 3.88 0.01 51.78 9.48
 3 16 0.1 51.69 -14 4.95 51.69 -14 0.01 51.12 -15.39
@@ -1368,4 +1358,3 @@
 5 24 54.31 86.58 -9.68 36.16 86.36 -9.68 42 86.29 -9.68 63.74 87.11 -9.68
 5 24 30.17 93.5 -3.69 32.5 83.83 -4.41 34.35 93.5 -5.5 30.17 85.86 -3.69
 2 24 30.17 85.86 -3.69 32.5 83.83 -4.41
-

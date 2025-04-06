@@ -1,20 +1,8 @@
 0 ~Animal Dinosaur Tail/Neck S Curve - Bottom (Needs Work)
 0 Name: 40391.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
-0 !HISTORY 2009-11-30 [westrate] File preparation for LDraw Parts Tracker
-0 !HISTORY 2010-06-18 [mikeheide] Changed _ to ~ in part description
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
-0 // NEEDS WORK: This is the outer faces only
-
-
-
 3 16 47.94 7.81 59.5 48 3.98 59.5 51.42 7.05 59.5
 4 16 51.42 7.05 59.5 48 3.98 59.5 49.99 3.44 59.5 54.11 4.94 59.5
 4 16 54.11 4.94 59.5 49.99 3.44 59.5 51.44 1.99 59.5 55.67 2.14 59.5
@@ -426,4 +414,3 @@
 5 24 13.05 3.01 41.71 26.42 7.13 44.87 16.51 8.01 41.03 23.4 2.66 45.22
 5 24 23.4 2.66 45.22 38.31 5.9 52.16 26.42 7.13 44.87 36.28 2.19 52.1
 5 24 26.42 7.13 44.87 41.89 8.48 52.26 31.76 10.22 44.26 38.31 5.9 52.16
-0

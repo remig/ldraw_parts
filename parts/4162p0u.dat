@@ -1,26 +1,13 @@
 0 Tile  1 x  8 with "Marina Bay Sands" Pattern
 0 Name: 4162p0u.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Singapore, 2011
-0 !KEYWORDS Architect, Moshe Safdie
-0 !KEYWORDS Set 21021
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS 2011, Architect, Moshe Safdie, Set 21021, Singapore
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
 1 16 50.75 0 3.2 0.3 0 0 0 1 0 0 0 0.3 s\777s07.dat
 1 15 50.75 0 3.2 0.3 0 0 0 1 0 0 0 0.3 s\777s09.dat
 1 16 50.75 0 3.2 0 0 2.1 0 1 0 -2.1 0 0 3-4ndis.dat
-
 4 15 -47.925 0 3.451 -45.396 0 -4 -44.811 0 -2.739 -47.298 0 4.754
 3 15 -47.298 0 4.754 -49.04 0 4.754 -47.925 0 3.451
 4 15 -47.925 0 3.451 -49.04 0 4.754 -49.04 0 -4 -47.925 0 -4
@@ -266,7 +253,6 @@
 4 15 48.04 0 2.269 47.43 0 2.43 47.779 0 1.323 48.872 0 1.686
 4 15 48.194 0 0.562 49.242 0 0.562 48.872 0 1.686 47.779 0 1.323
 3 15 48.519 0 -0.651 48.064 0 -1.677 49.227 0 -1.215
-
 3 16 -47.925 0 -4 -49.04 0 -4 -80 0 -10
 3 16 -45.396 0 -4 -47.925 0 -4 -80 0 -10
 3 16 -47.925 0 3.451 -47.925 0 -4 -45.396 0 -4

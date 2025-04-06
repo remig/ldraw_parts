@@ -1,17 +1,9 @@
 0 Snow Flake  4 x  4
 0 Name: 42409.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !CATEGORY Belville
-
-0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-09-14 [anathema] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-12-08 [MagFors]  Created subfile 42409s02
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\42409s02.dat
 1 16 0 0 0 0.5 0 -0.866 0 1 0 0.866 0 0.5 s\42409s01.dat
 1 16 0 0 0 -0.5 0 -0.866 0 1 0 0.866 0 -0.5 s\42409s02.dat
@@ -24,13 +16,11 @@
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\42409s02.dat
 1 16 0 0 0 -0.5 0 -0.866 0 1 0 -0.866 0 0.5 s\42409s01.dat
 1 16 0 0 0 0.5 0 -0.866 0 1 0 -0.866 0 -0.5 s\42409s02.dat
-
 1 16 0 -10.4 39.75 4 0 0 0 0 -4 0 -4.35 0 4-4cylc.dat
 1 16 0 -10.4 -39.75 -4 0 0 0 0 -4 0 4.35 0 4-4cylc.dat
 1 16 34.425 -10.4 19.875 2 -3.7672 0 0 0 -4 -3.4641 -2.175 0 4-4cylc.dat
 1 16 -34.425 -10.4 -19.875 -2 3.7672 0 0 0 -4 3.4641 2.175 0 4-4cylc.dat
-
-1 16 0 -4.877 0 1 0 0 0 -1.219 0 0 0 -1 STUD4A.dat
+1 16 0 -4.877 0 1 0 0 0 -1.219 0 0 0 -1 stud4a.dat
 1 16 0 -4.877 0 8 0 0 0 -1 0 0 0 -8 4-4edge.dat
 1 16 0 -15.979 0 1 0 0 0 1.005 0 0 0 1 stud2a.dat
 1 16 0 -15.979 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
@@ -42,7 +32,6 @@
 0 BFC INVERTNEXT
 1 16 0 -13 0 6 0 0 0 8.123 0 0 0 6 4-4cyli.dat
 1 16 0 -13 0 2 0 0 0 -1 0 0 0 -2 4-4ring2.dat
-
 4 16 -6 -15.979 6 6 -15.979 6 5.304 -15.979 9.187 -5.304 -15.979 9.187
 4 16 6 -15.979 -6 -6 -15.979 -6 -5.304 -15.979 -9.187 5.304 -15.979 -9.187
 3 16 6 -15.979 -6 10.608 -15.979 0 6 -15.979 6

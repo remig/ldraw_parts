@@ -1,22 +1,10 @@
 0 Tile  1 x  8 with "Villa Savoye" Pattern
 0 Name: 4162p0l.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Le Corbusier, Poissy, France
-0 !KEYWORDS Set 21014
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS France, Le Corbusier, Poissy, Set 21014
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
-0
 4 15 -31.661 0 -2.969 -34.59 0 5.365 -35.932 0 5.365 -32.297 0 -4
 3 15 -31.024 0 -4 -31.661 0 -2.969 -32.297 0 -4
 4 15 -27.359 0 5.365 -28.624 0 5.365 -31.661 0 -2.969 -31.024 0 -4
@@ -160,7 +148,6 @@
 4 15 34.577 0 2.01 33.947 0 2.525 33.789 0 1.325 35.055 0 1.309
 4 15 34.076 0 0.793 34.223 0 0.047 35.342 0 0.44 35.055 0 1.309
 3 15 33.789 0 1.325 34.076 0 0.793 35.055 0 1.309
-0
 3 16 -31.024 0 -4 -32.297 0 -4 -80 0 -10
 3 16 -26.389 0 -4 -31.024 0 -4 -80 0 -10
 3 16 -25.239 0 -4 -26.389 0 -4 -80 0 -10

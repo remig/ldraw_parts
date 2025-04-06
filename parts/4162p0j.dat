@@ -1,22 +1,10 @@
 0 Tile  1 x  8 with "KOM Moulding" Pattern
 0 Name: 4162p0j.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS 2012, Billund
-0 !KEYWORDS set 4000005
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS 2012, Billund, set 4000005
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
-0 //
 3 15 -42.298 0 -4 -41.062 0 -4 -41.062 0 -0.751
 4 15 -42.298 0 -4 -41.062 0 -0.751 -41.062 0 0.722 -42.298 0 5.365
 3 15 -42.298 0 5.365 -41.062 0 0.722 -41.062 0 5.365
@@ -173,7 +161,6 @@
 4 15 42.382 0 2.785 41.319 0 1.966 41.166 0 0.568 41.304 0 -0.526
 3 15 41.319 0 2.785 41.319 0 1.966 42.382 0 2.785
 3 15 40.167 0 -2.899 41.21 0 -3.109 40.767 0 -2.441
-0 //
 4 16 -80 0 10 -80 0 -10 -42.298 0 -4 -42.298 0 5.365
 3 16 -80 0 -10 -41.062 0 -4 -42.298 0 -4
 4 16 -30.268 0 -4.087 -34.558 0 -4 -80 0 -10 -29.418 0 -4.158

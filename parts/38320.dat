@@ -1,13 +1,8 @@
 0 Window  1 x  2 x  2 Pane Lattice Diamond
 0 Name: 38320.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 1.84776 21.5 -5 0 14.6523 0 0 0 -18.074 2 0 0 box3u2p.dat
 1 16 -1.84776 21.5 -5 0 -14.6523 0 0 0 -18.074 2 0 0 box3u2p.dat
 1 16 0 4 -7 1.84776 0 -0.76537 -0.57403 0 -1.38582 0 4 0 3-8cylo.dat
@@ -50,7 +45,6 @@
 1 16 -7 7.5 -5 0 2.6163 -2.6163 0 2.6163 2.6163 1 0 0 box2-5.dat
 1 16 -11.2326 6.5 -5 0 -1 1 0 0 -1 1 0 0 rect3.dat
 1 16 -2.7674 6.5 -5 0 1 -1 0 0 -1 -1 0 0 rect3.dat
-
 4 16 5.2326 28.5 -6 0 33.7326 -6 1.7674 35.5 -6 7 30.2674 -6
 4 16 7 26.7326 -6 5.2326 28.5 -6 7 30.2674 -6 8.7674 28.5 -6
 4 16 12.2326 21.5 -6 7 26.7326 -6 8.7674 28.5 -6 14 23.2674 -6

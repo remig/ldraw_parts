@@ -1,22 +1,11 @@
 0 Tile  1 x  8 with "Sungnyemun" Pattern
 0 Name: 4162p0e.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Architecture, Set 21016, Namdaemun, Seoul, Korea
-0 !KEYWORDS Architect, Unknown, City Gateway
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS Architect, Architecture, City Gateway, Korea, Namdaemun, Seoul
+0 !KEYWORDS Set 21016, unknown
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
-0 //
 4 15 -34.389 0 -2.043 -35.433 0 -2.672 -34.852 0 -3.323 -33.449 0 -2.773
 4 15 -35.805 0 -1.879 -35.433 0 -2.672 -34.389 0 -2.043 -34.775 0 -0.888
 3 15 -34.775 0 -0.888 -35.946 0 -0.888 -35.805 0 -1.879
@@ -189,7 +178,6 @@
 4 15 37.326 0 2.936 37.083 0 1.937 37.885 0 1.729 38.453 0 2.716
 3 15 37.326 0 2.936 36.459 0 2.812 37.083 0 1.937
 4 15 39.223 0 2.138 38.453 0 2.716 37.885 0 1.729 38.36 0 1.174
-0 //
 3 16 -33.125 0 -4.065 -34.087 0 -3.787 -80 0 -10
 3 16 -31.959 0 -4.158 -33.125 0 -4.065 -80 0 -10
 4 16 -24.665 0 -4.151 -31.007 0 -4.066 -31.959 0 -4.158 -80 0 -10

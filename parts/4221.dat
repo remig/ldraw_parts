@@ -1,18 +1,8 @@
 0 Arm Piece Grab Jaw
 0 Name: 4221.dat
 0 Author: Remco Braak [remco1974]
-0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [tchang] Add BFC (2008-02-08)
-0 !HISTORY 2010-02-07 [mikeheide] changed one yellow triangle, optimized with rectifier
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
 2 24 -10 7 -52 -10 12 -50
 2 24 -10 12 -50 -10 12 -18
 2 24 -10 12 -18 -10 11.46 -13
@@ -332,4 +322,3 @@
 2 24 4.28 2.6 1.5 7.14 2.6 1.5
 2 24 4.28 -2.6 1.5 7.14 -2.6 1.5
 2 24 4.28 -3.75 6.5 7.14 -3.75 6.5
-0 //

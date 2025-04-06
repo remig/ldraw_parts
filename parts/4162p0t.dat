@@ -1,23 +1,11 @@
 0 Tile  1 x  8 with "La tour Eiffel" Pattern
 0 Name: 4162p0t.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS The Eiffel Tower, 1889, Paris, France
-0 !KEYWORDS Architect, Gustave Eiffel
-0 !KEYWORDS Set 21019
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS 1889, Architect, France, Gustave Eiffel, Paris, Set 21019
+0 !KEYWORDS The Eiffel Tower
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
-
 4 15 -33.765 0 5.365 -33.765 0 -4 -32.529 0 -2.893 -32.529 0 5.365
 4 15 -32.529 0 -2.893 -33.765 0 -4 -27.914 0 -4 -27.914 0 -2.893
 4 15 -26.823 0 -2.983 -25.396 0 -2.946 -25.744 0 -2.178 -26.973 0 -2.21
@@ -146,7 +134,6 @@
 4 15 33.909 0 0.793 34.056 0 0.047 35.175 0 0.44 34.888 0 1.309
 3 15 33.622 0 1.325 33.909 0 0.793 34.888 0 1.309
 4 15 36.651 0 5.365 36.651 0 -4 37.801 0 -4 37.801 0 5.365
-
 4 16 -27.914 0 -4 -80 0 -10 -24.653 0 -4.151 -25.642 0 -4.014
 4 16 -24.653 0 -4.151 -80 0 -10 -9.288 0 -4.151 -13.869 0 -4.086
 3 16 -27.914 0 -4 -33.765 0 -4 -80 0 -10

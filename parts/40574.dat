@@ -1,17 +1,8 @@
 0 ~Electric Spybotic Brick Chassis (Needs Work)
 0 Name: 40574.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
-0 // Needs Work: Approximative inner surface
-0 // Needs Work: Battery case not detailed
-0 // Needs Work: Touch sensor seating missing
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\40574s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\40574s01.dat
 0 BFC INVERTNEXT
@@ -49,4 +40,3 @@
 4 16 -20 6 80 -41 -9 80 41 -9 80 20 6 80
 2 24 60 -10 80 -60 -10 80
 4 16 -59 -9 80 -60 -10 80 60 -10 80 59 -9 80
-0

@@ -1,15 +1,9 @@
 0 Duplo Vehicle Cement Mixer Bucket
 0 Name: 42235.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Vehicle
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 65 0 1 0 0 0 -3 0 0 0 -1 stud8.dat
 1 16 0 65 0 21 0 0 0 -1 0 0 0 -21 4-4disc.dat
 1 16 0 61 0 18 0 0 0 1 0 0 0 18 4-4disc.dat
@@ -22,8 +16,8 @@
 1 16 0 4.5 0 6 0 0 0 32 0 0 0 6 4-4con5.dat
 1 16 0 5 0 39 0 0 0 5 0 0 0 39 4-4cyli.dat
 1 16 0 -9 0 39 0 0 0 5 0 0 0 39 4-4cyli.dat
-1 16 0 -4 0 1 0 0 0 1 0 0 0 1 4-4rin39.dat
-1 16 0 5 0 1 0 0 0 -1 0 0 0 -1 4-4rin39.dat
+1 16 0 -4 0 1 0 0 0 1 0 0 0 1 4-4ring39.dat
+1 16 0 5 0 1 0 0 0 -1 0 0 0 -1 4-4ring39.dat
 1 16 0 5 0 39 0 0 0 5 0 0 0 39 4-4edge.dat
 1 16 0 -4 0 39 0 0 0 5 0 0 0 39 4-4edge.dat
 1 16 0 -28 0 36 0 0 0 5 0 0 0 36 4-4edge.dat
@@ -34,7 +28,7 @@
 1 16 0 -28 0 34 0 0 0 5 0 0 0 34 4-4edge.dat
 0 BFC INVERTNEXT
 1 16 0 5 0 2 0 0 0 -33 0 0 0 -2 4-4con17.dat
-1 16 0 -28 0 2 0 0 0 1 0 0 0 2 4-4rin17.dat
+1 16 0 -28 0 2 0 0 0 1 0 0 0 2 4-4ring17.dat
 1 16 0 5 0 40 0 0 0 5 0 0 0 40 4-4edge.dat
 1 16 0 -4 0 40 0 0 0 5 0 0 0 40 4-4edge.dat
 1 16 0 -4 0 40 0 0 0 9 0 0 0 40 4-4cyli.dat
@@ -184,7 +178,6 @@
 2 24 92 -1.30425 -7.7406 93.8738 -0.819052 -7.8371
 2 24 92.0886 7.26881 -22.5549 93.914 7.64463 -22.4802
 2 24 93.8738 -0.819052 -7.8371 93.914 -0.808638 -7.83917
-0 // Added lines/Condlines
 5 24 30 36.5 0 27.717 36.5 11.481 23.0975 54.5 9.5675 33.2604 4.5 13.7772
 5 24 27.717 36.5 11.481 21.213 36.5 21.213 17.6775 54.5 17.6775 25.4556 4.5 25.4556
 5 24 21.213 36.5 21.213 11.481 36.5 27.717 9.5675 54.5 23.0975 13.7772 4.5 33.2604

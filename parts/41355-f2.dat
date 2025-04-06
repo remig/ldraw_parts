@@ -1,15 +1,8 @@
 0 Technic Shock Absorber  9L Spring Hard (Compressed)
 0 Name: 41355-f2.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // Created with spring2dat H=12 R=5 D=24 S=2 T=16 B=9
-
 2 24 -12 18 0 -11.0866 18.15 4.5922
 2 24 -13 17 0 -12.0104 17.15 4.9749
 2 24 -12 16 0 -11.0866 16.15 4.5922

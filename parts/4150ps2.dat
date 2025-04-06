@@ -1,23 +1,10 @@
 0 Tile  2 x  2 Round with SW Sith Infiltrator Pattern
 0 Name: 4150ps2.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-0 !KEYWORDS Star Wars, Episode One, The Phantom Menace, Darth Maul, set 7151
+0 !KEYWORDS Darth Maul, Episode One, set 7151, Star Wars, The Phantom Menace
 0 !CMDLINE -c7
-
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2003-07-28 [Steffen] made use of subfile
-0 !HISTORY 2004-03-15 [westrate] fixed bowtie quads
-0 !HISTORY 2004-10-25 [fwcain] BFC'ed
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-10-06 [anathema] Removed edge-lines from pattern
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4150s01.dat
 4 16 -20 0 0 -19 0 0 -17.554 0 -7.271 -18.478 0 -7.654
 4 16 19 0 0 20 0 0 18.478 0 -7.654 17.554 0 -7.271
@@ -82,5 +69,3 @@
 4 8 -1.875 0 17 1.875 0 17 2.125 0 16.75 -2.125 0 16.75
 4 16 0 0 17 -1.875 0 17 -1.875 0 19.627 0 0 20
 4 16 0 0 17 0 0 20 1.875 0 19.627 1.875 0 17
-0
-0

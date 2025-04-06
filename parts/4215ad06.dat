@@ -1,11 +1,9 @@
-0 Panel  1 x  4 x  3 with Solid Studs and Global Cargo Sticker
+0 Panel  1 x  4 x  3 with Solid Studs and Blue Globe, Yellow Box and Curved Arrows Sticker
 0 Name: 4215ad06.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Shortcut
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS Set 4549, Train, Container, Transport
-
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS container, Set 4549, Train, Transport
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4215a.dat
 1 16 0 36 10 -1 0 0 0 0 -1 0 -1 0 821421a.dat

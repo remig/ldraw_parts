@@ -1,13 +1,8 @@
 0 Sticker  1 x  0.8 Shovel Arm Down
 0 Name: 4106752d.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 1 15 -6.5 -0.25 -9 -1 0 0 0 1 0 0 0 -1 1-4disc.dat
 1 15 -6.5 -0.25 9 0 0 -1 0 1 0 1 0 0 1-4disc.dat
 1 15 6.5 -0.25 9 1 0 0 0 1 0 0 0 1 1-4disc.dat
@@ -67,7 +62,6 @@
 3 15 4.4403 -0.25 -4.7933 4.9822 -0.25 -3.9822 0.25 -0.25 -5
 3 15 6.75 -0.25 -3.25 6 -0.25 -2 5.7933 -0.25 -3.4403
 4 15 5.7933 -0.25 -3.4403 6 -0.25 -2 0.25 -0.25 -5 4.9822 -0.25 -3.9822
-0
 0 Pattern created wholly or in part by Quad2Dat
 0 Thanks James
 4 15 6.5 -0.25 -10 -6.5 -0.25 -10 -6.5 0 -10 6.5 0 -10
@@ -85,4 +79,3 @@
 4 15 6.5 0 10 6.5 0 9 -6.5 0 9 -6.5 0 10
 4 15 6.5 0 -9 6.5 0 -10 -6.5 0 -10 -6.5 0 -9
 4 15 7.5 0 9 7.5 0 -9 -7.5 0 -9 -7.5 0 9
-0

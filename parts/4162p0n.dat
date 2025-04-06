@@ -1,22 +1,10 @@
 0 Tile  1 x  8 with "September 2012" Pattern
 0 Name: 4162p0n.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Kladno, Czech Republic, Built in 2000
-0 !KEYWORDS set 4000006
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS Built in 2000, Czech Republic, Kladno, set 4000006
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
-0 //
 4 15 -46.207 0 -2.043 -47.251 0 -2.672 -46.67 0 -3.323 -45.267 0 -2.773
 4 15 -47.623 0 -1.879 -47.251 0 -2.672 -46.207 0 -2.043 -46.593 0 -0.888
 3 15 -47.765 0 -0.888 -47.623 0 -1.879 -46.593 0 -0.888
@@ -264,7 +252,6 @@
 4 15 46.871 0 4.654 46.285 0 5.069 45.989 0 3.983 47.461 0 3.818
 4 15 46.344 0 2.158 47.427 0 1.698 47.657 0 2.803 46.478 0 2.831
 4 15 46.478 0 2.831 47.657 0 2.803 47.461 0 3.818 45.989 0 3.983
-0 //
 3 16 -44.943 0 -4.065 -45.904 0 -3.787 -80 0 -10
 4 16 -43.777 0 -4.158 -44.943 0 -4.065 -80 0 -10 -31.499 0 -6.602
 3 16 -45.904 0 -3.787 -46.67 0 -3.323 -80 0 -10

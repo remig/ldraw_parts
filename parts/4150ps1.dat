@@ -1,22 +1,11 @@
 0 Tile  2 x  2 Round with SW Red & Black Vent Pattern
 0 Name: 4150ps1.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS Star Wars, Episode One, Life on Mars
-0 !KEYWORDS pod racer, podracer, flash, steam, Sebulba
+0 !KEYWORDS Episode One, Flash, Life on Mars, Sebulba, Star Wars, pod racer
+0 !KEYWORDS podracer, steam
 0 !CMDLINE -C7
-
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [Steffen] made use of s\4150s01.dat (2003-07-28)
-0 !HISTORY 2008-07-08 [westrate] fixed bowtie quads (2004-03-15)
-0 !HISTORY 2009-09-22 [anathema] BFC'd, added subpart and more primitives, removed edge-lines from pattern
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4150s01.dat
 4 8 -10.5 0 0 -10.45 0 -0.25 10.45 0 -0.25 10.5 0 0
 4 8 10.5 0 0 10.45 0 0.25 -10.45 0 0.25 -10.5 0 0
@@ -82,15 +71,14 @@
 4 0 4.018 0 -9.701 3.923 0 -9.47 0 0 -10.25 0 0 -10.5
 4 0 -4.018 0 9.701 -3.923 0 9.47 0 0 10.25 0 0 10.5
 4 0 0 0 10.5 0 0 10.25 3.923 0 9.47 4.018 0 9.701
-1 16 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4rin79.dat
-1 0 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4rin78.dat
-1 0 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4rin52.dat
-1 0 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4rin51.dat
-1 8 0 0 0 0.5 0 0 0 1 0 0 0 0.5 4-4rin21.dat
-1 8 0 0 0 0.5 0 0 0 1 0 0 0 0.5 4-4rin22.dat
-1 8 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4rin47.dat
-1 8 0 0 0 0.5 0 0 0 1 0 0 0 0.5 4-4rin24.dat
-1 8 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4rin50.dat
-1 0 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4rin46.dat
-1 0 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4rin77.dat
-0
+1 16 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4ring79.dat
+1 0 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4ring78.dat
+1 0 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4ring52.dat
+1 0 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4ring51.dat
+1 8 0 0 0 0.5 0 0 0 1 0 0 0 0.5 4-4ring21.dat
+1 8 0 0 0 0.5 0 0 0 1 0 0 0 0.5 4-4ring22.dat
+1 8 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4ring47.dat
+1 8 0 0 0 0.5 0 0 0 1 0 0 0 0.5 4-4ring24.dat
+1 8 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4ring50.dat
+1 0 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4ring46.dat
+1 0 0 0 0 0.25 0 0 0 1 0 0 0 0.25 4-4ring77.dat

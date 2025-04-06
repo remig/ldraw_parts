@@ -1,17 +1,10 @@
 0 Dish  4 x  4 Inverted with Sith Pattern
 0 Name: 3960ps3.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, Infiltrator
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
+0 !KEYWORDS infiltrator, Star Wars
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3960s01.dat
-0 // Pattern
 4 0 10.41 0.083 -1.371 10.5 0.083 0 10 0 0 9.914 0 -1.305
 4 0 10.142 0.083 -2.718 10.41 0.083 -1.371 9.914 0 -1.305 9.659 0 -2.588
 4 0 -9.659 0 -2.588 -9.914 0 -1.305 -10.41 0.083 -1.371 -10.142 0.083 -2.718

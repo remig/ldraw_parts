@@ -1,14 +1,10 @@
 0 Minifig Cape Cloth with Pointed Ends and Collar
 0 Name: 42450.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Neckwear
-0 !KEYWORDS Vampire, Dracula, Cloak
-
+0 !KEYWORDS Cloak, Dracula, vampire
 1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\42450s01.dat
 1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\42450s01.dat
 1 16 0 -.3 0 1 0 0 0 1 0 0 0 1 s\42450s01.dat

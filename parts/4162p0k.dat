@@ -1,22 +1,10 @@
 0 Tile  1 x  8 with "June 2012" Pattern
 0 Name: 4162p0k.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS KOM Moulding, 2012, Billund
-0 !KEYWORDS set 4000005
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS 2012, Billund, KOM Moulding, set 4000005
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
-0 //
 4 15 -28.649 0 -2.658 -29.905 0 -2.904 -29.543 0 -3.451 -28.743 0 -3.982
 4 15 -27.657 0 -3.051 -28.743 0 -3.982 -27.654 0 -4.158 -26.876 0 -4.074
 3 15 -27.657 0 -3.051 -28.649 0 -2.658 -28.743 0 -3.982
@@ -144,7 +132,6 @@
 4 15 27.957 0 4.654 27.371 0 5.069 27.075 0 3.983 28.546 0 3.818
 4 15 27.429 0 2.158 28.513 0 1.698 28.743 0 2.803 27.564 0 2.831
 4 15 27.564 0 2.831 28.743 0 2.803 28.546 0 3.818 27.075 0 3.983
-0 //
 3 16 -28.743 0 -3.982 -80 0 -10 -27.654 0 -4.158
 4 16 -27.654 0 -4.158 -80 0 -10 -20.854 0 -4.151 -26.876 0 -4.074
 3 16 -29.905 0 -2.904 -80 0 -10 -29.543 0 -3.451

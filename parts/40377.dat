@@ -1,19 +1,8 @@
 0 ~Animal Dinosaur Tail/Neck Curved - Bottom (Needs Work)
 0 Name: 40377.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
-0 !HISTORY 2009-11-30 [westrate] File preparation for LDraw Parts Tracker
-0 !HISTORY 2010-06-18 [mikeheide] Changed _ to ~ in part description
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
-0 // NEEDS WORK: This is the outer faces only
-
-
 3 16 45.86 0 124.85 41.11 3.87 129.6 40.38 0 130.3
 3 16 50.6 3.87 120.1 45.86 0 124.85 51.34 0 119.4
 3 16 45.86 0 124.85 43.12 6.71 127.6 41.11 3.87 129.6

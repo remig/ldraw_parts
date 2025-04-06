@@ -1,15 +1,11 @@
-0 Minifig Vest with 2 Yellow/Black Chevrons Stickers
+0 Minifig Vest with Black and Yellow Chevrons Stickers on Both Sides
 0 Name: 3840d09.dat
-0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Unofficial_Shortcut
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !CATEGORY Minifig Neckwear
-
-0 !CMDLINE -c14
-
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 3840pb01, Construction, Set 542-1, Set 558-1, Set 605-1
+0 !KEYWORDS Set 607-1, Set 641-1, Set 670-1, Sweeper
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3840.dat
-1 16 0 14 -13 1 0 0 0 0 -1 0 1 0 199025a.dat
-1 16 0 14 13 -1 0 0 0 0 -1 0 -1 0 199025a.dat
+1 16 0 14 -13 1 0 0 0 0 -1 0 1 0 004656a.dat
+1 16 0 14 13 -1 0 0 0 0 -1 0 -1 0 004656a.dat

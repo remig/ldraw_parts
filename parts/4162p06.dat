@@ -1,21 +1,10 @@
 0 Tile  1 x  8 with "Brandenburg Gate" Pattern
 0 Name: 4162p06.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Architecture, Set 21011
-
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
-0 //
 4 15 -53.621 0 -2.893 -54.857 0 -4 -51.285 0 -4 -51.284 0 -2.893
 4 15 -53.621 0 0.327 -51.454 0 0.327 -51.294 0 1.434 -53.621 0 1.434
 4 15 -54.857 0 -4 -53.621 0 -2.893 -53.621 0 0.327 -54.857 0 5.365
@@ -296,7 +285,6 @@
 4 15 50.406 0 2.01 49.776 0 2.525 49.618 0 1.325 50.884 0 1.309
 4 15 49.905 0 0.793 50.052 0 0.047 51.171 0 0.44 50.884 0 1.309
 3 15 49.905 0 0.793 50.884 0 1.309 49.618 0 1.325
-0 //
 3 16 -54.857 0 -4 -80 0 -10 -51.285 0 -4
 4 16 -50.461 0 -3.961 -51.285 0 -4 -80 0 -10 -46.239 0 -4
 4 16 -80 0 10 -80 0 -10 -54.857 0 -4 -54.857 0 5.365

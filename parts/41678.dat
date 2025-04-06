@@ -1,19 +1,8 @@
 0 Technic Cross Block 2 x 2 Split (Axle/Twin Pin)
 0 Name: 41678.dat
 0 Author: Orion Pobursky [OrionP]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2004-05-15 [guyvivan] Made BFC compliant, moved origin, used Box3u2p.dat and rect3.dat, reduced size from 20LDU to 18LDU, added missing quads and triangles between cylinder
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-10-08 [cwdee] Aligned description with other similar parts
-0 !HISTORY 2009-10-09 [Philo] Fixed small BFC error
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 -10 -10 -20 1 0 0 0 1 0 0 0 1 peghole.dat
 1 16 -10 10 -20 1 0 0 0 -1 0 0 0 -1 peghole.dat
 1 16 -10 -10 -20 -10 0 0 0 20 0 0 0 -10 3-4cyli.dat
@@ -164,4 +153,3 @@
 3 16 -0.4 -10 -22 0.4 -10 -22 0 -10 -20
 3 16 -0.4 10 -18 0.4 10 -18 0 10 -20
 3 16 0.4 10 -22 -0.4 10 -22 0 10 -20
-0

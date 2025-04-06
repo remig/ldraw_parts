@@ -1,15 +1,9 @@
 0 Panel  1 x  4 x  3 with White UNICEF Logo Pattern
 0 Name: 4215ap10.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4215as01.dat
-
 3 15 -27.338 33.457 10 -27.56 33.65 10 -27.485 33.529 10
 4 15 -27.286 25.977 10 -27.63 26.272 10 -27.563 26.129 10 -27.452 26.026 10
 4 15 -27.338 33.457 10 -27.199 33.464 10 -27.58 33.797 10 -27.56 33.65 10

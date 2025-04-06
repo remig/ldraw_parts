@@ -1,18 +1,8 @@
 0 Train Coupling Type 1
 0 Name: 4023.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [sbliss] Completed header; BFC'ed; changed polygons to primitives (2003-01-29)
-0 !HISTORY 2008-07-08 [guyvivan] Fixed error 2-4cyli and edges angle and replace 2-4cyli by 2-4cyls (2004-12-20)
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 8 0 0 0 1 0 -1 0 1 0 0 connect4.dat
 1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 8 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
@@ -156,4 +146,3 @@
 4 16 -20 0 -20 -20 1 -30 -20 1 -38 -20 -4 -40
 4 16 -20 -4 -40 -20 1 -38 -20 7 -38 -20 12 -40
 4 16 -20 12 -40 -20 7 -38 -20 7 -30 -20 8 -20
-0

@@ -1,22 +1,11 @@
 0 Tile  1 x  8 with "Sydney Opera House" Pattern
 0 Name: 4162p0d.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Architecture, Set 21012, Sydney Opera House, Sydney, Australia
-0 !KEYWORDS Architect, Jorn Utzon
-
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS Architect, Architecture, Australia, Jorn Utzon, Set 21012, Sydney
+0 !KEYWORDS Sydney Opera House
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
-0 //
 4 15 -72.049 0 -2.213 -73.002 0 -2.788 -72.471 0 -3.382 -71.19 0 -2.879
 4 15 -73.342 0 -2.064 -73.002 0 -2.788 -72.049 0 -2.213 -72.401 0 -1.158
 3 15 -72.401 0 -1.158 -73.471 0 -1.158 -73.342 0 -2.064
@@ -278,7 +267,6 @@
 4 15 71.568 0 4.057 71.568 0 1.5 71.957 0 1.5 71.957 0 4.554
 3 15 71.957 0 4.554 71.416 0 4.554 71.568 0 4.057
 3 15 71.416 0 4.554 70.52 0 2.04 71.568 0 4.057
-0 //
 3 16 -70.895 0 -4.06 -71.772 0 -3.806 -80 0 -10
 3 16 -69.83 0 -4.144 -70.895 0 -4.06 -80 0 -10
 3 16 -71.772 0 -3.806 -72.471 0 -3.382 -80 0 -10

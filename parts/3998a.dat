@@ -1,14 +1,10 @@
 0 Tow Crane  2 x  4 x  3 Hook
 0 Name: 3998a.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Crane
 0 !KEYWORDS Fabuland
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3998as01.dat
 1 16 4.2 63.5 9.5 0.6 -1 0 0 0 4 -3.8 0 0 2-4ring2.dat
 1 16 4.2 63.5 9.5 1.2 -1 0 0 0 8 -7.6 0 0 2-4edge.dat

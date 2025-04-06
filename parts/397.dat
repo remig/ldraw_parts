@@ -1,15 +1,8 @@
 0 Baseplate 10 x 16
 0 Name: 397.dat
 0 Author: Peter Watts [FrozenPea]
-0 !LDRAW_ORG Part UPDATE 2004-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 1 16 150 0 90 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 130 0 90 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 110 0 90 1 0 0 0 1 0 0 0 1 stud.dat
@@ -212,4 +205,3 @@
 4 16 156 4 -100 156 0 -100 -156 0 -100 -156 4 -100
 1 16 156 0 -96 4 0 0 0 4 0 0 0 -4 1-4cyli.dat
 4 16 160 4 96 160 0 96 160 0 -96 160 4 -96
-0

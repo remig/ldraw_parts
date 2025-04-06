@@ -1,14 +1,8 @@
 0 Baseplate 32 x 32 Road 9-Stud Layby with Crosswalk Pattern
 0 Name: 425p02.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-04-08 [mikeheide] added portion of subfile
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\425s01.dat
 4 16 159 0 124 159 0 -122 171 0 -122 171 0 124
 4 16 85 0 124 85 0 -122 97 0 -122 97 0 124

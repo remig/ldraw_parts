@@ -1,19 +1,8 @@
 0 ~Technic Shock Absorber  6.5L Cylinder
 0 Name: 4255.dat
 0 Author: Jeff Boen [onyx]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-04-05 [PTadmin] Renamed from 732
-0 !HISTORY 2010-04-08 [arezey] Recalculated intersections, modeled guts, BFC:d, fixed origin, corrected technical errors
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 1 16 0 0 0 1 0 0 0 0 1 0 -1 0 connhole.dat
 1 16 0 0 -10 -1 0 0 0 0 1 0 1 0 4-4ring9.dat
 1 16 0 0 10 1 0 0 0 0 1 0 -1 0 4-4ring9.dat
@@ -125,7 +114,6 @@
 1 16 0 56 0 -2 0 0 0 -1 0 0 0 -2 4-4ring3.dat
 0 BFC INVERTNEXT
 1 16 0 58 0 -8 0 0 0 -2 0 0 0 -8 4-4cyli.dat
-0 // Bottom axle guides
 1 16 0 58 0 2 0 0 0 -1 0 0 0 2 4-4ring4.dat
 1 16 2 47.5 3.801 0 1 0 -8.5 0 0 0 0 1.801 rect.dat
 1 16 3.801 47.5 2 0 0 1.801 8.5 0 0 0 1 0 rect3.dat
@@ -169,4 +157,3 @@
 1 16 5.801 47.5 1 0 0.9808 0.199 8.5 0 0 0 1 -1 rect1.dat
 1 16 1 47.5 5.801 0 0.1952 1 8.5 0 0 0 1 -0.199 rect1.dat
 1 16 -1 47.5 -5.801 0 -3.383 -1 8.5 0 0 0 -17 0.199 rect1.dat
-0 //
