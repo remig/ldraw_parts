@@ -1,13 +1,8 @@
 0 ~Windscreen  6 x  6 x  3 Dome with Hinge with SW Gunship Pattern - Half
 0 Name: s\30083ps0s01.dat
 0 Author: Daniel Goerner [TK-949]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 0 -56 4 0 0 60 -60 0 0 0 -8 0 48\1-4cyli.dat
 1 16 0 -56 4 60 0 0 0 0 60 0 -8 0 48\1-8cyli.dat
 3 25 16.392 -64.598 -61.072 12.7 -62.4 -62.045 12.59 -61.05 -62.178
@@ -1355,7 +1350,6 @@
 4 7 3.01 -29.63 -57.535 2.1 -29.46 -57.516 2.1 -29.02 -57.299 3.03 -28.86 -57.153
 4 7 0.432 -33.368 -59.516 0.45 -33.99 -59.726 0 -33.99 -59.757 0 -33.038 -59.434
 4 7 3.03 -28.86 -57.153 1.97 -28.56 -57.082 2.57 -27.79 -56.658 2.85 -28.27 -56.875
-
 5 24 60 -56 -4 59.484 -56 -11.83 60 -116 -4 59.484 -48.17 -4
 5 24 59.484 -56 -11.83 59.484 -48.17 -4 60 -56 -4 58.86 -47.774 -12.226
 5 24 60 -56 -4 59.484 -48.17 -4 59.484 -56 -11.83 60 -56 56

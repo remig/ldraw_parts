@@ -1,13 +1,8 @@
 0 ~Figure Friends Foot with Sandal Type 3 Negative Pattern
 0 Name: s\11244p01s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 3 16 1.3015 -4.097 -1.2198 3.29 -6.62 -4.64 1.59 -6.69 -0.58
 3 16 1.59 -6.69 -0.58 1.0182 -4.3541 1.5546 1.3015 -4.097 -1.2198
 4 16 2.7432 -3.9407 -5.648 5.9981 -3.8968 -8.7145 6.2369 -7.0418 -7.1391 3.29 -6.62 -4.64

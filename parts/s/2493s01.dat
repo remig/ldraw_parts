@@ -1,13 +1,8 @@
 0 ~Window  1 x  4 x  5 without Studs
 0 Name: s\2493s01.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 116 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 4 16 40 120 10 36 120 6 -36 120 6 -40 120 10
 4 16 -40 120 10 -36 120 6 -36 120 -6 -40 120 -10
@@ -109,4 +104,3 @@
 4 16 24 116 3 16 116 3 16 116 6 24 116 6
 4 16 36 116 -6 24 116 3 27 116 6 36 116 6
 4 16 22 116 -6 22 116 -2 24 116 3 36 116 -6
-0

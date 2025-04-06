@@ -1,13 +1,8 @@
 0 ~Plate  6 x  6 Round with Hole and Snapstud -  1/8
 0 Name: s\11213s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 0 4 0 56 0 0 0 -1 0 0 0 56 48\1-16chrd.dat
 1 16 0 4 0 39.59798 0 39.59798 0 -1 0 39.59798 0 -39.59798 48\1-16chrd.dat
 1 16 52.4666 6 24.4653 -1.8094 0 0 0 0 -2 -0.8437 -1 0 rect.dat
@@ -35,7 +30,6 @@
 4 16 54.0904 4 14.4928 55.5434 4 12.2962 56 4 10 55.5184 4 7.308
 4 16 51.96 4 30 54.276 4 25.309 50.6572 4 23.6216 48.496 4 28
 4 16 47.895 4 36.092 51.96 4 30 48.496 4 28 44.6974 4 33.6824
-0 // 60
 1 16 0 8 0 60 0 0 0 1 0 0 0 60 48\1-16edge.dat
 1 16 0 4 0 60 0 0 0 4 0 0 0 60 48\1-16cyli.dat
 1 16 54.855 6 24.1355 0 -1 -0.579 2 0 0 0 0 1.1735 rect1.dat
@@ -45,13 +39,11 @@
 5 24 47.604 8 36.528 47.604 4 36.528 47.895 4 36.092 42.426 8 42.426
 1 16 45.015 6 39.477 0 -1 -2.589 2 0 0 0 0 2.949 rect1.dat
 5 24 42.426 8 42.426 42.426 4 42.426 47.604 8 36.528 36.528 8 47.604
-0 // bottom surface
 1 16 0 4 0 8 0 0 0 -1 0 0 0 8 1-8ring1.dat
 1 16 0 4 0 8 0 0 0 -1 0 0 0 8 1-8ring2.dat
 1 16 0 4 0 3 0 0 0 -1 0 0 0 3 1-8ring8.dat
 1 16 0 4 0 27 0 0 0 -1 0 0 0 27 1-8ring1.dat
 1 16 0 4 0 2 0 0 0 -1 0 0 0 2 1-8ring27.dat
-0 // top surface
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 1-8edge.dat
 0 BFC INVERTNEXT
 1 16 0 0 0 6 0 0 0 4 0 0 0 6 1-8cyli.dat

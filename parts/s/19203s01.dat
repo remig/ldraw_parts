@@ -1,13 +1,8 @@
 0 ~Figure Elves Hair Short Spiked without Ears
 0 Name: s\19203s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 0 BFC INVERTNEXT
 1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
 0 BFC INVERTNEXT
@@ -3315,7 +3310,6 @@
 2 24 15.95 15.86 0.6 16.59 14.27 2.44
 2 24 17.48 11.5 3.43 17.57 9.98 3.44
 2 24 17.57 9.98 3.44 18.03 7.77 2.75
-0 // Added lines/Condlines
 5 24 0.46 -1.11 -20.44 1.34 -1.99 -20.22 0.58 -2.34 -20.27 1.49 -0.86 -20.3
 5 24 1.34 -1.99 -20.22 0.58 -2.34 -20.27 0.46 -1.11 -20.44 1.26 -2.89 -19.67
 5 24 0.58 -2.34 -20.27 0.46 -1.11 -20.44 1.34 -1.99 -20.22 -0.72 -1.03 -20.02

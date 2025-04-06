@@ -1,11 +1,8 @@
 0 ~Canvas Hammock Oval 10 x  5 Half (Formed)
 0 Name: s\28981c01s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 3 16 62.7635 14.0601 1.129 67.0936 3.8311 3.5799 68.4704 2.5749 5.1847
 3 16 62.7635 14.0601 1.129 66.2358 4.5254 1.3621 67.0936 3.8311 3.5799
 3 16 63.276 13.6446 -0.011 66.2358 4.5254 1.3621 62.7635 14.0601 1.129

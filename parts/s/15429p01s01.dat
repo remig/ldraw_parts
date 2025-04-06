@@ -1,15 +1,8 @@
 0 ~Animal Cat Tail with Medium Blue Stripe Pattern Side
 0 Name: s\15429p01s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-12-29 [MagFors] File preparation for LDraw Parts Tracker
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 4 73 10 28.304 19.716 10 20.6 21.485 10 19.719 19.921 10 28.125 17.882
 3 73 10 20.707 24.349 10 20.835 23.07 10 23.197 24.802
 4 73 10 23.197 24.802 10 20.835 23.07 10 20.6 21.485 10 24.712 24.319
@@ -40,7 +33,6 @@
 4 73 10 -8.334 15.036 10 -9.337 11.674 10 -4.93 9.262 10 -4.53 10.702
 4 73 10 -4.275 -4.724 10 0 3.487 10 -0.827 3.599 10 -6.056 -3.163
 4 73 10 -7.55 -1.274 10 -3.181 4.572 10 -4.025 5.504 10 -8.582 0.956
-
 4 16 10 7.054 23.431 10 0.996 24.299 10 0.856 22.482 10 3.403 22.416
 4 16 10 6.172 21.804 10 8.369 20.427 10 11.209 20.635 10 7.054 23.431
 4 16 10 -4.53 10.702 10 -4.93 9.262 10 -2.343 11.112 10 -3.62 11.956

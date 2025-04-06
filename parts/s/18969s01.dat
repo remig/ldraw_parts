@@ -1,14 +1,8 @@
 0 ~Panel  4 x  4 x 13 Curved Tapered with Clip at Each End Half
 0 Name: s\18969s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-06-09 [Philo] File preparation for LDraw Parts Tracker
-
 3 16 7.893 217.337 -10.938 0 217.557 -11.364 8.199 229.91 -10
 3 16 0 205.928 -15.17 0 217.557 -11.364 7.855 205.773 -14.431
 3 16 7.855 205.773 -14.431 0 217.557 -11.364 7.893 217.337 -10.938
@@ -312,7 +306,6 @@
 5 24 4 5.425 -5.358 4 -2.036 -7.348 3.95 0.907 -14.704 4 1.131 -3.837
 2 24 4 -2.036 -7.348 3.95 0.907 -14.704
 5 24 4 -2.036 -7.348 4 1.131 -3.837 4 -1.131 -3.837 4 5.425 -5.358
-
 4 16 4 -6.3256 -4.1965 4 -2.036 -7.348 4 5.425 -5.358 4 6.3256 -4.1965
 2 24 4 233.6744 -4.1965 4 234.518 -5.3
 2 24 4 245.482 -5.263 4 246.3256 -4.1965

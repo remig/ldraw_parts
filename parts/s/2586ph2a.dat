@@ -1,17 +1,8 @@
 0 ~Minifig Shield Ovoid with Silver Snake - Silver Detail
 0 Name: s\2586ph2a.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2005-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
-0 // Silver Detail
-
 4 16 -11 -8.25 -8 -3.5 -8 -8 -3.25 -9 -8 -3.25 -11.5 -8
 3 16 -12.5 0 -8 -12.5 2 -8 -12 0 -8
 3 16 -14.25 1.25 -8 -13 0 -8 -13 -1 -8
@@ -69,4 +60,3 @@
 4 16 11 -9 -8 11.5 -7.5 -8 14.25 -9.25 -8 13.75 -10.25 -8
 3 16 14.25 -9.25 -8 15.25 -10.5 -8 13.75 -10.25 -8
 3 16 -12.5 2 -8 -12.25 2.5 -8 -12 0 -8
-0

@@ -1,13 +1,8 @@
 0 ~Boat Inflatable 12 x  6 x  1.333 Lower - Handle
 0 Name: s\30086s01.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 40 -8 43 0 0 16 16 0 0 0 14 0 1-8cyli.dat
 1 16 40 -8 57 11.3137 0 11.3137 11.3137 0 -11.3137 0 1 0 1-16edge.dat
 1 16 40 -8 43 11.3137 0 11.3137 11.3137 0 -11.3137 0 1 0 1-16edge.dat
@@ -61,4 +56,3 @@
 3 16 54.7824 -1.8768 40 60 -2 40 56 -2 40
 4 16 60 -2 60 60 -2 57 54.7824 -1.8768 57 54.7824 -1.8768 60
 4 16 60 -2 43 60 -2 40 54.7824 -1.8768 40 54.7824 -1.8768 43
-0

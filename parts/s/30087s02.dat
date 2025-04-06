@@ -1,13 +1,8 @@
 0 ~Boat Inflatable 12 x  6 x  1.333 Upper - Half
 0 Name: s\30087s02.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 10 -24 70 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 10 -24 70 6 0 0 0 1 0 0 0 6 4-4ndis.dat
 1 16 10 -20 70 4 0 0 0 1 0 0 0 4 4-4edge.dat
@@ -89,4 +84,3 @@
 1 16 40 -8 -65 16 -28.234 0 0 -8 -16 -5 -45 0 1-4cyls.dat
 1 16 11.7661 -16 -110 -8.234 36 0 0 8 -16 16 56 0 1-4cyls2.dat
 1 16 40 -8 -65 16 -20.4678 0 0 -8 -16 -5 -34 0 1-4cyls2.dat
-0

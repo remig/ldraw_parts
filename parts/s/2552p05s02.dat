@@ -1,13 +1,8 @@
 0 ~Baseplate 32 x 32 Raised with Ramp and Pit with Grey and Black Rocks Pattern - Right
 0 Name: s\2552p05s02.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 4 0 0 -29.587 89.928 0 -19.068 88.72 0 -18.208 89.23 0 -17.908 92.718
 4 0 0 -35.792 87.634 0 -21.029 85.371 0 -20.929 85.688 0 -29.587 89.928
 4 0 0 -46.924 80.815 0 -25.14 77.532 0 -22.417 78.104 0 -41.523 84.506

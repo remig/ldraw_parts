@@ -1,12 +1,8 @@
-0 ~Tile  1 x  4 with Black "CATERHAM" Pattern -Text
+0 ~Tile  1 x  4 with Black "CATERHAM" Pattern - Text
 0 Name: s\2431pt4s01.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 // Main
 4 16 -23.2 0 2.41 -28.46 0 -2.69 -26.56 0 -2.69 -25.33 0 -1.54
 4 16 -25.33 0 -1.54 -24.03 0 -.26 -22.31 0 1.46 -23.2 0 2.41
 4 16 -22.08 0 2.85 -22.7 0 2.72 -23.2 0 2.41 -22.31 0 1.46

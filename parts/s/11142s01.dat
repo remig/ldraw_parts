@@ -1,15 +1,8 @@
 0 ~Electric Mindstorms EV3 Bottom Cover Hinge and Latch
 0 Name: s\11142s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-05-20 {LEGO MINDSTORMS Team} Original part shape
-0 !HISTORY 2012-08-03 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 2 24 77 0 -66 77 0 -65
 2 24 76 0 -65 77 0 -65
 2 24 76 0 -35 77 0 -35
@@ -24,7 +17,6 @@
 1 16 80 -17 -64 3 0 0 0 0 -3 0 28 0 2-4cylo.dat
 1 16 86 0 -57 0 -3 0 0 0 10 -8 0 0 1-4cylo.dat
 1 16 86 0 -43 0 -3 0 0 0 10 8 0 0 1-4cylo.dat
-0 // Latch grip
 2 24 86 1.4 -36.217 86 1.4 -63.783
 2 24 86 2.04 -36.315 86 2.04 -63.684
 2 24 86 2.68 -36.414 86 2.68 -63.586
@@ -37,7 +29,6 @@
 2 24 86 7.16 -38.977 86 7.16 -61.023
 2 24 86 7.8 -39.722 86 7.8 -60.278
 2 24 86 8.44 -40.81 86 8.44 -59.19
-
 4 16 86 0 -65 86 10 -57 86 10 -43 86 0 -35
 4 16 86 0 -35 86 -17 -36 86 -17 -64 86 0 -65
 4 16 80 11 -66 80 0 -66 80 0 -108 80 11 -110

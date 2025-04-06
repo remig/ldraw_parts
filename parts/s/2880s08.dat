@@ -1,11 +1,8 @@
 0 ~Monorail Track Point Top Locking
 0 Name: s\2880s08.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
 4 16 0 0 -2 20 0 -2 20 11 -2 0 7 -2
 4 16 20 11 2 20 0 2 0 0 2 0 7 2
 3 16 20 11 -2 0 11 -2 0 7 -2

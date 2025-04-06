@@ -1,13 +1,8 @@
 0 ~Minifig Head Simpsons Lisa Simpson Half
 0 Name: s\15524s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 0 BFC INVERTNEXT
 1 16 0 -30 0 0 0 6 0 30 0 -6 0 0 2-4cylc.dat
 3 16 14.2286 -8.5282 5.7463 17.1227 -9.8566 4.9165 14.9805 -10.1721 2.9398

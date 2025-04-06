@@ -1,15 +1,8 @@
 0 ~Animal Bird Wing  9L with Stylized Feathers Surface
 0 Name: s\11091s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-02-04 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 -26 0 0 0 4 0 -21 0 4 0 0 2-4con0.dat
 2 24 0.0101 -20.0048 3.998 1.519 -20.4379 3.6979
 2 24 1.5216 -20.4452 3.6974 1.519 -20.4379 3.6979
@@ -348,7 +341,6 @@
 2 24 1.613 -25.766 23.5591 1.581 -26.641 23.8421
 2 24 0.929 -28.969 29.6981 0.72 -29.173 30.2871
 2 24 0.72 -29.173 30.2871 0 -29.367 30.8471
-
 5 24 0 -20 3.8671 1.522 -20.724 23.5671 0 -20 23.5681 1.519 -20.436 3.5671
 5 24 1.519 -20.436 3.5671 1.522 -20.724 23.5671 0 -20 3.8671 1.917 -21.853 23.5661
 5 24 1.519 -20.436 3.5671 1.917 -21.853 23.5661 1.522 -20.724 23.5671 2.165 -21.72 3.2301

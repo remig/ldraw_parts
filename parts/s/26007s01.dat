@@ -1,15 +1,8 @@
 0 ~Minifig Hat Conical Asian with Curved Sides  1/16
 0 Name: s\26007s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-09 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-01-16 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 3 16 0.693 -1.836 19.866 0 -1.921 20.634 0 -3.768 13.083
 3 16 0 -3.768 13.083 0.678 -3.274 13.829 0.693 -1.836 19.866
 4 16 3.051 -4.972 9.213 4.156 -3.592 11.889 0.71 -3.592 12.574 0.707 -4.972 9.679
@@ -106,7 +99,6 @@
 3 16 3.274 -9.98 6.179 2.6916 -9.743 6.4982 2.054 -9.98 6.685
 4 16 0 -9.987 5.459 2.0889 -9.987 5.043 3.274 -9.98 6.179 2.054 -9.98 6.685
 2 24 2.054 -9.98 6.685 3.274 -9.98 6.179
-
 4 16 0 7.99 29.726 11.376 7.99 27.464 11.0558 8 26.6904 0 8 28.8889
 5 24 0.724 -6.992 7.961 0 -7.152 8.259 0.719 -9.721 7.007 0 -5.148 9.98
 5 24 0.694 -0.36 23.748 0 -1.921 20.634 0 -0.618 23.887 0.708 -1.448 21.145

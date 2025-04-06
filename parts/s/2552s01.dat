@@ -1,15 +1,8 @@
 0 ~Baseplate 32 x 32 Raised with Ramp and Pit - Inside
 0 Name: s\2552s01.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
-0 // Top Surface
-
 2 24 -190 -144 -70 -30 -144 -70
 2 24 -30 -144 -70 -30 -144 -30
 2 24 -30 -144 -30 170 -144 -30
@@ -97,8 +90,6 @@
 2 24 170 -136 -30 -30 -136 -30
 2 24 -30 -136 -30 -30 -136 -70
 2 24 -30 -136 -70 -190 -136 -70
-0 //
-0 // Bottom Surface
 2 24 -290 -72 -228 -270 -144 -212
 4 16 -171 -132 -51 -195 -132 -75 -195 -132 175 -171 -132 151
 4 16 -171 -132 151 -195 -132 175 175 -132 175 151 -132 151

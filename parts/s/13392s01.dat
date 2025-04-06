@@ -1,17 +1,9 @@
 0 ~Animal Dolphin Jumping Half
 0 Name: s\13392s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-30 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-10-04 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 0 BFC INVERTNEXT
-
 1 16 0 -47.5 -75 0 0 2 0.35 -10.5 0.2 -2 0 0 2-4cylc.dat
 4 16 10.319 -47.608 -70.334 4.965 -29.865 -70.466 0 -29.725 -70.404 1.574 -54.726 -70.152
 3 16 16 -6.813 1.593 19.652 -3.349 1.608 16 0 1.526

@@ -1,11 +1,8 @@
 0 ~Minifig Cup Takeaway Lid Top
 0 Name: s\15496s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 -26 0 9.32609 0 0 0 -1 0 0 0 9.32609 4-4edge.dat
 1 16 0 -26 0 6.01041 0 6.01041 0 -1 0 -6.01041 0 6.01041 3-4edge.dat
 1 16 0 -28.3 0 5.65685 0 5.65685 0 -1 0 -5.65685 0 5.65685 3-4edge.dat

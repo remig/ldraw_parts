@@ -1,14 +1,8 @@
-0 ~Minifig Pig Mask Half without Ear and Eye Area
+0 ~Minifig Headdress Pig Half without Ear and Eye Area
 0 Name: s\17351s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-10-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-02-06 [Philo] File preparation for LDraw Parts Tracker
-
 3 16 0 1.057 17.174 0 -4.066 15.575 6.725 1.039 16.33
 3 16 0 -4.066 15.575 6.105 -4.146 14.701 6.725 1.039 16.33
 3 16 6.105 -4.146 14.701 4.589 -7.934 11.477 11.16 -4.215 11.608

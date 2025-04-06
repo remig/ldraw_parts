@@ -1,17 +1,8 @@
 0 ~Minifig Shield Ovoid with Bull Head - Half
 0 Name: s\2586p4ga.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2015-06-21 [MagFors] Made common subpart
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 0 -14.5 0 0 0 19 -19 0 0 0 1 0 1-8chrd.dat
 1 16 0 -14.5 0 13.435 0 13.435 -13.435 0 13.435 0 1 0 1-8chrd.dat
 4 16 1.75 9.75 0 2.75 9.5 0 3.25 8.75 0 2.5 7.5 0
@@ -164,7 +155,6 @@
 3 0 13.25 -3.25 0 12.5 -1 0 14 -1 0
 3 0 13.75 -15.5 0 15.5 -10.5 0 17.57168 -12.02478 0
 3 0 15.6 -20.5 0 14 -19 0 17.59862 -17.74531 0
-0 // rivets
 1 0 0 -30.75 0 0 0 0.25 0.25 0 0 0 1 0 2-4ring4.dat
 1 0 6.75 -29 0 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
 1 0 13 -24.25 0 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat

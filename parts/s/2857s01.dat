@@ -1,15 +1,9 @@
 0 ~Tyre 20/ 46 x 30 Off Road - 1/4
 0 Name: s\2857s01.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6581b.dat
-
 4 16 -25 -37.6732 4.959 -25 -38 0 -25 -49.9954 -0.674828 -25 -48.6203 11.6646
 3 16 -25 -36.7042 9.8344 -25 -37.6732 4.959 -25 -48.6203 11.6646
 4 16 -25 -35.1082 14.5426 -25 -36.7042 9.8344 -25 -48.6203 11.6646 -25 -45.2857 21.1945

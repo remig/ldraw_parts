@@ -1,13 +1,8 @@
 0 ~Car Spring  2 x  2 Wheel Holder Guide
 0 Name: s\2484s01.dat
 0 Author: William Howard [WilliamH]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 -14 0 0 0 0 -1.5 0 -10.5 0 1.5 0 0 2-4cyli.dat
 1 16 -14 0 0 0 0 -1.5 0 1 0 1.5 0 0 2-4edge.dat
 1 16 -8 -16 0 0 8 0 0 0 -1.5 1.5 0 0 1-4cyli.dat
@@ -100,5 +95,3 @@
 5 24 -9.5 -17.3859 -0.57405 -9.5 -17.0606 -1.06065 -13.412 -16.404 -0.57405 -8 -17.3859 -0.57405
 5 24 -9.5 -17.0606 -1.06065 -9.5 -16.5741 -1.38585 -13.159 -16.132 -1.06065 -8 -17.0606 -1.06065
 5 24 -9.5 -16.5741 -1.38585 -9.5 -16 -1.5 -12.782 -15.725 -1.38585 -8 -16.5741 -1.38585
-0
-

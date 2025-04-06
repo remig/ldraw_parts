@@ -1,14 +1,8 @@
 0 ~Animal Dragon Head Elves Patternable Area
 0 Name: s\24196s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-05-08 [Philo] File preparation for LDraw Parts Tracker
-
 3 16 23.152 31.374 -59.248 24.893 44.348 -54.946 27.467 27.978 -42.702
 3 16 27.467 27.978 -42.702 24.893 44.348 -54.946 32.238 43.4 -31.712
 3 16 32.747 2.035 -3.306 31.835 8.427 -19.136 34.785 10.514 -6.897

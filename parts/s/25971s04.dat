@@ -1,14 +1,8 @@
-0 ~Minifig Mask Bird Beak Half
+0 ~Minifig Headdress Bird Beak Half
 0 Name: s\25971s04.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-10-05 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-05-19 [Philo] File preparation for LDraw Parts Tracker
-
 3 16 0 -1.606 -17.566 0 2.07 -20.743 1.312 -0.712 -17.658
 3 16 0 2.07 -20.743 1.509 2.407 -19.843 1.312 -0.712 -17.658
 4 16 0 -4.254 -12.152 0 -1.606 -17.566 1.312 -0.712 -17.658 4.123 -1.541 -12.298

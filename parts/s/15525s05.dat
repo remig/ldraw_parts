@@ -1,12 +1,8 @@
 0 ~Minifig Head Simpsons Maggie Simpson Dummy
 0 Name: s\15525s05.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-
 3 16 4.0206 -3.3486 -16.0041 4.1141 -3.2467 -14.0765 4.5315 -4.3255 -14.5702
 3 16 4.5315 -4.3255 -14.5702 4.6062 -5.5918 -15.2035 4.0206 -3.3486 -16.0041
 3 16 4.2107 -4.7589 -16.7148 4.0206 -3.3486 -16.0041 4.6062 -5.5918 -15.2035

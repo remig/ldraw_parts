@@ -1,17 +1,8 @@
 0 ~Tyre 34/ 38 x 56 ZR - 1/36
 0 Name: s\2997a.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-12-20 [Philo] BFCed, increased precision
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 4 16 8.1365 -93 31 8.1365 -93 -31 -8.1365 -93 -31 -8.1365 -93 31
 4 16 7.7865 -89 36 8.1365 -93 31 -8.1365 -93 31 -7.7865 -89 36
 4 16 -7.7865 -89 -36 -8.1365 -93 -31 8.1365 -93 -31 7.7865 -89 -36

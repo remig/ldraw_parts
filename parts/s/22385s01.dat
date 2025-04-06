@@ -1,13 +1,8 @@
 0 ~Tile  3 x  2 with Angled End without Top Face
 0 Name: s\22385s01.dat
 0 Author: Owen Burgoyne [C3POwen]
-0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 4 0 0 0 1 0 -1 0 -1 0 0 stug4-1x2.dat
 0 BFC INVERTNEXT
 1 16 0 6 -8.35 0 0 16 2 0 0 0 34.35 0 box3u2p.dat
@@ -38,8 +33,6 @@
 3 16 0 7.75 -24.3435 -1 7.75 -23.35 1 7.75 -23.35
 2 24 -1 7.75 -23.35 0 7.75 -24.3435
 2 24 1 7.75 -23.35 0 7.75 -24.3435
-
-0 // Angled end
 1 16 13.707 6 -10.639 0 0 -2.2929 2 0 0 0 -1 -2.28945 rect3.dat
 1 16 -13.707 6 -10.639 0 0 2.2929 -2 0 0 0 -1 -2.28945 rect3.dat
 4 16 19 8 -9.6 13.5355 8 -15.0503 11.4142 8 -12.9289 16 8 -8.35

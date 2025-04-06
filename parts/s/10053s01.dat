@@ -1,15 +1,8 @@
 0 ~Minifig Sword Small with Curved Blade - Half
 0 Name: s\10053s01.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-01-17 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-01-17 [Wesley] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 3 16 0.67 -66.87 0 0.41 -68.37 1.44 0.4 -68.92 0
 3 16 0.4 -66.81 2.34 0.41 -68.37 1.44 0.67 -66.87 0
 3 16 0.67 -66.87 0 0.4 -64.27 3.16 0.4 -66.81 2.34
@@ -164,7 +157,6 @@
 2 24 -3.6956 -20.959 1.5308 -3.03451 -20.59 2.52
 2 24 -3.03451 -20.59 2.52 -2.8284 -20.5671 2.8284
 2 24 -4 -21.53 0 -3.6956 -20.959 1.5308
-0 // Added lines/Condlines
 5 24 0.67 -66.87 0 0.41 -68.37 1.44 0.4 -68.92 0 0.4 -66.81 2.34
 5 24 0.67 -66.87 0 0.4 -66.81 2.34 0.41 -68.37 1.44 0.4 -64.27 3.16
 5 24 0.67 -66.87 0 0.4 -64.27 3.16 0.4 -66.81 2.34 1.12 -62.67 0

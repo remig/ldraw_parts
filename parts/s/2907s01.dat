@@ -1,11 +1,8 @@
 0 ~Technic Ball with Grooves  0.125
 0 Name: s\2907s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 -3.0616 12 -7.3912 -1.5974 11.47 -8.9162 -1.5974 -11.47 -8.9162 -3.0616 -12 -7.3912
 4 16 -1.5974 11.47 -8.9162 -1.5463 10.18 -11.1149 -1.5463 -10.18 -11.1149 -1.5974 -11.47 -8.9162
 4 16 -1.5463 10.18 -11.1149 -2.6267 5.74 -13.7432 -2.6267 -5.74 -13.7432 -1.5463 -10.18 -11.1149

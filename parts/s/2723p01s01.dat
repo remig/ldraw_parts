@@ -1,17 +1,11 @@
 0 ~Technic Disc  3 x  3 Metallic Silver Disc Brake Pattern Segment
 0 Name: s\2723p01s01.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 // Black
 1 0 0 3 18 .707107 0 .707107 0 1 0 -.707107 0 .707107 4-4disc.dat
 1 0 3.536 3 21.536 .707107 0 .707107 0 1 0 -.707107 0 .707107 4-4disc.dat
 1 0 7.071 3 25.071 .707107 0 .707107 0 1 0 -.707107 0 .707107 4-4disc.dat
-
-0 // Metallic Silver
 1 80 0 3 18 .707107 0 .707107 0 1 0 -.707107 0 .707107 4-4ndis.dat
 1 80 3.536 3 21.536 .707107 0 .707107 0 1 0 -.707107 0 .707107 4-4ndis.dat
 1 80 7.071 3 25.071 .707107 0 .707107 0 1 0 -.707107 0 .707107 4-4ndis.dat

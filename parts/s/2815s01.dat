@@ -1,14 +1,8 @@
 0 ~Technic Wedge Belt Wheel Tyre Segment
 0 Name: s\2815s01.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-01-22 [Philo] Increased precision for better smoothing
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 2 24 7.76457 -28.97778 -2 0 -30 -2
 2 24 7.76457 -28.97778 2 0 -30 2
 4 16 7.76457 -28.97778 -4 0 -30 -4 0 -30 -2 7.76457 -28.97778 -2
@@ -43,4 +37,3 @@
 4 16 9.532304 -35.57505 2.83 0 -36.83 2.83 0 -38 0 9.835122 -36.70519 0
 4 16 9.835122 -36.70519 0 0 -38 0 0 -36.83 -2.83 9.532304 -35.57505 -2.83
 4 16 9.532304 -35.57505 -2.83 0 -36.83 -2.83 0 -34 -4 8.799846 -32.84148 -4
-

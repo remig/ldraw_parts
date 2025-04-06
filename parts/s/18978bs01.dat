@@ -1,13 +1,8 @@
 0 ~Wheel Rim 11 x 18 Front with 10 Angled Spokes - Half
 0 Name: s\18978bs01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 8.55 -3.5 0 0 0 1.35 0 1 -0.5 -1.5 0 0 rect3.dat
 4 16 9.9 -4 -1.5 18.4517 -4 -1.5003 18.75 -4 0 9.9 -4 1.5
 3 16 9.9 -4 1.5 18.75 -4 0 18.4517 -4 1.5003
@@ -125,7 +120,6 @@
 3 16 -6.0275 -2 14.5514 -4.4859 -2 8.9519 -6.2395 -2 14.4098
 1 16 -6.9171 -1.5 5.0255 -1.09215 0 0.8817 -0.5 -1 0 0.7935 0 1.21355 rect1.dat
 4 16 -8.8909 -2 4.6055 -13.3452 -2 7.8324 -11.6687 -2 10.341 -7.1276 -2 7.0326
-0 // Base edges
 2 24 -0.9601 -1.1939 7.8091 -3.0616 -1.2872 7.3912
 2 24 -0.9601 -3 7.8091 -0.9601 -1.1939 7.8091
 2 24 -5.4366 -3 5.804 -5.4366 -1.2258 5.804

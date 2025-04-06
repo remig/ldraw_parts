@@ -1,14 +1,8 @@
 0 ~Minifig Hat Wizard without Brim Front
 0 Name: s\17349s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-10-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-05-16 [Philo] File preparation for LDraw Parts Tracker
-
 3 16 0 -7.891 -7.813 0 2.784 -15.167 6.22 3.42 -14.057
 3 16 6.22 3.42 -14.057 6.094 -7.063 -6.514 0 -7.891 -7.813
 3 16 6.094 -7.063 -6.514 6.22 3.42 -14.057 11.536 5.481 -10.781

@@ -1,15 +1,8 @@
 0 ~Minifig Cap with Short Arched Peak with Seams and Top Pin Hole Half
 0 Name: s\11303s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-09-23 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 4 16 0.969 -6.756 1.678 0 -6.756 1.938 0 -6.756 6 2.2962 -6.756 5.5434
 4 16 1.678 -6.756 0.969 0.969 -6.756 1.678 2.2962 -6.756 5.5434 4.2426 -6.756 4.2426
 4 16 1.678 -6.756 0.969 4.2426 -6.756 4.2426 5.5434 -6.756 2.2962 6 -6.756 0
@@ -410,7 +403,6 @@
 2 24 1.678 -6.756 0.969 1.938 -6.756 0
 2 24 0.969 -6.756 -1.678 0 -6.756 -1.938
 2 24 4.856 7.59 15.227 10.159 7.838 12.536
-0 // Added lines/Condlines
 5 24 4.538 -4.219 8.385 0 -5.4 8 0 -4.219 9.534 3.0616 -5.4 7.3912
 5 24 0 -4.219 9.534 4.538 -4.219 8.385 0 -5.4 8 0 -1.269 11.711
 5 24 4.538 -4.219 8.385 3.0616 -5.4 7.3912 0 -5.4 8 5.6568 -5.4 5.6568

@@ -1,17 +1,8 @@
 0 ~Panel 10 x  6 x 11 without Front
 0 Name: s\2408s01.dat
 0 Author: Miklos Hosszu [hmick]
-0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [nielsk] BFC'd and used more primitives (2006-01-04)
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 1 16 40 260 -160 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 20 260 -160 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 0 260 -160 1 0 0 0 -1 0 0 0 1 stud3.dat
@@ -77,4 +68,3 @@
 4 16 60 51 -107 60 8 -35.33 -60 8 -35.33 -60 51 -107
 1 16 30 0 0 1 0 0 0 1 0 0 0 1 stug3.dat
 1 16 -30 0 0 1 0 0 0 1 0 0 0 1 stug3.dat
-0

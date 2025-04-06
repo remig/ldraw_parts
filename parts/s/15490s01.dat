@@ -1,14 +1,8 @@
 0 ~Minifig Armour Shoulder Pads with  4 Spikes Half
 0 Name: s\15490s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-03-05 [Philo] File preparation for LDraw Parts Tracker
-
 3 16 18.682 -0.374 -12.484 15.806 -0.627 -12.774 16.485 4.414 -14.882
 3 16 15.806 -0.627 -12.774 14.207 3.94 -14.734 16.485 4.414 -14.882
 3 16 11.234 10.71 12.376 10.859 10.078 13.22 13.465 10.356 14.275

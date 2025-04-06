@@ -1,13 +1,8 @@
 0 ~Hose Reel  2 x  2 (Teeth Segment)
 0 Name: s\2585s01.dat
 0 Author: William Howard [WilliamH]
-0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 4 16 -3 0 13 -3 2.536 12.75 -3 1.501 11.402 -3 0 11.5
 3 16 -3 2.536 12.75 -3 2.976 11.108 -3 1.501 11.402
 4 16 -3 2.536 12.75 -3 4.975 12.01 -3 4.401 10.625 -3 2.976 11.108
@@ -36,4 +31,3 @@
 2 24 0 4.064 13.397 0 4.975 12.01
 2 24 -3 2.536 12.75 -3 0 13
 2 24 -3 4.975 12.01 -3 2.536 12.75
-0

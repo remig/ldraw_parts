@@ -1,17 +1,8 @@
 0 ~Brick  1 x  2 x  5 with Han Solo Carbon - Silver
 0 Name: s\2454ps5a.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Subpart UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [nielsk] BFC'd and name in header fixed (2006-01-09)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
 3 16 1 -49.75 -10 1 -44.5 -10 -0.25 -44.75 -10
 3 16 -0.25 -44.75 -10 -1.75 -44.75 -10 1 -49.75 -10
 3 16 1 -49.75 -10 -1.75 -44.75 -10 -1.75 -49.5 -10
@@ -79,4 +70,3 @@
 3 16 -3.25 13.5 -10 -2.25 13.5 -10 -2.25 22 -10
 4 16 1.75 44.25 -10 3.5 44.25 -10 3.5 51.25 -10 1.75 51.25 -10
 4 16 -3.25 51.25 -10 -3.5 44.25 -10 -1.5 44.25 -10 -1.5 51.25 -10
-0

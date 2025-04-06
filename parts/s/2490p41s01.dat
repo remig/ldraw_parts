@@ -1,13 +1,8 @@
 0 ~Animal Horse Barding with Outer Dragons Pattern
 0 Name: s\2490p41s01.dat
 0 Author: Alexandre Bourdais [x-or]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 4 16 -2.555 -6.756 -2.843 -5.74 -12.64 -4.64 -6.21 -8.58 -10.51 -2.315 -5.868 -3.211
 3 16 -0.982 -8.561 9.205 -1.149 -9.604 9.41 -1.25 -9.72 8.13
 4 16 -0.917 -9.336 12.362 -1.089 -9.534 10.178 -0.794 -7.8 10.1 -0.882 -9 12
@@ -670,4 +665,3 @@
 4 16 0 40.1 54 0 40.1 47.8 0 45.5 49.1 0 44.5 51.2
 3 16 0 40.1 54 0 44.5 51.2 0 43.9 53.1
 4 16 0 43.714 55.15 0 40.1 55.173 0 40.1 54 0 43.9 53.1
-0

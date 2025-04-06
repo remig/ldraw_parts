@@ -1,14 +1,8 @@
 0 ~Ladder  2.6 x 16 Handrail Support
 0 Name: s\11299s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-02-04 [Philo] File preparation for LDraw Parts Tracker
-
 2 24 0.659 -33.061 33 0 -33.061 33
 2 24 0 -33.061 30 0.659 -33.061 30
 2 24 28.388 -12.5 30 3.075 -32.048 30

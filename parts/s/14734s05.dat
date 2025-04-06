@@ -1,15 +1,8 @@
 0 ~Lion / Tiger Cub Paw
 0 Name: s\14734s05.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2017-03-14 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 3 16 5.963 -5.056 -34.601 7.823 -6.683 -34.643 5.652 -7.072 -33.724
 3 16 10.02 -8.67 -31.171 10.203 -8.07 -32.627 10.85 -8.14 -31.018
 3 16 8.52 -2.81 -35.89 7.07 -1.97 -35.393 8.65 -1.93 -35.967
@@ -74,7 +67,6 @@
 3 16 3 -3.76 -33.208 4.81 -3.47 -34.42 3.12 -4.62 -33.073
 4 16 3.12 -4.62 -33.073 4.81 -3.47 -34.42 5.963 -5.056 -34.601 3.58 -5.94 -32.914
 3 16 4.16 -6.9 -32.775 3.58 -5.94 -32.914 5.652 -7.072 -33.724
-0 // Added lines/Condlines
 5 24 5.963 -5.056 -34.601 7.823 -6.683 -34.643 5.652 -7.072 -33.724 8.9 -3.76 -35.983
 5 24 7.823 -6.683 -34.643 5.652 -7.072 -33.724 5.963 -5.056 -34.601 7.32 -8.72 -32.287
 5 24 5.652 -7.072 -33.724 5.963 -5.056 -34.601 7.823 -6.683 -34.643 3.58 -5.94 -32.914

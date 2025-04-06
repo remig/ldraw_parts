@@ -1,13 +1,8 @@
 0 ~Baseplate 32 x 32 Raised with Ramp and Pit with White and Light Grey Craters Pattern - Back
 0 Name: s\2552p02s01.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 4 15 -235.179 -26.306 0 -237.145 -20.636 0 -239.278 -23.676 0 -235.38 -28.245 0
 4 15 -235.38 -28.245 0 -239.278 -23.676 0 -240.217 -26.974 0 -234.579 -29.988 0
 4 15 -233.866 -24.187 0 -234.286 -18.382 0 -237.145 -20.636 0 -235.179 -26.306 0
@@ -2018,4 +2013,3 @@
 3 16 247.34 -2.551 0 290 0 0 246.551 -2.484 0
 4 16 276.1 -14.506 0 282.211 -13.479 0 290 0 0 268.724 -12.295 0
 3 16 218.657 0 0 243.654 -1.881 0 290 0 0
-0

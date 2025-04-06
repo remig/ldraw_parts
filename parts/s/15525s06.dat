@@ -1,11 +1,8 @@
 0 ~Minifig Head Simpsons Maggie Simpson Bow Area
 0 Name: s\15525s06.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 3 16 0 -25.108 -11.4496 1.7992 -25.7792 -11.2923 0 -27.1604 -11.4292
 3 16 1.9803 -27.4265 -11.3971 0 -27.1604 -11.4292 1.7992 -25.7792 -11.2923
 3 16 1.9803 -27.4265 -11.3971 1.7992 -25.7792 -11.2923 3.4403 -26.1657 -11.2254

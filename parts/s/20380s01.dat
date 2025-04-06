@@ -1,13 +1,8 @@
 0 ~Figure Friends Asymmetric Layered Skirt Short
 0 Name: s\20380s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 3 16 -5.9509 -53.1807 8.6734 -4 -53.0689 8.6689 -4 -50.3764 10.4684
 3 16 -4 -53.0689 8.6689 -5.9509 -53.1807 8.6734 -7.03 -54.6556 6.7557
 3 16 -7.6535 -50.4122 9.6771 -6.562 -51.655 9.974 -6.2163 -49.0881 10.4899

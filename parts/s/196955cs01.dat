@@ -1,15 +1,8 @@
 0 ~Sticker with Crossed Knife and Fork Pattern
 0 Name: s\196955cs01.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-
-
-
-0 // Main
 1 16 -6.9 0 2.8 0 0 -3.75 0 1 0 -3.75 0 0 48\1-8chrd.dat
 1 16 -6.9 0 2.8 0 0 -4 0 1 0 -4 0 0 48\1-6ndis.dat
 1 16 1.008 0 6.1 -.252 0 0 0 1 0 0 0 -.4 2-4chrd.dat
@@ -72,8 +65,6 @@
 4 16 -9.7 0 .95 -9.87525 0 .517 -9.551625 0 .148375 -6.9 0 -.95
 3 16 -10.364 0 .8 -10.55 0 1.2 -10.9 0 -1.2
 3 16 -1.764 0 9.6 -1.764 0 10 -10.55 0 1.2
-
-0 // Black
 1 0 1.05 0 2.84 -.42 0 0 0 1 0 0 0 .4 48\5-24ndis.dat
 1 0 -1.05 0 2.84 .42 0 0 0 1 0 0 0 .4 48\5-24ndis.dat
 1 0 9 0 0 0 0 .75 0 1 0 -1.2 0 0 2-4chrd.dat

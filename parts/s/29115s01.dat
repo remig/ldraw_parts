@@ -1,15 +1,8 @@
 0 ~Wedge  6 x  6 Triple Inverted Half
 0 Name: s\29115s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-03-07 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 20 18.75 20 0 0 1 0 -1.3125 0 -1 0 0 stug4-1x3.dat
 1 16 20 18.75 -20 0 0 1 0 -1.3125 0 -1 0 0 stud4od.dat
 1 16 20 18.75 -40 0.38268 0 -0.92388 0 -1.3125 0 0.92388 0 0.38268 2-4stud4.dat
@@ -217,7 +210,6 @@
 2 24 24 0 -50 24.1989 0 -51
 1 16 22.95 8 -54.125 0 -1 0 -8 0 0 0 0 -3.125 rect2a.dat
 1 16 22.95 8 -45.975 0 -1 0 0 0 -8 3.025 0 0 rect2a.dat
-
 1 16 30 11.2715 -50 3.5 0 0 -3.61075 1 1.22841 0 0 3.5 4-4edge.dat
 1 16 30 11.2715 -50 -5.54328 0 2.2961 4.91281 1 -4.31431 -2.2961 0 -5.54328 3-4edge.dat
 1 16 30 16 -50 -2.2961 0 -5.54328 0 1 0 5.54328 0 -2.2961 1-4edge.dat

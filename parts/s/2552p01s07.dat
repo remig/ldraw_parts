@@ -1,13 +1,8 @@
 0 ~Baseplate 32 x 32 Raised with Ramp and Pit with Ice Pattern - Ramp
 0 Name: s\2552p01s07.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 4 1 285.3 0 -176 287.1 0 -178.7 290 0 -176.8 290 0 -172.5
 4 1 285.3 0 -176 278.3 0 -182.9 279.6 0 -186.1 287.1 0 -178.7
 4 1 268.3 0 -177.4 279.6 0 -186.1 278.3 0 -182.9 269.1 0 -175.4

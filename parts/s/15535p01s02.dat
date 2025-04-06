@@ -1,11 +1,8 @@
 0 ~Tile  2 x  2 Round with Hole with Disc with Ring Pattern - Colour Ring Half
 0 Name: s\15535p01s02.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 17.01768 0 -4.559874 16.5183 0 -4.426064 15.79926 0 -6.544269 16.27691 0 -6.742117
 4 16 16.27691 0 -6.742117 15.79926 0 -6.544269 14.8099 0 -8.5505 15.25764 0 -8.809
 4 16 17.46728 0 -2.29961 16.9547 0 -2.232128 16.5183 0 -4.426064 17.01768 0 -4.559874

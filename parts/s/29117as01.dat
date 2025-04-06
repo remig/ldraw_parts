@@ -1,11 +1,8 @@
 0 ~Wheel Rim 11 x 18 Front with  5 Wide Spokes
 0 Name: s\29117as01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 2 24 3.3637 18.0482 -3.9 3.756 17.9702 -1.6
 2 24 3.3637 18.0482 -3.9 5.2709 9.3599 -3.9
 4 16 5.2709 9.3599 -3.9 3.3637 18.0482 -3.9 3.756 17.9702 -1.6 5.556 9.7702 -1.6

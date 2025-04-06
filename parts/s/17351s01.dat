@@ -1,21 +1,13 @@
-0 ~Minifig Pig Mask without Eye Areas
+0 ~Minifig Headdress Pig without Eye Areas
 0 Name: s\17351s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-10-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-02-06 [Philo] File preparation for LDraw Parts Tracker
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\17351s02.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\17351s02.dat
 1 16 0 -5 0 -1 0 0 0 -1.25 0 0 0 1 stud4.dat
 1 16 0 -5 0 11.2 0 0 0 -1 0 0 0 11.2 4-4disc.dat
 1 16 0 -5 0 11.2 0 0 0 -1 0 0 0 11.2 4-4edge.dat
-
-0 // ears
 3 16 13.363 -6.667 -0.955 14.628 -8.831 0.716 10.752 -8.812 -0.811
 3 16 14.628 -8.831 0.716 12.06 -10.478 0.676 10.752 -8.812 -0.811
 3 16 15.202 -13.102 3.124 12.06 -10.478 0.676 16.683 -10.636 2.137

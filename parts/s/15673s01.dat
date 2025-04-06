@@ -1,15 +1,8 @@
 0 ~Figure Friends Hair with Top Knot Bun Hair Band
 0 Name: s\15673s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-09-04 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 3 16 -3.87 -6.298 -6.078 -3.954 -6.82 -5.732 -5.852 -5.477 -5.909
 3 16 -3.954 -6.82 -5.732 -8.222 -5.63 -5.068 -5.852 -5.477 -5.909
 3 16 -8.222 -5.63 -5.068 -8.486 -4.909 -5.528 -5.852 -5.477 -5.909
@@ -94,8 +87,6 @@
 3 16 15.348 -0.32 0.279 13.391 -3.288 -0.366 15.594 1.165 -1.995
 3 16 -15.353 1.927 -1.487 -13.671 -1.886 -3.427 -15.374 0.697 0.512
 3 16 -13.805 -2.738 -0.299 -15.374 0.697 0.512 -13.671 -1.886 -3.427
-
-0 // Added lines/Condlines
 5 24 -3.87 -6.298 -6.078 -3.954 -6.82 -5.732 -5.852 -5.477 -5.909 0.65 -6.752 -6.226
 5 24 -3.954 -6.82 -5.732 -5.852 -5.477 -5.909 -3.87 -6.298 -6.078 -8.222 -5.63 -5.068
 5 24 -3.954 -6.82 -5.732 -8.222 -5.63 -5.068 -5.852 -5.477 -5.909 -4.037 -8.27 -1.541

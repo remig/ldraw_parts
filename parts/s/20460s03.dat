@@ -1,12 +1,8 @@
-0 ~Minifig Leg Left with Boots Lower without Front and Side
+0 ~Minifig Leg Left Dual Mould Lower Half without Front and Side (Obsolete)
 0 Name: s\20460s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-4 16 1.5 20 -4 1.5 20 -10 19.23 20 -10 19.23 20 -4
 1 16 10 18 6 0 0 6 6 0 0 0 1 0 4-4ndis.dat
 1 16 10 18 6 0 0 6 6 0 0 0 1 0 4-4edge.dat
 1 16 10.365 20 -7 8.865 0 0 0 1 0 0 0 3 recte4.dat
@@ -75,6 +71,7 @@
 2 24 4 18 9.5536 4.4566 20.2962 9.6561
 2 24 15.5434 20.2962 9.6561 16 18 9.5536
 4 16 10 12 6 7.7038 12.4566 6 7.7038 12.4566 9.3061 10 12 9.2857
+5 24 10 12 6 10 12 9.2857 7.7038 12.4566 6 12.2962 12.4566 6
 4 16 10 12 9.2857 12.2962 12.4566 9.3061 12.2962 12.4566 6 10 12 6
 4 16 10 9.9594 9.1946 12.9306 10.5713 9.2219 12.2962 12.4566 9.3061 10 12 9.2857
 4 16 7.0694 10.5713 9.2219 10 9.9594 9.1946 10 12 9.2857 7.7038 12.4566 9.3061

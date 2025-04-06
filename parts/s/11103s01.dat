@@ -1,14 +1,8 @@
 0 ~Minifig Sword Double Blade with Bar Holder Half
 0 Name: s\11103s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-05-17 [Philo] File preparation for LDraw Parts Tracker
-
 4 16 3.375 -18.055 0 3.375 -16.069 5.244 3.542 -17.159 5.128 4.125 -22.748 0
 3 16 1.794 -16.109 6.604 2.5 -25.041 6.651 2.81 -15.922 5.77
 3 16 2.81 -15.922 5.77 2.5 -25.041 6.651 3.518 -24.588 5.41
@@ -693,7 +687,6 @@
 2 24 1.862 -10.5434 3.4743 1.5308 -10.5971 3.6956
 2 24 -2.8284 -10.8173 2.8284 -2.1648 -10.5576 3.2719
 2 24 -2.8284 -10.8173 2.8284 -2.8634 -10.8481 2.776
-
 5 24 3.518 -24.588 5.41 4.125 -23.39 0 4.125 -22.748 0 3.493 -28.641 4.778
 5 24 2.5 -24.108 8.41 1.75 -30.733 15.765 2.5 -28.513 7.895 1.75 -25.09 14.534
 5 24 2.5 -28.513 7.895 2.5 -25.041 6.651 2.265 -28.547 5.704 2.5 -24.108 8.41

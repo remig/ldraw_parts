@@ -1,15 +1,8 @@
 0 ~Boat Kayak  2 x 15 Half
 0 Name: s\29110s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-02-08 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 4 16 7.574 -24 -144.198 4.373 -24 -147.4 4.373 -23.675 -147.4 7.574 -22.82 -144.198
 4 16 8.746 -24 -139.825 7.574 -24 -144.198 7.574 -22.82 -144.198 8.746 -22.427 -139.825
 4 16 7.574 -24 -135.452 8.746 -24 -139.825 8.746 -22.427 -139.825 7.574 -22.799 -135.452
@@ -568,7 +561,6 @@
 2 24 7.666 -15.724 -49.08 0 -18.714 -50.655
 2 24 15.362 2.75 68.243 14.524 2.75 71.563
 2 24 7.647 2.736 68.225 8 2.743 70
-
 4 16 16 8 26 20 8 30 20 8 -30 16 8 -26
 4 16 21.975 3 34.767 24.185 3 10.787 24.185 3 -10.787 22.59 3 -29.919
 4 16 21.975 3 34.767 22.59 3 -29.919 20.976 3 -40.769 21.406 3 38.574

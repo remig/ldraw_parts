@@ -1,11 +1,8 @@
 0 ~Minifig Slingshot Y-Bar
 0 Name: s\20546s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 10 0 4 0 0 0 -1 0 0 0 4 4-4edge.dat
 1 16 0 10 0 4 0 0 0 -1 0 0 0 4 4-4disc.dat
 1 16 0 10 0 4 0 0 0 -20 0 0 0 4 4-4cyli.dat

@@ -1,13 +1,8 @@
 0 ~Wheel Minifig Wheelchair with Integral Tyre Rim
 0 Name: s\24314s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 0 5.5 1 0 0 0 0 1 0 11 0 wpinhole.dat
 1 16 0 0 -5.5 1.5 0 0 0 0 1.5 0 1 0 4-4ring4.dat
 1 16 0 0 -5.5 7.5 0 0 0 0 7.5 0 1 0 48\4-4aring.dat
@@ -206,7 +201,6 @@
 2 24 9.4255 15.2814 -1.8 10.9455 14.2651 -1.8
 2 24 4.1849 6.2044 -1.8 4.5654 5.95 -1.8
 1 16 0 0 -1.8 2.87013 0 -6.9291 6.9291 0 2.87013 0 1 0 48\1-24edge.dat
-
 1 16 0 0 5.5 1.5 0 0 0 0 1.5 0 -1 0 4-4ring4.dat
 1 16 0 0 5.5 7.5 0 0 0 0 7.5 0 -1 0 48\4-4aring.dat
 1 16 0 0 5.5 7.5 0 0 0 0 7.5 0 -1 0 48\4-4edge.dat

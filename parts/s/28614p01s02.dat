@@ -1,13 +1,8 @@
 0 ~Figure Elves Goblin Body Front with Utility Belt Pouch and Candy Bar Pattern
 0 Name: s\28614p01s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\28614p01s03.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\28614p01s03.dat
 5 24 11.2 -24.3 -6.9 11.5 -20.5 -7.1 14.3 -24.6 -4.9 9.4 -21.3 -8.2

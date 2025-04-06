@@ -1,13 +1,8 @@
 0 ~Animal Shark Head - Half
 0 Name: s\2548s01.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 4 16 18.75 -1.64 3.18 18.75 9.75 3.34 18.75 13.46 0.97 18.75 -4.95 0.87
 4 16 18.75 9.75 3.34 18.75 -1.64 3.18 18.75 2.31 4 18.75 6.5 4
 4 16 23.37 -4.49 -7.94 23.37 -4.22 -16.72 23.37 16.5 -16.72 23.37 16.37 -4.89
@@ -589,4 +584,3 @@
 5 24 0.98 -7.68 -52.1 0 -5.32 -53.27 1.08 -5.32 -53.02 0 -7.8 -52.25
 5 24 17.7 16.5 -29.54 17.16 13.06 -32.64 16.7 15.5 -31.2 20.89 16.5 -26.48
 5 24 20.89 16.5 -26.48 17.16 13.06 -32.64 21.29 15.82 -26.24 17.7 16.5 -29.54
-0

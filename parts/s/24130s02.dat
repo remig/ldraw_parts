@@ -1,14 +1,8 @@
 0 ~Hemisphere  4 x  4 x  1.667 Bottom Faceted Half Inside
 0 Name: s\24130s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2017-08-01 [Philo] File preparation for LDraw Parts Tracker
-
 3 16 -2.464 -15.786 28.034 -4.062 -13.0419 25.671 -3.782 -8.06 26.28
 3 16 -3.782 -8.06 26.28 -2.351 -9.499 27.811 -2.464 -15.786 28.034
 4 16 33.942 -40.119 9.095 30.216 -40.119 18.529 27.448 -23.467 18.385 34.075 -33.617 6.225

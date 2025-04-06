@@ -1,14 +1,8 @@
-0 ~Tyre 10/ 32 x 14
+0 ~Tyre 10/ 32 x 14 Segment
 0 Name: s\11209s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-01-22 [Philo] File preparation for LDraw Parts Tracker
-
 4 16 3.4265 26.0249 4.498 6.7941 25.3559 4.498 6.7941 25.3559 0.75 3.4265 26.0249 0.75
 4 16 3.4265 26.0249 0.75 6.7941 25.3559 0.75 6.7282 25.1099 0.569 3.3943 25.781 0.574
 4 16 3.359 25.5181 5.497 6.6615 24.8611 5.497 6.6615 24.8611 4.998 3.359 25.5181 4.998

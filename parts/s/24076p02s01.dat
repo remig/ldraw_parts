@@ -1,14 +1,8 @@
 0 ~Minifig Headdress Shark with Tail and Fin with Red Eye
 0 Name: s\24076p02s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-05-20 [Philo] File preparation for LDraw Parts Tracker
-
 4 15 14.8379 -3.34 -9.46 14.644 -3.3535 -10.1095 15.1247 -1.554 -9.508 15.1952 -1.78 -9.14
 4 15 14.8379 -3.34 -9.46 15.1952 -1.78 -9.14 15.1708 -2.31 -8.92 15.0074 -3.07 -9.04
 3 15 15.1152 -2.71 -8.88 15.0074 -3.07 -9.04 15.1708 -2.31 -8.92

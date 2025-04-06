@@ -1,11 +1,8 @@
 0 ~Tap  1 x  2 with Two Valves with Short Handle - Handle Quarter
 0 Name: s\28920s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 2 24 5.1737 0 -2.143 5.2018 0 -2
 1 16 8 0 0 0 0 2 0 -1 0 2 0 0 2-4edge.dat
 3 16 8 0 -2 5.2018 0 -2 5.6 0 0

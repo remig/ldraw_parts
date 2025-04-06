@@ -1,18 +1,14 @@
 0 ~Monorail Track Curve Rack - 1.8 Degree Segment
 0 Name: s\2880s07.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Center for Rotation: 0 0 -240 about 1.8 degrees
-
 0 BFC CERTIFY CW
-
 4 16 3.449 -7 -4.525 3.449 0 -4.525 1.949 0 -7.525 1.949 -7 -7.525
 4 16 1.949 -7 -7.525 1.949 0 -7.525 1.449 0 -7.525 1.449 -7 -7.525
 4 16 3.59 -7 4.474 2.138 -7 7.497 2.138 0 7.497 3.59 0 4.474
 4 16 2.138 -7 7.497 1.638 -7 7.505 1.638 0 7.505 2.138 0 7.497
-4 16 7.147 -7 -4.608 7.147 0 -4.608 5.601 0 -7.585 5.601 -7 -7.585
+4 16 7.146 -7 -4.61 7.146 0 -4.61 5.601 0 -7.585 5.601 -7 -7.585
 4 16 5.601 -7 -7.585 5.601 0 -7.585 5.1 0 -7.577 5.1 -7 -7.577
 4 16 7.43 -7 4.387 6.025 -7 7.433 6.025 0 7.433 7.43 0 4.387
 4 16 6.025 -7 7.433 5.525 -7 7.449 5.525 0 7.449 6.025 0 7.433

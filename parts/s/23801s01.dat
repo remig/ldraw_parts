@@ -1,11 +1,8 @@
 0 ~Technic Steering Wheel Bearing with 2 Pegholes & 2 Axleholes Arms Half
 0 Name: s\23801s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 BFC INVERTNEXT
 1 16 0 0 -30 9.89949 0 9.89949 -9.89949 0 9.89949 0 8 0 1-4cylo.dat
 1 16 0 0 -30 1.9799 0 1.9799 -1.9799 0 1.9799 0 1 0 1-4ring5.dat

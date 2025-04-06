@@ -1,13 +1,8 @@
 0 ~Figure Elves Hair Long Wavy with Ears Hair Tips
 0 Name: s\19204s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 3 16 -12.664 30.825 23.304 -11.74 29.947 24.156 -11.363 30.875 23.816
 3 16 -12.664 30.825 23.304 -12.491 29.622 23.778 -11.74 29.947 24.156
 3 16 -13.897 30.098 21.885 -12.491 29.622 23.778 -13.489 31.071 22.3

@@ -1,14 +1,8 @@
 0 ~Rock Gem Facetted Heart Shaped Half
 0 Name: s\15745s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2017-02-28 [Philo] File preparation for LDraw Parts Tracker
-
 3 16 0 -29.75 -0.75 0 -27.734 -4 4.148 -32.002 -0.75
 3 16 0 -29.75 0.75 4.148 -32.002 0.75 0 -27.734 4
 3 16 0 -27.734 4 4.148 -32.002 0.75 7.308 -29.421 4

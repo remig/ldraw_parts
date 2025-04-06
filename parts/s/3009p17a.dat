@@ -1,13 +1,8 @@
 0 ~Black "POLICE" and Red Line Pattern
 0 Name: s\3009p17a.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 4 4 -31 20.5 -10 0 20.5 -10 0 18 -10 -31 18 -10
 4 4 28 20.5 -10 28 18 -10 0 18 -10 0 20.5 -10
 4 0 31.25 5.5 -10 32 2 -10 24 2 -10 26.75 5.5 -10
@@ -152,4 +147,3 @@
 3 16 29.75 13.5 -10 29 17 -10 32 20.5 -10
 3 16 32 20.5 -10 29 17 -10 28 18 -10
 3 16 28 18 -10 28 20.5 -10 32 20.5 -10
-0

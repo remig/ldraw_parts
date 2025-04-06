@@ -1,13 +1,8 @@
 0 ~Figure Friends Cape Cloth Neck Area Formed
 0 Name: s\21490c01s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 3 16 8.017 -15.586 10.54 1.43 -18.76 8.39 0.79 -15.1 11.43
 3 16 0.79 -15.1 11.43 1.43 -18.76 8.39 0.45 -18.77 8.43
 3 16 0.79 -15.1 11.43 0.45 -18.77 8.43 -0.53 -18.76 8.39
@@ -395,8 +390,6 @@
 4 16 3.407 -20.036 1.062 2.415 -19.416 -0.002 2.434 -19.668 -0.162 3.439 -20.293 0.915
 3 16 2.415 -19.416 -0.002 0.72 -19.02 -0.46 0.72 -19.27 -0.61
 3 16 2.415 -19.416 -0.002 0.72 -19.27 -0.61 2.434 -19.668 -0.162
-0 // Unmatched edges
-0 // Added lines/Condlines
 5 24 8.017 -15.586 10.54 1.43 -18.76 8.39 0.79 -15.1 11.43 2.64 -18.883 8.009
 5 24 1.43 -18.76 8.39 0.79 -15.1 11.43 8.017 -15.586 10.54 0.45 -18.77 8.43
 2 24 1.43 -18.76 8.39 0.45 -18.77 8.43

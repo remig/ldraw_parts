@@ -1,15 +1,8 @@
 0 ~Minifig SW Imperial Officer Cap Half without Front
 0 Name: s\16497s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-10-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-01-21 [Philo] File preparation for LDraw Parts Tracker
-
-
 3 16 14.625 1.866 2.032 14.016 -1.506 -0.027 14.749 2.094 1.453
 3 16 14.749 2.094 1.453 14.016 -1.506 -0.027 14.172 -1.219 -0.488
 3 16 12.0107 8.7763 4.9751 9.1923 10.1871 9.1923 12.359 9.741 8.003

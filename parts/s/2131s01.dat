@@ -1,13 +1,8 @@
 0 ~Fabuland Refrigerator Cabinet - Half
 0 Name: s\2131s01.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 27 120 0 3 0 0 0 -1 0 0 0 16 rect.dat
 0 BFC INVERTNEXT
 1 16 30 136 0 6 0 0 0 -16 0 0 0 16 box4o4a.dat
@@ -31,7 +26,6 @@
 2 24 38 136 20 20 136 20
 2 24 20 136 20 20 136 -20
 2 24 20 136 -20 36 136 -20
-
 2 24 20 136 20 20 126 20
 2 24 20 126 20 20 126 16
 2 24 20 126 16 20 120 16
@@ -60,7 +54,7 @@
 1 16 20 20 18 18 0 0 0 0 -18 0 18 0 t04o1111.dat
 1 16 20 20 18 20 0 0 0 0 -20 0 -44 0 1-4cyli.dat
 1 16 20 20 -26 20 0 0 0 0 -20 0 1 0 1-4edge.dat
-1 16 20 20 -26 1 0 0 0 0 -1 0 1 0 1-4rin17.dat
+1 16 20 20 -26 1 0 0 0 0 -1 0 1 0 1-4ring17.dat
 1 16 20 20 -26 2 0 0 0 0 -2 0 1 0 1-4ring9.dat
 1 16 20 20 -26 17 0 0 0 0 -17 0 1 0 1-4edge.dat
 0 BFC INVERTNEXT

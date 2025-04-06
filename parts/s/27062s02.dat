@@ -1,14 +1,8 @@
-0 ~Animal Bird Parrot with Wide Beak and Tail Color 2 Subpart
+0 ~Animal Bird Parrot with Wide Beak and Tail - Marbled Colour 2
 0 Name: s\27062s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-02-19 [Philo] File preparation for LDraw Parts Tracker
-
 1 16 0 -5 0 1 0 0 0 -1.25 0 0 0 1 stud4od.dat
 0 BFC INVERTNEXT
 1 16 0 -32.5 0 4 0 0 0 27.5 0 0 0 4 4-4cylc.dat

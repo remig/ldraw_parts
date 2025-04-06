@@ -1,11 +1,8 @@
 0 ~Dish  6 x  6 Inverted - No Studs with Handle with Lines and Window Pattern - Side
 0 Name: s\18675ps3s02.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 -42.426 4 42.426 -38.1834 -0.1 38.1834 -36.7382 -0.1 39.4522 -40.8733 4 43.7891
 4 16 -42.426 4 42.426 -47.604 4 36.528 -42.8436 -0.1 32.8752 -38.1834 -0.1 38.1834
 4 16 -46.764 -0.1 27 -42.8436 -0.1 32.8752 -47.604 4 36.528 -51.96 4 30

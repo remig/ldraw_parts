@@ -1,19 +1,8 @@
 0 ~Sticker With Octan Logo Pattern - Logo Frame
 0 Name: s\170876s2.dat
 0 Author: Miklos Hosszu [hmick]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2007-11-15 [Philo] BFCed
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-0 !HISTORY 2011-01-11 [Philo] Adjusted vertices to better match s1 and s3 subparts
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
-0 // outer quads to ellipse
-
-
 4 16 12 0 0 11.8711 0 1.1692 12.87 0 1.27 13 0 0
 4 16 11.8711 0 1.1692 11.4991 0 2.2873 12.49 0 2.49 12.87 0 1.27
 4 16 11.4991 0 2.2873 10.9224 0 3.3133 11.91 0 3.61 12.49 0 2.49
@@ -35,8 +24,6 @@
 4 16 -2.67 0 8.81 -1.77 0 8.92 -1.5775 0 7.9306 -2.3786 0 7.8413
 4 16 -3.58 0 8.65 -2.67 0 8.81 -2.3786 0 7.8413 -3.1942 0 7.7114
 4 16 -4.51 0 8.44 -3.58 0 8.65 -3.1942 0 7.7114 -3.6025 0 7.6254
-0 // end of outer quads to ellipse
-0 // outer quads to circles
 4 16 13 0 0 12.97 0 -0.61 11.9747 0 -0.5146 12 0 0
 4 16 12.97 0 -0.61 12.88 0 -1.22 11.8991 0 -1.0242 11.9747 0 -0.5146
 4 16 12.88 0 -1.22 12.73 0 -1.81 11.7739 0 -1.524 11.8991 0 -1.0242
@@ -81,8 +68,6 @@
 4 16 -2.15 0 5.6 -2.72 0 6.03 -2.1665 0 6.8596 -1.5163 0 6.3773
 4 16 -2.72 0 6.03 -3.33 0 6.39 -2.861 0 7.2759 -2.1665 0 6.8596
 4 16 -3.33 0 6.39 -3.98 0 6.7 -3.6025 0 7.6254 -2.861 0 7.2759
-0 // end of outer quads to circles
-0 // outer triangles
 4 16 -5.46 0 8.17 -4.51 0 8.44 -3.6025 0 7.6254 -6.42 0 7.83
 4 16 -7.4 0 7.4 -6.42 0 7.83 -3.6025 0 7.6254 -7.46 0 7.22
 3 16 -4.65 0 6.94 -3.6025 0 7.6254 -3.98 0 6.7
@@ -91,5 +76,3 @@
 3 16 -6.04 0 7.22 -6.75 0 7.25 -3.6025 0 7.6254
 3 16 -6.75 0 7.25 -7.46 0 7.22 -3.6025 0 7.6254
 3 16 -7.86 0 7.16 -7.4 0 7.4 -7.46 0 7.22
-0 // end of outer triangles
-0 // end of frame

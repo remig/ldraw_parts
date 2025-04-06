@@ -1,17 +1,8 @@
 0 ~Minifig Scuba Tank Subpart
 0 Name: s\30091s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
-0 !HISTORY 2009-11-06 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
-0 // knob
-
 1 16 3.29 -4.37 -19.31 -0.195 -0.9237 0 0 0 1.5985 -0.47 1 0 rect.dat
 1 16 3.29 -4.37 -16.58 0.195 -3.0052 0 0 0 1.5985 -0.47 -1.2468 0 rect.dat
 4 16 0.89 -5.97 -14.46 0.63 -6.39 -14.98 1.64 -6.39 -15.4 1.83 -5.97 -14.85
@@ -93,7 +84,6 @@
 5 24 0 -6.58 -20.64 0 -2.77 -20.64 0.64 -6.39 -20.91 -0.6 -2.77 -20.87
 5 24 0.63 -6.39 -14.98 0.6 -2.77 -15.02 0 -6.58 -15.24 0.89 -2.77 -14.46
 5 24 0 -2.77 -15.24 0 -6.58 -15.24 0.6 -2.77 -15.02 -0.64 -6.39 -14.98
-0 // Tube
 3 16 12.8 -2.39 -13.5 13.35 -1.81 -13.68 12.36 -0.44 -12.68
 3 16 13.85 -3.1 -15.3 14.24 -2.21 -14.91 12.8 -2.39 -13.5
 3 16 14.24 -2.21 -14.91 13.35 -1.81 -13.68 12.8 -2.39 -13.5
@@ -3261,4 +3251,3 @@
 2 24 9.425 -3.158 -17.234 9.197 -2.339 -15.074
 2 24 9.652 -2.098 -19.4 9.741 0 -20.243
 2 24 9.741 0 -20.243 9.639 2.24 -19.272
-

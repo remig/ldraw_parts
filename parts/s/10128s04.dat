@@ -1,16 +1,8 @@
 0 ~Bigfig Hulk Body - Torso Half
 0 Name: s\10128s04.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !CATEGORY Figure
-
-0 !HISTORY 2013-12-07 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-10-13 [MagFors] File preparation for LDraw Parts Tracker
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 20 -126 0 0 1 0 -1 0 0 0 0 1 peghole.dat
 1 16 40 -126 0 0 -1 0 -1 0 0 0 0 1 peghole.dat
 0 BFC INVERTNEXT
@@ -18,7 +10,6 @@
 1 16 20 -126 0 0 -1 0 -8 0 0 0 0 8 4-4disc.dat
 1 16 40 -126 0 0 -1 0 -2 0 0 0 0 -2 4-4ring4.dat
 1 16 40 -126 0 0 -0.284 0 -10 0 0 0 0 10 4-4cylo.dat
-
 4 16 39.716 -135.239 3.827 39.716 -144.775 9.654 39.716 -147.398 -3.95 39.716 -136 0
 3 16 39.716 -135.239 3.827 39.716 -133.071 7.071 39.716 -144.775 9.654
 4 16 39.716 -138.805 16.818 39.716 -144.775 9.654 39.716 -133.071 7.071 39.716 -129.827 9.239

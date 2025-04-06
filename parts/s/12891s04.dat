@@ -1,14 +1,8 @@
 0 ~Animal Bird Seagull Half Wing Top
 0 Name: s\12891s04.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-12-17 [Philo] File preparation for LDraw Parts Tracker
-
 3 16 21.893 -29.181 18.609 22.202 -26.612 19.313 21.092 -29.202 18.173
 3 16 21.092 -29.202 18.173 22.202 -26.612 19.313 10.876 -24.82 13.125
 3 16 17.013 -34.13 12.242 21.092 -29.202 18.173 9.903 -31.039 9.829
