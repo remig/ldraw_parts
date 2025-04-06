@@ -1,16 +1,10 @@
 0 Wedge  2 x  4 Triple with Spider Eyes Pattern
 0 Name: 47759pm0.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Lord of the Rings, Shelob
 0 !CMDLINE -c0
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\47759s01.dat
 2 24 20 0 -10 20 12 -30
 2 24 -20 0 -10 -20 12 -30
@@ -20,7 +14,6 @@
 2 24 20 0 -10 -20 0 -10
 2 24 20 0 -10 20 0 10
 2 24 -20 0 -10 -20 0 10
-0 // pattern
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\47759pm0s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\47759pm0s01.dat
 4 8 -11.05 11.346 -28.91 -10.76 11.454 -29.09 -9.91 11.25 -28.75 -9.9 10.326 -27.21

@@ -1,13 +1,9 @@
-0 Panel  1 x  2 x  2 with Phone in White Circle and Lines Patt.
+0 Panel  1 x  2 x  2 with Phone in White Circle and Lines Pattern
 0 Name: 4864bp71.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
+0 !KEYWORDS Bricklink 4864apx15, Set 6422
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4864s01.dat
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
@@ -108,7 +104,5 @@
 4 16 -10 29 10 -8.0282 32.0282 10 -20 48 10 -18 29 10
 3 16 -18 29 10 -20 48 10 -20 0 10
 3 16 20 0 10 20 48 10 17.5 29 10
-0
 0 Pattern created wholly or in part by Quad2Dat
 0 Thanks James
-0

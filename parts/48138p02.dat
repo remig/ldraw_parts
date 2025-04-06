@@ -1,17 +1,10 @@
 0 Quatro Brick  2 x  2 with Smiling Mouth Pattern
 0 Name: 48138p02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Brick
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\48138s00.dat
-
 4 0 0 42.3 -79 0.18 50.18 -79 5.12 49.16 -79 6.18 40.79 -79
 4 0 6.18 40.79 -79 5.12 49.16 -79 10.1 47.77 -79 12.29 39.08 -79
 4 0 12.29 39.08 -79 10.1 47.77 -79 14.99 46 -79 19.73 43.96 -79

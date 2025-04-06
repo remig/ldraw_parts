@@ -1,19 +1,10 @@
 0 Minifig Hair Spiky Short
 0 Name: 53981.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Nightwing, Exo-Force
-
-0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
-0 !HISTORY 2009-12-13 [westrate] File preparation for LDraw Parts Tracker
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-0 !HISTORY 2012-12-24 [cwdee] Add category
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !KEYWORDS Exo-Force, Nightwing
 0 BFC INVERTNEXT
 1 16 0 3 0 0 0 8 0 -4.8 0 8 0 0 t04o6250.dat
 0 BFC INVERTNEXT
@@ -25,7 +16,6 @@
 0 BFC INVERTNEXT
 1 16 0 -4 0 6 0 0 0 4 0 0 0 6 4-4cylc.dat
 1 16 0 0 0 3 0 0 0 -1 0 0 0 3 4-4ring2.dat
-
 3 16 18.97 0.46 5.17 16.18 7.1 1.59 16.94 4.82 5.51
 3 16 17.71 2.54 9.42 18.97 0.46 5.17 16.94 4.82 5.51
 3 16 14.62 1.72 -5.02 13.98 0.34 -1.82 17.35 1.78 -11.26
@@ -1244,4 +1234,3 @@
 2 24 -20.32 -5.17 -15.49 -10.39 -5.49 -14.43
 5 24 -20 -4.34 -15.13 -8.17 -4.94 -14.35 -10.39 -5.49 -14.43 -16.97 -2.9 -14.39
 5 24 -15.3 1.74 -2.15 -19.02 -1.41 -7.24 -18.53 -0.6 -9.91 -14.72 -0.43 0.05
-0 

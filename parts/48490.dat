@@ -1,14 +1,9 @@
 0 Panel Wall  3 x  8 x  6
 0 Name: 48490.dat
 0 Author: William Howard [WilliamH]
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS castle
-
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
+0 !KEYWORDS Castle
 1 16 60 140 -10 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 40 140 -10 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 20 140 -10 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -428,4 +423,3 @@
 4 16 -9.344 24.526 -22 -9.344 24.526 -18 -4.861 22.612 -18 -4.861 22.612 -22
 4 16 -12.714 27.787 -22 -12.714 27.787 -18 -9.344 24.526 -18 -9.344 24.526 -22
 4 16 -14 32 -22 -14 32 -18 -12.714 27.787 -18 -12.714 27.787 -22
-0

@@ -1,15 +1,8 @@
 0 Windscreen  4 x  4 x  1 Roll Cage
 0 Name: 47758.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-08-25 {The LEGO Universe Team} Original part shape
-0 !HISTORY 2008-02-04 [Philo] Complete rewrite for LDraw Parts Tracker
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 0 0 0 18.5 0 0 0 1 0 0 0 10 rect2p.dat
@@ -79,7 +72,6 @@
 4 16 24 8 6 24 24 6 36 24 6 36 20 6
 4 16 36 20 -6 36 24 -6 24 24 -6 24 8 -6
 4 16 36 24 -6 40 24 -10 20 24 -10 24 24 -6
-0 // Teeth
 3 16 -22.836 24 -50 -20 24 -70 -27.68 24 -46.96
 3 16 27.68 24 -46.96 20 24 -70 22.836 24 -50
 3 16 -24.243 24 -45.778 -22.836 24 -50 -27.68 24 -46.96
@@ -249,4 +241,3 @@
 4 16 -36.033 16 -10 -20 8 -10 -18.5 4 -10 -21.328 1.172 -10
 4 16 20 8 -10 20 24 -10 36.163 24 -10 36.033 16 -10
 4 16 21.328 1.172 -10 18.5 4 -10 20 8 -10 36.033 16 -10
-0

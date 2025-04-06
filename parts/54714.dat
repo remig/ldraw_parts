@@ -1,16 +1,8 @@
 0 ~Electric Mindstorms NXT Motor Casing Right (Needs Work)
 0 Name: 54714.dat
 0 Author: Kevin Clague [kclague]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-12-02 [Philo] Rewrite from mirrored left part + bottom fixing holes
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // Needs work: Internal structure not modelled
-
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 54715.dat
 4 16 -10 46.36 -13.64 -10 29 1.93 10 29 1.93 10 46.36 -13.64
 2 24 10 29 1.93 10 46.36 -13.64
@@ -67,7 +59,6 @@
 4 16 -10 29 -69 -10 29 -66 -10 33.64 -66 -10 40 -69
 4 16 -10 29 -66 -10 29 -63.36 -10 32.64 -63.36 -10 34 -66
 4 16 -10 30 -63.44 -10 30 -56.56 -10 32 -56.56 -10 32 -63.44
-0
 2 24 10 29 -66.36 10 33.64 -66.36
 2 24 10 33.64 -66.36 2 33.64 -66.36
 2 24 2 33.64 -66.36 2 29 -66.36
@@ -120,4 +111,3 @@
 4 16 10 29 -1 10 29 2 -10 29 2 2 29 -1
 2 24 -10 30 -43.44 -10 30 -56.56
 2 24 -2 30 -43.44 -2 30 -56.56
-0

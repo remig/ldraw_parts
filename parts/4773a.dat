@@ -1,20 +1,9 @@
 0 ~Electric Light & Sound Brick  2 x  2 x  1.333 Siren Top
 0 Name: 4773a.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-0 !KEYWORDS space, police, ambulance, firefighter, loud, noise, flashlight, horn
-
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-0 !HISTORY 2013-03-16 [MagFors] Changed colour 383 to 494 (real metal)
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
-0 // True Part number is 4773, but that was incorrectly used in the Official 
-0 // Library for 4770. To maintain backward compatibility this is 4773a.
-
-
+0 !KEYWORDS ambulance, firefighter, flashlight, Horn, loud, noise, police, Space
 2 24 1.303 31.43 -4 2.408 31.43 -3.043
 2 24 2.408 31.43 -3.043 3.147 31.43 -1.647
 2 24 3.147 31.43 -1.647 3.406 31.43 0
@@ -62,7 +51,6 @@
 2 24 1.515 29.715 -4 1.303 31.43 -4
 2 24 1.638 28 4 1.515 29.715 4
 2 24 1.515 29.715 4 1.303 31.43 4
-0 //
 1 16 0 28 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 24 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 24 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
@@ -566,7 +554,6 @@
 2 24 7.633 0 -18.464 6.685 0 -18.829
 2 24 6.685 0 -18.829 5.782 0 -18.517
 2 24 5.782 0 -18.517 4.949 0 -18.462
-0 // www.holly-wood.it
 2 24 4.949 0 -18.462 4.254 0 -18.924
 2 24 4.254 0 -18.924 3.628 0 -19.648
 2 24 3.628 0 -19.648 2.622 0 -19.807
@@ -642,7 +629,6 @@
 2 24 -1.555 0 -19.918 -1.555 9 -19.918
 2 24 -4.678 0 -19.425 -4.678 9 -19.425
 2 24 -5.662 0 -19.162 -5.662 9 -19.162
-
 3 16 1.303 31.43 0 1.303 31.43 -4 2.408 31.43 -3.043
 3 16 1.303 31.43 0 2.408 31.43 -3.043 3.147 31.43 -1.647
 3 16 1.303 31.43 0 3.147 31.43 -1.647 3.406 31.43 0
@@ -1520,8 +1506,6 @@
 5 24 1.806 0 -19.312 1.806 9 -19.312 2.622 9 -19.807 1.003 9 -19.084
 5 24 1.003 0 -19.084 1.003 9 -19.084 1.806 9 -19.312 0.227 9 -19.392
 5 24 0.227 0 -19.392 0.227 9 -19.392 1.003 9 -19.084 -0.536 9 -19.971
-
-0 // Metal plates
 2 494 12 21.25 12 12 21.25 6
 2 494 12 21.25 6 8 21.25 6
 2 494 8 21.25 6 8 21.25 12
@@ -1606,8 +1590,6 @@
 4 494 -8 21 -6 -8 21 -12 -12 21 -12 -12 21 -6
 4 494 -8 21 -12 -8 21 -6 8 23.75 -7 8 23.75 -11
 4 494 8 23.75 -7 12 23.75 -7 12 23.75 -11 8 23.75 -11
-
-0 // Studs
 1 16 10 0 -10 0 0 1 0 1 0 -1 0 0 stud13.dat
 1 16 -10 0 -10 0 0 -1 0 1 0 -1 0 0 stud13.dat
 1 16 10 0 10 0 0 1 0 1 0 1 0 0 stud13.dat

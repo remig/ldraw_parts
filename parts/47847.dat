@@ -1,15 +1,8 @@
 0 Panel  2 x  4 x  6 Rock
 0 Name: 47847.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2008-12-20 {The LEGO Universe Team} Original part shape
-0 !HISTORY 2009-01-06 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
 1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 10 0 10 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 30 24 10 1 0 0 0 1 0 0 0 1 stud2.dat
@@ -293,4 +286,3 @@
 4 16 40 24 20 36.25 27.7 20 16.25 27.7 20 20 24 20
 4 16 16.25 3.7 20 20 0 20 20 24 20 16.25 27.7 20
 4 16 -20 0 20 -16.25 3.7 20 -16.25 27.7 20 -20 24 20
-0 //

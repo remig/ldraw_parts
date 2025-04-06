@@ -1,15 +1,9 @@
 0 Wedge  4 x  4 Triple with Stud Notches & Grey Mechanical Pattern
 0 Name: 48933ps1.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, Boba Fett, Slave I
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
+0 !KEYWORDS Boba Fett, Slave I, Star Wars
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\48933s01.dat
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stug-2x1.dat
 4 16 -20 0 10 -40 20 10 -40 20 -10 -20 0 -10
@@ -18,8 +12,6 @@
 2 24 -20 0 -10 -20 20 -70
 2 24 20 0 -10 40 20 -10
 2 24 -20 0 -10 -40 20 -10
-0 //
-0 // Pattern
 4 0 -31 13.417 -17.25 -33.25 13.667 -11.25 -38.652 20 -14.044 -36.53 20 -20.41
 4 0 -31.851 17.004 -25.461 -34.106 19.533 -26.281 -33.491 19.014 -26.568 -32.138 17.496 -26.076
 4 0 -33.491 19.014 -26.568 -34.106 19.533 -26.281 -33.285 19.464 -28.537 -32.998 18.972 -27.922

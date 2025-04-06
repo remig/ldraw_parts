@@ -1,13 +1,8 @@
 0 ~Electric Light Brick  2 x  3 x  1.333 Top
 0 Name: 54929.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
 1 16 20 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 20 0 10 1 0 0 0 1 0 0 0 1 stud.dat

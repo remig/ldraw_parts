@@ -1,20 +1,9 @@
 0 Plate  2 x  2 x  0.667 with Axleholes and Octagonal Ring with Wings
 0 Name: 6040.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS propellor, housing, propellor housing, nozzle, exhaust
-
-0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-01-30 [Steffen] BFCed
-0 !HISTORY 2015-03-01 [MagFors] Added more details, retitled
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !KEYWORDS exhaust, Housing, nozzle, Propeller, propeller housing
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
 1 16 0 10 0 1 0 0 0 -1.5 0 0 0 1 stud4a.dat
 1 16 0 4 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
@@ -83,7 +72,6 @@
 1 16 0 10 46 1 0 0 0 0 1 0 -1 0 axlehol3.dat
 1 16 0 10 22.75 8 0 0 0 0 8 0 -1 0 4-4edge.dat
 1 16 0 10 22.75 8 0 0 0 0 8 0 23.25 0 4-4cyli.dat
-0 // housing
 4 16 6.805 -25.136 56 6.805 -21.2023 56 8.2816 -20.9088 56 14.554 -25.136 56
 3 16 8.2816 -20.9088 56 12.2464 -19.5648 56 14.554 -25.136 56
 3 16 12.2464 -19.5648 56 16 -17.712 56 14.554 -25.136 56
@@ -212,7 +200,6 @@
 3 16 31.7248 5.824 56 32 10 56 32 9.944 55.25
 3 16 32 9.944 55.25 30.949 3.305 55.25 31.7248 5.824 56
 3 16 31.7248 5.824 56 30.949 3.305 55.25 31.2241 3.305 56
-0 // edges
 2 24 -8.284 -10 20 -18.284 0 20
 2 24 18.284 0 20 8.284 -10 20
 2 24 -20 1.716 20 -20 18.284 20
@@ -379,7 +366,6 @@
 2 24 -35.136 16.695 56 -31.2241 16.695 56
 2 24 -6.695 -25.136 56 -6.695 -21.2241 56
 2 24 6.695 45.136 56 6.695 41.2241 56
-0 // surface
 4 16 0.047 -7.974 22.75 0 10 22.75 -17.962 9.949 22.75 -6.695 -11.156 22.75
 4 16 -6.695 -11.156 22.75 -17.962 9.949 22.75 -21.156 3.195 22.75 -8.763 -11.156 22.75
 3 16 -8.763 -11.156 22.75 -21.156 3.195 22.75 -21.156 1.237 22.75

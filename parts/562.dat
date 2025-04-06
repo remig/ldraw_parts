@@ -1,13 +1,8 @@
 0 ~Electric  4.5V Battery Box Pole Reverser Type 3
 0 Name: 562.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 2 24 -66 0 0 -24 0 0
 2 24 24 0 0 66 0 0
 2 24 -66 0 -16 -66 0 0
@@ -228,7 +223,6 @@
 4 16 36.6179 22 0 36.6179 22 -4 32 22 -4 32 22 0
 4 16 50 22 0 50 22 -4 43.3821 22 -4 43.3821 22 0
 4 16 50 38 -4 50 38 0 32 38 0 32 38 -4
-0 // Additions for hole for middlepin
 4 16 32 18 -16 32 22 -16 36.6179 22 -16 36.304 21.531 -16
 3 16 32 18 -16 36.304 21.531 -16 36 20 -16
 3 16 32 18 -16 36 20 -16 36.304 18.469 -16

@@ -1,16 +1,9 @@
 0 Minifig Mechanical Torso with 4 Side Attachment Cylinders
 0 Name: 54275.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS Bionicle, Barraki, Toa
-
-0 !HISTORY 2007-08-25 {The LEGO Universe Team} Original part shape
-0 !HISTORY 2009-01-11 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
+0 !KEYWORDS Barraki, bionicle, Toa
 1 16 0 30 0 4 0 0 0 -13.16 0 0 0 4 4-4cylc.dat
 1 16 0 -26 0 4 0 0 0 11.39 0 0 0 -4 4-4cylc.dat
 1 16 34 0 0 0 -8 0 4 0 0 0 0 -4 4-4cylc.dat
@@ -680,4 +673,3 @@
 4 16 -20 -4.39 -5.27 -20 -4.39 -7.27 -20 -6.78 -7.27 -20 -6.78 7.27
 4 16 -20 4.64 -5.27 -20 -4.39 -5.27 -20 -6.78 7.27 -20 6.46 7.27
 2 24 20 -6.78 7.27 20 6.46 7.27
-0 //

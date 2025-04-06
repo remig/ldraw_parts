@@ -1,25 +1,13 @@
 0 Panel  1 x  2 x  2 Solid Stud with Red/White/Blue Left Pattern
 0 Name: 4864ap10.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Train, Metroliner Club Car, red, white and blue stripes, racing stripes
-
-0 !HISTORY 2004-05-17 [sbliss] Created solid-stud version of part
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-10 [GeraldLasser] Made the Stripes accurate
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !KEYWORDS Metroliner Club Car, racing stripes, red, Train
+0 !KEYWORDS white and blue stripes
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4864s01.dat
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-
-0 // from railroad club car
 4 4 20 0 10 20 8 10 15.3 8.45 10 13.8 0.6 10
 4 4 10.8 9.8 10 7.8 2.4 10 13.8 0.6 10 15.3 8.45 10
 4 4 7.8 2.4 10 10.8 9.8 10 6.7 12 10 2.2 5.4 10

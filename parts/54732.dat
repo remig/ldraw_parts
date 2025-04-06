@@ -1,14 +1,8 @@
 0 ~Electric Mindstorms NXT Cable Connector Socket
 0 Name: 54732.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-10-11 [Philo] Rebuilt from scratch
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 0 -4 1 15 0 0 0 36 0 0 0 19 box4-1.dat
 1 16 15 18 -11 0 2 0 -12 0 0 0 0 1 box5.dat
 1 16 -15 18 -11 0 -2 0 -12 0 0 0 0 1 box5.dat
@@ -64,7 +58,6 @@
 1 16 5 -2 0 -0.5 0 0 0 6 0 0 0 -6 box4-1.dat
 1 16 2.5 -2 0 -0.5 0 0 0 6 0 0 0 -6 box4-1.dat
 1 16 0 -2 0 -0.5 0 0 0 6 0 0 0 -6 box4-1.dat
-0 // Electrical contacts
 1 334 6.25 0.75 -3 0 -2 0 -1.932 0 -0.518 0.518 0 -1.932 t04o3333.dat
 1 334 6.25 0.75 -3 0 -2 0 1.932 0 -0.518 -0.518 0 -1.932 t04o3333.dat
 1 334 6.25 0.75 -3 0 2 0 -1.932 0 -0.518 0.518 0 -1.932 t04o3333.dat
@@ -101,4 +94,3 @@
 1 334 -6.25 0.75 -3 0 2 0 1.932 0 -0.518 -0.518 0 -1.932 t04o3333.dat
 1 334 -6.25 2.68 -3.52 0.667 0 0 0 4.659 -0.644 0 17.387 0.173 4-4cyli.dat
 1 334 -6.25 7.34 13.87 0.667 0 0 0 5.176 -0.644 0 19.318 0.173 4-4edge.dat
-0

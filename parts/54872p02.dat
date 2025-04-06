@@ -1,19 +1,11 @@
 0 Minifig Head SpongeBob with Shocked Pattern
 0 Name: 54872p02.dat
 0 Author: Merlijn Wissink [legolijntje]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS SquarePants, Set 4981
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !KEYWORDS Set 4981, SquarePants
 1 16 0 16 0 1 0 0 0 1 0 0 0 1 s\54872s01.dat
-0 // Rear Face
 1 16 0 0 14.5 -1 0 0 0 1 0 0 0 -1 s\54872s03.dat
-0 // Front Face Pattern
 4 70 15.7717 46.1481 -14.5 16 45 -14.5 13 45 -14.5 15.1213 47.1213 -14.5
 4 70 14.1481 47.7717 -14.5 15.1213 47.1213 -14.5 13 45 -14.5 13 48 -14.5
 4 70 -13 45 -14.5 -16 45 -14.5 -15.7717 46.1481 -14.5 -15.1213 47.1213 -14.5

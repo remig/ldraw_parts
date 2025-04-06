@@ -1,14 +1,8 @@
 0 Technic Panel Fairing #24
 0 Name: 47712.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-11-01 [mikeheide] Added conditional lines with edger
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 0 BFC INVERTNEXT
 1 16 0 -50 -18 6 0 0 0 0 -6 0 16 0 4-4cyli.dat
 1 16 0 -50 -18 6 0 0 0 0 -6 0 1 0 4-4edge.dat
@@ -20,11 +14,11 @@
 1 16 0 -30 -20 -1 0 0 0 0 1 0 1 0 peghole.dat
 1 16 0 -50 -20 -1 0 0 0 0 1 0 1 0 peghole.dat
 0 BFC INVERTNEXT
-1 16 0 -30 -2 0 0 8 8 0 0 0 2 0 2-4CYLI.dat
+1 16 0 -30 -2 0 0 8 8 0 0 0 2 0 2-4cyli.dat
 1 16 0 -30 -2 0 0 8 8 0 0 0 1 0 2-4edge.dat
 1 16 0 -30 0 0 0 8 8 0 0 0 1 0 2-4edge.dat
 0 BFC INVERTNEXT
-1 16 0 -50 0 0 0 8 -8 0 0 0 -2 0 2-4CYLI.dat
+1 16 0 -50 0 0 0 8 -8 0 0 0 -2 0 2-4cyli.dat
 1 16 0 -50 0 0 0 8 -8 0 0 0 -1 0 2-4edge.dat
 1 16 0 -50 -2 0 0 8 -8 0 0 0 -1 0 2-4edge.dat
 3 16 25.543 -32.296 20 25.838 -30.813 20 24.243 -34.243 20
@@ -762,7 +756,6 @@
 4 16 22.812 -31.624 -15 23.625 -34.656 -15 23.625 -34.656 20 22.812 -31.624 20
 2 24 22.812 -31.624 20 22.812 -31.624 -15
 4 16 22.812 -31.624 20 25.838 -30.813 20 25.838 -30.813 -15 22.812 -31.624 -15
-0
 0 Conditional edges
 5 24 15.1081 -43.9278 32.624 12.51 -42.4278 30.5346 11.2048 -44.3812 0 16.1667 -41.7811 63.5157
 5 24 26 -30 27.0593 28.3149 -33.4442 23.5773 29 -30 24.497 25.5433 -32.2961 26.4462

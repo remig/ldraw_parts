@@ -1,13 +1,8 @@
 0 Technic Bionicle Rhotuka Spinner Holder with 2 Pins and Axlehole
 0 Name: 50901.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 -20 0 0 1 0 0 0 1 0 0 0 1 connect.dat
 1 16 20 0 0 1 0 0 0 1 0 0 0 1 connect.dat
 1 16 0 0 0 7 0 0 0 1 0 0 0 7 4-4edge.dat
@@ -283,4 +278,3 @@
 2 24 18 17 -1.5 18 17 -10
 2 24 18 3 -1.5 18 3 -10
 4 16 18 3 -1.5 18 3 -10 18 17 -10 18 17 -1.5
-0

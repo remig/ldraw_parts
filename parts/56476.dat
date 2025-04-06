@@ -1,15 +1,8 @@
 0 ~Electric Mindstorms NXT Ultrasonic Sensor Insert (Needs Work)
 0 Name: 56476.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // Needs work: details internal to the sensor could be improved
-
 1 16 44 25 -8 0 0 18 18 0 0 0 -3 0 1-4cyli.dat
 1 16 44 25 -8 0 0 18 18 0 0 0 -47 0 1-4edge.dat
 1 16 44 25 -8 0 0 18 18 0 0 0 -47 0 1-4disc.dat
@@ -91,4 +84,3 @@
 2 24 22 25 -20 26 25 -20
 2 24 22 25 -23 28 25 -23
 2 24 -28 25 -23 -22 25 -23
-0

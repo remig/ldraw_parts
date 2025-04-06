@@ -1,27 +1,13 @@
 0 Glass for Window  1 x  4 x  6 with 'THE HIGHLANDER' and White Decorative Border Pattern
 0 Name: 57895p02.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Position in 57894 frame: Y=4.5, Z=-3
 0 !HELP Position in 60596 frame: Y=4.5, Z=5
-
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS set 10246, detective's, office
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // Font Wolfs Bane II Expanded with a handcrafted A
-
-0 // Subfile
+0 !KEYWORDS detective's, office, set 10246
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\57895s01.dat
-
 0 BFC NOCLIP
-
-0 // Pattern
-0 // White
 4 15 -23.5 22 -2 -23.5 15 -2 -26.5 15 -2 -26.5 19 -2
 4 15 -26.5 19 -2 -31.7 19 -2 -28.7 22 -2 -23.5 22 -2
 4 15 23.5 22 -2 26.5 19 -2 26.5 15 -2 23.5 15 -2
@@ -58,8 +44,6 @@
 4 15 -15.09 6.799 -2 -18.294 7.619 -2 -16.608 10.074 -2 -13.929 9.526 -2
 4 15 -11.615 6.25 -2 -15.09 6.799 -2 -13.929 9.526 -2 -11.023 9.189 -2
 4 15 -8 6 -2 -11.615 6.25 -2 -11.023 9.189 -2 -8 9 -2
-
-0 // Metalic gold
 4 82 -13.021 29.088 -2 -13.401 29.876 -2 -13.021 29.815 -2 -11.897 29.624 -2
 3 82 -22.898 27.317 -2 -22.898 28.425 -2 -22.45 28.09 -2
 4 82 -13.021 32.174 -2 -13.337 32.538 -2 -11.818 32.295 -2 -11.897 31.603 -2
@@ -199,8 +183,6 @@
 4 82 -.745 40.737 -2 1.032 39.159 -2 1.29 38.211 -2 .8 35 -2
 3 82 .8 35 -2 1.29 38.211 -2 1.98 35.685 -2
 3 82 3.53 35 -2 1.98 35.685 -2 2.702 38.211 -2
-
-0 // Main color
 4 16 -17.472 27.884 -2 -16.455 27.4 -2 -16.884 27.205 -2 -19.089 27.476 -2
 4 16 -17.472 27.884 -2 -19.089 27.476 -2 -17.172 29.747 -2 -17.172 28.149 -2
 4 16 -17.551 30.524 -2 -17.172 29.747 -2 -19.089 27.476 -2 -19.089 33.066 -2

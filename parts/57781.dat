@@ -1,16 +1,8 @@
 0 Tipper Bucket 24 x  8 x  8
 0 Name: 57781.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-08-25 {The LEGO Universe Team} Original part shape
-0 !HISTORY 2008-04-06 [mikeheide] File preparation for LDraw Parts Tracker
-0 !HISTORY 2008-12-22 [mikeheide] uses more primitives
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 3 16 73.8 -55.37 66.5 73.8 -25.3 23 73.8 -36.18 66.5
 2 24 73.8 -36.18 66.5 73.8 -25.3 23
 2 24 73.8 -36.18 66.5 73.8 -55.37 66.5
@@ -3380,4 +3372,3 @@
 1 16 -30 3.78775 -24.9025 0 0.000534391 8 -0.644 0.609413 0.0125 -0.495 -0.993077 0.015 rect2p.dat
 4 16 -38 3.131 -25.41 -38 1.628 -26.03 -22 1.64 -26.03 -22 3.157 -25.39
 1 16 -30 0.817 -26.14 0 -0.000100438 8 -0.814 0.133918 0.006 -0.11 -0.999789 0 rect2p.dat
-0 //

@@ -1,16 +1,9 @@
 0 Animal Wing  9 x  9 with Axle
 0 Name: 55706.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Batman
-
-0 !HISTORY 2014-07-23 [MagFors] reworked edge and cond lines
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\55706s01.dat
 1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\55706s01.dat
 0 BFC INVERTNEXT
@@ -21,7 +14,6 @@
 1 16 -184 0 122 0 -4 0 -4 0 0 0 0 -4 4-8sphe.dat
 1 16 -124 0 68 0 -2.5 0 -2.5 0 0 0 0 -2.5 4-8sphe.dat
 1 16 -97 0 28 0 -2.5 0 -2.5 0 0 0 0 -2.5 4-8sphe.dat
-0 // border
 1 16 -10 0 -14.875 0 -1 0 1.5 0 0 0 0 14.875 rect2p.dat
 4 16 -10 -1.5 -29.75 -60 -1.5 -29.75 -60 1.5 -29.75 -10 1.5 -29.75
 4 16 -60 -1.5 -29.75 -61.913 -1.5 -29.369 -61.913 1.5 -29.369 -60 1.5 -29.75
@@ -92,7 +84,6 @@
 5 24 -90 -1.5 53 -90 1.5 53 -97 -1.5 59 -86 -1.5 48
 5 24 -97 -1.5 59 -97 1.5 59 -105 -1.5 63 -90 -1.5 53
 5 24 -105 -1.5 63 -105 1.5 63 -111.75 -1.5 65.25 -97 -1.5 59
-0 // added cond-lines
 5 24 -93.2764 0 30.2521 -97 0 30.5 -97 -0.95683 30.3099 -93.5643 0.957 30.0802
 5 24 -31.933 0 64.928 -36.632 0 70.295 -36.851 -1.515 70.087 -32.186 1.531 64.757
 5 24 -36.632 0 70.295 -55.321 0 86.712 -55.501 -1.531 86.464 -36.851 1.515 70.087

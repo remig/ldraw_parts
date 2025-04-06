@@ -1,15 +1,9 @@
-0 Technic Bionicle Foot Pointed with Three Holes
+0 Constraction Foot  2 x  7 Pointed with 3 Pegholes
 0 Name: 50858.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Visorak, leg, claw, toe
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS bionicle, Claw, leg, toe, Visorak
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50858s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\50858s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 connhole.dat
@@ -25,4 +19,3 @@
 4 16 -2.5 7.5 49 2.5 7.5 49 2.5 7.5 28.503 0 7.5 29
 3 16 0 7.5 29 -2.5 7.5 28.503 -2.5 7.5 49
 1 16 2.5 0.5 36.5 0 -5 0 0 0 -7.5 12.5 0 0 1-4cyli.dat
-0 //

@@ -1,20 +1,12 @@
 0 ~Plane Aft Section  8 x 16 x  7 Top with Blue Stripes Pattern
 0 Name: 54701p01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-09-08 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\54701s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\54701p01s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\54701s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\54701p01s01.dat
-
 1 16 0 7.9995 16.063 23.753 0 0 0 0 -3.0005 0 1 0 rect2p.dat
 4 16 -5.483 4.537 -0.187 -23.753 4.999 16.063 23.753 4.999 16.063 5.483 4.537 -0.187
 4 16 -23.753 9.817 214.462 23.753 9.817 214.462 23.753 11 16.063 -23.753 11 16.063

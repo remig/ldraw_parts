@@ -1,13 +1,8 @@
 0 Slope Brick Curved  1 x  2 x   2/3 with Fin without Studs
 0 Name: 47458.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
 1 16 10 25 10 0 -1 0 -25 0 0 0 0 -25 48\1-12edge.dat
 1 16 -10 25 10 0 -1 0 -25 0 0 0 0 -25 48\1-12edge.dat
 1 16 10 25 10 0 -20 0 -25 0 0 0 0 -25 48\1-12cyli.dat
@@ -173,4 +168,3 @@
 2 24 -10.389 5.476 -5.22 -10 5.409 -5.498
 2 24 -20 8 10 -19.463 7.785 6.738
 2 24 -19.463 7.785 6.738 -18.401 7.573 3.53
-0

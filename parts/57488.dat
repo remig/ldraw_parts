@@ -1,9 +1,10 @@
-0 =Technic Flame  2 x 12
+0 Constraction Flame  2 x 12 Dual Mould with Bright Light Orange Tip
 0 Name: 57488.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Unofficial_Part Alias
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 32558.dat
+0 !CATEGORY Constraction Accessory
+0 !KEYWORDS Batman, Exoforce, set 7021, set 7884, set 8107, set 8108, set 8114
+0 !KEYWORDS voodoo
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\57488s01.dat
+1 191 0 0 0 1 0 0 0 1 0 0 0 1 s\57488s02.dat

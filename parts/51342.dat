@@ -1,29 +1,16 @@
 0 Animal Dragon Wing 19 x 11
 0 Name: 51342.dat
 0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 !HELP Position of fang X = 89.675, Y = -70, Z = 6.75
-
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Harry Potter, Hungarian Horntail, Castle
-
-0 !HISTORY 2011-11-05 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2011-11-06 [angmarec]  File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-01-04 [mikeheide] Added one quad and deleted one edgeline. Added needs work statement.
-0 !HISTORY 2014-02-09 [MagFors]   Made part symmetrical, subfiled
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS Castle, Harry Potter, Hungarian Horntail
 1 16 10 -10 0 0 1 0 0 0 -1 -1 0 0 connhol3.dat
 1 16 10 10 0 0 1 0 0 0 -1 -1 0 0 connhol3.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\51342s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\51342s01.dat
-
 2 24 18 17.5 2.1635 18 17.5 -2.1635
 2 24 20.825 17.5 2.17462 20.825 17.5 -2.17462
-
 4 16 177.439 74.375 1.21055 186.226 63.577 1.1993 186.226 63.577 -1.1993 177.439 74.375 -1.21055
 4 16 186.226 63.577 1.1993 198.224 56.547 1.164 198.224 56.547 -1.164 186.226 63.577 -1.1993
 4 16 198.224 56.547 1.164 207.445 54.936 1.138 207.445 54.936 -1.138 198.224 56.547 -1.164
@@ -91,7 +78,6 @@
 4 16 20.825 2.5 2.15529 20.825 17.5 2.17462 20.825 17.5 -2.17462 20.825 2.5 -2.15529
 4 16 20.825 17.5 2.17462 18 17.5 2.1635 18 17.5 -2.1635 20.825 17.5 -2.17462
 3 16 78.1727 -79.6787 0 72.633 -73.917 2.152 72.633 -73.917 -2.152
-
 5 24 13.959 -40.335 2.152 13.959 -40.335 -2.152 -4.382 -39.85 2.152 31.6841 -43.705 2.152
 5 24 31.6841 -43.705 2.152 31.6841 -43.705 -2.152 13.959 -40.335 2.152 48.4731 -52.107 2.152
 5 24 48.4731 -52.107 2.152 48.4731 -52.107 -2.152 31.6841 -43.705 2.152 62.0131 -62.871 2.152

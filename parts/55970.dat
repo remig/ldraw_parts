@@ -1,17 +1,8 @@
 0 ~Electric Mindstorms NXT Light Sensor Shell Front
 0 Name: 55970.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2006-12-03 [kclague] better approximation of orange indentation
-0 !HISTORY 2007-10-26 [Philo] Refined shape and dimensions
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // Front/below
-
 0 BFC INVERTNEXT
 1 25 0 18 -29 0 31.198 0 10 0 0 0 0 -10 t04i4167.dat
 0 BFC INVERTNEXT
@@ -36,7 +27,6 @@
 4 16 -13 -13 -36 -13 -16 -36 13 -16 -36 13 -13 -36
 2 24 -13 0 -39 -13 18 -39
 2 24 -13 28 -29 -13 28 -23
-0 // Ridge
 1 25 0 4 -39 13 0 0 0 16 0 0 0 4.167 2-4disc.dat
 1 16 0 4 -39 13 0 0 0 16 0 0 0 4.167 2-4edge.dat
 1 16 0 6 -39 13 0 0 0 16 0 0 0 4.167 2-4edge.dat
@@ -44,7 +34,6 @@
 4 25 13 4 -39 -13 4 -39 -13 6 -39 13 6 -39
 2 24 -13 4 -39 13 4 -39
 2 24 -13 6 -39 13 6 -39
-0 //
 2 24 13 28 -29 13 28 -19
 2 24 -13 28 -29 -13 28 -19
 2 24 13 25 -29 13 25 -19
@@ -52,7 +41,6 @@
 2 24 13 0 -39 13 18 -39
 2 24 13 0 -36 13 18 -36
 2 24 -13 0 -36 -13 18 -36
-0 // bottom face orange
 1 16 0 25 -19 13 0 0 0 1 0 0 0 13 2-4ndis.dat
 1 16 0 28 -19 -13 0 0 0 -1 0 0 0 13 2-4ndis.dat
 4 16 13 28 0 13 28 -6 -13 28 -6 -13 28 0
@@ -69,19 +57,16 @@
 4 16 -16 25 0 -16 25 -29 -13 25 -29 -13 25 0
 4 16 13 25 0 13 25 -29 16 25 -29 16 25 0
 4 16 13 28 -29 13 28 0 16 28 0 16 28 -29
-0 // bowed orange corner
 1 16 -13 18 -29 0 -3 0 0 0 10 -10 0 0 1-4edge.dat
 1 16 13 18 -29 0 -3 0 0 0 10 -10 0 0 1-4edge.dat
 1 16 -13 18 -29 0 -3 0 0 0 7 -7 0 0 1-4edge.dat
 1 16 13 18 -29 0 -3 0 0 0 7 -7 0 0 1-4edge.dat
-0 //
 1 16 16 18 -29 0 -3 0 0 0 10 -10 0 0 1-4cyli.dat
 0 BFC INVERTNEXT
 1 16 16 18 -29 0 -3 0 0 0 7 -7 0 0 1-4cyli.dat
 1 16 -13 18 -29 0 -3 0 0 0 10 -10 0 0 1-4cyli.dat
 0 BFC INVERTNEXT
 1 16 -13 18 -29 0 -3 0 0 0 7 -7 0 0 1-4cyli.dat
-0 // back
 4 16 16 -26 0 -16 -26 0 -16 -26 -29 16 -26 -29
 1 16 16 -16 -29 10 0 0 0 0 -10 0 29 0 1-4cyli.dat
 0 BFC INVERTNEXT
@@ -104,7 +89,6 @@
 1 16 -16 18 -29 -10 0 0 0 10 0 0 0 -10 1-8sphe.dat
 1 16 -16 -16 -29 0 -10 0 -10 0 0 0 0 -10 1-8sphe.dat
 1 16 16 -16 -29 10 0 0 0 -10 0 0 0 -10 1-8sphe.dat
-0 // The back wall
 1 16 24.5 1 0 0 0 -1.5 -17 0 0 0 -1 0 rect2p.dat
 1 16 -24.5 1 0 0 0 -1.5 -17 0 0 0 -1 0 rect2p.dat
 1 16 0 -24.5 0 -16 0 0 0 0 1.5 0 -1 0 rect2p.dat
@@ -127,7 +111,6 @@
 1 16 16 18 0 0 0 10 10 0 0 0 29 0 1-4edge.dat
 1 16 -16 -16 0 -10 0 0 0 0 -10 0 -29 0 1-4edge.dat
 1 16 -16 18 0 0 0 -10 10 0 0 0 -29 0 1-4edge.dat
-0 // The inside walls
 0 BFC INVERTNEXT
 1 16 16 -16 -29 0 -32 0 -7 0 0 0 0 -7 1-4cyli.dat
 0 BFC INVERTNEXT
@@ -153,4 +136,3 @@
 2 24 5.5 28 10 6 28 0
 4 16 5.5 28 10 6 28 0 -6 28 0 -5.5 28 10
 4 16 -5.5 25 10 -6 25 0 6 25 0 5.5 25 10
-0

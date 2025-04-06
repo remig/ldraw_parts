@@ -1,15 +1,8 @@
 0 ~Electric Power Functions IR Remote Control Top (Needs Work)
 0 Name: 58132.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // Needs Work: Inside not modelled
-
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\58132s01.dat
 1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\58132s01.dat
 1 16 0 -40 90 -20 0 0 0 -16 0 0 0 10 box2-5.dat
@@ -76,8 +69,6 @@
 1 4 20 -61 -41 -2 0 0 0 2 0 0 0 -2 2-4disc.dat
 4 1 -22 -61 -41 -18 -61 -41 -18 -61 -36.3 -22 -61 -36.3
 1 1 -20 -61 -41 2 0 0 0 2 0 0 0 -2 2-4disc.dat
-0 // Channel
-0 // Without digits 4 16 66.33 -59.16 -9.33 25 -60.53 -9.33 23 -60.6 -16.63 61.89 -59.3 -16.63
 4 16 16.63 -60.6 23 13.036 -60.131 37.105 11.95 -60.131 37.105 9.33 -60.533 25
 4 16 12.434 -59.383 59.628 14.827 -59.383 59.628 16.63 -59.308 61.888 12.434 -59.353 60.52
 4 16 9.33 -59.16 66.33 11.291 -59.353 60.52 12.434 -59.353 60.52 16.63 -59.308 61.888
@@ -483,4 +474,3 @@
 2 24 12.43 -59.417 58.61 12.43 -58.917 58.61
 2 24 13.69 -59.417 58.61 13.69 -58.917 58.61
 2 24 12.43 -59.466 57.13 12.43 -58.966 57.13
-0 

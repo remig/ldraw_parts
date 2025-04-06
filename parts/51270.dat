@@ -1,11 +1,8 @@
 0 Plant Pumpkin
 0 Name: 51270.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
 0 BFC INVERTNEXT
 1 16 0 4 0 12 0 0 0 23 0 0 0 12 4-4cylo.dat
@@ -13,7 +10,7 @@
 1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4ring3.dat
-1 16 0 27 0 0.33333 0 0 0 -1 0 0 0 0.33333 4-4rin36.dat
+1 16 0 27 0 0.33333 0 0 0 -1 0 0 0 0.33333 4-4ring36.dat
 0 BFC INVERTNEXT
 1 16 0 0 0 4 0 0 0 4 0 0 0 4 4-4cyli.dat
 1 16 0 4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat

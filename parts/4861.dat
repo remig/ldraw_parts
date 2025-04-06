@@ -1,17 +1,8 @@
 0 Slope Brick 45  3 x  4 Double / 33
 0 Name: 4861.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2003-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2002-09-13 [izanette] Modified with WINDZ for BFC compliance
-0 !HISTORY 2003-07-06 [Steffen] fixed BFC errors
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 1 16 30 20 -10 1 0 0 0 -1 0 0 0 1 stud3a.dat
 1 16 30 14 -10 4 -0.707107 0 4 0.707107 0 0 0 4 4-4edge.dat
 1 16 30 18 -10 4 0 0 0 -4 0 0 0 4 2-4cyls.dat
@@ -217,4 +208,3 @@
 4 16 40 20 -50 20 0 -10 -20 0 -10 -40 20 -50
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-0

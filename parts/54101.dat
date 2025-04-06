@@ -1,17 +1,8 @@
 0 Boat Hull Floating 51 x 12 Top
 0 Name: 54101.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-11-27 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2012-11-27 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
-0 // Note: Structure inside hull is simplified.
-
 4 16 16.84 6.33 -566.05 19.84 7.21 -563.55 19.84 3.75 -563.55 16.84 3.75 -566.05
 4 16 16.84 6.33 -566.05 16.84 3.75 -566.05 16.84 3.75 -342.98 16.84 51.75 -475.44
 4 16 19.84 51.75 -473.3 16.84 51.75 -475.44 16.84 51.75 -342.98 19.84 51.75 -342.98

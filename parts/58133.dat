@@ -1,13 +1,8 @@
 0 ~Electric Power Functions IR Remote Control Front Glass
 0 Name: 58133.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 2 24 19 -56 -99 19 -24 -99
 2 24 -19 -56 -99 -19 -24 -99
 1 16 0 -24 -91.13 -19 0 7.87006 0 1 0 -7.87006 0 -19 3-8edge.dat
@@ -110,4 +105,3 @@
 2 24 18.19 -58.59 -63.92 19 -57.78 -63.94
 2 24 -18.19 -58.59 -63.92 -19 -57.78 -63.94
 2 24 -17 -59.79 -63.73 -18.19 -58.59 -63.92
-0 
