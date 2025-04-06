@@ -1,0 +1,19 @@
+0 Rock  4 x  4 x  0.667 Octagonal Bottom
+0 Name: 80337.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS container, Crinoline, Dress, Friends, skirt, umbrella
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80337s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\80337s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\80337s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\80337s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 0 3 0 1 0 0 0 -1.25 0 0 0 1 stud4.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
+1 16 0 3 0 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 4 0 0 0 3 0 0 0 4 4-4cyli.dat
+1 16 0 3 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 3 0 2 0 0 0 -1 0 0 0 2 4-4ring2.dat

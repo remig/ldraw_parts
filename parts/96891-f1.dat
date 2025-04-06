@@ -1,0 +1,9 @@
+0 Technic Pneumatic Tube 80L
+0 Name: 96891-f1.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS 640 mm
+1 16 -800 0 0 0 1 0 1 0 0 0 0 1 71533k02.dat
+1 16 800 0 0 0 -1 0 -1 0 0 0 0 1 71533k02.dat
+1 16 -800 0 0 0 1600 0 1 0 0 0 0 1 71533k03.dat

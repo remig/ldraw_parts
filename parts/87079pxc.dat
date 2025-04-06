@@ -1,0 +1,11 @@
+0 Tile  2 x  4 with Dark Turquoise Filigrees, Magenta and White Quads Carpet Pattern
+0 Name: 87079pxc.dat
+0 Author: Bertrand Lequy [Berth]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS BrickLink 87079pb0643, Frozen, Set 41166, Set 43175
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079pxcs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87079pxcs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\87079pxcs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\87079pxcs01.dat

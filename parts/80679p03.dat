@@ -1,0 +1,14 @@
+0 Animal Squirrel Standing with Black Eye and Black Nose Pattern
+0 Name: 80679p03.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS Bricklink 80679pb03, Set 60326
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80679s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\80679s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80679p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\80679p01s01.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\80679p01s02.dat
+1 0 0 0 0 -1 0 0 0 1 0 0 0 1 s\80679p01s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80679p01s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\80679p01s03.dat
