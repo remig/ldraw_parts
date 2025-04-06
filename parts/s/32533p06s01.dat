@@ -1,11 +1,8 @@
-0 ~Technic Disc  5 x  5 Projectile with Bionicle Onu-Metru Pattern Half
+0 ~Technic Disc  5 x  5 Projectile with Bionicle Onu-Metru Pattern - Inner Half
 0 Name: s\32533p06s01.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 3 16 1.5 -8.796 3.45488 1.5 -8.77455 2.59811 1.885 -8.796 3.26496
 4 0 1.5 -8.77455 2.59811 1.5 -8.796 3.45488 1.443 -8.796 3.483 1.03575 -8.76637 2.5
 3 0 1.5 -8.77455 2.59811 1.03575 -8.76637 2.5 1.44336 -8.7714 2.5

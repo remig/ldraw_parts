@@ -1,13 +1,8 @@
 0 ~Minifig Head with LOTR Darkbrown Beard and Stubble Pattern - Half
 0 Name: s\3626cpm7s01.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
 1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-16cyli.dat
 1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t16o6250.dat
@@ -51,7 +46,6 @@
 5 24 0 20.695 -9.914 0 19.828 -11.535 4.106 20.695 -9.914 -3.794 20.695 -9.159
 5 24 0 19.828 -11.535 0 18.531 -12.619 4.778 19.828 -11.535 -4.414 19.828 -10.658
 5 24 0 18.531 -12.619 0 17 -13 5.227 18.531 -12.619 -4.83 18.531 -11.659
-0 // pattern
 4 15 -3.7 9.86 -12.264 -3.493 9.998 -12.305 -3.25 10.046 -12.354 -3.838 9.653 -12.237
 4 0 -3.7 9.86 -12.264 -3.838 9.653 -12.237 -4.671 10.06 -12.071 -4.601 10.566 -12.085
 4 0 -3.493 9.998 -12.305 -3.7 9.86 -12.264 -4.601 10.566 -12.085 -4.4 11.023 -12.125

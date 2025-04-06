@@ -1,15 +1,8 @@
 0 ~Minifig Helmet Stormtrooper Half Stormtrooper Pattern
 0 Name: s\30408s04.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-09-11 [anathema] File preparation for LDraw Parts Tracker
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 3 0 0 22.217 -22.407 0 24.726 -20.852 1.083 22.32 -22.33
 3 0 0 24.726 -20.852 0 26.183 -18.119 1.017 24.705 -20.769
 3 16 0 11.326 -21.625 1.62 11.593 -21.535 0 10.432 -21.481
@@ -335,4 +328,3 @@
 4 16 17.375 7.146 0.3 17.383 7.4 0.3 17.405 8.202 0.49 17.38 7.593 1.092
 3 16 17.1 4.4 0.3 17.086 4.302 0.327 17.094 4.345 0.254
 3 16 17.1 4.4 0.3 17.094 4.345 0.254 17.105 4.4 0.161
-0

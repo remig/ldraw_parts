@@ -1,15 +1,8 @@
 0 ~Door  1 x  8 x  6 Frame - Front Side
 0 Name: s\40242s04.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2007-08-25 {The LEGO Universe Team} Original part shape
-0 !HISTORY 2008-04-10 [Holly-Wood] File preparation for LDraw Parts Tracker
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 2 24 -60 0 -10 -45.37 0 -10
 2 24 -41 0 -10 -35.55 0 -10
 2 24 -26.52 0 -10 -17.15 0 -10
@@ -487,7 +480,6 @@
 2 24 -16.32 144 -8.75 -13.6 144 -8.75
 2 24 9.88 144 -8.75 12.93 144 -8.75
 2 24 45.8 144 -8.75 49.4 144 -8.75
-
 3 16 -40 54 -8.75 -40 54 -10 -40 48 -10
 4 16 -40 48 10 -40 54 10 -40 54 -8.75 -40 48 -10
 5 24 -40 48 10 -40 48 -10 -40 54 -8.75 -39.66 42.8 10
@@ -895,4 +887,3 @@
 4 16 -15.18 136 -10 -16.32 144 -10 -36.97 144 -10 -36.78 136 -10
 4 16 9.12 136 -10 9.88 144 -10 -13.6 144 -10 -12.65 136 -10
 4 16 45.8 144 -10 12.93 144 -10 13.42 136 -10 40 136 -10
-0

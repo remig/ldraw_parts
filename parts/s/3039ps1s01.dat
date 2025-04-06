@@ -1,13 +1,8 @@
 0 ~Slope Brick 45  2 x  2 with SW Trench Computer Pattern - Half
 0 Name: s\3039ps1s01.dat
 0 Author: Daniel Goerner [TK-949]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 4 16 16.42 0.823 -10.823 16.31 0.808 -10.808 16.31 5.255 -15.255 16.78 0.993 -10.993
 3 16 13.32 1.155 -11.155 14.052 0.767 -10.767 13.32 0.767 -10.767
 4 16 17.01 1.248 -11.248 16.78 0.993 -10.993 16.31 5.255 -15.255 17.1 1.545 -11.545

@@ -1,16 +1,8 @@
 0 ~Snow Flake  4 x  4 - Arm Half with Flat End
 0 Name: s\42409s01.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-0 !CATEGORY Belville
-
-0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-09-14 [anathema] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 3 16 3.506 -8.606 35.407 3.507 -8.609 39.75 3.075 -7.934 39.75
 3 16 3.078 -7.901 35.407 3.506 -8.606 35.407 3.075 -7.934 39.75
 2 24 4 -10.4 39.75 3.507 -8.609 39.75
@@ -215,7 +207,6 @@
 3 16 6.456 -8.883 29.4 7.676 -8.594 28.68 8.014 -10.43 30.432
 3 16 0 -5.072 9.794 0 -4.872 9.187 3.704 -7.191 10.004
 3 16 3.704 -7.191 10.004 0 -4.872 9.187 5.304 -4.881 9.187
-0 // Stud
 1 16 0 -10.4 39.75 4 0 0 0 0 -4 0 -4.35 0 1-4cylc.dat
 2 24 3.507 -8.609 39.75 3.075 -7.934 39.75
 5 24 3.075 -7.934 39.75 3.506 -8.606 35.407 3.507 -8.609 39.75 3.078 -7.901 35.407

@@ -1,17 +1,8 @@
 0 ~Slope Brick 45  2 x  1 Inverted without Inner Stopper Ring and Front Face
 0 Name: s\3665as01.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2008-07-11 [mkennedy] Made use of stud2s and more box and rect primitives.
-0 !HISTORY 2010-05-18 [Steffen] corrected stud orientation
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2016-01-11 [PTadmin] Renamed from s/3665s01
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 0 BFC INVERTNEXT
 1 16 0 24 0 6 0 0 0 -20 0 0 0 6 box5.dat
 4 16 -10 24 10 -6 24 6 6 24 6 10 24 10

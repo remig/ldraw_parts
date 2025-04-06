@@ -1,17 +1,8 @@
 0 ~Baseplate 32 x 32 with Island - Light Green Detail
 0 Name: s\3811p02b.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2004-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
-0 // Outer Ring
-
 4 16 184 0 184 175 0 175 171 0 179 175 0 191
 4 16 175 0 191 171 0 179 164 0 183 165 0 196
 4 16 165 0 196 164 0 183 156 0 186 146 0 197
@@ -26,7 +17,6 @@
 4 16 33 0 233 33 0 221 16 0 223 0 0 235
 3 16 0 0 223 0 0 235 16 0 223
 3 16 147 0 187 146 0 197 156 0 186
-
 0 Inner ring
 4 16 0 0 68 0 0 79 19 0 80 19 0 69
 4 16 19 0 69 19 0 80 33 0 83 37 0 74
@@ -34,4 +24,3 @@
 4 16 37 0 74 47 0 89 63 0 89 64 0 76
 3 16 64 0 76 63 0 89 75 0 83
 4 16 75 0 83 79 0 79 70 0 70 64 0 76
-0

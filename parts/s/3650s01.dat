@@ -1,15 +1,8 @@
 0 ~Technic Gear 24 Tooth Crown - Common Structure
 0 Name: s\3650s01.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2006-02-20 [guyvivan] Fixed gaps near torus and use more primitives (rect)
-0 !HISTORY 2006-05-27 [technog] Removed 3-8edge near axlehole, used more primitives
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 1 16 0 0 -8 1.148 0 2.772 2.772 0 -1.148 0 1 0 3-8ring2.dat
 1 16 0 0 -8 -1.148 0 -2.772 -2.772 0 1.148 0 1 0 3-8ring2.dat
 1 16 0 0 12 -0.765 0 -1.848 -1.848 0 0.765 0 -1 0 3-8ring3.dat
@@ -32,7 +25,7 @@
 1 16 0 0 0 5 0 0 0 0 5 0 -1 0 4-4ring3.dat
 1 16 0 0 -6 5 0 0 0 0 5 0 1 0 4-4ring3.dat
 1 16 0 0 0 5 0 0 0 0 5 0 -1 0 4-4ring4.dat
-1 16 0 0 0 1 0 0 0 0 1 0 -1 0 4-4rin25.dat
+1 16 0 0 0 1 0 0 0 0 1 0 -1 0 4-4ring25.dat
 1 16 0 0 0 5.74 0 13.858 -13.858 0 5.74 0 1 0 3-8edge.dat
 1 16 0 0 0 -5.74 0 -13.858 13.858 0 -5.74 0 1 0 3-8edge.dat
 0 BFC INVERTNEXT
@@ -277,4 +270,3 @@
 1 16 21.41 16.43 -3 -0.54 -1 0 0.7 0 0 0 0 3 rect2p.dat
 1 16 24.935 10.325 -3 -0.335 -1 0 0.815 0 0 0 0 3 rect2p.dat
 1 16 26.755 3.515 -3 -0.115 -1 0 0.875 0 0 0 0 3 rect2p.dat
-0

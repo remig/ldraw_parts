@@ -1,11 +1,8 @@
 0 ~Technic Sprocket Wheel 56.5 Hub Peghole
 0 Name: s\42529s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 20 0 0 1 0 0 0 0 1 0 1 0 connhole.dat
 1 16 20 0 -10 -9 0 0 0 0 9 0 2 0 5-16cylo.dat
 2 24 23.4443 8.3151 -10 24.8499 8.5239 -10

@@ -1,19 +1,8 @@
 0 ~Slope Brick 18  4 x  2 without Top Face
 0 Name: s\30363s01.dat
 0 Author: John Riley [jriley]
-0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2003-06-30 [jriley] Separated subpart out for use with patterned pieces
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-09-24 [mkennedy] Used stud4s primitives, boxes, and rects
-0 !HISTORY 2008-11-28 [tchang] Add 2 lines
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 6.667 -10 1 0 0 0 -4.333 0 0 0 1 stud4a.dat
 1 16 0 4 -10 6 0 0 0 1 0 0 0 6 2-4edge.dat
 1 16 0 4 -10 6 0 0 0 1 2 0 0 -6 2-4edge.dat
@@ -59,7 +48,5 @@
 1 16 0 12 -38 16 0 0 0 8 0 0 -24 4 box2-7.dat
 1 16 -10 0 0 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 10 0 0 0 0 1 0 1 0 -1 0 0 stud.dat
-0
 2 24 20 0 -10 20 20 -70
 2 24 -20 0 -10 -20 20 -70
-0

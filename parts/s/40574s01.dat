@@ -1,13 +1,8 @@
 0 ~Electric Spybotic Brick Chassis Half
 0 Name: s\40574s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
 1 16 70 0 -40 0 1 0 0 0 -1 -1 0 0 connhole.dat
 1 16 70 0 -60 0 1 0 0 0 -1 -1 0 0 connhole.dat
 1 16 70 0 60 0 1 0 0 0 -1 -1 0 0 connhole.dat
@@ -177,4 +172,3 @@
 3 16 62.1429 -10 -217 59 0 -192 54 -10 -192
 3 16 77.8571 0 -195 59 0 -192 62.1429 -10 -217
 3 16 80 0 -192 59 0 -192 77.8571 0 -195
-

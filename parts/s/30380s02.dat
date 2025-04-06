@@ -1,14 +1,8 @@
 0 ~Minifig Helmet SW Mandalorian with Rocket Pack Visor Side
 0 Name: s\30380s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2017-07-07 [Philo] File preparation for LDraw Parts Tracker
-
 3 16 15.483 13.185 -3.986 15.271 10.74 -4.886 14.598 13.404 -6.755
 3 16 14.598 13.404 -6.755 15.271 10.74 -4.886 14.371 10.943 -7.203
 3 16 14.598 13.404 -6.755 14.371 10.943 -7.203 12.014 13.767 -10.91

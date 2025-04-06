@@ -1,14 +1,8 @@
 0 ~Cone  1.5 x  1.5 x  0.667 Truncated without Outer Surface
 0 Name: s\33492s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-02-16 [Philo] File preparation for LDraw Parts Tracker
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 0 0 0 9.8 0 0 0 1 0 0 0 9.8 4-4edge.dat
 1 16 0 0 0 4.9 0 0 0 1 0 0 0 4.9 4-4ring1.dat
@@ -17,7 +11,7 @@
 1 16 0 8 0 -1 0 0 0 -2 0 0 0 1 stud4a.dat
 1 16 0 10.4 0 13.66061 0 0 0 1.4 0 0 0 13.66061 4-4cylo.dat
 1 16 0 15.6 0 10.92848 0 0 0 1 0 0 0 10.92848 4-4edge.dat
-1 16 0 15.6 0 0.91071 0 0 0 -1 0 0 0 0.91071 4-4rin11.dat
+1 16 0 15.6 0 0.91071 0 0 0 -1 0 0 0 0.91071 4-4ring11.dat
 0 BFC INVERTNEXT
 1 16 0 15.6 0 10.01778 0 0 0 -7.6 0 0 0 10.01778 4-4cylo.dat
 1 16 0 8 0 2.6 0 0 0 -1 0 0 0 2.6 4-4ring3.dat
@@ -88,4 +82,3 @@
 5 24 1.4627 0 -2.2627 1.4627 3 -2.2627 2.6343 3 0.5657 1.69701 0 -2.82839
 5 24 -2.6343 3 -0.5657 -2.6343 0 -0.5657 -1.4627 0 2.2627 -3.2 3 -0.8
 5 24 -1.4627 0 2.2627 -1.4627 3 2.2627 -2.6343 3 -0.5657 -1.69701 0 2.82839
-0 !LPE DISTANCE 24 7.3912 7.6 3.0616 7.3912 16 3.0616

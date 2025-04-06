@@ -1,13 +1,8 @@
-0 ~Minifig Head Alien with Robot Red Eyes and Mouth and Silver Metal Plates Eyebrows and Mask Pattern Half
+0 ~Minifig Head Alien with Robot Red Eyes and Mouth and Silver Metal Plates Eyebrows and Mask Pattern - Half
 0 Name: s\3626cp8gs01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-10-30 [MagFors] Pattern made by Christophe Mitillo
-
 4 0 4.975 12.018 -12.0106 4.975 11.348 -12.0106 4.901 11.371 -12.0253 4.314 12.083 -12.142
 4 0 4.314 12.083 -12.142 4.901 11.371 -12.0253 4.314 11.429 -12.142 4.098 12.157 -12.185
 4 0 4.098 12.157 -12.185 4.314 11.429 -12.142 3.726 11.371 -12.259 3.61 12.551 -12.2821

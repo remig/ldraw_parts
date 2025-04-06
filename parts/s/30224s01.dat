@@ -1,13 +1,8 @@
 0 ~Animal Fish Ornamental
 0 Name: s\30224s01.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 2 24 8.391 -8.935 4.048 8.391 -9.56 3.881
 2 24 8.391 -10.02 3.423 8.391 -10.19 2.798
 2 24 8.391 -8.935 1.548 8.391 -8.31 1.716
@@ -433,7 +428,6 @@
 2 24 7.18 -13.03 14.13 6.965 -10.85 16.06
 2 24 4.207 -33.418 11.003 3.6315 -32.2075 12.619
 2 24 3.6315 -32.2075 12.619 3.239 -30.58 13.97
-
 3 16 7.579 -9.116 6.5 7.367 -10.124 7.346 7.021 -9.553 5.332
 3 16 7.021 -9.553 5.332 7.549 -8.86 5.811 7.579 -9.116 6.5
 4 16 8.391 -10.02 2.173 8.391 -9.585 2.423 8.391 -9.685 2.798 8.391 -10.19 2.798

@@ -1,13 +1,8 @@
 0 ~Minifig Head with SW Black Eyebrows and Scars Pattern Face Half
 0 Name: s\3626bps7s01.dat
 0 Author: Daniel Goerner [TK-949]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2019-02-01 [Holly-Wood] Closed gaps
-
 4 0 4.975 6.41 -12.011 3.8 6.44 -12.245 4.23 7.17 -12.159 4.975 7.17 -12.011
 4 0 3.8 6.44 -12.245 3.45 6.54 -12.314 3.74 7.24 -12.256 4.23 7.17 -12.159
 4 0 5.9 6.57 -11.392 5.57 7.25 -11.613 5.82 7.37 -11.446 6.33 6.89 -11.105

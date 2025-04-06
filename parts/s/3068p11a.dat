@@ -1,18 +1,8 @@
 0 ~Launch Command Logo Pattern
 0 Name: s\3068p11a.dat
 0 Author: Miklos Hosszu [hmick]
-0 !LDRAW_ORG Subpart UPDATE 2004-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
-0 // A
-0 // space shuttle
-0 // a
 4 0 -1.50002 0 20.701 1.49995 0 20.701 0.982881 0 19.951 -0.982908 0 19.951
 4 0 -3.00002 0 16.701 3 0 16.701 3.00003 0 14.951 -3 0 14.9509
 4 0 -4 0 -3.29904 4 0 -3.29904 3.5 0 -3.79903 -3.5 0 -3.79904
@@ -207,4 +197,3 @@
 3 16 -3.7737 0 11.1412 -3.00001 0 10.701 -10 0 -3.29904
 3 16 -10 0 -3.29904 -10 0 -7.79907 -10.8091 0 -8.52141
 4 16 -10 0 -7.79907 -4.50001 0 -11.7991 -3.77372 0 -12.9893 -3.77371 0 -13.7393
-0

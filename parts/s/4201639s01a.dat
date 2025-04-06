@@ -1,15 +1,8 @@
 0 ~"CARGO" Background
 0 Name: s\4201639s01a.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
-0 // Created with Txt2Dat, Font IMPACT
-
 3 16 -54.1 0 -17.6 -60 0 -21 -51.1 0 -18.7
 3 16 -51.1 0 -18.7 -60 0 -21 -47.5 0 -19
 3 16 -56.3 0 -15.9 -60 0 -21 -54.1 0 -17.6

@@ -1,15 +1,8 @@
 0 ~Bamboo Leaf
 0 Name: s\30176s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
-0 !HISTORY 2010-02-26 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 1 16 19.5 0 0 0 -10 0 1.9 0 0 0 0 1.9 2-4cyli.dat
 1 16 19.5 0 0 0 1.9 0 1.9 0 0 0 0 1.9 2-8sphe.dat
 4 16 45.4 4.27 1.858 45.5 3.65 2.998 47.28 4.78 1.888 47.54 5.93 0

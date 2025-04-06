@@ -1,13 +1,8 @@
 0 ~Car Track 32 x 16 x  1 - Straight Section
 0 Name: s\30401s01.dat
 0 Author: Bernd Broich [bbroich]
-0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 1 16 144 13.5 38 0 4 0 0 0 9.5 -2 0 0 box4-1.dat
 1 16 156 13.5 38 0 -4 0 0 0 9.5 2 0 0 box4-1.dat
 0 BFC INVERTNEXT
@@ -91,4 +86,3 @@
 4 16 156 23 4 156 4 4 153.5 4 4 153.5 23 4
 4 16 156 24 280 160 24 280 160 24 0 156 24 0
 4 16 160 0 280 160 0 0 160 24 0 160 24 280
-0

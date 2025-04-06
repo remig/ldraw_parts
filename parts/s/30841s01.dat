@@ -1,14 +1,8 @@
 0 ~Windscreen  2 x  4 x  1.333 without Front and Sides
 0 Name: s\30841s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-12-17 [Philo] File preparation for LDraw Parts Tracker
-
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 stug-2x1.dat
 1 16 20 5 -10 -1 0 0 0 -6.75 0 0 0 1 stud4.dat
 4 16 40 32 -30 40 24 -30 30.962 24 -30 -40 32 -30
@@ -78,7 +72,6 @@
 3 16 29.214 11.908 -19.812 25.6568 5 -15.6568 27.3912 5 -13.0616
 2 24 0 25 -2 0.875 25 -2.174
 2 24 0 25 -18 0.875 25 -17.826
-
 1 16 0 5 -10 -1 0 0 0 -6.75 0 0 0 1 stud4.dat
 1 16 0 5 1.913 0 0 0.875 0 20 0 4.087 0 0 box3u4p.dat
 3 16 -40 32 -30 30.962 24 -30 -30.962 24 -30
@@ -100,10 +93,8 @@
 4 16 27.631 5 6 -27.631 5 6 -32.045 11.767 6 32.045 11.767 6
 2 24 -27.631 5 6 27.631 5 6
 2 24 -36.251 32 -26 36.251 32 -26
-
 2 24 -0.875 25 -2.174 0 25 -2
 2 24 -0.875 25 -17.826 0 25 -18
-
 1 16 -20 5 -10 1 0 0 0 -6.75 0 0 0 1 stud4.dat
 3 16 -30.962 24 -30 -40 24 -30 -40 32 -30
 3 16 -35.764 24 -25.396 -40 24 3.542 -40 24 -30

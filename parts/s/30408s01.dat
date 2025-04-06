@@ -1,15 +1,8 @@
 0 ~Minifig Helmet Stormtrooper Half without Patterned Areas
 0 Name: s\30408s01.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-09-11 [anathema] File preparation for LDraw Parts Tracker
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 0 BFC INVERTNEXT
 1 16 0 4 0 8 0 0 0 -12.8 0 0 0 -8 t04o6250.dat
 0 BFC INVERTNEXT
@@ -1196,4 +1189,3 @@
 5 24 11.537 3.917 -15.317 7.965 3.525 -18.17 7.97 5.128 -17.345 8.858 3.224 -16.953
 5 24 11.537 3.917 -15.317 13.953 3.838 -10.35 10.99 4.975 -14.939 11.446 3.109 -14.349
 5 24 6.355 3.071 -18.468 7.965 3.525 -18.17 5.065 3.847 -18.645 8.858 3.224 -16.953
-0

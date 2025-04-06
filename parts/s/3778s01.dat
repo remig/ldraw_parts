@@ -1,20 +1,8 @@
 0 ~Plant Tree Columnar  4 x  4 x 11.5 - Quarter
 0 Name: s\3778s01.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2004-03-23 [westrate] Quartered, fixed non-coplanar quads, BFC'ed
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2011-08-18 [PTadmin] Renamed from s/688s01
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-0 !HISTORY 2012-03-21 [cwdee] Description change
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 2 24 10 -34 0 10 -34 4
 4 16 0 -34 0 10 -34 0 10 -34 4 0 -34 4
 2 24 10 -34 4 17.55 -34 4
@@ -924,4 +912,3 @@
 4 16 9.165 -255 4 9.239 -255 3.827 0 -255 3.827 0 -255 4
 4 16 9.239 -255 3.827 7.071 -255 7.071 0 -255 7.071 0 -255 3.827
 4 16 7.071 -255 7.071 3.827 -255 9.239 0 -255 10 0 -255 7.071
-0

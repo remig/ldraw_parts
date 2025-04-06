@@ -1,13 +1,8 @@
 0 ~Animal Bat Half
 0 Name: s\30103s01.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 3 16 6.84 -8.2 -2.06 6.96 -6.21 -2.88 7.54 -6.21 0
 3 16 6.85 -8.22 0 6.84 -8.2 -2.06 7.54 -6.21 0
 3 16 6.84 -8.2 -2.06 6.29 -8.43 -2.61 6.96 -6.21 -2.88
@@ -1383,4 +1378,3 @@
 5 24 5.37 0 -5.37 4.24 0 -4.24 7.02 0 -2.91 2.91 0 -7.02
 5 24 2.91 0 -7.02 2.3 0 -5.54 5.37 0 -5.37 0 0 -7.6
 5 24 2.32 -24.46 -5.89 4.03 -24.94 -4.03 3.21 -25 -5.32 3.36 -24.5 -4.65
-0

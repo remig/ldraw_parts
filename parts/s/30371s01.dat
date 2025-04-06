@@ -1,11 +1,8 @@
 0 ~Minifig Head Gungan Split Eye
 0 Name: s\30371s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 3 16 6.2008 -32.1925 -11.0205 5.7617 -31.979 -10.7349 6.0425 -31.9202 -10.8654
 3 16 6.6079 -32.4122 -11.3876 6.2008 -32.1925 -11.0205 6.8853 -32.165 -11.2944
 3 16 7.4062 -32.4766 -11.6426 6.8853 -32.165 -11.2944 7.5588 -32.1591 -11.4038

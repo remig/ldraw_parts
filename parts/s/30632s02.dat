@@ -1,13 +1,8 @@
 0 ~Technic Grille  6 x  4 x  3 with  2 Pins and  2 Pin Holes - Inner Bar
 0 Name: s\30632s02.dat
 0 Author: Kevin Roach [KROACH]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-07 [MagFors] reduced resolution, reoriented
-
 1 16 -14 0 0 0 28 0 -1.53073 0 -3.69552 3.69552 0 -1.53073 7-8cyli.dat
 1 16 -3.4 0 0 0 6.8 0 -1.53073 0 3.69552 3.69552 0 1.53073 1-8cyli.dat
 1 16 3.4 0 0 0 1 0 1.531 0 -3.695 3.695 0 1.531 1-8edge.dat

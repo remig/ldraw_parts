@@ -1,11 +1,8 @@
 0 ~Plant Stem with  3 Leaves with Bar and Pin Holes Leaf
 0 Name: s\37695s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 3 16 -1.9487 -5.3741 6.5021 -1.2858 -5.4686 4.465 -1.1901 -4.7308 3.6428
 3 16 -1.9487 -5.3741 6.5021 -1.2345 -6.5685 5.1646 -1.2858 -5.4686 4.465
 3 16 -1.9826 -6.7936 7.3675 -1.2345 -6.5685 5.1646 -1.9487 -5.3741 6.5021

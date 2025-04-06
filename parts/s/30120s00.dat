@@ -1,16 +1,10 @@
 0 ~Minifig Helmet with Hexagonal Top Base
 0 Name: s\30120s00.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30120s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30120s01.dat
-0 // inner stud
 1 16 0 -4 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat
 1 16 0 -4 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 0 -2.4 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
@@ -19,7 +13,6 @@
 1 16 0 -2.75 0 6 0 0 0 -1.25 0 0 0 6 2-4cyli.dat
 0 BFC INVERTNEXT
 1 16 0 -2.75 0 -6 0 0 0 -1.25 0 0 0 -6 2-4cyli.dat
-
 5 24 0 2.4745 13.1264 0 -6.3125 4.5257 2.2725 -6.3125 3.9361 -2.2725 -6.3125 3.9361
 5 24 0 2.4745 17.0942 0 13.5592 17.0942 1.4535 2.4745 16.8792 -1.4535 2.4745 16.8792
 5 24 0 23.2805 -27.775 0 18.4162 -19.3667 0.6058 18.5896 -19.3573 -0.6058 18.5896 -19.3573

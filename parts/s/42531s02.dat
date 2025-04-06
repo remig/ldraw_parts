@@ -1,11 +1,8 @@
 0 ~Technic Panel  9 x  2 x  3 Mudguard Arched #30 Half Front
 0 Name: s\42531s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 3 16 8.3356 -8.5578 81 9 -7.6813 60.8813 9 0 72
 4 16 9 0 89 8.3356 -8.5578 89 8.3356 -8.5578 81 9 0 72
 3 16 9 -7.6813 60.8813 8.3356 -8.5578 81 7.4781 -16.4905 75

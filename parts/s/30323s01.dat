@@ -1,16 +1,8 @@
 0 ~Minifig Backpack with Sleeping Bag - Half
 0 Name: s\30323s01.dat
 0 Author: Mark Chittenden [mdublade]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-07-14 [mdublade] File preparation for LDraw Parts Tracker
-0 !HISTORY 2016-06-02 [Holly-Wood] Primitive substitution, BFCed, fixed edges und conds, fixed overlap, polished, subfiled
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 2 24 2.296 -3 -5.543 4.243 -3 -4.243
 2 24 0 -3 -6 2.296 -3 -5.543
 2 24 5.543 -3 -2.296 6 -3 0
@@ -271,7 +263,6 @@
 2 24 14.24 -17.5 34.4 14.02 -20.14 33.95
 2 24 13.67 -24.56 26.39 13.17 -22.93 24.38
 2 24 14.02 -24.24 30.08 13.86 -24.66 28.26
-
 0 BFC INVERTNEXT
 1 16 0 -3 0 0 0 6 0 3 0 -6 0 0 2-4cylo.dat
 1 16 0 -3 0 0 0 6 0 1 0 -6 0 0 2-4ndis.dat
@@ -279,7 +270,6 @@
 1 16 10.25 -3 -7.5 0 0 2.5 0 1 0 -2.5 0 0 1-4disc.dat
 1 16 10.25 -3 -7.5 0 0 2.5 0 3 0 -2.5 0 0 1-4cylo.dat
 1 16 10.25 0 -7.5 0 0 2.5 0 -1 0 -2.5 0 0 1-4disc.dat
-
 3 16 10.25 0 25.2 5 20.45 25.2 10.25 20.45 25.2
 4 16 10.25 0 25.2 10.25 0 10.81 0 0 10.81 0 0 25.2
 4 16 19.02 .155 24 18.75 .155 26.5 14.61 .155 26.5 14.88 .155 24
@@ -1158,7 +1148,6 @@
 3 16 13.69 -18.76 31.91 13.59 -20.41 31.17 14.465 -18.527 29.693
 3 16 13.69 -18.76 31.91 14.01 -22.27 33.06 13.59 -20.41 31.17
 3 16 13.69 -18.76 31.91 14.02 -20.14 33.95 14.01 -22.27 33.06
-
 5 24 0 0 -6 0 -3 -6 -2.485 0 -6 2.296 0 -5.543
 5 24 2.296 0 -5.543 2.296 -3 -5.543 0 0 -6 4.243 0 -4.243
 5 24 4.243 0 -4.243 4.243 -3 -4.243 2.296 0 -5.543 5.543 0 -2.296

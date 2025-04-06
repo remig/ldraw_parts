@@ -1,19 +1,8 @@
 0 ~Door  1 x  3 x  3 Left without Top Stud
 0 Name: s\3191s01.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-02-15 [PTadmin] Renamed from 3193
-0 !HISTORY 2010-02-16 [mikeheide] BFC'ed, made subpart
-0 !HISTORY 2010-02-17 [Steffen] corrected BFC, more primitives
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 0 72 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 2 24 6 72 10 6 72 50
 2 24 6 72 50 10 72 50
@@ -93,4 +82,3 @@
 1 16 6 39 40 0 4 0 2 0 0 0 0 -2 1-4cyli.dat
 1 16 13 33 40 0 2 0 -2 0 0 0 0 -2 1-4cyli.dat
 1 16 13 39 40 0 2 0 2 0 0 0 0 -2 1-4cyli.dat
-0

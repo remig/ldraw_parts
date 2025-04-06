@@ -1,13 +1,8 @@
 0 ~Door  1 x  4 x  6 with Window - Door Strap Rivets
 0 Name: s\40241s03.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 4 16 13.03 -0.7 2.49 13.74 -1 2.46 13.75 -0.86 2.96 13.14 -0.61 2.98
 4 16 13.74 -1 2.46 14.44 -0.7 2.43 14.37 -0.61 2.94 13.75 -0.86 2.96
 4 16 14.44 -0.7 2.43 14.73 0 2.42 14.62 0 2.93 14.37 -0.61 2.94
@@ -224,4 +219,3 @@
 5 24 23.41 0.36 2.97 23.26 0 2.98 23.13 0.62 2.62 23.76 0 3.09
 5 24 23.41 0.36 2.97 23.76 0 3.09 23.76 0.5 2.96 23.26 0 2.98
 5 24 23.26 0 2.98 23.76 0 3.09 23.41 0.36 2.97 23.41 -0.35 2.97
-0

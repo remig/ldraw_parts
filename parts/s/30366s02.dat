@@ -1,13 +1,8 @@
 0 ~Windscreen  3 x  6 x  5 Canopy without Front Face - Half
 0 Name: s\30366s02.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 20 0 10 20 0 0 0 1 0 0 0 10 rect2a.dat
 1 16 18 3 12 0 0 18 0 -1 0 -8 0 0 rect3.dat
 1 16 10 0 -10 0 0 10 0 1 0 -10 0 0 rect2a.dat
@@ -664,4 +659,3 @@
 2 24 24.344 111.656 -21.8361 26.936 113.392 -20
 4 16 26.936 113.392 -40 24.344 111.656 -40 24.344 111.656 -21.8361 26.936 113.392 -20
 5 24 24.344 111.656 -21.8361 24.344 111.656 -40 26.936 113.392 -40 22.608 109.064 -40
-0

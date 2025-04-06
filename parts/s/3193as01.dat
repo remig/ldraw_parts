@@ -1,18 +1,8 @@
 0 ~Door  1 x  3 x  4 Left without Top Stud
 0 Name: s\3193as01.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-02-15 [PTadmin] Renamed from 445, but 3193 was erroneously used for 1x3x3 door
-0 !HISTORY 2010-02-16 [mikeheide] BFC'ed, made subpart
-0 !HISTORY 2010-02-17 [Steffen] corrected BFC, more primitives, removed stud
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 0 96 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 2 24 6 96 10 6 96 50
 2 24 6 96 50 10 96 50

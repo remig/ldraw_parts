@@ -1,13 +1,8 @@
 0 ~Minifig Food Turkey - Half
 0 Name: s\33048s01.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 3 16 4.29 -17.03 -37.91 4.54 -11.62 -35.69 3.5 -17.03 -35.62
 3 16 3.71 -12.94 -33.66 3.5 -17.03 -35.62 4.54 -11.62 -35.69
 3 16 3.5 -17.03 -35.62 3.71 -12.94 -33.66 2.07 -17.03 -34.22
@@ -1367,4 +1362,3 @@
 2 24 1.17 -26.06 22.24 0 -26.06 22.24
 5 24 1.16 -30.68 14.91 0 -30.68 14.91 1.03 -34.2 5.99 0 -26.06 22.24
 5 24 1.37 -14.36 23.02 0 -26.06 22.24 1.17 -26.06 22.24 0 0 25.22
-0

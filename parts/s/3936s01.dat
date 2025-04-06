@@ -1,20 +1,13 @@
 0 ~Wing  4 x  4 Left without Studs
 0 Name: s\3936s01.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2004-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
-1 16 -20 4 20 1 0 0 0 -1 0 0 0 1 STUD4.DAT
-1 16 0 4 20 1 0 0 0 -1 0 0 0 1 STUD4.DAT
-1 16 -20 4 0 1 0 0 0 -1 0 0 0 1 STUD4.DAT
-1 16 0 4 0 1 0 0 0 -1 0 0 0 1 STUD4.DAT
-1 16 -20 4 -20 1 0 0 0 -1 0 0 0 1 STUD4.DAT
+1 16 -20 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat
+1 16 0 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat
+1 16 -20 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
+1 16 -20 4 -20 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 -10 6 36 26 0 0 0 0 2 0 1 0 rect2p.dat
 1 16 -11.5 6 -27.5 -8.5 1 0 0 0 2 -8.5 -1 0 rect2p.dat
 1 16 7.5 6 -8.5 -8.5 1 0 0 0 2 -8.5 -1 0 rect2p.dat
@@ -45,4 +38,3 @@
 1 16 28.5 4 30 0 -8.5 0 4 0 0 0 0 -10 box2-5.dat
 4 16 -3 8 -19 -7 8 -15 -5 8 -13 -1 8 -17
 1 16 -2 6 -18 0 -4 1 2 0 0 0 4 1 box3u2p.dat
-0

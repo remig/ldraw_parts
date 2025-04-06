@@ -1,11 +1,8 @@
 0 ~Sheet Plastic 15 x 28 Trapezoid Sail Edge
 0 Name: s\36069as02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 -0.25 -16.2 87.8 0.25 -16.2 87.8 0.25 38.2 118.8 -0.25 38.2 118.8
 4 16 -0.25 -22.4 83.8 0.25 -22.4 83.8 0.25 -16.2 87.8 -0.25 -16.2 87.8
 4 16 -0.25 -26.4 79.2 0.25 -26.4 79.2 0.25 -22.4 83.8 -0.25 -22.4 83.8

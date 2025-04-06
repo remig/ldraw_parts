@@ -1,13 +1,8 @@
 0 ~Vehicle Landing Skids - One Skid
 0 Name: s\30248s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 4 16 19 4 6 19 8 6 20 8 6 40 4 6
 3 16 40 4 6 20 8 6 40 24 6
 1 16 19 6 0 0 -1 0 -2 0 0 0 0 6 rect.dat
@@ -197,4 +192,3 @@
 1 16 60 22 53 0 -1 0 0 0 -2 -2 0 0 rect3.dat
 2 24 60 24 5 60 24 -5
 2 24 19 8 54 20 8 54
-0

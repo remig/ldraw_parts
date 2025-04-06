@@ -1,13 +1,8 @@
 0 ~Minifig Head Wookiee with Bandolier Munitions
 0 Name: s\30483s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 4 16 -6.6 25.4 -17.4 -4.8 24.7 -17.5 -3.8 23.5 -17.6 -4.3 23 -17.6
 4 16 -5.9 21.1 17.2 -7.5 21.3 17.2 -6.7 20.6 17.2 -6.5 20.5 17.2
 3 16 -7.5 21.3 17.2 -8.6 23.9 17.1 -8.4 22.3 17.2
@@ -246,8 +241,6 @@
 3 16 3.5 14.7 17.5 2.661 14.07 17.43 3.331 13.311 17.573
 3 16 3.331 13.311 17.573 3.639 12.962 17.639 3.5 14.7 17.5
 4 16 3.639 12.962 17.639 4.449 11.998 17.758 6.3 11.5 17.9 3.5 14.7 17.5
-0 //
-0 // Added lines/Condlines
 5 24 -6.6 25.4 -17.4 -4.8 24.7 -17.5 -3.8 23.5 -17.6 -6 26.1 -17.4
 5 24 -4.3 23 -17.6 -6.6 25.4 -17.4 -4.8 24.7 -17.5 -4.864 22.311 -17.6
 5 24 -5.9 21.1 17.2 -7.5 21.3 17.2 -6.7 20.6 17.2 -8.6 23.9 17.1

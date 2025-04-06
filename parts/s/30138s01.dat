@@ -1,15 +1,8 @@
 0 ~Minifig Headdress Indian Warbonnet - Unpatterned Surfaces
 0 Name: s\30138s01.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-03-14 [Holly-Wood] File preparation for LDraw Parts Tracker
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 2 24 5.342 1.44 -14.196 0 0.788 -15.063
 2 24 13.665 39.832 17.311 14.04 38.464 14.699
 2 24 13.599 -22.968 12.285 16.387 -19.949 12.988
@@ -785,7 +778,6 @@
 2 24 -12.162 -21.16 3.713 -12.275 -22.789 6.046
 2 24 -12.162 -21.16 3.713 -11.515 -18.15 1.218
 2 24 -11.515 -18.15 1.218 -10.758 -12.623 -2.734
-
 3 16 0 2.775 -13 5.342 1.44 -14.196 0 0.788 -15.063
 3 16 14.04 38.464 14.699 9.238 38.932 18.024 13.665 39.832 17.311
 3 16 11.32 -15.775 5.924 13.312 -22.207 11.462 13.199 -14.314 7.469
@@ -5118,8 +5110,6 @@
 5 24 17.231 20.306 7.976 18.726 12.71 4.478 17.673 14.545 2.033 18.244 18.556 10.393
 5 24 16.333 39.43 25.513 13.721 39.995 18.53 15.661 34.578 19.254 15.993 41.135 25.103
 5 24 -15.993 41.135 25.103 -15.661 34.578 19.254 -13.721 39.995 18.53 -16.333 39.43 25.513
-
-0 // Stud
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 -1 stud4o.dat
 1 16 0 0 0 4 0 0 0 -1 0 0 0 4 4-4ring2.dat
 1 16 0 0 0 2 0 0 0 -1 0 0 0 2 4-4ring6.dat

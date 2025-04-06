@@ -1,11 +1,8 @@
 0 ~Technic Steering Wheel Hub with Brake Disc and  3 Pegholes  1/6
 0 Name: s\35189s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 0 -6 0 0 53 -53 0 0 0 4 0 48\1-6cylo.dat
 1 16 0 0 -6 0 0 30 -30 0 0 0 -10 0 48\1-6cylo.dat
 1 16 0 -20 -20 0 0 1 1 0 0 0 1 0 2-4ring9.dat

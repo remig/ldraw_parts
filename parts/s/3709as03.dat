@@ -1,13 +1,8 @@
 0 ~Brick  2 x  4 with Top/Side/End Holes - Top without Studs
 0 Name: s\3709as03.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 2 24 40 0 20 40 0 -20
 2 24 40 0 -20 -40 0 -20
 2 24 -40 0 -20 -40 0 20
@@ -202,4 +197,3 @@
 2 24 14 4 -10 26 4 -10
 2 24 14 4 10 26 4 10
 2 24 14 4 6 26 4 6
-0

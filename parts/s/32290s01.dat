@@ -1,14 +1,8 @@
 0 ~1/2 Electric Technic Motor 4.5V  6 x 17 x  5 Lid
 0 Name: s\32290s01.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2008-05-31 [Philo] Added missing edgeline on back
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 4 16 51.42 92 -251.42 51.42 92 -100 60 89 -100 60 89 -260
 4 16 0 92 -251.42 51.42 92 -251.42 60 89 -260 0 89 -260
 4 16 40 96 -240 40 96 -100 44 94.6 -100 44 94.6 -244
@@ -541,4 +535,3 @@
 2 24 51.42 92 -251.42 51.42 92 -244
 4 16 50 92 -250 50 92 -244 51.42 92 -244 51.42 92 -251.42
 1 16 50 92 -250 0 0 -6 0 -1 0 6 0 0 1-4disc.dat
-0

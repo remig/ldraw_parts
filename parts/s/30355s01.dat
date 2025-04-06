@@ -1,13 +1,8 @@
 0 ~Wing  6 x 12 Left without studs
 0 Name: s\30355s01.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 -56 6 0 0 -1 0 2 0 0 0 0 116 rect.dat
 1 16 0 6 116 56 0 0 0 0 -2 0 1 0 rect.dat
 1 16 56 6 88.3245 0 1 0 -2 0 0 0 0 27.6755 rect.dat
@@ -220,4 +215,3 @@
 4 16 8 4 -96 0 4 -120 0 8 -120 8 8 -96
 4 16 4.205 4 -94.753 4.205 8 -94.753 -2.883 8 -116 -2.883 4 -116
 4 16 8 8 -96 0 8 -120 -2.883 8 -116 4.205 8 -94.753
-0

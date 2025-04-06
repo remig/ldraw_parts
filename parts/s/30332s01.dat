@@ -1,13 +1,8 @@
-0 ~Propellor Blade for Propellor  3 Blade  9 Diameter
+0 ~Propeller Blade for Propeller  3 Blade  9 Diameter
 0 Name: s\30332s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 88 0 -0.777 -2.781 -9.65 0 -65.937 0.436 -2.898 0.746 2.587 2-4cyli.dat
 1 16 0 88 0 -0.777 2.781 9.65 0 -65.937 0.436 -2.898 -0.746 -2.587 2-4cyli.dat
 1 16 0 88.436 0 -0.777 0 -9.66 0 4 0 -2.898 0 2.59 2-8sphe.dat

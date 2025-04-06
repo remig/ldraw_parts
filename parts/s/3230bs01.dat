@@ -1,13 +1,8 @@
 0 ~Train Track Slotted Rail Curved Inside - Middle Slot Segment
 0 Name: s\3230bs01.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 5 24 748 0 0 748 8 0 747.6 0 24.4739 747.6 0 -24.4739
 2 24 747.738 8 16 747.599 8 24.4739
 2 24 748 8 0 747.935 8 4
@@ -92,4 +87,3 @@
 5 24 755.595 12 24.7356 755.595 16 24.7356 754.381 12 49.4447 756 12 1.91347e-005
 5 24 759.593 8 24.8665 759.593 16 24.8665 758.373 16 49.7064 760 16 0
 5 24 749.598 0.5 24.5393 748.599 0 24.5066 748.394 0.5 49.0523 750 0.5 0
-0

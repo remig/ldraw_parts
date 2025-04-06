@@ -1,11 +1,8 @@
 0 ~Minifig Cape Cloth with Pointed Ends and Collar Half Surface
 0 Name: s\42450s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 -9.3 0 -81.5 -1 0 -94.8 0 0 -95.2 0 0 -35.9
 4 16 -9.3 0 -81.5 0 0 -35.9 -1.49 0 -35.61 -11.4 0 -79.1
 4 16 -11.4 0 -79.1 -1.49 0 -35.61 -2.76 0 -34.76 -12.8 0 -79.1

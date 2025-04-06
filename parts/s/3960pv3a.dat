@@ -1,13 +1,8 @@
 0 ~Viking Red and White Shield Pattern
 0 Name: s\3960pv3a.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 4 4 -34.7 6 4.57 -34.77 6 3.5 -33.5 5.538 3.5 -29.25 4.001 3.85
 4 4 -29.25 4.001 3.85 -33.5 5.538 3.5 -30 4.183 0 -29.5 4.001 0
 4 4 -33.81 6.002 9.06 -34.7 6 4.57 -29.25 4.001 3.85 -28.49 3.999 7.63
@@ -363,4 +358,3 @@
 4 4 33.81 6.002 9.06 28.49 4 7.64 29.25 4.001 3.85 34.7 6 4.57
 4 4 22 2 0 29.5 4.001 0 29.25 4.001 3.85 21.81 1.999 2.87
 4 4 21.81 1.999 2.87 21.25 2 5.69 13.17 0.606 3.53 13.51 0.605 1.78
-0

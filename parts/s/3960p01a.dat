@@ -1,17 +1,8 @@
 0 ~Dish  4 x  4 Inverted with Petal Pattern - Outline
 0 Name: s\3960p01a.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-08-13 [MagFors] bfc'd, added condlines
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 4 16 39.914 8 -1.305 38.584 7.5 -2.529 38.417 7.5 -5.057 39.656 8 -5.22
 4 16 39.656 8 5.22 38.417 7.5 5.057 38.584 7.5 2.529 39.914 8 1.305
 4 16 38.584 7.5 -2.529 36.017 6.5 -3.548 35.939 6.5 -4.731 38.417 7.5 -5.057
@@ -24,7 +15,6 @@
 4 16 29.246 4 3.85 21.811 2 2.871 21.858 2 2.153 29.31 4 2.888
 4 16 21.858 2 -2.153 9.936 0 -0.979 9.914 0 -1.305 21.811 2 -2.871
 4 16 21.811 2 2.871 9.914 0 1.305 9.936 0 0.979 21.858 2 2.153
-
 5 24 34.7 6 -4.568 39.656 8 -5.22 33.806 6 -9.058 35 6 0
 5 24 29.247 4 -3.85 34.7 6 -4.568 28.493 4 -7.635 29.5 4 0
 5 24 21.811 2 -2.871 29.247 4 -3.85 21.25 2 -5.693 22 2 0

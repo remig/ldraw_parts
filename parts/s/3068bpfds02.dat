@@ -1,13 +1,8 @@
 0 ~Tile  2 x  2 with Fabuland '5' Top Left Background
 0 Name: s\3068bpfds02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 4 16 -18 0 -18 -14.3 0 -13.9 -14.7 0 -11.8 -17.9 0 -5.026
 4 16 -17.9 0 -5.026 -14.7 0 -11.8 -14.5 0 -9.8 -16.8532 0 -4.6586
 4 16 -16.8532 0 -4.6586 -14.5 0 -9.8 -13.6 0 -7.9 -15.2875 0 -3.6125

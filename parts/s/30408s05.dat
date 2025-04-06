@@ -1,15 +1,8 @@
 0 ~Minifig Helmet Stormtrooper Half TIE-Fighter Pilot Pattern
 0 Name: s\30408s05.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-09-11 [anathema] File preparation for LDraw Parts Tracker
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 3 16 0 22.217 -22.407 0 24.726 -20.852 1.083 22.32 -22.33
 3 16 0 24.726 -20.852 0 26.183 -18.119 1.017 24.705 -20.769
 3 16 0 11.326 -21.625 1.62 11.593 -21.535 0 10.432 -21.481
@@ -674,4 +667,3 @@
 4 16 13.828 -0.564 -7.887 15.993 2.407 -4.135 15.952 2.311 -4.074 14.648 -0.456 -3.1
 4 16 15.2 2.527 -8.152 15.999 2.425 -4.145 15.993 2.407 -4.135 13.828 -0.564 -7.887
 3 16 16.005 2.424 -4.114 15.888 1.894 -2.1 14.648 -0.456 -3.1
-0

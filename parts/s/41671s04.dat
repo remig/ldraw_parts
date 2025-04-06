@@ -1,13 +1,8 @@
 0 ~Technic Windscreen  4 x  5 x  7 Rear Geometry Half
 0 Name: s\41671s04.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-11-19 [Holly-Wood] Fixed BFC error
-
 4 16 10.185 -52.25 126.72 10.185 -55.825 126.72 10.185 -53.335 130.53 10.19 -49.602 130.57
 4 16 10.185 -50.243 134.735 10.188 -49.603 134.735 10.19 -49.602 130.57 10.185 -53.335 130.53
 4 16 14.258 -49.602 129.502 10.188 -49.603 134.735 24.06 -49.603 130.217 20.85 -49.602 127.147

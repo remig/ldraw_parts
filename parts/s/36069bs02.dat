@@ -1,11 +1,8 @@
 0 ~Sheet Plastic 13 x 26 Triangular Sail Edge
 0 Name: s\36069bs02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 -0.25 -29 7.8 0.25 -29 7.8 0.25 -25 14.8 -0.25 -25 14.8
 4 16 -0.25 -25 14.8 0.25 -25 14.8 0.25 -18.7 19.2 -0.25 -18.7 19.2
 4 16 -0.25 -24.5 -6.3 0.25 -24.5 -6.3 0.25 -28.7 0.7 -0.25 -28.7 0.7

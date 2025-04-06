@@ -1,11 +1,8 @@
 0 ~Animal Spider Biomechanical Legs and Head Half
 0 Name: s\35039s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 2.75 0 0 0 8 0 -1 0 -8 0 0 3-8edge.dat
 1 16 0 2.75 0 0 0 8 0 -2.755 0 8 0 0 1-16cyli.dat
 1 16 0 0 0 0 0 8 0 -1 0 8 0 0 1-16edge.dat

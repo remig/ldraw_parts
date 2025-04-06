@@ -1,13 +1,8 @@
 0 ~Plant Tree Palm Base  4 x  4 Trunk Section
 0 Name: s\30338s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 1 16 0 0 -10 -4.5 0 0 0 1 0 0 0 -4 2-4edge.dat
 1 16 0 0 -10 -4.5 0 0 0 1 0 0 0 -4 2-4disc.dat
 1 16 0 0 -10 -0.5 0 0 0 34 0 0 2 -0.444444 1-4con8.dat
@@ -61,4 +56,3 @@
 2 24 -4.5 0 6 -4.5 0 10
 2 24 4.5 0 6 4.5 0 10
 4 16 4.5 0 -4.5 4.5 0 4.5 -4.5 0 4.5 -4.5 0 -4.5
-0

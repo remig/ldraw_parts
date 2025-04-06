@@ -1,11 +1,8 @@
-0 ~Hose Joiner  3 x  4 x  3 - Tube Joiner B
+0 ~Hose Joiner  3 x  4 x  3 - Hose Port
 0 Name: s\30585s02.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 32 -30 0 0 32 -32 0 0 0 -20 0 48\1-16cyli.dat
 0 BFC INVERTNEXT
 1 16 0 32 -50 30 0 0 0 0 -30 0 56 0 48\1-4cyli.dat

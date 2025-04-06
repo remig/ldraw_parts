@@ -1,12 +1,8 @@
 0 ~Wing Insectoid Small with Arm Hinge with Circuit Pattern
 0 Name: s\30231p01s02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-
 4 0 -16.68 -1 71.43 -17.38 -1 70.22 -16.9 -1 69.74 -16.02 -1 71.25
 4 0 -17.38 -1 74.04 -16.68 -1 72.83 -16.02 -1 73 -16.9 -1 74.52
 4 0 -17.38 -1 70.22 -18.59 -1 69.52 -18.41 -1 68.86 -16.9 -1 69.74

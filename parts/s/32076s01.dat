@@ -1,13 +1,8 @@
-0 ~Tyre 14/ 21 x 57  1/12
+0 ~Tyre 14/ 20 x 60  1/12
 0 Name: s\32076s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-24 [Philo] Adapted from Marc Klein 32078
-
 5 24 82.5385 0 13.7051 83.18 0 12.4251 83.082 1.4929 12.4251 81.2328 -7.7393 14.2145
 5 24 80.5867 0 17.5 81.5741 0 15.6296 83.082 1.4929 12.4251 79.2717 -12.8 16.7574
 3 16 80.6885 21.62 -13.705 82.819 10.9032 -13.7051 79.454 21.29 -16.2765

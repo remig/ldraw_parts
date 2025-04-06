@@ -1,11 +1,8 @@
 0 ~Brick  1 x  4 with Metallic Silver Claw Necklace Pattern - Half
 0 Name: s\3010pzes01.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 -39.5 0.912 0 -39.5 0.5 0 -40 0 0 -40 24 0
 4 16 -33.493 7.132 0 -36.609 2.093 0 -38.065 1.516 0 -33.517 8.335 0
 4 16 -33.517 8.335 0 -38.065 1.516 0 -39.5 0.912 0 -33.474 9.34 0

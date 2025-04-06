@@ -1,13 +1,8 @@
 0 ~Dish  4 x  4 Inverted AT-TE Quarter Pattern
 0 Name: s\3960ps1a.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 4 16 -40 8.001 0 -35 6.001 0 -34.7 6 4.57 -39.66 8.001 5.22
 4 16 -38.64 8.002 10.35 -39.66 8.001 5.22 -34.7 6 4.57 -33.81 6.002 9.06
 4 16 -35 6.001 0 -29.5 4.001 0 -29.25 4.001 3.85 -34.7 6 4.57
@@ -276,4 +271,3 @@
 5 24 -25.549 4 14.749 -30.311 6 17.501 -32.334 6 13.393 -23.402 4 17.958
 5 24 -19.052 2 11 -25.549 4 14.749 -27.253 4 11.289 -17.453 2 13.393
 5 24 -8.66 0 5 -19.052 2 11 -20.324 2 8.42 -7.933 0 6.087
-

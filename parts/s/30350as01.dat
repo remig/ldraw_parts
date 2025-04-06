@@ -1,24 +1,8 @@
 0 ~Tile  2 x  3 with Clips Horizontal (Angled Clips) without Top
 0 Name: s\30350as01.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2001-11-23 [pneaster] corrected BFC use of primitive files.
-0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
-0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-10-02 [Steffen] BFC rationalisation
-0 !HISTORY 2012-10-28 [MagFors] Removed overlapping surfaces, "boxified"
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-0 !HISTORY 2017-02-20 [Philo] Renamed from 30350s01, added missing reinforcement
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
-0 // top surface (used for patterning)
-0 // 4 16 -20 0 30 -20 0 -30 20 0 -30 20 0 30
-
 1 16 0 4 -10 0 0 -1 0 -1 0 1 0 0 stud4.dat
 1 16 0 4 10 0 0 -1 0 -1 0 1 0 0 stud4.dat
 0 BFC INVERTNEXT
@@ -32,7 +16,6 @@
 2 24 -20 8 30 -14 8 30
 2 24 20 8 30 20 0 30
 2 24 14 8 30 20 8 30
-0 // clip
 1 16 -10 -2.5 38.5 4 0 0 0 -3 -0.5 0 2.5 -5 box2-5.dat
 1 16 -10 -2.9142 44.4142 4 0 0 0 -0.0858 2 0 1.5858 0 box2-7.dat
 0 BFC INVERTNEXT
@@ -63,7 +46,6 @@
 4 16 -6 9 46 -6 6 44 -6 6 36 -6 10 34
 3 16 -6 6 44 -6 9 46 -6 5 46
 3 16 -6 4.8284 42.8284 -6 6 44 -6 5 46
-0 // clip
 1 16 10 -2.5 38.5 4 0 0 0 -3 -0.5 0 2.5 -5 box2-5.dat
 1 16 10 -2.9142 44.4142 4 0 0 0 -0.0858 2 0 1.5858 0 box2-7.dat
 0 BFC INVERTNEXT

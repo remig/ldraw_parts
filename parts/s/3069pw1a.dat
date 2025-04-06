@@ -1,13 +1,8 @@
 0 ~Tile  1 x  2 with Playing Cards Pattern - Letter A
 0 Name: s\3069pw1a.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 4 16 -1.1 0 -0.95 -0.938 0 -0.916 -0.732 0 -1.06 -1.1 0 -1.06
 4 16 -0.578 0 -0.881 -0.495 0 -0.933 -0.732 0 -1.06 -0.938 0 -0.916
 4 16 -0.495 0 -0.933 -0.36 0 -0.95 -0.36 0 -1.06 -0.732 0 -1.06
@@ -26,4 +21,3 @@
 3 16 0.615 0 -1.06 0.883 0 -0.884 0.973 0 -0.937
 4 16 1.1 0 -0.95 1.1 0 -1.06 0.615 0 -1.06 0.973 0 -0.937
 4 16 0.207 0 -0.345 -0.473 0 -0.345 -0.428 0 -0.215 0.166 0 -0.215
-0

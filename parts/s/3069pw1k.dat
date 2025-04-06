@@ -1,13 +1,8 @@
 0 ~Tile  1 x  2 with Playing Cards Pattern - Letter K
 0 Name: s\3069pw1k.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 1 16 -1.16 0 0.7 0.28 0 0 0 1 0 0 0 0.25 1-4ndis.dat
 1 16 -0.12 0 0.7 -0.28 0 0 0 1 0 0 0 0.25 1-4ndis.dat
 1 16 -1.16 0 -0.7 0.28 0 0 0 1 0 0 0 -0.25 1-4ndis.dat
@@ -38,4 +33,3 @@
 4 16 1.16 0 -1.06 0.1 0 -1.06 0.198 0 -0.931 0.996 0 -0.922
 3 16 0.198 0 -0.931 0.1 0 -1.06 0.1 0 -0.95
 3 16 1.16 0 -0.95 1.16 0 -1.06 0.996 0 -0.922
-0

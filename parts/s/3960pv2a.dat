@@ -1,13 +1,8 @@
 0 ~Viking Red and Blue Shield Pattern
 0 Name: s\3960pv2a.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 4 0 10.948 1.33 14.264 9.4 1.247 14.7 7.657 0.604 11.237 8.3 0.605 10.81
 4 0 12 1.794 16.9 10.3 1.622 16.8 9.4 1.247 14.7 10.948 1.33 14.264
 4 0 12.407 1.999 18.108 11 2 19.05 10.3 1.622 16.8 12 1.794 16.9
@@ -277,4 +272,3 @@
 4 4 11 2 -19.05 8.42 2.001 -20.33 11.29 3.999 -27.25 14.75 4.001 -25.55
 4 4 3.85 4.001 -29.25 2.87 1.999 -21.81 0 2 -22 0 4.001 -29.5
 4 4 2.87 1.999 -21.81 3.85 4.001 -29.25 7.64 4 -28.49 5.69 2 -21.25
-0

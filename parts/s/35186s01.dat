@@ -1,11 +1,8 @@
 0 ~Technic Transmission Driving Ring Extension Clutch Tooth
 0 Name: s\35186s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 -11.5767 -13 0 0 1.5 0 -1.9231 0 -3 0 0 box3u5p.dat
 2 24 1.5 -13.5 -16 0 -11.875 -18
 2 24 1.5 -11.5767 -16 0 -11.875 -18

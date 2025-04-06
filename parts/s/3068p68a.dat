@@ -1,26 +1,14 @@
 0 ~Pattern MTron Logo
 0 Name: s\3068p68a.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2003-07-11 [Steffen] subfiled, fixed one overlap (black "triangle" poking into M from top
-0 !HISTORY 2003-09-10 [mkennedy] cleaned up some, fixed gaps
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-10-11 [Darats] T-Junctions Removed and Gaps Filled
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 0 0 -18.5 0 0 0 1 0 0 0 18.5 4-4ndis.dat
 1 0 0 0 0 -18.5 0 0 0 1 0 0 0 18.5 1-4chrd.dat
 1 0 0 0 0 0 0 18.5 0 1 0 18.5 0 0 1-4chrd.dat
 1 0 0 0 0 13.0815 0 -13.0815 0 1 0 -13.0815 0 -13.0815 1-4chrd.dat
 1 0 0 0 0 18.5 0 0 0 1 0 0 0 -18.5 1-8chrd.dat
 1 0 0 0 0 -13.0815 0 -13.0815 0 1 0 -13.0815 0 13.0815 1-8chrd.dat
-
 3 0 -18.5 0 0 -13.0815 0 -13.0815 -14.85 0 -7.25
 3 0 -10.87 0 -4.79 -10.3 0 -3.54 -12.86 0 -6.02
 3 0 -10.3 0 -3.54 -10.2 0 -3.37 -12.86 0 -6.02

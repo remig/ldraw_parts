@@ -1,18 +1,8 @@
 0 ~Classic Space Logo Pattern - Gold Detail
 0 Name: s\3939p91a.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Subpart UPDATE 2004-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06
-0 !HISTORY 2004-03-16 [Holly-Wood] separated into subpart made BFC compliant
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
-0 // Gold
 4 16 -7.401 0 15.896 -7.004 0 15.39 -7.6 0 15.227 -7.987 0 15.714
 4 16 -3.482 0 15.006 -4.682 0 14.933 -4.719 0 15.511 -4.123 0 15.475
 4 16 -3.618 0 14.518 -4.123 0 14.536 -4.682 0 14.933 -3.482 0 15.006
@@ -92,4 +82,3 @@
 3 16 -10.131 0 -13.3 -9.469 0 -14.618 -10.309 0 -15.204
 4 16 -10.131 0 -13.3 -8.554 0 -13.344 -8.64 0 -14.309 -9.469 0 -14.618
 3 16 -8.554 0 -13.344 -7.861 0 -14.096 -8.64 0 -14.309
-0

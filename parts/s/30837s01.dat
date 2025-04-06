@@ -1,11 +1,8 @@
 0 ~Car Base  4 x  8 x  1.333 with Studs on Side - Wheel Pin
 0 Name: s\30837s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 18 28 -10 0 0 -2 0 4 0 -2 0 0 box4-4a.dat
 1 16 60 12 -11.9 0 0 -1 0 16 0 -4.1 0 0 box3u4p.dat
 2 24 59 28 -7.8012 60 28 -8
@@ -19,8 +16,6 @@
 3 16 24 32 -16 20 32 -12 20 32 -8
 3 16 20 32 -16 20 32 -12 24 32 -16
 4 16 42 32 -20 36 32 -20 20 32 -16 24 32 -16
-
-0 // 1x4 with side studs
 4 16 36 4 -24 36 12 -24 36 32 -36 36 4 -36
 4 16 36 32 -20 36 32 -36 36 12 -24 36 12 -20
 4 16 40 32 -40 36 32 -36 36 32 -20 40 32 -22
@@ -41,8 +36,6 @@
 2 24 36 32 -20 36 12 -20
 2 24 24 28 -20 24 12 -20
 2 24 36 12 -24 20 12 -24
-
-0 // wheel pin
 2 24 42 32 -20 44 32 -21.1374
 2 24 40 32 -22 44 32 -24.1273
 2 24 76 32 -24.1273 80 32 -22

@@ -1,13 +1,8 @@
 0 ~Animal Owl - Half
 0 Name: s\40232s01.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 3 16 9.34 -14.3 2.92 10.32 -15.41 3.15 9.84 -13.76 0.14
 3 16 10.32 -15.41 3.15 9.34 -14.3 2.92 8.95 -14.73 5.13
 3 16 2.08 -14.05 23.47 1.88 -13.59 23.37 0 -14.04 23.52
@@ -1494,4 +1489,3 @@
 5 24 8.7 -14.1 -5.21 8.62 -14.95 -6.66 7.4 -13.84 -6.59 10.02 -15.17 -4.43
 5 24 8.17 -12.81 -5.35 7.4 -13.84 -6.59 6.52 -12.37 -7.95 8.7 -14.1 -5.21
 5 24 8.95 -14.73 5.13 7.71 -13.24 6.78 7.78 -13 5.51 7.6 -14.84 7.42
-0

@@ -1,13 +1,8 @@
 0 ~Plant Tree Palm Base  4 x  4 Inter-segment Lines
 0 Name: s\30338s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 2 24 -7.128 -63.351 -10.595 -7.994 -63.229 -9.441
 2 24 -7.128 -63.351 -10.595 -5.833 -63.533 -11.362
 2 24 -5.833 -63.533 -11.362 -4.308 -63.747 -11.626
@@ -209,4 +204,3 @@
 2 24 -22.824 -224.098 -4.962 -23.147 -224.149 -4.475
 2 24 -22.712 -224.08 -5.536 -22.824 -224.098 -4.962
 2 24 -26.767 -224.722 -4.03 -24.198 -224.315 -4.034
-0

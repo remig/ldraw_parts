@@ -1,18 +1,8 @@
-0 ~Motor Pull Back  2 x  6 x  1.333 Type 1 - Top Back (Needs Work)
+0 ~Motor Pull Back  2 x  6 x  1.333 Top Back (Needs Work)
 0 Name: s\41856s01.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !CATEGORY Vehicle
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
-0 // Needs Work: Hole for screw is missing
-0 //             Elements hidden in motor assembly are not modelled
-
 1 16 -10 8 5.5 4 0 0 0 0 4 0 -1 0 4-4edge.dat
 1 16 10 8 5.5 4 0 0 0 0 4 0 -1 0 4-4edge.dat
 1 16 10 8 5.5 4 0 0 0 0 4 0 -1 0 4-4disc.dat
@@ -154,7 +144,6 @@
 2 24 -8 11.8 3 -8 24 3
 2 24 2 9.5 3.602 2 24 3.602
 2 24 -2 9.5 3.602 -2 24 3.602
-0 //
 2 24 2.296 9.5 3.543 4.243 9.5 2.243
 2 24 0 9.5 4 2.296 9.5 3.543
 2 24 -2.296 9.5 3.543 0 9.5 4

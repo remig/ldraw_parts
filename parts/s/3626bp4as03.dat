@@ -1,11 +1,8 @@
 0 ~Minifig Head Skull Evil with Scowl Eyeshadow Pattern
 0 Name: s\3626bp4as03.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 -7.337 7.828 -10.432 -7.619 8.481 -10.244 -6.245 8.839 -11.162 -5.758 8.067 -11.487
 4 16 -7.619 8.481 -10.244 -7.798 9.134 -10.124 -6.416 9.75 -11.048 -6.245 8.839 -11.162
 4 16 -6.416 9.75 -11.048 -7.798 9.134 -10.124 -7.859 9.86 -10.083 -7.798 10.476 -10.124

@@ -1,15 +1,8 @@
 0 ~Minifig Helmet Mining Half
 0 Name: s\30325s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-11-03 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-11-15 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 0 BFC INVERTNEXT
 1 16 0 4 0 0 0 8 0 -12.8 0 8 0 0 t04o6250.dat
 0 BFC INVERTNEXT
@@ -987,8 +980,6 @@
 2 24 18.285 13.993 5.216 18.011 13.019 5.115
 2 24 17.003 14.742 -2.203 18.011 15.682 -2.203
 2 24 18.011 13.019 5.115 17.003 12.215 4.742
-
-0 // Added lines/Condlines
 5 24 14.25 4.565 0 14.751 4.565 0 14.25 4.833 -1 14.751 4.833 1
 5 24 14.751 4.833 -1 14.25 4.833 -1 14.751 4.565 0 14.25 5.565 -1.732
 5 24 14.751 5.565 -1.732 14.25 5.565 -1.732 14.751 4.833 -1 14.25 6.565 -2

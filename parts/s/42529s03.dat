@@ -1,11 +1,8 @@
 0 ~Technic Sprocket Wheel 56.5 Hub Back Quarter
 0 Name: s\42529s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 20 0 10 9 0 0 0 0 9 0 -14 0 5-16cylo.dat
 1 16 20 0 10 -9 0 0 0 0 9 0 -14 0 1-8cylo.dat
 1 16 0 0 10 9 0 0 0 0 9 0 -14 0 1-8cylo.dat
@@ -92,7 +89,6 @@
 2 24 47.7437 7.99 -4 34.1931 0.763 -4
 2 24 34.1931 0.763 -4 33.8582 0.4444 -4
 2 24 33.8582 0.4444 -4 33.7353 0 -4
-
 5 24 48.6067 7.4507 -4 47.725 7 -3 48.6437 0 -4 48.2799 7.8201 -4
 5 24 47.725 7 -3 48.2799 7.8201 -4 48.6067 7.4507 -4 47.7437 7.99 -4
 5 24 47.725 7 -3 47.7437 7.99 -4 34.6 0 -3 48.2799 7.8201 -4

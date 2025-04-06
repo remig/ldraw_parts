@@ -1,13 +1,8 @@
 0 ~Minifig Leg with War Machine Armoured Suit Kneepad Pattern
 0 Name: s\3816pbda.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 3 0 -10.3 0 -9 -13.7 0 -9 -13.4 0.2 -8.958
 3 0 -7.4 -0.4 -8.916 -7.6 -0.3 -8.937 -6.9 0 -9
 3 0 -7.6 -0.3 -8.937 -8.7 -0.3 -8.937 -6.9 0 -9
@@ -200,11 +195,7 @@
 4 80 -10.6 2.8 -8.411 -13.097 3.42 -8.28 -7.503 3.42 -8.28 -10 2.8 -8.411
 4 80 -6.261 3.721 -8.073 -7.503 3.42 -8.28 -8.2 5.6 -6.783 -6.803 6.5 -6.165
 4 80 -8.7 6 -6.508 -11.9 6 -6.508 -11.9 6.5 -6.165 -8.7 6.5 -6.165
-
-0 // top of foot
 4 16 -19.18 20 -6 -19.18 20 -11 -1.5 20 -11 -1.5 20 -6
-
-0 // foot
 4 0 -7 24.6 -11 -6.1 25.3 -11 -6.2 24.4 -11 -7.2 21.3 -11
 4 0 -6.2 24.4 -11 -6.1 25.3 -11 -3.9 23.8 -11 -3.9 22.9 -11
 4 0 -2.4 25 -11 -2.4 24.1 -11 -3.9 22.9 -11 -3.9 23.8 -11

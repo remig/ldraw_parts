@@ -1,13 +1,8 @@
 0 ~Technic Windscreen  4 x  5 x  7 Half
 0 Name: s\41671s01.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-11-19 [Holly-Wood] Fixed flat subfile which was scaled in flat direction
-
 1 16 30.217 -52.028 54.8225 0 -1.25 0 0 0 -1.6285 1.6285 0 0 4-8sphe.dat
 1 16 10 -20 0 0 -3.953 0 0 0 -9 -9 0 0 1-8cyli.dat
 1 16 10 -20 0 0 -1 0 0 0 -9 -9 0 0 1-8edge.dat
@@ -336,7 +331,6 @@
 2 24 30.148 -50.861 53.726 30.148 -50.552 54.188
 2 24 30.148 -50.552 54.188 30.148 -50.523 54.289
 2 24 30.148 -50.523 54.289 30.148 -50.417 54.822
-
 4 16 32.647 -53.845 48.481 32.647 -57.798 60.199 41.182 -53.837 61.17 40.88 -50.29 49.886
 3 16 20.855 -54.606 41.115 27.32 -48.13 33.78 20.855 -47.757 30.116
 4 16 27.32 -48.13 33.78 20.855 -54.606 41.115 27.32 -52.946 41.979 30.148 -49.603 37.927

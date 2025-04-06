@@ -1,11 +1,8 @@
 0 ~Wheel Rim 14 x 60 with 3 Spokes and 3 Pegholes 1/6
 0 Name: s\32057s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 0 -17.5 74 0 0 0 0 74 0 3 0 48\1-6cylo.dat
 1 16 0 0 17.5 74 0 0 0 0 74 0 -3 0 48\1-6cylo.dat
 2 24 70.5325 21.9362 -17.5 65.8064 21.2498 -16.228

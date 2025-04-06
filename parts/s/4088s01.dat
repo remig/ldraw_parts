@@ -1,14 +1,8 @@
 0 ~Brick  1 x  4 x  2 with Centre Stud Top without Front Surface
 0 Name: s\4088s01.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Subpart UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-12-10 [cwdee] Reworked to remove t-junctions
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stud.dat
 4 16 17 0 10 -17 0 10 -17 0 -10 17 0 -10
 1 16 17 3 -10 3 0 0 0 0 -3 0 20 0 1-4cyli.dat
@@ -158,4 +152,3 @@
 5 24 25.757 26.757 6 25.757 26.757 -6 25.389 27.889 -6 27.7038 25.4566 -6
 5 24 -25.389 27.889 6 -25.389 27.889 -6 -25.757 26.757 6 -23.6048 29.0815 -6
 5 24 -25.757 26.757 -6 -25.757 26.757 6 -25.389 27.889 6 -27.7038 25.4566 -6
-

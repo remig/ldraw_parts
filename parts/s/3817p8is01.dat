@@ -1,16 +1,9 @@
 0 ~Minifig Leg Left Front Surface with 'EMMET' Badge Pattern
 0 Name: s\3817p8is01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-10-28 [MagFors] Pattern created by Christophe Mitillo
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 4 16 1.5 20 -6 1.5 20 -11 19.18 20 -11 19.18 20 -6
-0 // leg
 4 80 18.3 10 -6 2.05 10 -6 2.05 14.95 -6 18.3 14.95 -6
 4 16 2.05 10 -6 2 7.7 -6 1.5 7.7 -6 1.5 20 -6
 3 16 2.05 10 -6 1.5 20 -6 2.05 14.95 -6
@@ -18,7 +11,6 @@
 4 16 19.18 20 -6 18.68 7.7 -6 18.3 10 -6 18.3 14.95 -6
 4 16 18.3 10 -6 18.68 7.7 -6 2 7.7 -6 2.05 10 -6
 4 16 18.68 7.7 -6 18.64 6.74 -6 2 6.74 -6 2 7.7 -6
-0 // EMMET tag
 4 0 11.4 -4.5 -7.537 11.754 -4.854 -7.294 11.591 -4.962 -7.22 11.4 -5 -7.194
 4 0 9.85 -4.5 -7.537 9.85 -5 -7.194 9.659 -4.962 -7.22 9.496 -4.854 -7.294
 4 0 9.388 -4.691 -7.406 9.35 -4.5 -7.537 9.85 -4.5 -7.537 9.496 -4.854 -7.294

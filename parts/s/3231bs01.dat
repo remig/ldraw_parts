@@ -1,13 +1,8 @@
 0 ~Train Track  4.5V Crossing Slotted - Rail End
 0 Name: s\3231bs01.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 2 24 -10 1 2 -10 1 -2
 2 24 -10 1 2 -10 8 2
 2 24 -10 8 2 -10 8 10
@@ -70,4 +65,3 @@
 4 16 6.5 8 2 6.5 6 2 6.5 6 -2 6.5 8 -2
 4 16 6.5 16 6 6.5 16 -6 14 16 -10 14 16 10
 1 16 10 12 0 0 -20 0 -4 0 0 0 0 -10 box3u7a.dat
-0

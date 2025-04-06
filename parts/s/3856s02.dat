@@ -1,13 +1,8 @@
 0 ~Window  1 x  2 x  3 Shutter - End
 0 Name: s\3856s02.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 4 0 2 0 0 0 2 0 0 0 2 2-4cyli.dat
 1 16 0 4 0 2 0 0 0 1 0 0 0 2 4-4edge.dat
 1 16 0 4 0 -2 0 0 0 -1 0 0 0 2 4-8sphe.dat
@@ -30,4 +25,3 @@
 2 24 -1 1 -4 -2 1 -4
 2 24 -2 4 -2 -2 4 0
 1 16 0 0.5 -4 -1 0 0 0 0 -0.5 0 -1 0 rect3.dat
-0

@@ -1,13 +1,8 @@
 0 ~Minifig Leg Left with Astro Pattern - Gold Detail
 0 Name: s\3817p6fa.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 3 16 15.921 -3.5037 -8.2123 15.5 -3.42 -8.2692 15.5 -4.52 -7.5212
 3 16 16.2778 -3.7422 -8.0501 15.921 -3.5037 -8.2123 15.5 -4.52 -7.5212
 3 16 16.5163 -4.099 -7.8075 16.2778 -3.7422 -8.0501 15.5 -4.52 -7.5212
@@ -42,4 +37,3 @@
 3 16 4.2 1.8763 -8.605 3.5636 1.1205 -8.7641 3.8556 .8888 -8.8129
 3 16 4.2 1.8763 -8.605 3.8556 .8888 -8.8129 4.2 .8075 -8.83
 4 16 4.2 .8075 -8.83 15.5 .8075 -8.83 15.5 3.42 -8.28 4.2 2.945 -8.38
-0
