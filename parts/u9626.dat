@@ -1,0 +1,8 @@
+0 ~Electric Technic Motor Connector
+0 Name: u9626.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+1 16 0 26 39 16 0 0 0 7 0 0 0 1 box.dat
+1 494 0 0 0 1 0 0 0 1 0 0 0 1 s\u9626s01.dat
+1 494 0 0 0 -1 0 0 0 1 0 0 0 1 s\u9626s01.dat

@@ -1,0 +1,14 @@
+0 Box with 3 Faces without 4 Adjacent and 2 Parallel Edges
+0 Name: box3u6a.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+2 24 1 1 1 -1 1 1
+2 24 -1 1 -1 1 1 -1
+2 24 1 0 -1 1 1 -1
+2 24 1 0 1 1 1 1
+2 24 -1 0 -1 -1 1 -1
+2 24 -1 0 1 -1 1 1
+4 16 1 1 -1 -1 1 -1 -1 1 1 1 1 1
+4 16 -1 1 1 -1 0 1 1 0 1 1 1 1
+4 16 1 1 -1 1 0 -1 -1 0 -1 -1 1 -1

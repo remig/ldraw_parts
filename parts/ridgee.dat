@@ -1,0 +1,9 @@
+0 Underside Stud Holder Ridge Edge
+0 Name: ridgee.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+2 24 1.5 0 0 1.5 0 1
+2 24 -1.5 0 1 -1.5 0 0
+2 24 -1.5 0 1 0 0 2.5
+2 24 1.5 0 1 0 0 2.5

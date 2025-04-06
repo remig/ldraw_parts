@@ -1,0 +1,11 @@
+0 Ring  4 x  4 with  2 x  2 Hole and  4 Arrow Ends
+0 Name: 98341.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !CATEGORY Figure Accessory
+0 !KEYWORDS Crown, Ninjago, spinner
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98341s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\98341s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\98341s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\98341s01.dat
