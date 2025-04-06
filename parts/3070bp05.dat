@@ -1,18 +1,8 @@
 0 Tile  1 x  1 with White "60" Pattern
 0 Name: 3070bp05.dat
 0 Author: John Riley [jriley]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2003-07-02 [Steffen] fixed BFC errors
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-10-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-08-12 [anathema] Improved pattern
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
 4 15 -6.489 0 -1.963 -6.668 0 -1.434 -8.847 0 -2.149 -8.503 0 -3.058
 4 15 -6.489 0 -1.963 -8.503 0 -3.058 -8.022 0 -3.798 -6.189 0 -2.382
@@ -258,4 +248,3 @@
 3 16 -2.079 0 2.126 -1.977 0 3.823 -2.136 0 3.779
 3 16 -1.587 0 3.956 -1.703 0 3.926 -2.079 0 2.126
 3 16 -4.077 0 6.442 -0.271 0 10 -5.116 0 6.508
-0

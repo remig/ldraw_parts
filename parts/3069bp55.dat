@@ -1,13 +1,8 @@
 0 Tile  1 x  2 with Elliptical Display Pattern
 0 Name: 3069bp55.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 4 212 -7.87 0 7.022 -7.124 0 6.144 -1.9 0 6.65 -1.9 0 7.6
 4 212 -12.931 0 5.374 -11.552 0 4.702 -7.124 0 6.144 -7.87 0 7.022
@@ -249,4 +244,3 @@
 3 16 15.2 0 -7.2 12.8 0 -5.9 12.1 0 -7.4
 3 16 12.1 0 7.4 12.8 0 5.9 15.2 0 7.2
 3 0 10.1 0 8.3 10.2 0 9 8.6 0 8.3
-0

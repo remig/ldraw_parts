@@ -1,13 +1,9 @@
 0 Tile  1 x  2 with Metallic Silver Claw Bracelet Pattern
 0 Name: 3069bpz8.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 41493, Brickheadz, Black Panther
-
+0 !KEYWORDS Black Panther, Brickheadz, Set 41493
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 4 16 -20 0 -10 -19.5 0 -5.814 -19.5 0 -4.161 -20 0 10
 4 16 -16.536 0 -2.773 -13.276 0 0.493 -13.292 0 0.887 -19.5 0 -4.161

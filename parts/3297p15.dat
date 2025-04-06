@@ -1,15 +1,9 @@
 0 Slope Brick 33  3 x  4 with Train Railyard Switching Pattern
 0 Name: 3297p15.dat
 0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3297s01.dat
-
 4 4 -17.63 6.64112 -23.28224 -17.46 6.69479 -23.38958 -17.25 6.71268 -23.42535 -17.75 6.5651 -23.13019
 4 4 -17.47 6.25205 -22.50409 -17.6341 6.30388 -22.60776 -17.25 6.71268 -23.42535 -17.26 6.23416 -22.46832
 4 4 -17.05 6.25205 -22.50409 -17.26 6.23416 -22.46832 -17.25 6.71268 -23.42535 -16.88 6.30571 -22.61142

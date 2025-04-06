@@ -1,16 +1,9 @@
 0 Tile  2 x  2 with Black Dot and White "E" on Red Disc Pattern
 0 Name: 3068bp0d.dat
 0 Author: Christophe Mitillo [Christophe_Mitillo]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS 3068bpb0683, Set 21303, Wall-E
-
-0 !HISTORY 2017-07-30 [Darats] Use primitives
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 1 0 -14.8 0 0 2.022 0 0 0 1 0 0 0 2.022 4-4disc.dat
 1 4 -5.2 0 -3.2 -2.2 0 0 0 1 0 0 0 -2.2 1-4ndis.dat

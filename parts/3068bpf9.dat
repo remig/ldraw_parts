@@ -1,15 +1,9 @@
 0 Tile  2 x  2 with Fabuland "5" Yellow Pattern
 0 Name: 3068bpf9.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
-
 4 14 5.3 0 10.2 6.1 0 9.6 7.1 0 9.7 7.7 0 10.3
 4 14 5.3 0 10.2 7.7 0 10.3 7.7 0 11.3 7.5 0 12.4
 4 14 4.6 0 11.3 5.3 0 10.2 7.5 0 12.4 6.9 0 13.5

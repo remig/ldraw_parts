@@ -1,19 +1,8 @@
 0 Tipper End
 0 Name: 3145.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2004-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
-0 !HISTORY 2003-06-08 [jriley] BFC compliant
-0 !HISTORY 2003-11-08 [Steffen] corrected studs orientation
-0 !HISTORY 2003-11-08 [OrionP] Fixed L3P errors
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 1 16 0 65.28 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT
 1 16 0 69.28 0 16 0 0 0 -4 0 0 0 6 box5.dat
@@ -103,4 +92,3 @@
 1 16 45 25.98 0 -0.5 -0.87 0 0.87 -0.5 0 0 0 1 stud2.dat
 1 16 35 43.3 0 -0.5 -0.87 0 0.87 -0.5 0 0 0 1 stud2.dat
 1 16 25 60.62 0 -0.5 -0.87 0 0.87 -0.5 0 0 0 1 stud2.dat
-0

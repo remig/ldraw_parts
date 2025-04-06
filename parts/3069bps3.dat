@@ -1,16 +1,9 @@
 0 Tile  1 x  2 with SW Mini Jedi Starfighter Pattern
 0 Name: 3069bps3.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Part UPDATE 2004-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-0 !KEYWORDS Dark Red Geometric Pattern, Star Wars, Episode 2
-
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
+0 !KEYWORDS Dark Red Geometric Pattern, Episode 2, Star Wars
 1 320 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs3a.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 4 16 -9 0 10 -2 0 10 -2 0 4 -6 0 4
@@ -41,4 +34,3 @@
 4 7 -13.7 0 1.75 -16.985 0 2.25 -17.029 0 2.5 -13.717 0 2
 4 7 -13.25 0 -5 -13 0 -5 -15 0 -9 -15.065 0 -8.63
 4 7 -15 0 -9 -15.25 0 -9 -18.25 0 8 -18 0 8
-0

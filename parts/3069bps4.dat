@@ -1,15 +1,8 @@
 0 Tile  1 x  2 with SW Right Mini X-Wing Pattern
 0 Name: 3069bps4.dat
 0 Author: Orion Pobursky [OrionP]
-0 !LDRAW_ORG Part UPDATE 2004-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
-0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 1 320 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs4a.dat
 3 8 20 0 10 -8 0 10 20 0 8
@@ -62,4 +55,3 @@
 3 16 16 0 2.25 20 0 8 14 0 2
 4 16 14 0 2 14 0 -10 16 0 -2.25 16 0 2.25
 4 16 14 0 -10 20 0 -10 20 0 -3.25 16 0 -2.25
-0

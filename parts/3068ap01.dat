@@ -1,13 +1,8 @@
 0 Tile  2 x  2 without Groove with Train Point Right, 1 Pattern
 0 Name: 3068ap01.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068as01.dat
 3 0 -12.5 0 0 -14.5 0 -2.25 -12.5 0 -2.25
 3 0 -12.5 0 0 -14.5 0 0 -14.5 0 -2.25
@@ -102,7 +97,5 @@
 3 16 20 0 20 9 0 7 14.5 0 6.25
 3 16 14.5 0 -2.25 20 0 20 14.5 0 6.25
 3 16 20 0 -20 20 0 20 14.5 0 -2.25
-0
 0 Pattern created wholly or in part by Quad2Dat
 0 Thanks James
-0

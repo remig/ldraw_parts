@@ -1,18 +1,8 @@
 0 Technic Panel Fairing #4
 0 Name: 32189.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2014-12-24 [Philo] BFCed, added condlines in concave areas
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 -50 -20 1 0 0 0 0 -1 0 1 0 peghole.dat
 0 BFC INVERTNEXT
 1 16 0 -50 0 0 0 8 -8 0 0 0 -2 0 2-4cylo.dat
@@ -297,7 +287,6 @@
 3 16 11.44 -44.54 0 8 -30 0 7.3912 -33.0616 0
 2 24 4.049 -58.04 0 6.792 -55.9 0
 2 24 0.7024 -58.97 0 4.049 -58.04 0
-0 // ------------------------------------------------------------------------------------------
 4 16 4.049 -58.04 0 6.792 -55.9 0 5.6568 -55.6568 0 3.0616 -57.3912 0
 4 16 0.7024 -58.97 0 4.049 -58.04 0 3.0616 -57.3912 0 -2.749 -58.57 0
 2 24 -2.749 -58.57 0 0.7024 -58.97 0

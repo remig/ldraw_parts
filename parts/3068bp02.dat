@@ -1,13 +1,8 @@
 0 Tile  2 x  2 with Car Wash and Water Drops Pattern
 0 Name: 3068bp02.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 1 16 1.6 0 5.8 -0.554 0 -0.23 0 1 0 0.23 0 -0.554 5-8disc.dat
 4 16 2.154 0 6.03 1.6 0 7.6 1.046 0 6.03 1.6 0 5.8
@@ -395,8 +390,8 @@
 1 14 -7.4 0 -9.8 0 0 -5.3 0 1 0 -5.3 0 0 3-16ndis.dat
 4 0 -17.7 0 -14.5 -15.1 0 -15.1 -15.1 0 -12.9 -17.7 0 14.5
 1 0 -7.4 0 -9.8 -0.5 0 0 0 1 0 0 0 -0.5 2-4ring9.dat
-1 0 -7.4 0 -9.8 -0.2 0 0 0 1 0 0 0 -0.2 2-4rin25.dat
-1 0 -7.4 0 -9.8 -0.1 0 0 0 1 0 0 0 -0.1 2-4rin52.dat
+1 0 -7.4 0 -9.8 -0.2 0 0 0 1 0 0 0 -0.2 2-4ring25.dat
+1 0 -7.4 0 -9.8 -0.1 0 0 0 1 0 0 0 -0.1 2-4ring52.dat
 1 16 -7.4 0 -9.8 2.494 0 1.033 0 1 0 -1.033 0 2.494 1-8chrd.dat
 1 0 -12.9 0 12.9 0 0 -2.2 0 1 0 2.2 0 0 1-4ndis.dat
 1 0 -14.1 0 7.4 0 0 -1 0 1 0 1 0 0 1-4ndis.dat
@@ -453,4 +448,3 @@
 1 16 -7.4 0 -9.8 -1.033 0 2.494 0 1 0 -2.494 0 -1.033 1-8chrd.dat
 4 16 -7.7 0 -11 -7.7 0 -12.1 -7.4 0 -12.294 -7.4 0 -10.9
 4 16 -7.4 0 -10.9 -7.4 0 -12.294 -7.1 0 -12.1 -7.1 0 -11
-0 

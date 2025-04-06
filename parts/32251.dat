@@ -1,13 +1,8 @@
 0 Technic Beam  5 x  7 x  0.5 Liftarm Bent 90 Quarter Ellipse
 0 Name: 32251.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
 1 16 0 -5 0 -3 0 0 0 1 0 0 0 -3 2-4ring2.dat
 1 16 0 5 0 -3 0 0 0 -1 0 0 0 -3 2-4ring2.dat
 1 16 0 -5 120 3 0 0 0 1 0 0 0 3 2-4ring2.dat
@@ -415,4 +410,3 @@
 4 16 73.912 -5 45.924 77.272 -5 31.056 79.204 -5 31.574 75.76 -5 46.689
 4 16 79.312 5 15.66 77.272 5 31.056 79.204 5 31.574 81.295 5 15.921
 4 16 77.272 -5 31.056 79.312 -5 15.66 81.295 -5 15.921 79.204 -5 31.574
-0

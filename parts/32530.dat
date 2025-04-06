@@ -1,15 +1,8 @@
 0 Technic Tile  1 x  2 with Two Holes
 0 Name: 32530.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
-0 // complete rewrite
-
 1 16 0 -22 -10 -1 0 0 0 0 1 0 1 0 4-4ring8.dat
 1 16 0 -22 10 1 0 0 0 0 1 0 -1 0 4-4ring8.dat
 1 16 0 -22 0 1 0 0 0 0 1 0 1 0 connhole.dat
@@ -52,5 +45,3 @@
 3 16 -20 8 10 -16 8 6 -4 8 6
 3 16 4 8 6 16 8 6 20 8 10
 3 16 -4 8 -6 -16 8 -6 -20 8 -10
-0 //
-0 //

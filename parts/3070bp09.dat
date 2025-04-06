@@ -1,16 +1,10 @@
 0 Tile  1 x  1 with Padlock Pattern
 0 Name: 3070bp09.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS Harry Potter, Batman, SpongeBob
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
+0 !KEYWORDS Batman, Harry Potter, SpongeBob
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
-
 4 0 0.6 0 8.3 0.6 0 9 0.1 0 8.9 0.38 0 8.26
 4 0 0.38 0 8.26 0.1 0 8.9 -0.2 0 8.8 0.14 0 8.15
 4 0 -0.57 0 8.01 0.14 0 8.15 -0.2 0 8.8 -0.6 0 8.7

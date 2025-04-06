@@ -1,14 +1,8 @@
 0 Tile  1 x  1 with Computer Display Pattern
 0 Name: 3070bpc2.dat
 0 Author: Jaco van der Molen [Jaco]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-08-10 [anathema] Rewrite with more accurate pattern and BFC'd
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
 4 0 -7 0 8 7 0 8 7 0 9 -7 0 9
 4 16 -7 0 7 7 0 7 7 0 8 -7 0 8
@@ -109,4 +103,3 @@
 3 16 3.154 0 0.765 2.772 0 1.689 1.207 0 0.5
 3 16 1.207 0 0.5 2.772 0 1.689 6 0 5.293
 3 16 6 0 5.293 2.772 0 1.689 6 0 3.026
-0

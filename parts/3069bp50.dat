@@ -1,21 +1,8 @@
 0 Tile  1 x  2 with Explorien Controls Pattern
 0 Name: 3069bp50.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-05-21 [PTadmin] Official Update 1998-05
-0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-08 [mikeheide] cleaned and BFC'ed (2007-11-13)
-0 !HISTORY 2008-07-09 [mikeheide] made new pattern from scratch (2007-11-16)
-0 !HISTORY 2008-07-10 [mikeheide] changed BFC winding (2007-11-17)
-0 !HISTORY 2009-07-16 [PTadmin] Moved from 3069p30
-0 !HISTORY 2009-08-19 [anathema] Used more primitives
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 1 14 -15.5 0 5.5 1 0 0 0 1 0 0 0 1 4-4disc.dat
 1 14 -15.5 0 2.5 1 0 0 0 1 0 0 0 1 4-4disc.dat
@@ -230,7 +217,3 @@
 1 0 11.5 0 3.5 1 0 0 0 3 0 0 0 1 4-4ring3.dat
 1 0 11.5 0 3.5 1 0 0 0 3 0 0 0 1 4-4ring4.dat
 4 16 6.55 0 3.75 6.699 0 4.5 4.5 0 4.5 4.5 0 3.75
-0
-0 // Pattern created wholly or in part by Quad2Dat
-0 // Thanks James
-0

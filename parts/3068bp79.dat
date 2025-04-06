@@ -1,14 +1,9 @@
 0 Tile  2 x  2 with Red and Green Pizza Takeaway Box Pattern
 0 Name: 3068bp79.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Pepperoni, Takeout
-0 !KEYWORDS Bricklink 3068bpb0883
-
+0 !KEYWORDS Bricklink 3068bpb0883, pepperoni, Takeout
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 4 4 -17.65 0 18.45 -17.65 0 17.45 -16.65 0 17.45 -16.65 0 18.45
 4 16 -16.65 0 17.45 -17.65 0 17.45 -17.65 0 16.45 -16.65 0 16.45

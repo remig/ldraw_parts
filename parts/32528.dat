@@ -1,20 +1,8 @@
 0 Technic Panel Fairing 6#
 0 Name: 32528.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2015-01-04 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2015-01-05 [Philo] More primitives & condlines
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-0 !HISTORY 2018-11-08 [Philo] Shortened by 4 ldu to match LDD data
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 -30 -20 1 0 0 0 0 -1 0 1 0 peghole.dat
 1 16 0 -50 -20 1 0 0 0 0 -1 0 1 0 peghole.dat
 0 BFC INVERTNEXT

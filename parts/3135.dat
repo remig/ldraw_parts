@@ -1,15 +1,10 @@
-0 Slope Brick 45  2 x  3 x  1 & 1/3 Double Crane
+0 Slope Brick 45  2 x  3 x  1.333 Double with Crane Arm
 0 Name: 3135.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
-1 16 0 12 -10 1 0 0 0 -5 0 0 0 1 STUD4A.dat
-1 16 0 12 10 1 0 0 0 -5 0 0 0 1 STUD4A.dat
+1 16 0 12 -10 1 0 0 0 -5 0 0 0 1 stud4a.dat
+1 16 0 12 10 1 0 0 0 -5 0 0 0 1 stud4a.dat
 1 16 0 4 -10 6 0 0 0 6 0 0 0 6 2-4edge.dat
 1 16 0 4 10 -6 0 0 0 6 0 0 0 -6 2-4edge.dat
 1 16 0 4 -10 6 0 0 0 99 6 0 0 -6 2-4edge.dat
@@ -19,13 +14,13 @@
 1 16 0 4 10 -6 0 0 0 99 6 0 0 6 2-4edge.dat
 1 16 0 4 10 -8 0 0 0 99 8 0 0 8 2-4edge.dat
 0 BFC INVERTNEXT
-1 16 0 10 -10 0 0 6 0 -6 0 -6 0 0 1-4cyls.DAT
+1 16 0 10 -10 0 0 6 0 -6 0 -6 0 0 1-4cyls.dat
 0 BFC INVERTNEXT
-1 16 0 10 10 0 0 -6 0 -6 0 6 0 0 1-4cyls.DAT
+1 16 0 10 10 0 0 -6 0 -6 0 6 0 0 1-4cyls.dat
 0 BFC INVERTNEXT
-1 16 0 10 -10 0 0 -6 0 -6 0 -6 0 0 1-4cyls.DAT
+1 16 0 10 -10 0 0 -6 0 -6 0 -6 0 0 1-4cyls.dat
 0 BFC INVERTNEXT
-1 16 0 10 10 0 0 6 0 -6 0 6 0 0 1-4cyls.DAT
+1 16 0 10 10 0 0 6 0 -6 0 6 0 0 1-4cyls.dat
 0 BFC INVERTNEXT
 1 16 0 4 -10 6 0 0 0 8 0 0 0 6 2-4cyli.dat
 0 BFC INVERTNEXT
@@ -34,10 +29,10 @@
 1 16 0 10 -10 -6 0 0 0 2 0 0 0 -6 2-4cyli.dat
 0 BFC INVERTNEXT
 1 16 0 10 10 6 0 0 0 2 0 0 0 6 2-4cyli.dat
-1 16 0 12 -10 0 0 8 0 -8 0 -8 0 0 1-4cyls.DAT
-1 16 0 12 10 0 0 -8 0 -8 0 8 0 0 1-4cyls.DAT
-1 16 0 12 -10 0 0 -8 0 -8 0 -8 0 0 1-4cyls.DAT
-1 16 0 12 10 0 0 8 0 -8 0 8 0 0 1-4cyls.DAT
+1 16 0 12 -10 0 0 8 0 -8 0 -8 0 0 1-4cyls.dat
+1 16 0 12 10 0 0 -8 0 -8 0 8 0 0 1-4cyls.dat
+1 16 0 12 -10 0 0 -8 0 -8 0 -8 0 0 1-4cyls.dat
+1 16 0 12 10 0 0 8 0 -8 0 8 0 0 1-4cyls.dat
 1 16 0 4 -10 8 0 0 0 8 0 0 0 8 2-4cyli.dat
 1 16 0 4 10 -8 0 0 0 8 0 0 0 -8 2-4cyli.dat
 1 16 0 0 0 20 0 0 0 1 0 0 0 10 rect.dat
@@ -136,4 +131,3 @@
 1 16 5 -19 63 0 -1 0 3 0 0 0 0 3 4-4edge.dat
 1 16 5 -19 63 0 -3 0 4.94975 0 -4.94975 4.94975 0 4.94975 2-4edge.dat
 1 16 2 -19 63 0 -3 0 4.94975 0 -4.94975 4.94975 0 4.94975 2-4edge.dat
-0

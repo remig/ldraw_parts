@@ -1,18 +1,8 @@
 0 Technic Panel Fairing #2
 0 Name: 32191.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2015-01-04 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2015-01-05 [Philo] More primitives & condlines
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 -30 -20 1 0 0 0 0 -1 0 1 0 peghole.dat
 1 16 0 -30 -2 0 0 2 2 0 0 0 -1 0 2-4ring3.dat
 1 16 0 -50 -20 1 0 0 0 0 -1 0 1 0 peghole.dat
@@ -1443,7 +1433,6 @@
 3 16 10.52 21 20 11.51 16.03 17.63 11.51 16.03 20
 3 16 10.52 21 -4.75 11.51 16.03 -5.994 10.52 21 6
 4 16 10.52 21 6 11.51 16.03 -5.994 11.51 16.03 15.63 10.52 21 18
-0 // Added lines/Condlines
 5 24 23.99 10.73 83.09 23.52 12 84.04 23.73 12.04 84.07 24.16 8.128 81.12
 5 24 24.16 8.128 81.12 23.52 12 84.04 23.99 10.73 83.09 23.52 8 81.03
 5 24 24.16 -8.128 68.88 23.73 -12.04 65.93 23.52 -12 65.96 23.99 -10.73 66.91

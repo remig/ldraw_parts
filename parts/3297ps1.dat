@@ -1,26 +1,11 @@
 0 Slope Brick 33  3 x  4 with SW Grille Pattern
 0 Name: 3297ps1.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, Imperial Shuttle, Tyderian, Emperor Palpatine
-0 !KEYWORDS Death Star
-
+0 !KEYWORDS Death Star, Emperor Palpatine, Imperial Shuttle, Star Wars, Tyderian
 0 !CMDLINE -c15
-
-0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-08-02 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2015-09-03 [MagFors] Inlined subpart, corrected colours, removed T-junctions
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3297s01.dat
-
 3 8 21.612 2.843 -15.686 23.75 3.25 -16.5 23.75 3.187 -16.373
 4 8 0 1.5 -13 -4.633 1.556 -13.112 -7.75 1.75 -13.5 7.75 1.75 -13.5
 4 8 21.612 2.843 -15.686 17.75 2.371 -14.742 8.25 3.25 -16.5 23.75 3.25 -16.5
@@ -92,7 +77,6 @@
 3 8 -24.25 6.5 -23 -34.487 6.5 -23 -35.195 7.152 -24.304
 4 8 8.25 6.5 -23 8.25 7.75 -25.5 23.75 7.75 -25.5 23.75 6.5 -23
 4 8 -35.195 7.152 -24.304 -35.41 7.75 -25.5 -24.25 7.75 -25.5 -24.25 6.5 -23
-
 1 16 0 8 -26 -36 0 0 0 1 -6.75 0 0 13.5 48\1-4ndis.dat
 1 16 0 8 -26 36 0 0 0 1 -6.75 0 0 13.5 48\1-4ndis.dat
 3 16 -36 17 -44 -40 20 -50 -36 18.5 -47
@@ -115,7 +99,6 @@
 3 16 36 11 -32 36 12.5 -35 40 20 -50
 3 16 36 14 -38 36 15.5 -41 40 20 -50
 3 16 36 12.5 -35 36 14 -38 40 20 -50
-
 3 0 36 17 -44 35.5 17 -44 35.5 18.25 -46.5
 4 0 35.5 16.75 -43.5 35.5 17 -44 36 17 -44 36 15.5 -41
 3 0 36 18.5 -47 35.5 18.5 -47 35.5 19.75 -49.5
@@ -188,7 +171,6 @@
 3 0 35.41 7.75 -25.5 35.5 8 -26 36 8 -26
 4 0 31.176 4.625 -19.25 30.743 4.75 -19.5 31.417 5 -20 33.26 5.417 -20.834
 3 0 31.417 5 -20 32.798 5.513 -21.025 33.26 5.417 -20.834
-
 4 7 -23.75 6.25 -22.5 -24.25 6.25 -22.5 -24.25 6.5 -23 -23.75 6.5 -23
 3 7 -34.163 6.25 -22.5 -24.25 6.5 -23 -24.25 6.25 -22.5
 4 7 -23.75 7.75 -25.5 -24.25 7.75 -25.5 -24.25 8 -26 -23.75 8 -26

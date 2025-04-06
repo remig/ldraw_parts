@@ -1,19 +1,8 @@
 0 Tile  1 x  2 with Telemetry Computer Pattern
 0 Name: 3069bp52.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-08-15 [anathema] Complete rewrite
-0 !HISTORY 2009-08-19 [PTadmin] Moved from 3069p52
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 1 4 -1.5 0 5.9 1.2 0 0 0 1 0 0 0 1.2 4-4disc.dat
 1 16 -1.5 0 5.9 2 0 0 0 1 0 0 0 2 4-4ndis.dat
@@ -208,4 +197,3 @@
 1 4 0 0 -8.4 1.478 0 -0.612 0 1 0 0.612 0 1.478 3-8chrd.dat
 1 0 0 0 -8.4 0.8 0 0 0 1 0 0 0 0.8 2-4ring2.dat
 1 0 0 0 -8.4 0.4 0 0 0 1 0 0 0 0.4 2-4ring6.dat
-0

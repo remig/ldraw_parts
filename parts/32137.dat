@@ -1,17 +1,8 @@
 0 Technic Connector Block  3 x  2 x  2
 0 Name: 32137.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, optimise primitive (2004-06-29)
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 1 16 -2 0 -10 0 4 0 0 0 -8 1.5 0 0 box4.dat
 1 16 11 -9 -10 0 0 -9 0 1 0 10 0 0 rect2p.dat
 1 16 -11 -9 -10 0 0 -9 0 1 0 10 0 0 rect2p.dat
@@ -733,4 +724,3 @@
 5 24 16.363 10 13.637 16.363 20 13.637 17.276 20 15 13.447 20 11.684
 5 24 -16.363 10 13.637 -16.363 20 13.637 -17.276 20 15 -13.447 20 11.684
 5 24 -16.363 10 26.363 -16.363 20 26.363 -17.276 20 25 -13.447 20 28.316
-0

@@ -1,19 +1,8 @@
 0 Technic Connector Block  3 x  3 with Ball Socket
 0 Name: 32172.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [OrionP] Corrected errors in official part (2004-04-25)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2014-11-24 [MagFors] Made BFC compliant
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 0 27 -5.6569 0 5.6569 5.6569 0 5.6569 0 -5 0 1-4cylo.dat
 1 16 0 0 27 5.6569 0 -5.6569 -5.6569 0 -5.6569 0 -5 0 1-4cylo.dat
 1 16 0 0 30 1 0 0 0 0 1 0 -1 0 peghole.dat
@@ -1187,7 +1176,6 @@
 1 16 21 -6.603 18 0 1 0 0 0 0.775 9 0 0 rect2a.dat
 1 16 26.18 4.129 18 -0.82 -1 0 1.2295 0 0 0 0 9 rect2p.dat
 1 16 26.18 -4.129 18 0 -1 0.82 0 0 1.2295 -9 0 0 rect3.dat
-0 // Added lines/Condlines
 5 24 20 7.577 27 20 7.577 30 19 7.378 30 21 7.378 30
 5 24 12.75 -1.653 9 12.82 -2 9.142 12.68 -1.282 9.221 13 -2.899 9
 5 24 13 -2.899 9 12.82 -2 9.142 12.75 -1.653 9 13 -2.899 27

@@ -1,17 +1,8 @@
 0 Brick  1 x  6 without Centre Studs with Black "ANNO 1762" Pattern
 0 Name: 3067apt2.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2004-11-07 [mikeheide] changed subpart to 3067s01
-0 !HISTORY 2005-01-07 [mikeheide] fixed gap again
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2017-12-05 [PTadmin] Renamed from 3067pt2
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3067s01.dat
 4 0 -39 17 -10 -44 8 -10 -45.25 8 -10 -41.5 17 -10
 3 0 -45.25 8 -10 -43.25 14.75 -10 -41.5 17 -10
@@ -226,7 +217,5 @@
 4 16 -41.5 17 -10 -51.5 17.25 -10 -60 24 -10 -30 24 -10
 3 16 53.5 15.25 -10 51.75 18.5 -10 60 24 -10
 3 16 60 0 -10 53.5 15.25 -10 60 24 -10
-0 
 0 Pattern created wholly or in part by Quad2Dat
 0 Thanks James
-0

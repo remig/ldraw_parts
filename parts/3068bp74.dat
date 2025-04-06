@@ -1,15 +1,9 @@
 0 Tile  2 x  2 with Suspension Bridge Portrait Pattern
 0 Name: 3068bp74.dat
 0 Author: Bertrand Lequy [Berth]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
-
 4 15 18.48 0 18.48 -18.48 0 18.48 -16 0 16 16 0 16
 4 15 -18.48 0 -18.48 18.48 0 -18.48 16 0 -16 -16 0 -16
 4 16 20 0 20 -20 0 20 -18.48 0 18.48 18.48 0 18.48
@@ -472,4 +466,3 @@
 4 15 13.78 0 11.67 14.41 0 10.52 14.63 0 11.07 14.38 0 11.52
 4 15 12.68 0 13.62 13.78 0 11.67 13.94 0 12.35 13.08 0 13.5
 3 15 14.41 0 10.52 13.78 0 11.67 13.74 0 10.25
-0

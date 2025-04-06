@@ -1,17 +1,10 @@
 0 Tile  2 x  2 with Old Chairman Portrait Pattern
 0 Name: 3068bp75.dat
 0 Author: Bertrand Lequy [Berth]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS set 10251, brick bank
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 !KEYWORDS brick bank, set 10251
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
-
 4 0 -7.889 0 17.60625 -7.889 0 7.999 -7.189 0 7.299 -7.189 0 17.60625
 4 16 -8.289 0 17.60625 -8.289 0 8.299 -7.889 0 7.999 -7.889 0 17.60625
 4 0 -8.589 0 17.6 -8.589 0 8.599 -8.289 0 8.299 -8.289 0 17.60625

@@ -1,15 +1,9 @@
 0 Tile  1 x  2 with Joker Pattern
 0 Name: 3069bpb1.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Batman
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 4 4 -19 0 -5.75 -19 0 -8.25 -18.75 0 -8.25 -18.75 0 -5.75
 4 4 -18.5 0 -7.75 -18.5 0 -6.25 -18.75 0 -5.75 -18.75 0 -8.25
@@ -806,9 +800,6 @@
 4 0 -7.75 0 6 -7 0 6.75 -7.5 0 7.25 -8.5 0 6.75
 4 0 -7.75 0 6 -8.5 0 6.75 -9 0 6 -9 0 5.5
 3 0 -9 0 5.5 -7.5 0 5.25 -7.75 0 6
-0 //
-0 // Pattern created wholly or in part by Quad2Dat
-0 // Thanks James
 1 14 13.5 0 0 -0.4 0 0 0 0.4 0 0 0 -0.4 2-4disc.dat
 1 14 12.25 0 -6 -0.4 0 0 0 0.4 0 0 0 -0.4 4-4disc.dat
 1 14 6.5 0 -7.75 -0.4 0 0 0 0.4 0 0 0 -0.4 4-4disc.dat
@@ -819,4 +810,3 @@
 1 14 6.5 0 7.75 -0.4 0 0 0 0.4 0 0 0 -0.4 4-4disc.dat
 1 14 -4.5 0 7.5 -0.4 0 0 0 0.4 0 0 0 -0.4 4-4disc.dat
 1 14 -11 0 6.5 -0.4 0 0 0 0.4 0 0 0 -0.4 4-4disc.dat
-0 //

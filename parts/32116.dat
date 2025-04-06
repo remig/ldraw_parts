@@ -1,17 +1,8 @@
 0 ~Electric Mindstorms RCX/Scout Battery Holder (Needs Work)
 0 Name: 32116.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-12-18 [Steffen] replaced color 383 by 494
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
-0 // Needs Work: Battery compartment misses some details
-0 // Needs Work: Top not detailed
-
 1 16 0 2 0 76 0 0 0 2 0 0 0 116 box.dat
 1 16 0 8 110 0 0 -70 4 0 0 0 -220 0 box3u2p.dat
 2 24 -70 4 110 70 4 110

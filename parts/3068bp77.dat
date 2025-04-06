@@ -1,23 +1,12 @@
 0 Tile  2 x  2 with "WANTED" Sign, Minifig Front and Side Mugshots Poster Pattern
 0 Name: 3068bp77.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS age, height, weight, eyes, hair, build, unknown, 42 mm, 3.4 g, black, average
-0 !KEYWORDS set 10246, set 60131
-0 !KEYWORDS fugitive, criminal, detective, gangster, villain, robber, reward
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // Subpart
-
+0 !KEYWORDS 3.4 g, 42 mm, age, average, Black, build, criminal, detective, Eyes
+0 !KEYWORDS fugitive, gangster, hair, height, reward, robber, set 10246
+0 !KEYWORDS set 60131, unknown, villain, weight
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
-
-0 // Pattern
-0 // Black
 1 0 -11.2 0 0 .5 0 0 0 1 0 0 0 .5 4-4disc.dat
 1 0 -8.85 0 0 .5 0 0 0 1 0 0 0 .5 4-4disc.dat
 4 0 -10.005 0 -1.961 -10.005 0 -1.659 -10.224 0 -1.645 -10.264 0 -1.944
@@ -820,8 +809,6 @@
 4 0 12.94 0 -14.554 12.949 0 -15.228 13.307 0 -15.228 13.307 0 -14.331
 4 0 15.253 0 -14.331 15.442 0 -15.228 15.635 0 -14.512 15.432 0 -13.433
 3 0 15.432 0 -13.433 15.065 0 -13.433 15.253 0 -14.331
-
-0 // Main Color
 1 16 -8.85 0 0 .5 0 0 0 1 0 0 0 .5 4-4ndis.dat
 1 16 -11.2 0 0 .5 0 0 0 1 0 0 0 .5 4-4ndis.dat
 4 16 -10.005 0 -4.45 -10.005 0 -3.85 -10.91 0 -3.9 -11.71 0 -4

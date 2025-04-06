@@ -1,17 +1,10 @@
 0 Tile  1 x  2 with Groove with Metallic Silver and Red Emblem Pattern
 0 Name: 3069bpk0.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Disney, Cars, Luigi
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS Cars, Disney, Luigi
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
-
 4 0 -17.481 0 2.169 -17.86 0 2.275 -17.858 0 2.179 -17.813 0 2.061
 4 0 -17.463 0 2.295 -17.847 0 2.337 -17.86 0 2.275 -17.481 0 2.169
 4 0 -17.463 0 2.295 -17.752 0 2.494 -17.795 0 2.442 -17.847 0 2.337

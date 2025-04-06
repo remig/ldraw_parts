@@ -1,21 +1,10 @@
 0 Tile  1 x  2 with Underwater Navigation Pattern
 0 Name: 3069bps9.dat
 0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, Alpha Team, Aquazone
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-0 !HISTORY 2013-12-24 [smr] Corrected hard-coded blue areas
-0 !HISTORY 2013-12-24 [angmarec] One red ring removed
-0 !HISTORY 2013-12-25 [MMR1988] Reduced number of triangles
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS Alpha Team, Aquazone, Star Wars
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
-
 4 0 -16.891 0 8.508 -14.441 0 7.248 20 0 10 -16.95 0 8.8
 3 0 -16.891 0 8.508 -14.83 0 7.17 -14.441 0 7.248
 3 0 -16.891 0 8.508 -15.148 0 6.955 -14.83 0 7.17

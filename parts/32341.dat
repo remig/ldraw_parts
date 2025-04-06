@@ -1,13 +1,8 @@
 0 ~Electric Technic Capacitor Top
 0 Name: 32341.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 1 16 -30 0 10 0 0 -1 0 1 0 1 0 0 stud.dat
 1 16 -30 0 -10 0 0 -1 0 1 0 1 0 0 stud.dat
 1 16 -30 0 -30 0 0 -1 0 1 0 1 0 0 stud2.dat
@@ -116,4 +111,3 @@
 3 16 0.5 4 -55.86 -36 4 -37 7 4 -51
 2 24 -36 8 -37 -36 4 -37
 2 24 -36 8 -37 -36 8 -40
-0

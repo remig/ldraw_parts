@@ -1,18 +1,8 @@
 0 Tyre 50/ 29 x 54 Technic Racing
 0 Name: 32296.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-01-08 [Philo] BFCed, prepared for patterns, used more primitives
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\32296s.dat
 1 16 0 0 0 0 -0.5 -0.86603 0 0.86603 -0.5 1 0 0 s\32296s.dat
 1 16 0 0 0 0 -0.86603 -0.5 0 0.5 -0.86603 1 0 0 s\32296s.dat
@@ -29,43 +19,39 @@
 1 16 0 0 -54 0 0 -94 94 0 0 0 108 0 48\4-4cylo.dat
 1 16 0 0 -12 0 0 -103 103 0 0 0 24 0 48\4-4cylo.dat
 1 16 0 0 17 0 0 -103 103 0 0 0 24 0 48\4-4cylo.dat
-1 16 0 0 12 0 0 -4.12 4.12 0 0 0 -1 0 48\4-4rin24.dat
-1 16 0 0 41 0 0 -4.12 4.12 0 0 0 -1 0 48\4-4rin24.dat
-1 16 0 0 17 0 0 -4.12 4.12 0 0 0 1 0 48\4-4rin24.dat
+1 16 0 0 12 0 0 -4.12 4.12 0 0 0 -1 0 48\4-4ring24.dat
+1 16 0 0 41 0 0 -4.12 4.12 0 0 0 -1 0 48\4-4ring24.dat
+1 16 0 0 17 0 0 -4.12 4.12 0 0 0 1 0 48\4-4ring24.dat
 1 16 0 0 12 0 0 -98.88 98.88 0 0 0 5 0 48\4-4cylo.dat
 1 16 0 0 41 0 0 -98.88 98.88 0 0 0 5 0 48\4-4cylo.dat
 1 16 0 0 48 0 0 -72 72 0 0 0 6 0 48\4-4cylo.dat
 1 16 0 0 48 0 0 -8 8 0 0 0 1 0 48\4-4ring8.dat
 1 16 0 0 54 0 0 -23.5 23.5 0 0 0 1 0 48\4-4ring3.dat
-0 //
 0 BFC INVERTNEXT
 1 16 0 0 52 0 0 -68 68 0 0 0 7 0 48\4-4cylo.dat
 0 BFC INVERTNEXT
 1 16 0 0 48 0 0 -64 64 0 0 0 4 0 48\4-4cylo.dat
-1 16 0 0 52 0 0 -4 4 0 0 0 -1 0 48\4-4rin16.dat
+1 16 0 0 52 0 0 -4 4 0 0 0 -1 0 48\4-4ring16.dat
 0 BFC INVERTNEXT
 1 16 0 0 62 0 0 -3.09091 3.09091 0 0 0 -3 0 48\4-4con22.dat
 1 16 0 0 62 0 0 -71.0909 71.0909 0 0 0 1 0 48\4-4edge.dat
 1 16 0 0 -17 0 0 103 103 0 0 0 -24 0 48\4-4cylo.dat
-1 16 0 0 -12 0 0 4.12 4.12 0 0 0 1 0 48\4-4rin24.dat
-1 16 0 0 -41 0 0 4.12 4.12 0 0 0 1 0 48\4-4rin24.dat
-1 16 0 0 -17 0 0 4.12 4.12 0 0 0 -1 0 48\4-4rin24.dat
+1 16 0 0 -12 0 0 4.12 4.12 0 0 0 1 0 48\4-4ring24.dat
+1 16 0 0 -41 0 0 4.12 4.12 0 0 0 1 0 48\4-4ring24.dat
+1 16 0 0 -17 0 0 4.12 4.12 0 0 0 -1 0 48\4-4ring24.dat
 1 16 0 0 -12 0 0 98.88 98.88 0 0 0 -5 0 48\4-4cylo.dat
 1 16 0 0 -41 0 0 98.88 98.88 0 0 0 -5 0 48\4-4cylo.dat
 1 16 0 0 -48 0 0 72 72 0 0 0 -6 0 48\4-4cylo.dat
 1 16 0 0 -48 0 0 8 8 0 0 0 -1 0 48\4-4ring8.dat
 1 16 0 0 -54 0 0 23.5 23.5 0 0 0 -1 0 48\4-4ring3.dat
-0 //
 0 BFC INVERTNEXT
 1 16 0 0 -52 0 0 68 68 0 0 0 -7 0 48\4-4cylo.dat
 0 BFC INVERTNEXT
 1 16 0 0 -48 0 0 64 64 0 0 0 -4 0 48\4-4cylo.dat
-1 16 0 0 -52 0 0 4 4 0 0 0 1 0 48\4-4rin16.dat
+1 16 0 0 -52 0 0 4 4 0 0 0 1 0 48\4-4ring16.dat
 0 BFC INVERTNEXT
 1 16 0 0 -62 0 0 3.09091 3.09091 0 0 0 3 0 48\4-4con22.dat
 1 16 0 0 -62 0 0 71.0909 71.0909 0 0 0 -1 0 48\4-4edge.dat
-0 //
-0 // Patternable face
 4 16 -4.089 93.64 -62 0 94 -62 0 71.091 -62 -9.277 70.48 -62
 4 16 -8.161 93.29 -62 -4.089 93.64 -62 -9.277 70.48 -62 -12.23 92.93 -62
 4 16 -16.32 92.57 -62 -12.23 92.93 -62 -9.277 70.48 -62 -18.398 68.667 -62

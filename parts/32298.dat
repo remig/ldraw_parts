@@ -1,15 +1,9 @@
 0 Tyre 61/ 41 x 54 Off Road
 0 Name: 32298.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Set 8466
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\32298s01.dat
 1 16 0 0 0 0 -0.258819 -0.965926 0 0.965926 -0.258819 1 0 0 s\32298s01.dat
 1 16 0 0 0 0 -0.5 -0.866025 0 0.866025 -0.5 1 0 0 s\32298s01.dat
@@ -34,7 +28,6 @@
 1 16 0 0 0 0 0.707107 -0.707107 0 0.707107 0.707107 1 0 0 s\32298s01.dat
 1 16 0 0 0 0 0.5 -0.866025 0 0.866025 0.5 1 0 0 s\32298s01.dat
 1 16 0 0 0 0 0.258819 -0.965926 0 0.965926 0.258819 1 0 0 s\32298s01.dat
-0 // Front ring for pattern
 3 16 0 105 -76 0 81 -76 -13.59 103.2 -76
 4 16 -13.59 103.2 -76 0 81 -76 -20.964 78.24 -76 -27.176 101.422 -76
 3 16 -27.176 101.422 -76 -20.964 78.24 -76 -39.837 96.166 -76

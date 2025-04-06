@@ -1,19 +1,8 @@
 0 Technic Steering Arm with Connectors
 0 Name: 32069.dat
 0 Author: Luis E. Fernandez [lfernand]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-04-11 [PTadmin] Official Update 1998-04
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Rewrite with BFC (2006-09-19)
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-0 !HISTORY 2012-07-06 [Philo] Corrected wrong triangle thickness, various minor improvements
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
 1 16 0 0 -10 8 0 0 0 1 0 0 0 8 4-4edge.dat
 1 16 0 0 -10 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 0 10 4 0 0 0 1 0 0 0 4 4-4edge.dat

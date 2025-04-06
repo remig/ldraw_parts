@@ -1,19 +1,11 @@
 0 Tile  2 x  2 with Fabuland Crocodile Head and "13" Pattern
 0 Name: 3068bpft.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS set 3664
-
 0 !CMDLINE -c15
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
-
 4 0 -13.9 0 4.9 -15.3 0 4.6 -14.5 0 4.3 -12.9 0 4.3
 4 0 -12.3 0 4.8 -13.9 0 4.9 -12.9 0 4.3 -11.8 0 4.3
 4 0 -10.9 0 4.6 -12.3 0 4.8 -11.8 0 4.3 -10.7 0 4
@@ -708,4 +700,3 @@
 3 16 8.3 0 -13.8 8.2 0 -15.1 8.8 0 -15
 4 16 8.7 0 -10.2 8.1 0 -10 8.4 0 -11.4 8.8 0 -10.7
 3 0 8.8 0 -10.7 8.4 0 -11.4 10.8 0 -12.1
-

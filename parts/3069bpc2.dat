@@ -1,13 +1,8 @@
 0 Tile  1 x  2 with Gauge and "23" Pattern
 0 Name: 3069bpc2.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 1 16 15.7 0 5.7 2.5 0 0 0 1 0 0 0 2.5 1-4ndis.dat
 1 16 -15.7 0 5.7 0 0 -2.5 0 1 0 2.5 0 0 1-4ndis.dat
@@ -187,4 +182,3 @@
 4 4 -5.497 0 -3.827 -4.284 0 -4.527 -3.725 0 -3.108 -5.077 0 -2.746
 4 0 -4.9 0 -1.6 -3.5 0 -1.6 -3.5 0 -1.2 -4.9 0 -1.2
 4 0 -5.697 0 -4.173 -4.484 0 -4.873 -4.284 0 -4.527 -5.497 0 -3.827
-0

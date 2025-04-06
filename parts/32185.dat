@@ -1,18 +1,8 @@
 0 Technic Gear Rack  1 x 14 with Holes
 0 Name: 32185.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, added missing lines (2004-07-29)
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
 2 24 110 4 6 122.213 4 6
 2 24 122.213 4 6 120.76 4 3.83
 2 24 120.76 4 3.83 120.397 4 2
@@ -519,4 +509,3 @@
 1 16 130 2 0 6 0 0 0 6 0 0 0 6 4-4cyli.dat
 0 BFC INVERTNEXT
 1 16 -130 2 0 6 0 0 0 6 0 0 0 6 4-4cyli.dat
-0

@@ -1,15 +1,9 @@
 0 Tyre 61/ 41 x 54 Power Puller w/ White "Technic Power" Pattern
 0 Name: 32298p01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Set 8457
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\32298s01.dat
 1 16 0 0 0 0 -0.258819 -0.965926 0 0.965926 -0.258819 1 0 0 s\32298s01.dat
 1 16 0 0 0 0 -0.5 -0.866025 0 0.866025 -0.5 1 0 0 s\32298s01.dat
@@ -34,7 +28,6 @@
 1 16 0 0 0 0 0.707107 -0.707107 0 0.707107 0.707107 1 0 0 s\32298s01.dat
 1 16 0 0 0 0 0.5 -0.866025 0 0.866025 0.5 1 0 0 s\32298s01.dat
 1 16 0 0 0 0 0.258819 -0.965926 0 0.965926 0.258819 1 0 0 s\32298s01.dat
-0 // Pattern
 4 16 -57.276 57.276 -76 -82.583 63.364 -76 -74.246 74.246 -76 -65.3 67.9 -76
 4 16 -82.583 63.364 -76 -57.276 57.276 -76 -70.148 40.5 -76 -90.933 52.5 -76
 3 16 -90.933 52.5 -76 -70.148 40.5 -76 -96.169 39.831 -76

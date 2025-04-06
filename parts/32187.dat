@@ -1,28 +1,19 @@
 0 Technic Transmission Driving Ring Extension
 0 Name: 32187.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2004-09-04)
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
 1 16 0 0 -4 10 0 0 0 0 10 0 1 0 4-4edge.dat
 1 16 0 0 -4 17 0 0 0 0 17 0 1 0 4-4edge.dat
 1 16 0 0 -4 17 0 0 0 0 17 0 13 0 4-4cyli.dat
 1 16 0 0 9 17 0 0 0 0 17 0 1 0 4-4edge.dat
 1 16 0 0 9 15 0 0 0 0 15 0 1 0 4-4edge.dat
-1 16 0 0 9 1 0 0 0 0 -1 0 -1 0 4-4rin15.dat
-1 16 0 0 9 1 0 0 0 0 -1 0 -1 0 4-4rin16.dat
+1 16 0 0 9 1 0 0 0 0 -1 0 -1 0 4-4ring15.dat
+1 16 0 0 9 1 0 0 0 0 -1 0 -1 0 4-4ring16.dat
 1 16 0 0 -4 13 0 0 0 0 13 0 1 0 4-4edge.dat
-1 16 0 0 -4 1 0 0 0 0 1 0 1 0 4-4rin13.dat
+1 16 0 0 -4 1 0 0 0 0 1 0 1 0 4-4ring13.dat
 1 16 0 0 -4 2 0 0 0 0 2 0 1 0 4-4ring7.dat
-1 16 0 0 -4 1 0 0 0 0 1 0 1 0 4-4rin16.dat
+1 16 0 0 -4 1 0 0 0 0 1 0 1 0 4-4ring16.dat
 1 16 0 0 -20 13 0 0 0 0 13 0 1 0 4-4edge.dat
 1 16 0 0 -20 13 0 0 0 0 13 0 16 0 4-4cyli.dat
 1 16 0 0 -2 15 0 0 0 0 15 0 1 0 4-4edge.dat
@@ -30,7 +21,7 @@
 1 16 0 0 -2 15 0 0 0 0 15 0 11 0 4-4cyli.dat
 1 16 0 0 -20 10 0 0 0 0 10 0 1 0 4-4edge.dat
 1 16 0 0 -20 2 0 0 0 0 2 0 1 0 4-4ring5.dat
-1 16 0 0 -20 1 0 0 0 0 1 0 1 0 4-4rin12.dat
+1 16 0 0 -20 1 0 0 0 0 1 0 1 0 4-4ring12.dat
 0 BFC INVERTNEXT
 1 16 0 0 -4 10 0 0 0 0 10 0 -16 0 4-4cyli.dat
 1 16 0 0 9 8 0 0 0 0 8 0 -11 0 4-4cyli.dat
@@ -241,4 +232,3 @@
 2 24 15 2 -9 15 -2 -9
 2 24 15 -2 -9 15 -0.5 -19
 2 24 13 0 -19 12.9 -0.5 -19
-0

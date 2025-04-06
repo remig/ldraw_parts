@@ -1,16 +1,9 @@
 0 Technic Disc  5 x  5
 0 Name: 32439.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-04-17 [Philo] Corrected size, built center notched disc
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32439s01.dat
-0 // Top surface
 5 24 20.783 -12 -4.5 21.479 -12.402 -4.299 19.041 -14.61 -4.5 22.172 -9.184 -4.5
 5 24 23.183 -6.212 -4.5 26.24 -7.031 -3.709 22.172 -9.184 -4.5 23.794 -3.132 -4.5
 5 24 19.041 -14.61 -4.5 23.801 -18.263 -3 16.97 -16.969 -4.5 20.783 -12 -4.5

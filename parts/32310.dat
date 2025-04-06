@@ -1,17 +1,8 @@
 0 Technic Connector Block  3 x  5 x  1.333
 0 Name: 32310.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, add missing lines and optional lines, use more primitives, corrected not coplanar vertices (2004-07-17)
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 1 16 20 0 -52.75 0 0 9 -9 0 0 0 6.5 0 3-4cyli.dat
 1 16 20 0 -56.18 0 0 -9 9 0 0 0 3.43 0 1-4cyli.dat
 1 16 20 0 -54 3.44415 0 -8.31492 8.31492 0 3.44415 0 1.25 0 1-16cyli.dat
@@ -1777,4 +1768,3 @@
 5 24 -13.92 -22.932 7.168 -10 -20.622 25 -14 -23.282 9 -10 -20.092 21
 5 24 -14 -23.282 9 -10 -20.622 25 -13.51 -23.752 16.99 -13.92 -22.932 7.168
 5 24 -10 -20.622 25 -13.51 -23.752 16.99 -13 -24.202 25 -14 -23.282 9
-0

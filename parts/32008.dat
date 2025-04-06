@@ -1,16 +1,9 @@
-0 Technic Scuba Flipper
+0 Technic Action Figure Scuba Flipper
 0 Name: 32008.dat
 0 Author: Johann Eisner [technicbasics]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Figure Accessory
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-01-28 [technicbasics] File preparation for LDraw Parts Tracker
-
 1 16 0 0 -10 0 0 1 0 1 0 -1 0 0 stug2-1x2.dat
 1 16 0 -1.25 -40 -1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 4 -40 10 0 0 0 -1 0 0 0 10 4-4ndis.dat
@@ -232,4 +225,3 @@
 4 16 6.25 2 -64.846 6.25 2 -70 14 1.993 -69.948 13.6625 2 -64.846
 2 24 13.6625 2 -64.846 14 1.993 -69.948
 2 24 -13.6625 2 -64.846 -14 1.993 -69.948
-

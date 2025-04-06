@@ -1,20 +1,9 @@
 0 Slope Brick 33  3 x  2 with White "3" and Stripes Pattern
 0 Name: 3298p56.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
-0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2011-03-29 [tchang] Rebuild pattern, add BFC, subpart
-0 !HISTORY 2011-04-08 [tchang] Add missing CRLF, change Designation
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3298s01.dat
-0 //
 4 15 -11 19.677 -49.355 -11 0.447 -10.894 -15.5 0.447 -10.894 -15.5 19.677 -49.355
 4 15 11 19.677 -49.355 15.5 19.677 -49.355 15.5 0.447 -10.894 11 0.447 -10.894
 4 15 -7 7.737 -25.474 -1.4 7.737 -25.474 -1.263 7.429 -24.858 -6.421 6.505 -23.009
@@ -43,7 +32,6 @@
 4 15 -1.156 12.636 -35.273 -1.633 12.317 -34.634 -6.976 13.299 -36.599 -5.198 14.489 -38.978
 4 15 -1.8 11.941 -33.881 -7.6 11.896 -33.792 -6.976 13.299 -36.599 -1.633 12.317 -34.634
 4 15 -1.8 11.359 -32.718 -7.6 11.359 -32.718 -7.6 11.896 -33.792 -1.8 11.941 -33.881
-0 //
 1 16 0.4 7.737 -25.474 0 0 1.8 0.805 1.61 0 -1.61 0.805 0 3-4disc.dat
 1 16 0.4 11.941 -33.881 -2.2 0 0 0 1.9677 0.9839 0 0.9839 -1.9677 3-4disc.dat
 1 16 0.6 11.896 -33.792 -8.2 0 0 0 7.3343 3.6672 0 3.6672 -7.3343 2-4ndis.dat

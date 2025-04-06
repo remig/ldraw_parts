@@ -1,20 +1,10 @@
 0 Tile  2 x  2 with Safari Pattern
 0 Name: 3068bp0a.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS Zebra, Stripes, Zebra Stripes
+0 !KEYWORDS stripes, Zebra, Zebra Stripes
 0 !CMDLINE -c15
-
-0 !HISTORY 2003-07-06 [Steffen] mirrored pattern to match real part, polished header
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-10-15 [anathema] BFC'd; optimised a bit
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 4 0 -14.75 0 19.75 -17.75 0 19.75 -17.5 0 17 -13 0 13.75
 4 0 -13 0 13.75 -17.5 0 17 -16.25 0 12.5 -15.25 0 9.25
@@ -135,4 +125,3 @@
 4 16 -1.75 0 -16.75 -3.75 0 -15.5 -20 0 -20 0 0 -20
 0 Pattern created wholly or in part by Quad2Dat
 0 Thanks James
-0

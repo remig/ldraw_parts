@@ -1,18 +1,8 @@
 0 Constraction Limb  7 Bent 33
 0 Name: 32482.dat
 0 Author: Robert Sexton [rhsexton]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-12-06 [arezey]  Fixed gaps and edge lines, BFC'd, added details
-0 !HISTORY 2017-12-17 [MagFors] Unscaled flat primitives, used connhole
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-0 !HISTORY 2018-02-13 [cwdee]   Update description
-0 !HISTORY 2018-04-01 [MMR1988] Added a missing condline
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 0 0 0 -1 0 0 0 -1 1 0 0 connhole.dat
 1 16 0 0 20 0 -1 0 -1 0 0 0 0 -1 beamhole.dat
 1 16 10 -9 38 0 -20 0 0 0 -9 9 0 0 2-4cyli.dat
@@ -347,7 +337,6 @@
 1 16 -7.5 13.721 39.938 0 0 2.5 0.545 -1 0 0.839 0 0 rect.dat
 1 16 -7.5 17.5335 45.8085 0 0 2.5 0.5445 -1 0 0.8385 0 0 rect.dat
 1 16 0 -0.896 55.988 -4 0 0 0 0 2.516 0 1 -1.634 rect3.dat
-
 2 24 -3.696 -20.862 -2.379 -2.828 -19.081 -0.521
 2 24 -2.828 -19.081 -0.521 -1.531 -17.891 0.721
 2 24 -1.531 -17.891 0.721 0 -17.473 1.157

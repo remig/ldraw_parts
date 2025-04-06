@@ -1,17 +1,8 @@
 0 Tile  1 x  1 with Black "2" Pattern
 0 Name: 3070bp02.dat
 0 Author: John Riley [jriley]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-10-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-08-12 [anathema] Improved pattern
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
 4 0 -1.458 0 -4.192 -3.958 0 -3.899 -4.217 0 -4.662 -4.388 0 -5.512
 4 0 -3.578 0 -3.173 -3.958 0 -3.899 -1.458 0 -4.192 -1.317 0 -3.782
@@ -92,4 +83,3 @@
 3 16 10 0 10 2.942 0 5.045 3.371 0 4.345
 3 16 1.587 0 6.107 10 0 10 0.667 0 6.408
 3 16 0.667 0 6.408 10 0 10 -0.412 0 6.515
-0

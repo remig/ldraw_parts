@@ -1,17 +1,10 @@
 0 Tile  2 x  2 with Map, Temple, River and Red X Pattern
 0 Name: 3068bp33.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS BrickLink 3068bpb0161, set 8632, set 10210
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS BrickLink 3068bpb0161, set 10210, set 8632
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
-
 4 0 -16.95 0 16.5 -17.45 0 16.85 -17.75 0 16.1 -17.25 0 15.85
 4 0 -17.25 0 15.85 -17.75 0 16.1 -17.95 0 15.3 -17.4 0 15.05
 4 0 -17.4 0 15.05 -17.95 0 15.3 -18.05 0 14.45 -17.45 0 14.35

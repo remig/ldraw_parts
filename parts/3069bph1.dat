@@ -1,17 +1,10 @@
 0 Tile  1 x  2 with Chocolate Bar Pattern
 0 Name: 3069bph1.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
 0 !KEYWORDS candy, Harry Potter
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
-0 // //Pattern
 4 0 -9.201 0 1.576 -8.985 0 0.884 -10.593 0 1.057 -9.911 0 1.355
 4 0 -7.456 0 0.537 -8.985 0 0.884 -9.201 0 1.576 -8.47 0 1.713
 4 0 -6.527 0 1.664 -7.456 0 0.537 -8.47 0 1.713 -7.724 0 1.76
