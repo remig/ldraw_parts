@@ -1,0 +1,12 @@
+0 Panel  1 x  2 x  1 with Thin Black "POLICE" Pattern
+0 Name: 4865apt0.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS BrickLink 4865pb003, set 1610, set 4021, set 6354, set 6632
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4865as01.dat
+1 16 0 12 10 -1 0 0 0 0 -1 0 -1 0 s\3069bs18.dat
+4 16 -17 7 10 -17 17 10 -20 24 10 -20 0 10
+4 16 17 17 10 17 7 10 20 0 10 20 24 10
+4 16 17 7 10 -17 7 10 -20 0 10 20 0 10
+4 16 -17 17 10 17 17 10 20 24 10 -20 24 10

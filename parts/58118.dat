@@ -1,0 +1,9 @@
+0 Electric Power Functions Extension Wire [50cm]
+0 Name: 58118.dat
+0 Author: Johann Eisner [technicbasics]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !HELP This wire also works as connector/adaptor wire from Power Functions to the former 9V
+0 !HELP system since one connector plate has a 9V connection on the bottom.
+0 BFC CERTIFY CCW
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 58124c02.dat
+1 0 0 7 30.4 1 0 0 0 1 0 0 0 1 u9190c03.dat

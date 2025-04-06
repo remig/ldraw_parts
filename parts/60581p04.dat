@@ -1,0 +1,15 @@
+0 Panel  1 x  4 x  3 with Fire Logo Badge Pattern
+0 Name: 60581p04.dat
+0 Author: Bjoern Sigve Storesund [Storesund]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS Bricklink 60581pb158, Brickowl, City, Rebrickable 60581pr0028
+0 !KEYWORDS set 60280
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\60581s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\60581p04s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\60581p04s01.dat
+1 19 0 35 10 -1 0 0 0 0 -1 0 -1 0 logo-fire-badge-big-flame.dat
+1 16 0 35 10 -1 0 0 0 0 -1 0 -1 0 logo-fire-badge-shield-background.dat
+1 19 0 35 10 -1 0 0 0 0 -1 0 -1 0 logo-fire-badge-small-flame.dat
+3 16 40 0 10 0 5.375 10 -40 0 10
+3 16 0 66.56 10 40 72 10 -40 72 10

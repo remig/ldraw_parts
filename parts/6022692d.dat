@@ -1,0 +1,18 @@
+0 Sticker  4.0 x  8.3 Trapezoidal with Movie Screen
+0 Name: 6022692d.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS blockbuster, brickfilm, Bricklink 10232stk01, Brickowl 381190, film
+0 !KEYWORDS modular building, motion picture, Palace Cinema, Rebrickable 12949
+0 !KEYWORDS set 10232
+4 16 -62.5 0 40 -82.5 0 -40 -82.5 -0.25 -40 -62.5 -0.25 40
+4 16 -82.5 0 -40 82.5 0 -40 82.5 -0.25 -40 -82.5 -0.25 -40
+4 16 82.5 0 -40 62.5 0 40 62.5 -0.25 40 82.5 -0.25 -40
+4 16 62.5 0 40 -62.5 0 40 -62.5 -0.25 40 62.5 -0.25 40
+4 16 62.5 0 40 82.5 0 -40 -82.5 0 -40 -62.5 0 40
+0 !TEXMAP START PLANAR -82.5 -0.25 40 82.5 -0.25 40 -82.5 -0.25 -40 6022692d.png
+0 !: 4 15 -62.5 -0.25 40 -82.5 -0.25 -40 82.5 -0.25 -40 62.5 -0.25 40
+0 !TEXMAP FALLBACK
+4 15 -62.5 -0.25 40 -82.5 -0.25 -40 82.5 -0.25 -40 62.5 -0.25 40
+0 !TEXMAP END

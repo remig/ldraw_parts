@@ -1,0 +1,12 @@
+0 Boat Ship Wheel with Pin
+0 Name: 52395.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS helm, Pirates, steering
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4790s00.dat
+1 16 0 20 0 1 0 0 0 -1 0 0 0 1 4-4ring8.dat
+1 16 0 20 0 8 0 0 0 -1 0 0 0 -8 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 20 0 4 0 0 0 -16 0 0 0 4 4-4cyli.dat
+1 16 0 20 0 -.38268 0 .92388 0 -1 0 .92388 0 .38268 connect.dat

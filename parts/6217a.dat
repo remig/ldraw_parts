@@ -1,0 +1,12 @@
+0 Arm Piece with Pin with Friction and 3 Fingers
+0 Name: 6217a.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+1 16 0 0 -2 4 0 0 0 0 4 0 -1 0 4-4edge.dat
+1 16 0 0 -2 8 0 0 0 0 8 0 -1 0 4-4edge.dat
+1 16 0 0 -2 10 0 0 0 0 10 0 4 0 4-4cyli.dat
+1 16 0 0 -2 10 0 0 0 0 10 0 -1 0 4-4edge.dat
+1 16 0 0 -2 -10 0 0 0 0 10 0 1 0 4-4disc.dat
+1 16 0 0 -2 1 0 0 0 0 1 0 1 0 confric.dat
+1 16 0 0 2 1 0 0 0 1 0 0 0 -1 arm2.dat

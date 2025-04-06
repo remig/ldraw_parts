@@ -1,0 +1,10 @@
+0 Wheel Rim 12 x 11 with Round Hole
+0 Name: 6014a.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6014s01.dat
+0 BFC INVERTNEXT
+1 16 0 0 -1 4 0 0 0 0 4 0 9 0 4-4cyli.dat
+1 16 0 0 8 4 0 0 0 0 4 0 1 0 4-4edge.dat
+1 16 0 0 8 -2 0 0 0 0 2 0 -1 0 4-4ring2.dat
