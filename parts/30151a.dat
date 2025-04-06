@@ -1,0 +1,10 @@
+0 Cylinder  2 x  2 x  1.667 with Dome Top and Blocked Hollow Stud
+0 Name: 30151a.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS Adventurers, bell jar, container, crystal, glass
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30151s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 filstud3.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat

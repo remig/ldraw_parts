@@ -1,0 +1,13 @@
+0 Minifig Head Duck
+0 Name: 24633.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS daisy, Disney, Donald
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24633s00.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24633s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24633s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24633s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24633s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24633s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24633s04.dat

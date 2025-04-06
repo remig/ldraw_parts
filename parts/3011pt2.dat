@@ -1,0 +1,11 @@
+0 Duplo Brick  2 x  4 with Green "POLICE" Pattern
+0 Name: 3011pt2.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !CATEGORY Brick
+0 !KEYWORDS bricklink 3011pb008, Police station, set 080-3, set 522-1
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3011s01.dat
+4 16 80 0 40 80 48 40 -80 48 40 -80 0 40
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 s\3011pt2s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3011pt2s02.dat

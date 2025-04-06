@@ -1,0 +1,10 @@
+0 Tile  1 x  4 with Yellow and Orange Headlights and Metallic Silver Grille Pattern
+0 Name: 2431p72.dat
+0 Author: Bertrand Lequy [Berth]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS Bricklink 2431pb515, Set 10758, Set 60212, Set 60232, Set 60241
+0 !KEYWORDS Set 60261
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431p72s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2431p72s01.dat

@@ -1,0 +1,9 @@
+0 Dish  2 x  2 without Rim
+0 Name: 2654b.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS boat stud 2 x 2, inverted tile, Round, skid plate, smooth bottom
+0 !KEYWORDS spherical
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2654bs02.dat
+1 16 0 2.25 0 20 0 0 0 -11.5 0 0 0 -20 bump5000.dat

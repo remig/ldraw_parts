@@ -1,0 +1,9 @@
+0 Plate  2 x  4 with Rounded Pins
+0 Name: 30157a.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS hub, non-stackable, wheel
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30157s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30157as01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30157as01.dat

@@ -1,0 +1,18 @@
+0 Minifig Head Mouse with Black Ears, Nose, Skull and Eyes Pattern
+0 Name: 24629p03.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS Black and White, Bricklink 24629pb03, Disney, Mickey, Set 31317
+0 !KEYWORDS Steamboat Willie, Vintage
+1 16 0 -16 0 1 0 0 0 -4 0 0 0 1 stud4o.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24629s01.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\24629s02.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\24629s03.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\24629s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24629p03s05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24629s01.dat
+1 0 0 0 0 -1 0 0 0 1 0 0 0 1 s\24629s02.dat
+1 0 0 0 0 -1 0 0 0 1 0 0 0 1 s\24629s03.dat
+1 0 0 0 0 -1 0 0 0 1 0 0 0 1 s\24629s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24629p03s05.dat

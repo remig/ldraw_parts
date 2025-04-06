@@ -1,0 +1,20 @@
+0 Tile  2 x  2 with Groove with Dark Orange Pointed Ovals in Nougat and Olive Green Quarters Pattern
+0 Name: 3068bpm3.dat
+0 Author: Florent Faramond [Makou]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS Bricklink 3068bpb2183, BrickOwl 759843, Lord of the Rings, LOTR
+0 !KEYWORDS Rebrickable 3068bpr0672, Rivendell, Set 10316
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bpm3s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\3068bpm3s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3068bpm3s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3068bpm3s01.dat
+1 330 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bpm3s02.dat
+1 92 0 0 0 1 0 0 0 1 0 0 0 -1 s\3068bpm3s02.dat
+1 92 0 0 0 -1 0 0 0 1 0 0 0 1 s\3068bpm3s02.dat
+1 330 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3068bpm3s02.dat
+1 330 -20 0 -20 1 0 0 0 1 0 0 0 1 s\3068bpm3s02.dat
+1 92 -20 0 20 1 0 0 0 1 0 0 0 -1 s\3068bpm3s02.dat
+1 92 20 0 -20 -1 0 0 0 1 0 0 0 1 s\3068bpm3s02.dat
+1 330 20 0 20 -1 0 0 0 1 0 0 0 -1 s\3068bpm3s02.dat
