@@ -1,19 +1,12 @@
 0 Brick  2 x  4 x  2 with Curved Top with Round Eyes Pattern
 0 Name: 6216p03.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6216s01.dat
-
 1 16 0 20 -20 -20 0 0 0 0 -20 0 1 0 2-4chrd.dat
 1 16 -20 44 -20 -20 0 0 0 0 -20 0 1 0 1-4chrd.dat
 1 16 20 44 -20 0 0 20 -20 0 0 0 1 0 1-4chrd.dat
-
 4 0 -15.73 30.072 -20 -15.581 29.243 -20 -16.762 29.83 -20 -16.909 31.739 -20
 3 0 -15.73 30.072 -20 -16.909 31.739 -20 -15.821 30.929 -20
 4 0 -15.852 31.809 -20 -15.821 30.929 -20 -16.909 31.739 -20 -16.783 33.752 -20

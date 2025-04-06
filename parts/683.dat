@@ -1,27 +1,9 @@
 0 ~Wheel  5.5 x 20 with 10 Spokes
 0 Name: 683.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Fabuland
-
-0 !HISTORY 2002-12-08 [Tore_Eriksson] Fixed primitive reference
-0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed (2006-01-16)
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2011-02-13 [anathema] Rebuilt
-0 !HISTORY 2011-02-20 [MagFors] Changed torus to cone
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-0 !HISTORY 2015-03-08 [Philo] Made shaft hole 2 ldu deeper
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
-0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
-
 1 16 14 0 0 0 -15 0 0 0 -8 8 0 0 4-4cylc.dat
 1 16 -1 0 0 0 1 0 0 0 -1 -1 0 0 4-4ring3.dat
 1 16 -1 0 0 0 1 0 0 0 -4 -4 0 0 4-4ring1.dat
@@ -155,7 +137,6 @@
 4 16 2 7.391 -3.061 2 7.76 -1.207 2 19.358 -4.976 2 19.318 -5.176
 4 16 12 15.536 -3.734 12 7.76 -1.207 12 7.391 -3.061 12 15.455 -4.141
 3 16 12 14.782 -6.123 12 15.455 -4.141 12 7.391 -3.061
-0 // Added lines/Condlines
 5 24 14 -3.132 23.7936 14 0 24 14 0 18 13 0 25
 5 24 14 -6.2112 23.1816 14 -3.132 23.7936 14 -2.349 17.8452 13 -3.2625 24.785
 5 24 14 -9.1848 22.1736 14 -6.2112 23.1816 14 -4.6584 17.3862 13 -6.47 24.1475

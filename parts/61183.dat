@@ -1,18 +1,10 @@
 0 Minifig Hair Swept Back Tousled
 0 Name: 61183.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
 0 !KEYWORDS Anakin, Skywalker, Star Wars
-
-0 !HISTORY 2014-09-17 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-09-17 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 -4.8 0 1 0 0 0 -1.2 0 0 0 -1 stud4o.dat
 1 16 0 0 0 2 0 0 0 -1 0 0 0 2 4-4ring4.dat
 3 16 13.1031 1.268 -1.0205 10 0 0 11.7985 1.4565 4.8084
@@ -181,7 +173,6 @@
 5 24 -9.63 0.7296 -8.9495 -12.2289 1.6407 -4.0038 -8.224 0 -9.584 -10.177 2.821 -8.142
 5 24 -12.2289 1.6407 -4.0038 -8.224 0 -9.584 -9.63 0.7296 -8.9495 -9.239 0 -3.827
 5 24 -8.224 0 -9.584 -9.63 0.7296 -8.9495 -8.316 0.21 -9.72 -12.2289 1.6407 -4.0038
-0 // Outside
 3 16 -3.057 -0.154 16.012 -2.513 -2.885 14.353 -0.77 -0.765 16.846
 3 16 -2.416 2.604 18.17 -3.057 -0.154 16.012 -0.77 -0.765 16.846
 3 16 -4.767 -3.161 14.445 -3.031 -5.33 11.501 -2.513 -2.885 14.353

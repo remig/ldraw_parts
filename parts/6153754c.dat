@@ -1,15 +1,9 @@
 0 Sticker  1.5 x  3.8 with Dark Azure Volkswagen Left Side Window Shape
 0 Name: 6153754c.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS set 10252, VW, Beetle
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 !KEYWORDS Beetle, set 10252, VW
 4 16 38 0 14 38 0 -14.8 32.7 0 -13.3 29.09 0 -10.32
 3 16 38 0 14 29.09 0 -10.32 24.15 0 -6.91
 3 16 38 0 14 24.15 0 -6.91 18.5 0 -3.6
@@ -21,7 +15,6 @@
 3 16 38 0 14 -18.17 0 7.56 -26.18 0 8.81
 4 16 38 0 14 -26.18 0 8.81 -38 0 10 -38 0 14
 3 16 38 0 -14.8 34.2 0 -14.8 32.7 0 -13.3
-0 // sides
 4 16 32.7 -0.25 -13.3 29.09 -0.25 -10.32 29.09 0 -10.32 32.7 0 -13.3
 4 16 29.09 -0.25 -10.32 24.15 -0.25 -6.91 24.15 0 -6.91 29.09 0 -10.32
 4 16 24.15 -0.25 -6.91 18.5 -0.25 -3.6 18.5 0 -3.6 24.15 0 -6.91

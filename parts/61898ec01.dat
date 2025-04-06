@@ -1,14 +1,10 @@
 0 Sheet Plastic 11 x 25 Rectangle Sail Shape (Formed)
 0 Name: 61898ec01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Sheet Plastic
-0 !KEYWORDS Duplo, Dacta, Early Simple Machines
-
+0 !KEYWORDS dacta, Duplo, Early Simple Machines
 1 16 0 179.0383 0.0924 -1 0 0 0 0.92388 -0.38268 0 -0.38268 -0.92388 s\61898s01.dat
 1 16 -101 190.5188 27.8088 -8 0 0 0 0.92388 3.06147 0 -0.38268 7.39104 1-4cylo.dat
 1 16 -101 190.5188 27.8088 -8 0 0 0 0.92388 3.06147 0 -0.38268 7.39104 1-4chrd.dat

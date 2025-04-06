@@ -1,13 +1,8 @@
 0 Brick  7 x  7 x  2.333 Turret Quarter
 0 Name: 6072.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 20 48 40 0 0 1 0 1 0 -1 0 0 stug3.dat
 1 16 60 0 60 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 60 24 40 0 0 1 0 1 0 -1 0 0 stud.dat
@@ -333,4 +328,3 @@
 3 16 10 48 -10 -10 48 10 -10 48 70
 4 16 10 48 -10 -10 48 70 30 48 10 30 48 -10
 4 16 30 48 10 -10 48 70 50 48 70 50 48 10
-0

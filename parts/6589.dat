@@ -1,21 +1,8 @@
 0 Technic Gear 12 Tooth Bevel
 0 Name: 6589.dat
-0 Author: Jeroen Ottens
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 Author: Jeroen Ottens [JeroenOttens]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
-0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, fixed identical to lines and bad vertex sequence, reworked for Contributor Agreement (2004-09-04)
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
-0 // offset in z-direction -3  
-
-
-
 1 16 0 0 7 1 0 0 0 0 -1 0 -1 0 48\4-4ring9.dat
 1 16 0 0 0.5 -2 0 0 0 0 -2 0 2.5 0 48\4-4con5.dat
 1 16 0 0 0 1 0 0 0 0 -1 0 7 0 axlehol6.dat
@@ -651,4 +638,3 @@
 2 24 3.444 -8.315 0 2.239 -8.693 0
 2 24 2.239 -8.693 0 1.175 -8.923 0
 2 24 1.175 -8.923 0 1 -8.934 0
-0

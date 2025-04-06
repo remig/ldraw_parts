@@ -1,14 +1,8 @@
 0 Window  1 x  4 x  2 Plane with Single Hole Top and Bottom for Glass
 0 Name: 61345.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-06-10 [MagFors] Changed, to reuse subfile in 60032 too
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 0 44 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT
 1 16 0 48 0 -4 0 0 0 -4 0 0 0 6 box3u8p.dat
@@ -27,4 +21,3 @@
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61345s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\61345s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug2-1x4.dat
-

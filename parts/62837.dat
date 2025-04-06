@@ -1,13 +1,8 @@
 0 ~Electric Mindstorms NXT Temperature Sensor Shell Front
 0 Name: 62837.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 4 16 16 -26 0 -16 -26 0 -16 -26 -29 16 -26 -29
 1 16 16 -16 -29 10 0 0 0 0 -10 0 29 0 1-4cyli.dat
 0 BFC INVERTNEXT
@@ -36,7 +31,6 @@
 1 16 -16 18 -29 -10 0 0 0 10 0 0 0 -10 1-8sphe.dat
 1 16 -16 -16 -29 0 -10 0 -10 0 0 0 0 -10 1-8sphe.dat
 1 16 16 -16 -29 10 0 0 0 -10 0 0 0 -10 1-8sphe.dat
-0 // The back wall
 1 16 24.5 1 0 0 0 -1.5 -17 0 0 0 -1 0 rect2p.dat
 1 16 -24.5 1 0 0 0 -1.5 -17 0 0 0 -1 0 rect2p.dat
 1 16 0 -24.5 0 -16 0 0 0 0 1.5 0 -1 0 rect2p.dat
@@ -59,7 +53,6 @@
 1 16 16 18 0 0 0 10 10 0 0 0 29 0 1-4edge.dat
 1 16 -16 -16 0 -10 0 0 0 0 -10 0 -29 0 1-4edge.dat
 1 16 -16 18 0 0 0 -10 10 0 0 0 -29 0 1-4edge.dat
-0 // The inside walls
 0 BFC INVERTNEXT
 1 16 16 -16 -29 0 -32 0 -7 0 0 0 0 -7 1-4cyli.dat
 0 BFC INVERTNEXT
@@ -219,4 +212,3 @@
 2 24 -2 -10.29 -44.844 -0.951 -10.639 -44.656
 2 24 -0.951 -10.639 -44.656 0 -10.87 -44.532
 2 24 -2 -23 -36.118 2 -23 -36.118
-0 //

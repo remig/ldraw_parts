@@ -1,17 +1,10 @@
 0 Sticker  0.7 x  1.7 with Buttons and Circuitry
 0 Name: 6058327d.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS 75043, AT-AP
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 -0.25 0 17.5 0 0 0 0.25 0 0 0 7.5 box5-12.dat
-
 4 4 -5.8 -0.25 4.2 -6.44487 -0.25 4.46711 -6.498 -0.25 4.2 -6.44487 -0.25 3.93289
 4 4 -5.8 -0.25 4.2 -6.44487 -0.25 3.93289 -6.29356 -0.25 3.70644 -6.06711 -0.25 3.55513
 4 4 -5.8 -0.25 4.2 -6.06711 -0.25 3.55513 -5.8 -0.25 3.502 -5.53289 -0.25 3.55513

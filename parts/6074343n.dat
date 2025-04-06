@@ -1,14 +1,9 @@
-0 Sticker  3.4 x  3.9 with Thermometer, Radioactivity Symbol and 'LL2079' in White Squares 
+0 Sticker  3.4 x  3.9 with Thermometer, Radioactivity Symbol and 'LL2079' in White Squares
 0 Name: 6074343n.dat
 0 Author: Christophe Mitillo [Christophe_Mitillo]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !KEYWORDS Set 70816, Spaceship
-0 !HISTORY 2015-11-11 [MagFors] changed origin, used primitives
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 37 0 33 2 0 0 0 -1 0 0 0 2 1-4chrd.dat
 1 16 37 -0.25 33 2 0 0 0 0.25 0 0 0 2 1-4cyli.dat
 1 16 37 0 -33 2 0 0 0 -1 0 0 0 -2 1-4chrd.dat
@@ -22,7 +17,6 @@
 4 16 39 -0.25 33 39 -0.25 -33 39 0 -33 39 0 33
 4 16 -37 0 -35 -39 0 -33 -39 0 33 -37 0 35
 4 16 -39 -0.25 -33 -39 -0.25 33 -39 0 33 -39 0 -33
-0 // Top
 0 BFC NOCLIP
 1 16 37 -0.25 -33 2 0 0 0 1 0 0 0 -2 1-4chrd.dat
 1 16 37 -0.25 33 2 0 0 0 1 0 0 0 2 1-4chrd.dat
@@ -844,7 +838,6 @@
 4 16 -27.7 -0.25 -20 -34 -0.25 -22.4 -33.619 -0.25 -24.313 -27.7 -0.25 -24.3
 4 16 -27.7 -0.25 -24.8 -33.619 -0.25 -24.313 -32.535 -0.25 -25.936 -30.913 -0.25 -27.019
 3 16 -27.7 -0.25 -24.8 -30.913 -0.25 -27.019 -29 -0.25 -27.4
-
 3 16 -39 -0.25 33 -35 -0.25 23.5 -34.543 -0.25 25.796
 3 16 -39 -0.25 33 -34.543 -0.25 25.796 -33.243 -0.25 27.743
 4 16 -39 -0.25 33 -33.243 -0.25 27.743 -31.296 -0.25 29.043 -37 -0.25 35

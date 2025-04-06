@@ -1,17 +1,9 @@
 0 Technic Wing with Axle Hole
 0 Name: 61800.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Bionicle, Tail, Fin
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-03-26 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !KEYWORDS bionicle, fin, Tail
 3 16 5.536 -9.252 20 6.064 -7.916 17.042 7.526 -5.377 20
 3 16 7.526 -5.377 17.055 7.526 -5.377 20 6.064 -7.916 17.042
 4 16 8.102 -3.75 11.45 8.75 -1.866 13.2 7.526 -5.377 20 7.526 -5.377 17.055
@@ -1002,4 +994,3 @@
 5 24 8.245 3.75 8.95 8.011 4.625 0 4.625 8.011 8.95 8.75 1.866 7.2
 5 24 -2.25 -86.15 92.6105 -1.5 -75.238 94.42 -1.5 -68.134 73.36 -1.5 -86.15 101.239
 5 24 1.5 -75.238 94.42 2.25 -86.15 92.6105 1.5 -68.134 73.36 1.5 -86.15 101.239
-

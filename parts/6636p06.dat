@@ -1,17 +1,10 @@
 0 Tile  1 x  6 with Red/DkRed "HOTEL" Pattern
 0 Name: 6636p06.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS set 10230
-
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6636s01.dat
-0 // Pattern
 4 4 0.01 0 4.28 0.01 0 6.02 -5.445 0 6.02 -5.445 0 4.28
 4 4 -5.445 0 1.9 0.01 0 1.9 0.01 0 3.64 -5.445 0 3.64
 4 4 11.68 0 -0.5 11.68 0 1.24 -5.455 0 1.24 -5.455 0 -0.5

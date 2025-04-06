@@ -1,22 +1,11 @@
 0 Tile  1 x  6 with "R. Guggenheim" Pattern
 0 Name: 6636p04.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Architecture, Set 21004, Solomon R. Guggenheim Museum, New York City, USA
-0 !KEYWORDS Architect, Frank Lloyd Wright
-
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS Architect, Architecture, Frank Lloyd Wright, New York City
+0 !KEYWORDS Set 21004, Solomon R. Guggenheim Museum, USA
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6636s01.dat
-0 //
 4 15 -47.729 0 -5 -46.439 0 -5 -46.439 0 -0.657 -47.729 0 4.772
 4 15 -46.439 0 0.46 -46.439 0 -0.657 -44.939 0 -0.657 -43.66 0 0.46
 4 15 -41.774 0 -1.519 -40.694 0 -0.84 -41.674 0 -0.352 -42.63 0 -0.965
@@ -228,7 +217,6 @@
 3 15 -22.859 0 -3.5 -21.591 0 -5.157 -22.859 0 -1.886
 3 15 -23.771 0 -3.373 -22.859 0 -3.5 -22.859 0 -1.886
 3 15 -22.859 0 -5.157 -21.591 0 -5.157 -22.859 0 -3.5
-0 //
 3 16 -46.439 0 -5 -47.729 0 -5 -60 0 -10
 4 16 -46.439 0 -5 -60 0 -10 -41.048 0 -5 -41.24 0 -4.566
 4 16 -60 0 10 -60 0 -10 -47.729 0 -5 -47.729 0 4.772

@@ -1,20 +1,13 @@
 0 Brick  2 x  4 x  2 with Curved Top with Antenna Pattern
 0 Name: 6216p01.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6216s01.dat
-
 1 16 0 20 -20 -20 0 0 0 0 -20 0 1 0 1-4chrd.dat
 1 16 0 20 -20 0 0 20 -20 0 0 0 1 0 1-4chrd.dat
 1 16 -20 44 -20 -20 0 0 0 0 -20 0 1 0 1-4chrd.dat
 1 16 20 44 -20 0 0 20 -20 0 0 0 1 0 1-4chrd.dat
-
 4 0 -13.1 24.4 -20 -17.543 20.735 -20 -17.874 21.178 -20 -18.162 21.652 -20
 4 0 -13.1 24.4 -20 -18.162 21.652 -20 -18.404 22.154 -20 -18.598 22.683 -20
 4 0 -13.1 24.4 -20 -18.598 22.683 -20 -18.739 23.234 -20 -18.827 23.805 -20

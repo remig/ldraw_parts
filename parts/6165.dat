@@ -1,15 +1,9 @@
 0 Panel 12 x  1 x 12 Lattice
 0 Name: 6165.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Belville, Wall
-
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 70 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 50 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 30 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
@@ -104,7 +98,6 @@
 4 16 24.75 28.25 -10 2.75 6.25 -10 0 9 -10 22 31 -10
 4 16 22 31 10 0 9 10 2.75 6.25 10 24.75 28.25 10
 3 16 -2.75 6.25 -10 0 9 -10 2.75 6.25 -10
-0 // 2nd half
 4 16 96.25 253.75 -10 96.25 256 -10 101.75 256 -10 101.75 253.75 -10
 4 16 101.75 253.75 10 101.75 256 10 96.25 256 10 96.25 253.75 10
 0 BFC INVERTNEXT
@@ -208,4 +201,3 @@
 0 BFC INVERTNEXT
 1 16 -24.775 6.25 0 0 0 -22 0 -2.25 0 -10 0 0 box3u4a.dat
 4 16 -2.775 6.25 10 -2.775 4 10 2.725 4 10 2.725 6.25 10
-

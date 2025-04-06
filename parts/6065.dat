@@ -1,18 +1,9 @@
 0 Plant Bush Base
 0 Name: 6065.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
 0 !CMDLINE -c2
-
-0 !HISTORY 2003-07-04 [Steffen] rotated inner ring of leaves by 11.25 degrees, reformatted header
-0 !HISTORY 2009-06-19 [Steffen] subfiled, BFCed, replaced stud by stud10, used cone primitive
-0 !HISTORY 2011-01-07 [Philo] Updated for new subpart
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 1 16 0 -6 0 16 0 0 0 16 0 0 0 16 4-4edge.dat
 1 16 0 -6 0 2 0 0 0 -4 0 0 0 -2 4-4ring8.dat
 1 16 0 -6 0 20 0 0 0 -2 0 0 0 20 4-4cyli.dat

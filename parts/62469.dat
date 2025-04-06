@@ -1,15 +1,8 @@
 0 ~Electric Power Functions Pole Reverser Top (Needs Work)
 0 Name: 62469.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // Needs Work: Inner surface not modelled
-
 0 BFC INVERTNEXT
 1 16 0 -11.25 -26 0 0 5 1.25 5 0 -3 0 0 box4o4a.dat
 0 BFC INVERTNEXT
@@ -39,6 +32,5 @@
 4 16 10 -9.51 15.71 -10 -9.51 15.71 -4 -12.81 13.5 4 -12.81 13.5
 5 24 10 -3 17 -10 -3 17 -10 -9.51 15.71 10 0 17
 5 24 -10 -9.51 15.71 10 -9.51 15.71 10 -3 17 -4 -12.81 13.5
-0 // The two following quads are there to avoid see inside when the switch is tilted
 4 0 16 -6 10 16 -6 16 -16 -6 16 -16 -6 10
 4 0 16 -6 -21 16 -6 -10 -16 -6 -10 -16 -6 -21

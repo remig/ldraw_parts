@@ -1,23 +1,14 @@
 0 ~Animal Dragon Body Right
 0 Name: 6129.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
-0 !HISTORY 2010-12-11 [MagFors] File preparation for LDraw Parts Tracker
-0 !HISTORY 2011-02-27 [MagFors] Redesigned head based on 6026.dat
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6130s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6130s00.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6130s02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6129s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6129s00.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6129s00.dat
-0 //
 0 BFC INVERTNEXT
 1 16 -22 30 -4 0 27 0 12 0 0 0 0 12 4-4cylc.dat
 1 16 5 30 -4 0 -1 0 2 0 0 0 0 -2 4-4ring6.dat
@@ -54,7 +45,6 @@
 2 24 -23.84 35.36 8.93 -23.84 39.9 5.9
 2 24 -23.84 42.93 1.36 -23.84 39.9 5.9
 2 24 -23.84 44 -4 -23.84 42.93 1.36
-0 // position might be incorrect
 0 BFC INVERTNEXT
 1 16 -10 40 -62 0 15 0 8 0 0 0 0 8 4-4cylc.dat
 1 16 5 40 -62 0 -1 0 2 0 0 0 0 -2 4-4ring4.dat
@@ -95,7 +85,6 @@
 2 24 -11.08 49.24 -58.17 -13.05 47.07 -54.93
 2 24 -9.69 50 -62 -10.27 49.73 -60.66
 2 24 -10.27 49.73 -60.66 -11.08 49.24 -58.17
-0 // position might be incorrect
 0 BFC INVERTNEXT
 1 16 -10 -46 -48 0 15 0 6 0 0 0 0 6 4-4cylc.dat
 1 16 5 -46 -48 0 -1 0 2 0 0 0 0 -2 4-4ring3.dat
@@ -128,7 +117,6 @@
 2 24 -14.85 -38.61 -44.94 -14.39 -40.34 -42.34
 2 24 -14.84 -38 -48 -14.88 -38.37 -46.13
 2 24 -14.88 -38.37 -46.13 -14.85 -38.61 -44.94
-0 // Added lines/Condlines
 5 24 -18.63 -53.25 -68.61 -11 -53.25 -68.61 -11 -53.36 -65.68 -15.02 -53.06 -72.17
 5 24 -19.5 -36.76 -71.78 -19.5 -40.26 -70.58 -18.8 -34.1 -66.79 -19.5 -49.12 -78.69
 5 24 -19.5 -33.21 -70.45 -19.5 -36.76 -71.78 -18.8 -34.1 -66.79 -19.5 -49.12 -78.69

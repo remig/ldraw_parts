@@ -1,15 +1,9 @@
 0 Sticker  1.0 x  1.6 with Black "Al's BOARDS" between Blue Stripes on White Background
 0 Name: 6153754o.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS set 10252, VW, Volkswagen, Beetle
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 !KEYWORDS Beetle, set 10252, Volkswagen, VW
 1 16 0 0 0 16 0 0 0 -0.25 0 0 0 10 48\4-4cyli.dat
 1 16 0 0 0 -16 0 0 0 -1 0 0 0 10 48\4-4disc.dat
 4 0 -8.526 -0.25 -5.094 -8.494 -0.25 -5.279 -8.342 -0.25 -5.426 -7.824 -0.25 -4.803

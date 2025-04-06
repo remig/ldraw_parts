@@ -1,22 +1,8 @@
 0 Wedge  4 x  4 Triple with SW X-Wing Nose Pattern
 0 Name: 6069ps1.dat
 0 Author: John Van Zwieten [jvan]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-07-12 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed (2006-01-04)
-0 !HISTORY 2009-10-05 [Philo] Rebuild pattern using a dithered approach
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
-0 // Part w/o Top Front Face
-
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6069s01.dat
 1 16 10 0 0 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 -10 0 0 0 0 1 0 1 0 -1 0 0 stud.dat
@@ -28,7 +14,6 @@
 2 24 -20 0 -10 -20 20 -70
 2 24 20 0 -10 40 20 -10
 2 24 -20 0 -10 -40 20 -10
-0 // Top Front Patterned Face
 3 16 -19 12.67 -48 -19.5 12.67 -48 -19.5 19.33 -68
 3 8 -18.5 19.33 -68 -19 12.67 -48 -19.5 19.33 -68
 3 16 -18 12.67 -48 -19 12.67 -48 -18.5 19.33 -68
@@ -246,4 +231,3 @@
 4 16 10.5 15.67 -57 11.5 15.67 -57 11.5 12.67 -48 10.5 12.67 -48
 4 16 20 20 -70 19.5 19.83 -69.5 -19.5 19.83 -69.5 -20 20 -70
 4 8 -19.5 19.83 -69.5 19.5 19.83 -69.5 19.5 19.33 -68 -19.5 19.33 -68
-

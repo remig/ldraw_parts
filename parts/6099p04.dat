@@ -1,21 +1,13 @@
 0 Baseplate 32 x 32 Road 9-Stud Landing Pad Type 1 (Orange)
 0 Name: 6099p04.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-0 !KEYWORDS air base, airfield, air harbor, airstrip, aviation field
-0 !KEYWORDS field, flight deck, flight strip, flying field, deck
-0 !KEYWORDS landing strip, port, takeoff strip, heliport, helipad
-0 !KEYWORDS classic space, galaxy explorer
-
-0 !HISTORY 2008-06-28 [anathema] Used subfile
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
+0 !KEYWORDS air base, air harbor, airfield, airstrip, aviation field
+0 !KEYWORDS Classic Space, deck, Field, flight deck, flight strip, flying field
+0 !KEYWORDS Galaxy Explorer, helipad, heliport, landing strip, port
+0 !KEYWORDS takeoff strip
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6099s01.dat
-0 // Yellow
-
 4 462 -244.245 0 19.222 -244.666 0 8.5 -267.666 0 8.5 -267.174 0 21.027
 4 462 -241.984 0 38.327 -244.245 0 19.222 -267.174 0 21.027 -264.7 0 41.925
 4 462 -238.231 0 57.194 -241.984 0 38.327 -264.7 0 41.925 -260.595 0 62.564
@@ -112,8 +104,6 @@
 4 462 136 0 83 136 0 16.5 124 0 16.5 124 0 83
 4 462 136 0 -16.5 136 0 -83 124 0 -83 124 0 -16.5
 4 462 136 0 -107 136 0 -174 124 0 -174 124 0 -107
-
-0 // White
 4 15 5 0 320 5 0 303.5 -5 0 303.5 -5 0 320
 4 15 5 0 281 5 0 228 -5 0 228 -5 0 281
 4 15 5 0 205 5 0 161 -5 0 161 -5 0 205
@@ -138,8 +128,6 @@
 4 15 -161 0 -5 -205 0 -5 -205 0 5 -161 0 5
 4 15 -228 0 5 -228 0 -5 -281 0 -5 -281 0 5
 4 15 -303.5 0 5 -303.5 0 -5 -320 0 -5 -320 0 5
-
-0 // Main color
 1 16 -316 0 316 0 0 -4 0 1 0 4 0 0 1-4disc.dat
 1 16 316 0 316 4 0 0 0 1 0 0 0 4 1-4disc.dat
 1 16 316 0 -316 0 0 4 0 1 0 -4 0 0 1-4disc.dat
@@ -331,7 +319,6 @@
 4 16 136 0 -107 124 0 -107 124 0 -83 136 0 -83
 4 16 136 0 -174 144.007 0 -198.209 128.012 0 -208.897 124 0 -174
 4 16 124 0 -16.5 124 0 -83 80.5 0 -5 102.5 0 -5
-0 // www.holly-wood.it
 3 16 80.5 0 -5 124 0 -83 5 0 -80.5
 4 16 5 0 -80.5 5 0 -55 55 0 -5 80.5 0 -5
 4 16 55 0 -5 5 0 -55 5 0 -35 35 0 -5
@@ -376,4 +363,3 @@
 4 16 -186.3 0 -159.115 -198.209 0 -144.007 -136 0 -107 -136 0 -174
 4 16 -159.115 0 -186.299 -173.241 0 -173.241 -186.3 0 -159.115 -136 0 -174
 3 16 -136 0 -174 -144.007 0 -198.209 -159.115 0 -186.299
-0

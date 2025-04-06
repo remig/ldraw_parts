@@ -1,17 +1,9 @@
 0 Plate  6 x  6 without Corner
 0 Name: 6106.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
-0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed and use more primitives (2005-11-16)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
+0 !KEYWORDS Wing
 1 16 0 4 0 0 0 -60 -4 0 0 0 60 0 box2-5.dat
 0 BFC INVERTNEXT
 1 16 0 6 0 0 0 -56 -2 0 0 0 56 0 box2-5.dat
@@ -110,4 +102,3 @@
 1 16 -4.293 4 -35.707 1 0 -1.4645 0 4 0 1 0 1.4645 box4-4a.dat
 1 16 0.55 6 -33.793 0 0.7071 2.3787 2 0 0 0 -0.7071 2.3787 rect.dat
 1 16 -6.207 6 -40.551 0 0.7071 2.3787 2 0 0 0 -0.7071 2.3787 rect.dat
-0

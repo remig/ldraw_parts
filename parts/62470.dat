@@ -1,13 +1,8 @@
 0 ~Electric Power Functions Pole Reverser Bottom
 0 Name: 62470.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\62470s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\62470s01.dat
 0 BFC INVERTNEXT
@@ -29,4 +24,3 @@
 4 16 6 16 58 -6 16 58 -18 18 58 18 18 58
 1 16 0 16 59 -6 0 0 0 1 0 0 0 1 rect2p.dat
 2 24 -20 24 60 20 24 60
-0

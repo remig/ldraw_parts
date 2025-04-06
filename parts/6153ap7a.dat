@@ -1,24 +1,13 @@
 0 Wedge  6 x  4 without Stud Notches with Arctic Pattern
 0 Name: 6153ap7a.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Town, Antarctic, Antarctica, polar, north pole, south pole, explorer
-
+0 !KEYWORDS Antarctic, Antarctica, explorer, north pole, Polar, south pole, town
 0 !CMDLINE -c462
-
-0 !HISTORY 2006-07-11 [WilliamH] BFC'ed
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2018-10-29 [Philo] Used notchless subpart
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6153as01.dat
-0 // side quads
 1 16 30 10 -20 -10 -1 0 0 0 10 -30 0 -20 rect1.dat
 1 16 -30 10 -20 10 1 0 0 0 -10 -30 0 20 rect1.dat
-0 // Pattern
 4 0 17.5 12.0748 -54.1495 17.5 7.379 -44.758 16.5 7.8262 -45.6525 16.5 11.6276 -53.2551
 4 0 17.5 7.379 -44.758 15 7.379 -44.758 13.5 7.8262 -45.6525 16.5 7.8262 -45.6525
 4 0 15 7.379 -44.758 18.5 5.3666 -40.7331 17.5 5.3666 -40.7331 13.5 7.8262 -45.6525
@@ -213,9 +202,6 @@
 3 16 -18.5 5.3666 -40.7331 -20 0 -30 -20 20 -70
 4 16 20 20 -70 4 14.5344 -59.0689 -4 14.5344 -59.0689 -20 20 -70
 4 16 -20 0 -30 -14.5 3.1305 -36.261 14.5 3.1305 -36.261 20 0 -30
-
-0 // Pattern created wholly or in part by Quad2Dat
-0 // Thanks James
 3 9 7.8 4.338 -38.6759 8.3 4.338 -38.6759 14 3.5777 -37.1554
 4 9 0.75 4.4721 -38.9443 7.8 4.338 -38.6759 14 3.5777 -37.1554 -14 3.5777 -37.1554
 4 9 2.5 5.5902 -41.1803 4.75 6.4846 -42.9692 7.8 4.338 -38.6759 0.75 4.4721 -38.9443

@@ -1,16 +1,9 @@
 0 Minifig Helmet Floodlight for SW Clone Trooper Helmet
 0 Name: 63585.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !CATEGORY Minifig Headwear
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-12-23 [MagFors] File preparation for LDraw Parts Tracker
-
-
 1 16 -3.5 0 0 0 3.5 0 2 0 0 0 0 2 4-4cylc.dat
 1 16 0 0 0 0 1 0 4 0 0 0 0 4 4-4edge.dat
 1 16 0 0 0 0 1 0 2 0 0 0 0 2 4-4ring1.dat
@@ -24,7 +17,7 @@
 1 16 4 -17.5 0 1.4 0 0 0 1 0 0 0 1.4 4-4disc.dat
 1 16 4 4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 4 4 0 3.75 0 0 0 1 0 0 0 3.75 4-4edge.dat
-1 16 4 4 0 .25 0 0 0 -1 0 0 0 .25 4-4rin15.dat
+1 16 4 4 0 .25 0 0 0 -1 0 0 0 .25 4-4ring15.dat
 1 16 4 4.8 0 0 0 -3.75 0 -.8 0 3.75 0 0 4-4cyli.dat
 1 16 4 13.25 0 3.125 0 0 0 -1 0 0 0 3.125 4-4edge.dat
 1 16 4 12.75 0 0 0 -3.125 0 -1 0 3.125 0 0 2-4edge.dat
@@ -102,3 +95,7 @@
 5 24 6.1213 -12.5 -2.1213 6.7717 -12.5 -1.1481 7.23365 -10 -1.33945 5.97988 -13.125 -1.97988
 5 24 2.66055 -10 -3.23365 4 -10 -3.5 4 -4 -4 2.8519 -12.5 -2.7717
 5 24 4 -4 -4 2.4692 -4 -3.6956 2.4692 -1.5308 -3.6956 2.66055 -10 -3.23365
+5 24 4 4.8 -3.75 4 12.75 -3.75 2.564875 4.8 -3.464625 5.4351 4.8 -3.4646
+5 24 5.4351 4.8 -3.4646 5.4351 7.8865 -3.4646 4 4.8 -3.75 6.651625 4.8 -2.651625
+5 24 4 4.8 3.75 4 12.75 3.75 2.564875 4.8 3.464625 5.4351 4.8 3.4646
+5 24 5.4351 4.8 3.4646 5.4351 7.8859 3.4646 6.651625 4.8 2.651625 4 4.8 3.75

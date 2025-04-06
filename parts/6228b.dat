@@ -1,17 +1,10 @@
 0 Animal Dolphin
 0 Name: 6228b.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-11-29 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-02-24 [Holly-Wood] File preparation for LDraw Parts Tracker
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6228bs01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6228bs01.dat
-
 5 24 0 -7.839 -58.15 0 -5.299 -50.653 9.406 -8.697 -52.287 -9.406 -8.697 -52.287
 5 24 0 -5.904 90.83 0 -6.372 86.206 7.006 -6.583 91.463 -7.006 -6.583 91.463
 5 24 0 -13.217 -74.946 0 -11.959 -71.237 5.45 -13.93 -73.109 -5.45 -13.93 -73.109

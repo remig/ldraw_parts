@@ -1,17 +1,10 @@
 0 Sticker  2.8 x  3.7 with Droid Gunship and Target Screen
 0 Name: 6058327e.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS 75043, AT-AP
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 -0.25 0 37.5 0 0 0 0.25 0 0 0 28.75 box5-12.dat
-
 4 15 -30.6 -0.25 13.1 -31.11053 -0.25 13.61053 -31.322 -0.25 13.1 -31.11053 -0.25 12.58947
 4 15 -30.6 -0.25 13.1 -31.11053 -0.25 12.58947 -30.6 -0.25 12.378 -30.08947 -0.25 12.58947
 4 15 -30.6 -0.25 13.1 -30.08947 -0.25 12.58947 -29.878 -0.25 13.1 -30.08947 -0.25 13.61053

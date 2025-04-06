@@ -1,23 +1,11 @@
 0 Tile  1 x  6 with "Center" Pattern
 0 Name: 6636p02.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Architecture, Set 21007, Rockefeller Center, New York City, USA
-0 !KEYWORDS Architect, Raymond M. Hood
-
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
-0 // Text produced by txt2dat, using "Arial" font
-0 // (R) extract from s\777s07.dat
-0 // Scaled and Positioned with MLCad
-0 // Font match is not perfect, but manually corrected with LD Pattern Creator
-
+0 !KEYWORDS Architect, Architecture, New York City, Raymond M. Hood
+0 !KEYWORDS Rockefeller Center, Set 21007, USA
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6636s01.dat
-0 //
 1 16 -7.5 0 3 2.8 0 0 0 1 0 0 0 2.8 4-4ndis.dat
 1 15 -7.5 0 3 0 0 -0.4 0 1 0 0.4 0 0 4-4ring6.dat
 4 15 -8.706 0 1.4 -8.3 0 1.4 -8.3 0 2.756 -8.706 0 4.456
@@ -57,7 +45,6 @@
 4 16 -8.3 0 3.106 -7.432 0 3.106 -7.334 0 4.119 -8.3 0 4.119
 4 16 -7.432 0 3.106 -7 0 3.164 -6.838 0 3.979 -7.334 0 4.119
 4 16 -6.762 0 3.347 -6.681 0 3.622 -6.838 0 3.979 -7 0 3.164
-0 //
 4 15 -51.284 0 -2.658 -50.887 0 -3.407 -50.102 0 -2.206 -51.571 0 -1.824
 4 15 -50.374 0 -1.197 -51.742 0 -0.95 -51.571 0 -1.824 -50.102 0 -2.206
 4 15 -50.465 0 -0.03 -51.8 0 -0.037 -51.742 0 -0.95 -50.374 0 -1.197
@@ -158,7 +145,6 @@
 4 15 -12.364 0 2.237 -13.334 0 1.998 -12.328 0 1.1 -11.33 0 2.253
 3 15 -11.351 0 1.143 -11.33 0 2.253 -12.328 0 1.1
 3 15 -13.332 0 0.763 -14.097 0 1.007 -13.778 0 0.107
-0 //
 3 16 -48.198 0 -5.094 -49.053 0 -4.879 -60 0 -10
 3 16 -47.211 0 -5.165 -48.198 0 -5.094 -60 0 -10
 3 16 -49.053 0 -4.879 -49.779 0 -4.521 -60 0 -10

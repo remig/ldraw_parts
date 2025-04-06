@@ -1,17 +1,11 @@
 0 ~Animal Dragon Body Left with Metallic Gold Oriental Pattern
 0 Name: 6130p01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6130s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6130s03.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6130s02.dat
-0 // cover up surface
 2 24 0 -64.3 -57.51 11 -64.3 -57.51
 2 24 0 -60.5 -56.24 0 -64.3 -57.51
 2 24 7 -60.5 -56.24 0 -60.5 -56.24
@@ -62,7 +56,6 @@
 3 16 11 -60.49 -53.91 9.1 -60.49 -53.91 11 -60.29 -51.9
 3 16 11 -64.3 -57.51 7 -60.5 -56.24 11 -60.5 -56.24
 4 16 0 -60.5 -56.24 7 -60.5 -56.24 11 -64.3 -57.51 0 -64.3 -57.51
-0 // connectors
 0 BFC INVERTNEXT
 1 16 22 30 -4 0 -27 0 10 0 0 0 0 -10 4-4cylc.dat
 1 16 -5 30 -4 0 1 0 2 0 0 0 0 2 4-4ring5.dat
@@ -97,7 +90,6 @@
 2 24 23.84 41.4 -7.01 23.84 42 -4
 2 24 23.84 41.09 -8.59 23.84 41.18 -8.14
 2 24 23.84 41.18 -8.14 23.84 41.4 -7.01
-0 // position might be incorrect
 0 BFC INVERTNEXT
 1 16 11 40 -62 0 -16 0 6 0 0 0 0 -6 4-4cylc.dat
 1 16 -5 40 -62 0 1 0 2 0 0 0 0 2 4-4ring3.dat
@@ -138,7 +130,6 @@
 2 24 15.5 41.73 -54.34 14.67 43.01 -54.6
 2 24 15.84 41.11 -54.22 15.5 41.73 -54.34
 2 24 14.67 43.01 -54.6 14.66 43.06 -54.61
-0 // position might be incorrect
 0 BFC INVERTNEXT
 1 16 10 -46 -48 0 -15 0 4 0 0 0 0 -4 4-4cylc.dat
 1 16 -5 -46 -48 0 1 0 2 0 0 0 0 2 4-4ring2.dat
