@@ -1,17 +1,10 @@
 0 Brick  2 x  2 with Air Mail Letter Pattern
 0 Name: 3003pe0.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Mickey, Minnie, Mail
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS Mail, Mickey, Minnie
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3003s01.dat
-
 4 0 -12.62 15.886 -20 -12.61 16.017 -20 -12.499 16.169 -20 -12.543 15.774 -20
 4 0 -12.543 15.774 -20 -12.499 16.169 -20 -12.421 16.224 -20 -12.392 15.676 -20
 4 0 -12.392 15.676 -20 -12.421 16.224 -20 -12.264 16.235 -20 -12.254 15.597 -20

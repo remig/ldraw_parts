@@ -1,27 +1,13 @@
 0 Minifig Sword Cutlass
 0 Name: 2530.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS jungle, adventurers, pirate, wild west, western
-0 !KEYWORDS machete, saber, weapon, cavalry,
-
+0 !KEYWORDS Adventurers, cavalry, Jungle, machete, Pirate, saber, Weapon
+0 !KEYWORDS western, wild west
 0 !CMDLINE -c8
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [Holly-Wood] Primitive substitution, added missing edges and cond. lines, BFCed
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
-0 // grip
-
 1 16 0 6 0 4 0 0 0 -12 0 0 0 4 4-4cylc.dat
-0 // pommel
 1 16 0 6 0 2 0 0 0 2 0 0 0 2 4-4cyli.dat
 1 16 0 6 0 2 0 0 0 1 0 0 0 2 4-4edge.dat
 1 16 0 10 0 4 0 0 0 4 0 0 0 4 8-8sphe.dat
@@ -39,7 +25,6 @@
 2 24 -2 6.618 0 -1.848 6.695 0.765
 2 24 -1.97 6.617 -0.152 -2 6.618 0
 2 24 1.97 6.617 -0.152 2 6.618 0
-0 // guard
 1 16 0 -6 5 -4 0 0 0 -1 0 0 0 3 2-4disc.dat
 1 16 0 -6 5 -4 0 0 0 -2 0 0 0 3 2-4cylo.dat
 1 16 0 -8 5 -4 0 0 0 1 0 0 0 3 2-4disc.dat
@@ -150,7 +135,6 @@
 1 16 0 6 -3 0 0 -4 0 1 0 1 0 0 rect2p.dat
 4 16 -4 8 -4 -4 6 -4 -4 6 -2 -4 8 -2
 4 16 4 8 -4 4 8 -2 4 6 -2 4 6 -4
-0 // blade
 1 16 -2 -24 2 0 1 0 0 0 16 2 0 0 rect3.dat
 1 16 2 -24 2 0 -1 0 0 0 16 -2 0 0 rect3.dat
 4 16 -2 -8 0 0 -8 -4 0 -40 -4 -2 -40 0

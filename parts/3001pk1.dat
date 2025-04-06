@@ -1,18 +1,11 @@
 0 Brick  2 x  4 with "TOW MATER" on Sand Green Background Pattern
 0 Name: 3001pk1.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Disney, Cars
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS Cars, Disney
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3001s01.dat
 4 16 40 0 20 40 24 20 -40 24 20 -40 0 20
-
 3 15 -16.594 11.748 -20 -18.063 14.641 -20 -17.068 13.67 -20
 4 15 -19.266 15.818 -20 -18.063 14.641 -20 -16.594 11.748 -20 -19.995 15.072 -20
 3 15 -16.594 11.748 -20 -17.068 13.67 -20 -15.865 12.493 -20

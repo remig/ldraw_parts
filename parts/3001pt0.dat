@@ -1,16 +1,10 @@
 0 Brick  2 x  4 with Black "390" Pattern
 0 Name: 3001pt0.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3001s01.dat
 4 16 40 0 20 40 24 20 -40 24 20 -40 0 20
-
 4 0 -19.616 18.456 -20 -22.234 19.59 -20 -21.48 20.264 -20 -20.548 20.808 -20
 4 0 -21.014 3.714 -20 -21.81 4.38 -20 -19.333 5.466 -20 -20.04 3.171 -20
 4 0 -22.38 5.134 -20 -22.721 5.975 -20 -19.333 5.466 -20 -21.81 4.38 -20

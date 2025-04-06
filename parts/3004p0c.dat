@@ -1,14 +1,8 @@
 0 Brick  1 x  2 with Santa Claus Face Pattern
 0 Name: 3004p0c.dat
 0 Author: Jaco van der Molen [Jaco]
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2008-12-13 [cwdee] BFCed and made use of 3004s01 subpart; change white to 16
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
 0 White
 3 16 -8.7159 13.2167 -10 -9.1221 12.2948 -10 -8.6205 11.7652 -10
@@ -467,6 +461,3 @@
 3 4 9.125 13.8594 -10 12.0781 16.6875 -10 10.0313 15.7187 -10
 3 4 10.0313 15.7187 -10 7.8281 15.0156 -10 9.125 13.8594 -10
 3 4 14.0313 18.2187 -10 12.0781 16.6875 -10 14.6094 17.2187 -10
-0
-
-0

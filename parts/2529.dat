@@ -1,21 +1,8 @@
 0 Window  1 x  2 x  3 Pane Latticed
 0 Name: 2529.dat
-0 Author: Lutz Uhlmann
-0 !LDRAW_ORG Part UPDATE 2005-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 Author: Lutz Uhlmann [El-Lutzo]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
-0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
-0 !HISTORY 2004-04-27 [jriley] BFC compliant, replaced lines & quads with rect.dat
-0 !HISTORY 2005-01-08 [cwdee] Added hinge hemispheres
-0 !HISTORY 2005-01-08 [guyvivan] Delete two 2-4disc.dat under hemispheres
-0 !HISTORY 2005-01-09 [cwdee] Further tidying of top and bottom edges
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 1 16 0 60 0 2 0 0 0 1 0 0 0 2 4-8sphe.dat
 1 16 0 60 0 2 0 0 0 1 0 0 0 2 4-4edge.dat
 1 16 0 60 0 2 0 0 0 -1 0 0 0 -2 2-4ndis.dat
@@ -102,4 +89,3 @@
 4 16 -2 0 -30 -2 60 -30 -2 60 -34 -2 0 -34
 1 16 0 30 -34 2 0 0 0 0 -30 0 1 0 rect.dat
 1 16 0 0 0 2 0 0 0 60 0 0 0 2 2-4cyli.dat
-0

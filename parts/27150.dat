@@ -1,17 +1,9 @@
 0 Minifig Umbrella Folded
 0 Name: 27150.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-
-0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-02-06 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 -2.5 0 0 0 4 0 5 0 4 0 0 4-4cylc.dat
 1 16 0 2.5 0 0 0 4 0 -1 0 4 0 0 4-4disc.dat
 1 16 0 -13.25 0 0 0 4 0 1 0 4 0 0 4-4edge.dat
@@ -93,7 +85,6 @@
 3 16 0 -25.634 3.441 2.444 -25.424 2.58 1.5308 -20.25 3.6956
 3 16 1.5308 -20.25 3.6956 0 -20.25 4 0 -25.634 3.441
 3 16 2.8284 -20.25 2.8284 1.5308 -20.25 3.6956 2.444 -25.424 2.58
-
 4 16 -1.306 -24.44 -9.792 0 -24.311 -9.455 0 -22 -9.762 -1.361 -22 -10.127
 3 16 -1.306 -24.44 -9.792 -1.361 -22 -10.127 -2.315 -24.793 -10.64
 3 16 -2.315 -24.793 -10.64 -1.361 -22 -10.127 -2.358 -22 -11.123

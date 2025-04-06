@@ -1,31 +1,18 @@
 0 Technic Brick  1 x  4 x  1.667 Wing Front
 0 Name: 2743.dat
 0 Author: Luis E. Fernandez [lfernand]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
-0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, Delete identical lines and quads, Add mising lines (2004-05-17)
-0 !HISTORY 2008-07-08 [guyvivan] Rename Technic Brick... (2004-05-23)
-0 !HISTORY 2008-07-09 [guyvivan] Use 1-4cyls2.dat near stud3a (2004-11-07)
-0 !HISTORY 2008-07-10 [guyvivan] Fixed bottom of the rib at the front of the wing, And use more primitives (2005-01-20)
-0 !HISTORY 2008-07-11 [guyvivan] Use New primitive cylj4x8.dat (2005-11-30)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
-1 16 -20 18 0 1 0 0 0 -1.5 0 0 0 1 STUD3A.DAT
-1 16 -20 18 0 1 0 0 0 1 0 0 0 1 cylj4x8.DAT
+1 16 -20 18 0 1 0 0 0 -1.5 0 0 0 1 stud3a.dat
+1 16 -20 18 0 1 0 0 0 1 0 0 0 1 cylj4x8.dat
 1 16 0 10 10 1 0 0 0 0 1 0 -1 0 peghole.dat
 1 16 0 10 -10 1 0 0 0 0 1 0 1 0 peghole.dat
 1 16 -20 10 10 1 0 0 0 0 1 0 -1 0 peghole.dat
 1 16 -20 10 -10 1 0 0 0 0 1 0 1 0 peghole.dat
-1 16 0 10 6 8 0 0 0 0 8 0 1 0 2-4edge.DAT
-1 16 0 10 -6 8 0 0 0 0 8 0 1 0 2-4edge.DAT
-1 16 -20 10 6 8 0 0 0 0 8 0 1 0 2-4edge.DAT
-1 16 -20 10 -6 8 0 0 0 0 8 0 1 0 2-4edge.DAT
+1 16 0 10 6 8 0 0 0 0 8 0 1 0 2-4edge.dat
+1 16 0 10 -6 8 0 0 0 0 8 0 1 0 2-4edge.dat
+1 16 -20 10 6 8 0 0 0 0 8 0 1 0 2-4edge.dat
+1 16 -20 10 -6 8 0 0 0 0 8 0 1 0 2-4edge.dat
 1 16 -2 24 0 2 0 0 0 -1 0 0 0 2 rect.dat
 2 24 0 24 10 -40 24 10
 2 24 -40 24 -10 0 24 -10
@@ -73,8 +60,8 @@
 2 24 -3.06 17.39 2 0 18 2
 2 24 -4 16.77 -2 -3.06 17.39 -2
 2 24 -3.06 17.39 -2 0 18 -2
-1 16 0 10 6 8 0 0 0 0 8 0 -12 0 2-4cyli.DAT
-1 16 -20 10 6 8 0 0 0 0 8 0 -12 0 2-4cyli.DAT
+1 16 0 10 6 8 0 0 0 0 8 0 -12 0 2-4cyli.dat
+1 16 -20 10 6 8 0 0 0 0 8 0 -12 0 2-4cyli.dat
 4 16 0 18 6 0 24 6 0 24 2 0 18 2
 4 16 0 24 -6 0 18 -6 0 18 -2 0 24 -2
 4 16 -4 16.77 2 -4 24 2 -4 24 -2 -4 16.77 -2
@@ -193,4 +180,3 @@
 2 24 7.39 13.06 -2 5.66 15.66 -2
 2 24 5.66 15.66 2 4 16.77 2
 2 24 5.66 15.66 -2 4 16.77 -2
-0

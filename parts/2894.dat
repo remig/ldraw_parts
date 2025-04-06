@@ -1,13 +1,8 @@
 0 ~Electric Train Motor  9V Top Cover
 0 Name: 2894.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 1 16 0 54 -80 40 0 0 0 -38 0 0 0 -20 box4-4a.dat
 1 16 0 54 80 -40 0 0 0 -38 0 0 0 20 box4-4a.dat
 1 16 0 8.5 60 40 0 0 0 0 -7.5 0 -1 0 rect.dat
@@ -230,4 +225,3 @@
 4 16 -26 54 -100 -26 54 -104.5 -24 54 -107.5 -24 54 -100
 4 16 -26 54 -104.5 -34 54 -104.5 -36 54 -107.5 -24 54 -107.5
 4 16 -36 54 -100 -36 54 -107.5 -34 54 -104.5 -34 54 -100
-0

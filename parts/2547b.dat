@@ -1,20 +1,11 @@
 0 Animal Shark Body Type 2
 0 Name: 2547b.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 !HELP Pivot point for head located at (0 -26.37 -19.13)
-
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
-0 !HISTORY 2009-11-05 [westrate] File preparation for LDraw Parts Tracker
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2547s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2547s01.dat
-
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud3a.dat
 1 16 0 -5 0 4 0 0 0 1 0 0 0 4 4-4cyli.dat
 1 16 0 -5 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
@@ -25,7 +16,6 @@
 4 16 -6 0 -16 6 0 -16 10 0 -20.01 -10 0 -20
 4 16 6 0 16 10 0 20 10 0 -20.01 6 0 -16
 4 16 -6 0 16 -6 0 -16 -10 0 -20 -10 0 20
-
 1 16 0 -5.25 30 2 0 0 0 -1 0 0 0 2 4-4ring2.dat
 1 16 0 -5.25 30 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 -5.25 30 6 0 0 0 1 0 0 0 6 4-4edge.dat
@@ -127,5 +117,3 @@
 2 24 -2.3 -24.78 35.54 0 -24.72 36
 2 24 0 -24.72 36 2.3 -24.78 35.54
 2 24 4.24 -24.94 34.24 2.3 -24.78 35.54
-
-0

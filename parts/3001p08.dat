@@ -1,16 +1,10 @@
 0 Brick  2 x  4 with Eyes and Wavy Mouth Pattern
 0 Name: 3001p08.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3001s01.dat
 4 16 -40 0 20 40 0 20 40 24 20 -40 24 20
-
 4 0 -33.275 16.841 -20 -33.183 17.32 -20 -32.128 14.681 -20 -33.195 16.287 -20
 4 0 -32.128 14.681 -20 -33.183 17.32 -20 -32.912 17.724 -20 -32.459 18.05 -20
 3 0 -30.2 13.256 -20 -30.652 16.742 -20 -30.249 16.439 -20

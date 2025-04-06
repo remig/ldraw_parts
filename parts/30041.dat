@@ -1,20 +1,9 @@
 0 Plate  6 x  8 Trap Door Frame
 0 Name: 30041.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Pirates, Adventurers, Ninja, Western, Wild West, trick
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-05-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-06-21 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2017-06-22 [MagFors] Removed overlapping surfaces
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
+0 !KEYWORDS Adventurers, Ninja, Pirates, trick, western, wild west
 1 16 0 0 0 80 0 0 0 8 0 0 0 60 box4.dat
 0 BFC INVERTNEXT
 1 16 0 4 0 76 0 0 0 4 0 0 0 56 box4.dat
@@ -50,7 +39,6 @@
 1 16 -50 4 -41 2 0 0 0 4 0 0 0 -3 box4-4a.dat
 1 16 -61.179 4 -41.179 -1.4142 0 -4.5962 0 4 0 1.4142 0 -4.5962 box4-4a.dat
 1 16 -61.179 4 41.179 1.4142 0 -4.5962 0 4 0 1.4142 0 4.5962 box4-4a.dat
-
 0 BFC INVERTNEXT
 1 16 -50 10 26 4 0 0 0 0 4 0 8 0 2-4cylo.dat
 1 16 -50 10 26 -8 0 0 0 0 8 0 8 0 7-16cylo.dat
@@ -69,7 +57,6 @@
 1 16 -50 10 -34 0 0 8 8 0 0 0 1 0 3-16chrd.dat
 1 16 -50 10 -26 4 0 0 0 0 4 0 -1 0 1-4ndis.dat
 1 16 -50 10 -26 0 0 8 8 0 0 0 -1 0 3-16chrd.dat
-
 4 16 -64 4 32 -76 4 56 -58 4 38 -58 4 32
 4 16 -76 4 56 -44 4 44 -44 4 38 -58 4 38
 4 16 -76 4 -56 -58 4 -38 -44 4 -38 -44 4 -44
@@ -132,7 +119,6 @@
 4 16 -80 0 -60 -41 0 -40 -46 0 -34 -54 0 -34
 4 16 -46 0 26 -41 0 26 -41 0 40 -46 0 34
 4 16 -46 0 -26 -46 0 -34 -41 0 -40 -41 0 -26
-
 2 24 -58 4 32 -57.997 4 35.1686
 2 24 -58 4 -32 -57.997 4 -35.1686
 2 24 -55.1716 4 -38 -52 4 -38
@@ -155,12 +141,10 @@
 2 24 -46 0 -26 -41 0 -26
 2 24 -58 8 26 -58 10 26
 2 24 -58 8 -26 -58 10 -26
-
 1 16 0 4 50 1 0 0 0 -1 0 0 0 1 stug3-1x7.dat
 1 16 0 4 -50 1 0 0 0 -1 0 0 0 1 stug3-1x7.dat
 1 16 70 4 0 0 0 1 0 -1 0 -1 0 0 stug3-1x5.dat
 1 16 -70 4 0 0 0 1 0 -1 0 -1 0 0 stug3-1x5.dat
-
 1 16 0 0 50 1 0 0 0 1 0 0 0 1 stug-1x8.dat
 1 16 0 0 -50 1 0 0 0 1 0 0 0 1 stug-1x8.dat
 1 16 70 0 0 1 0 0 0 1 0 0 0 1 stug-4x1.dat

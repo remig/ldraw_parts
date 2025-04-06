@@ -1,16 +1,9 @@
 0 ~Tassel
 0 Name: 25375k02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part Flexible_Section
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-
-0 !HISTORY 2016-10-05 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-10-10 [Philo] File preparation for LDraw Parts Tracker
-
 3 16 2.473 28.291 2.335 1.756 29.055 2.801 1.313 26.799 5.976
 3 16 1.313 26.799 5.976 1.756 29.055 2.801 0.765 27.443 6.109
 3 16 2.473 28.291 2.335 1.313 26.799 5.976 5.161 26.277 3.688

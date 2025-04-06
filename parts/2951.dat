@@ -1,21 +1,8 @@
 0 Technic Excavator Bucket 10 x  8
 0 Name: 2951.dat
 0 Author: John Jensen
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
-0 !HISTORY 2007-05-22 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed and add missing lines (2009-03-29)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
-0 // inner back flat surface
-
-
-
 4 16 92 -59.11 -31.01 -92 -59.11 -31.01 -92 -40.31 -24.17 92 -40.31 -24.17
 4 16 -96 -59.11 -31.01 96 -59.11 -31.01 96 -66.63 -33.74 -96 -66.63 -33.74
 4 16 90 -77.91 -37.84 -90 -77.91 -37.84 -100 -66.63 -33.74 100 -66.63 -33.74
@@ -1553,4 +1540,3 @@
 4 16 -88 5.92 -79.2 -88 7.62 -80.26 -88 -31.894 -143.5 -88 -18.324 -118
 2 24 -92 5.92 -79.2 -92 -18.324 -118
 2 24 -88 5.92 -79.2 -88 -18.324 -118
-0

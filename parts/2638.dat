@@ -1,19 +1,8 @@
 0 Crane Harbour Derrick 10 (Top Part)
 0 Name: 2638.dat
 0 Author: Luis E. Fernandez [lfernand]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
-0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2017-01-02 [MagFors] Made BFC, removed unwanted surfaces
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
-0 // top
 2 24 10 2 0 5.5 2 -60
 2 24 -10 2 0 -5.5 2 -60
 1 16 0 2 30 -10 0 0 0 -1 0 0 0 30 rect3.dat
@@ -23,8 +12,6 @@
 1 16 0 1 60 -10 0 0 0 0 -1 0 -1 0 rect3.dat
 1 16 0 1 -60 0 0 5.5 1 0 0 0 1 0 rect.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 stug2-6x1.dat
-
-0 // left
 1 16 14 10 90 0 -1 0 10 0 0 0 0 10 2-4chrd.dat
 1 16 9 10 90 0 1 0 8 0 0 0 0 8 4-4cylc.dat
 1 16 10 10 90 0 1 0 10 0 0 0 0 10 2-4chrd.dat
@@ -53,7 +40,6 @@
 5 24 9 18 28 9 18 12 9.2296 21.0616 27.3912 9 14.9384 27.3912
 1 16 9 18 20 0 1 0 0 0 -8 8 0 0 2-4edge.dat
 1 16 9 18 20 0 1 0.6 0 0 8 -8 0 0 2-4edge.dat
-
 1 16 8 10 -90 0 1 0 -10 0 0 0 0 -10 2-4edge.dat
 1 16 8 10 -90 0 -1 0 -10 0 0 0 0 -10 2-4chrd.dat
 1 16 6 10 -90 0 0 -2 -10 0 0 0 10 0 box4o8a.dat
@@ -82,8 +68,6 @@
 4 16 10 2 0 10 26 0 4 20 -80 5.5 2 -60
 4 16 14 0 0 5.5 0 -60 4 0 -80 8 0 -80
 4 16 4 20 -80 10 26 0 14 26 0 8 20 -80
-
-0 // right
 1 16 -14 10 90 0 1 0 10 0 0 0 0 10 2-4chrd.dat
 1 16 -9 10 90 0 -1 0 8 0 0 0 0 8 4-4cylc.dat
 1 16 -10 10 90 0 -1 0 10 0 0 0 0 10 2-4chrd.dat
@@ -112,7 +96,6 @@
 5 24 -9 18 12 -9 18 28 -9 14.9384 12.6088 -9.2296 21.0616 12.6088
 1 16 -9 18 20 0 1 0 0 0 -8 8 0 0 2-4edge.dat
 1 16 -9 18 20 0 1 -0.6 0 0 8 -8 0 0 2-4edge.dat
-
 1 16 -8 10 -90 0 1 0 -10 0 0 0 0 -10 2-4edge.dat
 1 16 -8 10 -90 0 1 0 -10 0 0 0 0 -10 2-4chrd.dat
 1 16 -6 10 -90 0 0 -2 -10 0 0 0 10 0 box4o8a.dat
@@ -143,8 +126,6 @@
 4 16 -4 20 -80 -10 26 0 -10 2 0 -5.5 2 -60
 4 16 -4 0 -80 -5.5 0 -60 -14 0 0 -8 0 -80
 4 16 -14 26 0 -10 26 0 -4 20 -80 -8 20 -80
-
-0 // between, rear 
 2 24 -10 5 70 -10 17 70
 2 24 10 5 74 10 17 74
 1 16 0 17 72 0 0 10 0 -1 0 2 0 0 rect.dat
@@ -156,8 +137,6 @@
 1 16 5 7 72 0 0 5 0 1 -2 -2 0 0 rect3.dat
 3 16 0 9 70 10 17 70 10 5 70
 3 16 0 9 74 -10 17 74 -10 5 74
-
-0 // between, front
 1 16 0 14 -90 2 0 0 0 0 -3 0 8 0 box4o8a.dat
 1 16 0 14 -90 2 0 0 0 0 -3 0 1 0 recte3.dat
 1 16 0 14 -82 2 0 0 0 0 -3 0 1 0 recte3.dat
@@ -214,8 +193,6 @@
 4 16 -2 11 -82 -4 5 -82 -4 17 -82 -2 17 -82
 3 16 0 9 -82 -2 11 -82 2 11 -82
 3 16 0 9 -78 -4.15 17 -78 -4.15 4.85 -78
-
-0 // added edges
 2 24 -14 26 0 -14 0 0
 2 24 14 0 0 14 26 0
 2 24 8 0 -80 8 20 -80

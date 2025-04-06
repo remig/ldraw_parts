@@ -1,16 +1,11 @@
 0 Cockpit  4 x  2 x  3 Front with Handle
 0 Name: 27167.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Nexo Knights, battle suit, mech, body
-
+0 !KEYWORDS battle suit, body, mech, Nexo Knights
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\27167s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\27167s01.dat
-
 1 16 -14 0 0 0 28 0 0 0 -4 -4 0 0 4-4cylo.dat
 1 16 0 -38 -10 0 0 1 1 0 0 0 1 0 stug2-2x2.dat
 1 16 0 -38.5 -10 20 0 0 0 0 -19.5 0 1 0 rect3.dat

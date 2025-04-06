@@ -1,16 +1,9 @@
 0 Minifig Crown with Bar  0.5L
 0 Name: 25516.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-
-0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-02-12 [Philo] File preparation for LDraw Parts Tracker
-
 1 16 0 0 0 4 0 0 0 10 0 0 0 4 4-4cylo.dat
 0 BFC INVERTNEXT
 1 16 0 -6 0 2 0 0 0 16 0 0 0 2 4-4cylo.dat

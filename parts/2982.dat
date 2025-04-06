@@ -1,19 +1,8 @@
 0 ~Electric Brick  2 x  4 x  1.333 Sensor Light - Bottom
 0 Name: 2982.dat
 0 Author: John Van Zwieten [jvan]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
-0 !HISTORY 2007-05-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2007-05-23 [PTadmin] Replaced box38p references with box3u8p#
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2017-01-14 [MagFors] Made BFC, removed overlapping, closed gaps
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stug4-1x3.dat
 1 16 -40 4 0 0 80 0 -4 0 0 0 0 20 box3u4a.dat
 1 16 -38 4 -12 0 0 -2 -4 0 0 0 8 0 box2-5.dat
@@ -73,7 +62,6 @@
 3 16 -40 0 20 -40 0 4 -36 0 4
 3 16 26 0 -18 40 0 -20 26 0 -16
 4 16 40 0 20 26 0 16 26 0 -16 40 0 -20
-0 // inner + outer box bottom
 4 16 -34 4 -5 36 4 -16 -36 4 -16 -36 4 -7
 4 16 -36 4 16 36 4 16 -34 4 5 -36 4 7
 4 16 -36 8 7 -40 8 4 -40 8 20 -36 8 16
@@ -81,7 +69,6 @@
 4 16 -40 8 -20 -40 8 -4 -36 8 -7 -36 8 -16
 4 16 -40 8 4 -36 8 7 -34 8 5 -36 8 4
 4 16 -36 8 -4 -34 8 -5 -36 8 -7 -40 8 -4
-0 // outer box top
 4 16 -36 0 -4 -26 0 -16 -26 0 16 -36 0 4
 1 16 38 -6 -10.5 0 1 0 3.5 0 0 0 0 3.5 1-4edge.dat
 1 16 38 -6 -10.5 1 1 0 3.5 0 0 0 0 3.5 1-4edge.dat

@@ -1,22 +1,11 @@
-0 Tile  2 x  3 with Technical Text on Chalkboard Pattern
+0 Tile  2 x  3 with Technical Text Tabular on Chalkboard Pattern
 0 Name: 26603p01.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 10264, Set 21312, City, Town
-0 !KEYWORDS CDDA TLVA ATA LLA LFA MTA CTA CTM TWA FTA
-
+0 !KEYWORDS ATA, CDDA, CTA, CTM, FTA, LFA, LLA, MTA, Set 10264, Set 21312, TLVA
+0 !KEYWORDS TWA
 0 !CMDLINE -c0
-
-
-
-
-
-0 // Main
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26603s01.dat
 4 16 19.925 0 -8.125 19.975 0 -8.425 20.275 0 -8.9 20.625 0 -8.225
 4 16 -8.146 0 18 -20.875 0 17.3 -20.65 0 16.45 -20.1 0 16.5
@@ -698,8 +687,6 @@
 4 16 -30 0 -20 -26 0 -10 -26 0 -5 -28.5 0 0
 3 16 -30 0 20 -20.875 0 17.3 -8.146 0 18
 4 16 -22.47 0 -12.57 -22.952 0 -13.17 -22.493 0 -13.133 -22.285 0 -12.725
-
-0 // White
 4 15 19.975 0 -7.6 19.925 0 -8.125 20.625 0 -8.225 20.725 0 -7.775
 4 15 19.975 0 -8.425 19.925 0 -8.125 19.275 0 -7.875 19.475 0 -8.45
 4 15 19.3 0 -7.325 19.275 0 -7.875 19.925 0 -8.125 19.975 0 -7.6
@@ -1176,6 +1163,4 @@
 4 15 -20.675 0 5.8 -20.575 0 5.5 -20.284 0 5.643 -20.2 0 5.9
 4 15 18.5 0 -5.675 17.475 0 -5.975 17.986 0 -6.772 18.338 0 -6.488
 4 15 16.75 0 -6.9 17.938 0 -7.463 17.986 0 -6.772 17.475 0 -5.975
-
-0 // Light Grey
 3 16 -22.47 0 -12.57 -21.86 0 -11.13 -22.952 0 -13.17

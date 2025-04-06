@@ -1,31 +1,19 @@
 0 Door Frame  2 x 10 x 12
 0 Name: 2662.dat
 0 Author: Marek Idec [Maras]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !KEYWORDS Aquanauts, Arch
-
-0 !HISTORY 2006-08-07 [WilliamH] Fixed origin and stud orientation
-0 !HISTORY 2010-05-08 [cwdee] Further adjusted origin
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
-0 // Studs
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug2.dat
 1 16 30 8 -10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 30 8 10 1 0 0 0 1 0 0 0 1 stud.dat
-0 // Underside studs
 1 16 -150 276 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 30 12 0 0 0 1 0 -1 0 -1 0 0 stud3.dat
 1 16 0 4 0 -1 0 0 0 -3 0 0 0 -1 stud4.dat
-0 // Hinges
 1 16 -150 172 -23 1 0 0 0 1 0 0 0 1 s\2662s01.dat
 1 16 -150 236 -23 1 0 0 0 1 0 0 0 1 s\2662s01.dat
 1 16 -150 172 23 -1 0 0 0 1 0 0 0 -1 s\2662s01.dat
 1 16 -150 236 23 -1 0 0 0 1 0 0 0 -1 s\2662s01.dat
-0 // Created with stl2dat conversion tool
 4 16 22 12 16 36 12 16 24 12 11.5 22 12 11.5
 2 24 36 12 16 22 12 16
 2 24 22 12 11.5 24 12 11.5
@@ -508,7 +496,6 @@
 4 16 22 15 -8.5 24 15 -8.5 24 15 -11.5 22 15 -11.5
 2 24 22 15 -8.5 24 15 -8.5
 4 16 22 15 -8.5 22 12 -8.5 24 12 -8.5 24 15 -8.5
-0
 2 24 -140 168 20 -146 168 20
 2 24 -154 168 20 -160 168 20
 2 24 -140 176 20 -146 176 20
@@ -549,4 +536,3 @@
 4 16 -140 168 12.6 -160 168 12.6 -154 168 19 -146 168 19
 4 16 -160 168 12.6 -160 168 20 -154 168 20 -154 168 19
 4 16 -146 168 19 -146 168 20 -140 168 20 -140 168 12.6
-0

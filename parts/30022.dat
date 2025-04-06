@@ -1,19 +1,8 @@
 0 Tipper End Type 2
 0 Name: 30022.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 1997-12-04 [grapeape] modified from 3145.dat (was 62.dat)
-0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
-0 !HISTORY 2007-05-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-06-14 [Steffen] Un-mirrored studs, BFCed, closed gaps
-0 !HISTORY 2010-11-22 [Steffen] ran through philo's rectifier
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 1 16 0 65.28 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT
 1 16 0 69.28 0 16 0 0 0 -4 0 0 0 6 box5.dat

@@ -1,17 +1,8 @@
 0 ~Technic Pneumatic Cylinder  1 x  1 Piston Rod
 0 Name: 2944.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2006-08-13 [guyvivan] Made BFC'ed and use more primitives
-0 !HISTORY 2009-12-16 [cwdee] Adjusted origin
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2017-06-27 [Philo] Added gasket attachment
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 10 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 0 10 0 0 0 6 0 -2.3 0 -6 0 0 4-4cyli.dat
 0 BFC INVERTNEXT

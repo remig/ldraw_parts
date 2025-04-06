@@ -1,19 +1,11 @@
 0 Minifig Cannon  2 x  4 Base
 0 Name: 2527.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2001-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS cannon, cannons, cannonade, artillery, pirate, Pirates, "man-o-war"
-0 !KEYWORDS Imperials, "Wild West", cavalry, Castle, Ninja, base
-
-0 !HISTORY 2001-11-23 [pneaster] corrected BFC use of primitive files.
-0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
-0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
+0 !KEYWORDS artillery, base, cannon, cannonade, cannons, Castle, cavalry
+0 !KEYWORDS Imperials, man-o-war, Ninja, Pirate, Pirates, wild west
 1 16 0 4 20 0 0 -1 0 -1 0 1 0 0 stud4.dat
 1 16 0 4 0 0 0 -1 0 -1 0 1 0 0 stud4.dat
 1 16 0 4 -20 0 0 -1 0 -1 0 1 0 0 stud4.dat
@@ -43,7 +35,6 @@
 4 16 16 -5 -28 16 -16 -28 14 -16 -28 14 -5 -28
 1 16 -15 -16 -30 0 0 -1 0 1 0 2 0 0 rect.dat
 1 16 15 -16 -30 0 0 -1 0 1 0 2 0 0 rect.dat
-0
 4 16 -16 0 40 -16 0 20 -16 -8 20 -16 -8 40
 4 16 16 0 40 16 -8 40 16 -8 20 16 0 20
 4 16 -16 0 20 -16 0 0 -16 -16 0 -16 -16 20
@@ -56,7 +47,6 @@
 4 16 16 0 -32 16 -24 -32 16 -24 -40 16 0 -40
 4 16 -16 -16 -28 -16 -16 -32 -16 -24 -32 -16 -24 -28
 4 16 16 -16 -28 16 -24 -28 16 -24 -32 16 -16 -32
-0
 2 24 -20 8 40 20 8 40
 4 16 -20 0 40 -20 8 40 20 8 40 20 0 40
 2 24 -20 8 -40 20 8 -40
@@ -87,15 +77,12 @@
 1 16 18 -24 -10 0 0 -2 0 1 0 10 0 0 rect.dat
 1 16 -18 -28 -20 0 0 -2 4 0 0 0 -1 0 rect.dat
 1 16 18 -28 -20 0 0 -2 4 0 0 0 -1 0 rect.dat
-0
-0
 2 24 -20 8 40 -20 8 -40
 4 16 -20 8 40 -20 -8 40 -20 -8 -40 -20 8 -40
 2 24 20 8 40 20 8 -40
 4 16 20 8 40 20 8 -40 20 -8 -40 20 -8 40
 4 16 -20 -8 0 -20 -24 0 -20 -24 -40 -20 -8 -40
 4 16 20 -8 0 20 -8 -40 20 -24 -40 20 -24 0
-0
 1 16 -16 -28 -30 0 -1 0 -2.828 0 2.828 2.828 0 2.828 3-4edge.dat
 1 16 16 -28 -30 0 -1 0 -2.828 0 2.828 2.828 0 2.828 3-4edge.dat
 1 16 -20 -28 -30 0 -1 0 -2.828 0 2.828 2.828 0 2.828 3-4edge.dat
@@ -138,7 +125,6 @@
 2 24 20 -8 0 20 -8 4
 2 24 -20 -8 16 -20 -8 20
 2 24 20 -8 16 20 -8 20
-0
 1 16 -27 -12 18.5 -7 0 0 0 0 -4 -1.5 -1 0 rect.dat
 1 16 -27 -12 1.5 -7 0 0 0 0 4 1.5 1 0 rect.dat
 1 16 -34 -12 5.086 0 1 0 0 0 4 2.086 0 0 rect.dat
@@ -169,7 +155,6 @@
 3 16 -20 -8 0 -20 -8 4 -24 -8 4
 3 16 -20 -8 20 -24 -8 16 -20 -8 16
 4 16 -24 -8 4 -24 -8 16 -26 -8 14 -26 -8 6
-0
 1 16 27 -12 18.5 7 0 0 0 0 4 -1.5 -1 0 rect.dat
 1 16 27 -12 1.5 7 0 0 0 0 -4 1.5 1 0 rect.dat
 1 16 34 -12 5.086 0 -1 0 0 0 -4 2.086 0 0 rect.dat
@@ -200,5 +185,4 @@
 3 16 20 -8 0 24 -8 4 20 -8 4
 3 16 20 -8 20 20 -8 16 24 -8 16
 4 16 24 -8 4 26 -8 6 26 -8 14 24 -8 16
-0
 0 end of file

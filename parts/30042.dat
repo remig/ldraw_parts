@@ -1,21 +1,9 @@
 0 Plate  4 x  5 Trap Door
 0 Name: 30042.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Adventurers, Pirates, Ninja, Western, Wild West
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-05-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-06-21 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2017-06-21 [MagFors] Removed overlapping surfaces
-0 !HISTORY 2018-03-29 [MMR1988] Added one missing condline
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
+0 !KEYWORDS Adventurers, Ninja, Pirates, western, wild west
 4 16 109 -2 40 106 -2 36 14 -2 36 12 -2 40
 4 16 109 -2 -40 12 -2 -40 14 -2 -36 106 -2 -36
 4 16 109 -2 40 109 -2 -40 106 -2 -36 106 -2 36
@@ -47,7 +35,6 @@
 1 16 11.5 -10 0 .5 0 0 0 1 0 0 0 40 rect2p.dat
 3 16 0 -10 26 11 -10 26 12 -2 26
 3 16 0 -10 -26 12 -2 -26 11 -10 -26
-0
 2 24 0 6 22 -6 6 22
 2 24 0 6 -22 -6 6 -22
 2 24 30 6 26 -8 6 26
@@ -56,20 +43,16 @@
 2 24 -9.239 3.827 -26 -10 0 -26
 2 24 12 -2 26 14 -2 26
 2 24 12 -2 -26 14 -2 -26
-0
 0 BFC INVERTNEXT
 1 16 20 -2 31 6 0 0 0 -4 0 0 0 5 box4-1.dat
 0 BFC INVERTNEXT
 1 16 20 -2 -31 6 0 0 0 -4 0 0 0 -5 box4-1.dat
-
 1 16 0 0 -26 0 0 -10 -10 0 0 0 52 0 5-16cylo.dat
 1 16 0 0 -26 0 0 -10 -10 0 0 0 1 0 5-16chrd.dat
 1 16 0 0 26 0 0 -10 -10 0 0 0 -1 0 5-16chrd.dat
 5 24 -9.239 3.827 -26 -9.239 3.827 26 -8 6 -26 -10 0 -26
-
 1 16 0 0 34 0 0 -4 -4 0 0 0 -8 0 4-4cylc.dat
 1 16 0 0 -34 0 0 -4 -4 0 0 0 8 0 4-4cylc.dat
-
 1 16 32 -6 10 0 0 2 0 3.75 0 -1 0 0 box4-1.dat
 1 16 32 -6 -10 0 0 2 0 3.75 0 -1 0 0 box4-1.dat
 1 16 32 -6 30 0 0 2 0 3.75 0 -1 0 0 box4-1.dat
@@ -80,7 +63,6 @@
 1 16 0 0 -22 0 0 -6 -6 0 0 0 44 0 1-4cylo.dat
 1 16 0 0 22 0 0 -6 -6 0 0 0 1 0 1-4chrd.dat
 1 16 0 0 -22 0 0 -6 -6 0 0 0 -1 0 1-4chrd.dat
-
 1 16 20 -6 -19 1 0 0 0 11.75 0 0 0 3 box4-1.dat
 1 16 0 -6 -19 1 0 0 0 11.75 0 0 0 3 box4-1.dat
 1 16 20 -6 19 1 0 0 0 11.75 0 0 0 -3 box4-1.dat
@@ -89,13 +71,10 @@
 2 24 -1 -5.80115 -22 -1 -5.80115 -16
 2 24 0 -6 16 -1 -5.80115 16
 2 24 -1 -5.80115 22 -1 -5.80115 16
-
 0 BFC INVERTNEXT
 1 16 68 -2 0 0 0 38 0 -4 0 -36 0 0 box4-1.dat
 1 16 60.5 -2 0 0 0 48.5 0 -8 0 -40 0 0 box4-4a.dat
-0
 1 16 10 -6 0 1 0 0 0 -3 0 0 0 1 stud4.dat
 1 16 70 -6 0 1 0 0 0 -1 0 0 0 1 stug4-3x3.dat
-0
 1 16 50 -10 0 1 0 0 0 1 0 0 0 1 stug-4x4.dat
 1 16 100 -10 0 1 0 0 0 1 0 0 0 1 stug-4x1.dat

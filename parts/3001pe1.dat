@@ -1,21 +1,11 @@
 0 Brick  2 x  4 with Happy and Sad Face Pattern
 0 Name: 3001pe1.dat
 0 Author: Damien Guichard [BrickCaster]
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS double-print, dual print, frown, smile, face
+0 !KEYWORDS double-print, dual print, face, frown, smile
 0 !CMDLINE -c14
-
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-05-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [Steffen] Used s\3001s01.dat; fixed BFC errors in pattern (wrongly oriented (n)1-2discs); BFCed (2004-02-09)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3001s01.dat
-
 4 0 11.0868 15.4076 20 8.4852 11.5148 20 10.6065 9.3935 20 13.8585 14.2595 20
 4 0 8.4852 11.5148 20 4.5924 8.9132 20 5.7405 6.1415 20 10.6065 9.3935 20
 4 0 4.5924 8.9132 20 0 8 20 0 5 20 5.7405 6.1415 20
@@ -72,4 +62,3 @@
 4 16 -8.4852 11.4852 -20 8.4852 11.4852 -20 11.0868 7.5924 -20 -11.0868 7.5924 -20
 4 16 4.5924 14.0868 -20 8.4852 11.4852 -20 -8.4852 11.4852 -20 -4.5924 14.0868 -20
 3 16 0 15 -20 4.5924 14.0868 -20 -4.5924 14.0868 -20
-0

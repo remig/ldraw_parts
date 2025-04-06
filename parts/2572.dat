@@ -1,17 +1,8 @@
 0 Panel  6 x  6 x  9 with Curved Top
 0 Name: 2572.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2017-03-21 [Steffen] BFCed, used stugs
-0 !HISTORY 2017-03-22 [Philo] More primitives
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 0 10 1 0 0 0 1 0 0 0 1 stug-1x6.dat
 1 16 0 0 -10 1 0 0 0 1 0 0 0 1 stug-1x6.dat
 1 16 0 212 -90 1 0 0 0 -1 0 0 0 1 stug3-1x5.dat
@@ -45,16 +36,14 @@
 4 16 -56 208 -92 -56 80 -92 -56 80 -96 -56 208 -96
 4 16 -60 216 -80 -60 216 -100 -60 208 -92 -60 208 -80
 4 16 -60 216 -100 -60 80 -100 -60 80 -92 -60 208 -92
-
 1 16 -60 80 -20 0 120 0 0 0 -80 -80 0 0 48\1-4cylo.dat
 0 BFC INVERTNEXT
 1 16 -56 80 -20 0 112 0 0 0 -76 -76 0 0 48\1-4cylo.dat
 0 BFC INVERTNEXT
 1 16 -60 80 -20 0 4 0 0 0 -72 -72 0 0 48\1-4cylo.dat
 1 16 -60 80 -20 0 1 0 0 0 -8 -8 0 0 48\1-4ring9.dat
-1 16 -56 80 -20 0 -1 0 0 0 -4 -4 0 0 48\1-4rin18.dat
+1 16 -56 80 -20 0 -1 0 0 0 -4 -4 0 0 48\1-4ring18.dat
 0 BFC INVERTNEXT
 1 16 60 80 -20 0 -4 0 0 0 -72 -72 0 0 48\1-4cylo.dat
 1 16 60 80 -20 0 -1 0 0 0 -8 -8 0 0 48\1-4ring9.dat
-1 16 56 80 -20 0 1 0 0 0 -4 -4 0 0 48\1-4rin18.dat
-
+1 16 56 80 -20 0 1 0 0 0 -4 -4 0 0 48\1-4ring18.dat

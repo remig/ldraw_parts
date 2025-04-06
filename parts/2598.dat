@@ -1,21 +1,9 @@
 0 Windscreen 10 x 10 x  4 Octagonal Canopy
 0 Name: 2598.dat
 0 Author: Luis E. Fernandez [lfernand]
-0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !KEYWORDS Adventurers, Aquanauts, Arctic, Star Wars UCS
-
-0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [OrionP] Re-worked prior to Luis Fernandez affirming the CA (2002-08-30)
-0 !HISTORY 2008-07-07 [OrionP] Moved guts to subpart (2003-07-03)
-0 !HISTORY 2008-07-08 [guyvivan] Made BFC'ed (2005-12-27)
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2598s01.dat
 4 16 -27 28 72 27 28 72 4 40.5714 80 -4 40.5714 80
 4 16 27 28 72 40 72 100 4 72 100 4 40.5714 80
@@ -37,4 +25,3 @@
 4 16 -72 28 27 -72 28 -27 -24 0 -8.5 -24 0 8.5
 4 16 -72 28 -27 -27 28 -72 -8.5 0 -24 -24 0 -8.5
 4 16 -27 28 -72 27 28 -72 8.5 0 -24 -8.5 0 -24
-0

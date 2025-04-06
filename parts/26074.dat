@@ -1,19 +1,11 @@
 0 Animal Penguin
 0 Name: 26074.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-09 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-01-30 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 -22 10 0 0 -1 1 0 0 0 -1 0 stud2.dat
 1 16 0 -22 10 0 0 4 4 0 0 0 -1 0 4-4disc.dat
 1 16 0 -5 0 1 0 0 0 -1.25 0 0 0 1 stud4od.dat
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26074s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\26074s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26074s02.dat
@@ -22,7 +14,6 @@
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26074s04.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\26074s03.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\26074s04.dat
-0 // eyes
 3 16 6.114 -48.504 -2.8 2.434 -48.762 -7.301 5.121 -47.272 -7.165
 3 16 5.121 -47.272 -7.165 6.747 -43.984 -7.032 6.114 -48.504 -2.8
 3 16 3.236 -45.634 -9.932 5.121 -47.272 -7.165 2.377 -46.327 -9.906

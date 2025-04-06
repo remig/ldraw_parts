@@ -1,13 +1,8 @@
 0 Technic Brick  1 x  2 Double Angled with Bumper Holder
 0 Name: 2991.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 -20 12 0 0 1 0 0 0 -12 -10 0 0 rect.dat
@@ -388,4 +383,3 @@
 4 16 63.439 4.456 15.248 56.578 4.456 8.387 54.954 4 6.762 64.853 0 16.662
 4 16 53.329 4.456 5.138 46.468 4.456 -1.723 37.276 0 -10.915 54.954 4 6.762
 3 16 37.276 0 -10.915 64.853 0 16.662 54.954 4 6.762
-0

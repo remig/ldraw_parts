@@ -1,25 +1,13 @@
 0 Minifig Shield Ovoid with Golden Lion Pattern
 0 Name: 2586ph1.dat
 0 Author: Orion Pobursky [OrionP]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Castle, Hogwarts, Harry Potter, Gryffindor
-
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-12-06 [MagFors] Modified with WINDZ for BFC compliance, 
-0 !HISTORY 2014-12-06 [MagFors] Changed to printed gold colour
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
+0 !KEYWORDS Castle, Gryffindor, Harry Potter, Hogwarts
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2586s01.dat
 1 82 0 0 0 1 0 0 0 1 0 0 0 1 s\2586ph1a.dat
 1 320 0 0 0 1 0 0 0 1 0 0 0 1 s\2586ph1b.dat
-
 4 0 0.8 -23.8 -8 0.2 -23 -8 0.9 -23.2 -8 1.1 -23.5 -8
 4 0 0.9 -23.2 -8 0.2 -23 -8 1 -22.7 -8 1.5 -23.3 -8
 4 0 1.5 -23.3 -8 1 -22.7 -8 2.6 -22.9 -8 2.7 -23.5 -8
@@ -296,5 +284,3 @@
 4 0 13 0 -8 13.7 0 -8 13.6 -0.5 -8 13 -0.3 -8
 4 0 14.6 0 -8 14.8 1.2 -8 15.5 1.1 -8 15.3 0 -8
 4 0 14.6 0 -8 15.3 0 -8 14.8 -1.5 -8 14.2 -1.2 -8
-0 // Pattern created wholly or in part by Quad2Dat
-0 // Thanks James

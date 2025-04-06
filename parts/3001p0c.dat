@@ -1,16 +1,10 @@
 0 Brick  2 x  4 with Fangs and Smiling Face Pattern
 0 Name: 3001p0c.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3001s01.dat
 4 16 40 0 20 40 24 20 -40 24 20 -40 0 20
-
 3 0 -29.267 0.907 -20 -29.406 1.015 -20 -28.949 0.945 -20
 4 0 -28.04 12.543 -20 -28.336 12.522 -20 -28.559 12.705 -20 -28.607 12.849 -20
 4 0 -27.872 12.763 -20 -28.04 12.543 -20 -28.607 12.849 -20 -28.64 13.275 -20

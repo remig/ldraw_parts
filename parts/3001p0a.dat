@@ -1,16 +1,10 @@
 0 Brick  2 x  4 with Snout, Fangs and Whiskers Pattern
 0 Name: 3001p0a.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3001s01.dat
 4 16 40 0 20 40 24 20 -40 24 20 -40 0 20
-
 4 15 -14.614 18.422 -20 -14.704 18.748 -20 -14.574 19.061 -20 -14.344 18.237 -20
 4 15 -14.344 18.237 -20 -14.574 19.061 -20 -14.302 19.246 -20 -12.153 17.284 -20
 4 15 -12.153 17.284 -20 -14.302 19.246 -20 -13.163 19.721 -20 -11.771 17.265 -20

@@ -1,13 +1,8 @@
 0 ~Electric Power Functions 2.0 Boost Move Hub Battery Holder (Needs Work)
 0 Name: 27194.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 // Needs Work: Internal structure is highly simplified
-
 1 16 20 -4 0 0 0 -1 0 -1 0 -1 0 0 stug4-1x7.dat
 1 16 25 -16 -78.5 0 -1 5 0 0 8 -1.5 0 0 rect3.dat
 0 BFC INVERTNEXT

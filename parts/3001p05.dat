@@ -1,18 +1,11 @@
 0 Brick  2 x  4 with Black Random Spots Pattern
 0 Name: 3001p05.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Racer, R/C
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS R/C, Racer
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3001s01.dat
 4 16 40 0 20 40 24 20 -40 24 20 -40 0 20
-
 4 0 -38.634 14.375 -20 -38.977 15.183 -20 -34.127 22.436 -20 -37.721 13.555 -20
 4 0 -36.572 13.343 -20 -37.721 13.555 -20 -34.127 22.436 -20 -35.186 13.616 -20
 4 0 -39.129 16.741 -20 -38.762 18.347 -20 -34.127 22.436 -20 -38.977 15.183 -20

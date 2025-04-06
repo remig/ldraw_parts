@@ -1,22 +1,9 @@
 0 Minifig Backpack Non-Opening
 0 Name: 2524.dat
 0 Author: John Van Zwieten [jvan]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Neckwear
-
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-12-24 [cwdee]   Add category
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-0 !HISTORY 2017-07-18 [MagFors] bfc'd, used more primitives
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // box with lid
 1 16 0 0 16 0 0 -14 0 30 0 6 0 0 box3u5p.dat
 1 16 0 20 22 0 0 -14 10 0 0 0 -1 0 rect.dat
 0 BFC INVERTNEXT
@@ -30,7 +17,6 @@
 1 16 -14.5 5 15.5 .5 0 0 0 0 -5 0 5.5 0 box2-5.dat
 0 BFC INVERTNEXT
 1 16 14.5 5 15.5 .5 0 0 0 0 -5 0 5.5 0 box2-5.dat
-
 4 16 15 10 21 15 10 24 15 -2 24 15 0 21
 4 16 -15 0 21 -15 -2 24 -15 10 24 -15 10 21
 2 24 15 -2 10 10 -2 10
@@ -47,8 +33,6 @@
 4 16 -14 0 10 -14 30 10 -12 28 10 -12 0 10
 4 16 15 0 10 15 -2 10 10 -2 10 10 -.1 10
 4 16 -10 -2 10 -15 -2 10 -15 0 10 -10 -.1 10
-
-0 // neckpiece
 0 BFC INVERTNEXT
 1 16 0 -2 0 -6 0 0 0 1.9 0 0 0 -6 4-4cylo.dat
 1 16 0 -2 0 -6 0 0 0 1 0 0 0 -6 4-4ndis.dat
@@ -73,9 +57,6 @@
 4 16 -10 -.1 -6 -10 -.1 10 -6 -.1 6 -6 -.1 -6
 4 16 -6 -2 6 6 -2 6 10 -2 10 -10 -2 10
 4 16 10 -.1 10 6 -.1 6 -6 -.1 6 -10 -.1 10
-
-0 // roll
-
 1 16 6.5 -5 13 0 0 1.5 -3 0 0 0 -1 0 box3u5p.dat
 1 16 -6.5 -5 13 0 0 1.5 -3 0 0 0 -1 0 box3u5p.dat
 1 16 11 -2.5 18 -3 0 0 0 0 -.5 0 -1 0 rect.dat
@@ -85,7 +66,6 @@
 1 16 14 -8 18 0 -1 0 5 0 0 0 0 5 3-4disc.dat
 1 16 -14 -8 18 0 1 0 5 0 0 0 0 5 3-4disc.dat
 1 16 -14 -8 18 0 28 0 0 0 -5 -5 0 0 3-4cylo.dat
-
 1 16 8 -8 18 0 1 0 0 0 -5 -5 0 0 3-4edge.dat
 1 16 5 -8 18 0 1 0 0 0 -5 -5 0 0 3-4edge.dat
 1 16 -8 -8 18 0 1 0 0 0 -5 -5 0 0 3-4edge.dat
@@ -96,8 +76,6 @@
 1 16 -5 -8 18 0 -1 0 0 0 -1 -1 0 0 3-4ring5.dat
 1 16 5 -8 18 0 3 0 0 0 -6 -6 0 0 3-4cylo.dat
 1 16 -8 -8 18 0 3 0 0 0 -6 -6 0 0 3-4cylo.dat
-
-0 // strap
 1 16 6.5 6.5 24.5 1.5 0 0 0 0 -4.5 0 .5 0 box2-5.dat
 1 16 6.5 16 22.5 -1.5 0 0 0 0 2 0 .5 0 box2-5.dat
 1 16 6.5 12.5 24 0 0 1.5 -1.5 -1 0 1 0 0 rect2p.dat
@@ -114,8 +92,6 @@
 2 24 5 10 22 5 18 22
 4 16 8 10 22 8 18 22 8 18 23 8 14 23
 4 16 5 18 22 5 10 22 5 14 23 5 18 23
-
-0 // strap
 1 16 -6.5 6.5 24.5 1.5 0 0 0 0 -4.5 0 .5 0 box2-5.dat
 1 16 -6.5 16 22.5 -1.5 0 0 0 0 2 0 .5 0 box2-5.dat
 1 16 -6.5 12.5 24 0 0 1.5 -1.5 -1 0 1 0 0 rect2p.dat

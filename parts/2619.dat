@@ -1,18 +1,8 @@
 0 Monorail Motor Box
 0 Name: 2619.dat
 0 Author: Bernd Broich [bbroich]
-0 !LDRAW_ORG Part UPDATE 2003-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2003-06-30 [Steffen] BFCed, rotated studs so that all LEGO logos face same direction
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
-0 // Inner
 1 16 -36 4 0 0 0 1 0 61.625 0 1.5 0 0 box4-1.dat
 1 16 0 4 0 1 0 0 0 -2 0 0 0 1 stud4.dat
 0 BFC INVERTNEXT
@@ -249,4 +239,3 @@
 4 16 40 60 40 40 65.625 40 40 65.625 -40 40 60 -40
 4 16 40 65.625 -40 40 68.75 -21.875 40 108.863 -21.875 40 108.863 -40
 4 16 40 108.863 21.875 40 68.75 21.875 40 65.625 40 40 108.863 40
-0

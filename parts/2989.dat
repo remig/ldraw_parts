@@ -1,20 +1,8 @@
 0 Technic Brick  1 x  4 with Holes and Bumper Holder
 0 Name: 2989.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2007-05-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [izanette] Made BFC compliant (2003-02-18)
-0 !HISTORY 2008-07-08 [OrionP] Removed some unneeded INVERTNEXT statements (2003-03-08)
-0 !HISTORY 2008-07-09 [guyvivan] Optimise primitive, fixed error position of holes (2005-01-05)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
 1 16 0 12 -19 -34 0 0 0 0 12 0 4 0 box4.dat
 4 16 -34 0 -19 -28 2 -19 28 2 -19 34 0 -19
 4 16 34 0 -19 28 2 -19 28 18 -19 34 24 -19
@@ -626,4 +614,3 @@
 1 16 -10 22 -12.5 -1 0 0 0 0 -2 0 2.5 0 box2-5.dat
 1 16 30 12.5 -12.5 0 0 1 0 7.5 0 2.5 0 0 box2-5.dat
 1 16 -30 12.5 -12.5 0 0 -1 0 7.5 0 -2.5 0 0 box2-5.dat
-0

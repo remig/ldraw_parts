@@ -1,20 +1,10 @@
 0 Wedge  4 x  6 x  2.333
 0 Name: 2916.dat
 0 Author: R. M. Rodinsky [dublar]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 !HELP Place Light Prism (2919.dat) at {0 24 -30}
-
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS train, front, light prism
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2017-07-31 [MagFors] Modified with WINDZ for BFC compliance
-0 !HISTORY 2017-07-31 [MagFors] bfc'd, added missing edges, closed gaps
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS front, light prism, Train
 4 16 -60 64 0 -60 24 0 -56 24 0 -56 60 0
 2 24 60 64 0 60 24 0
 4 16 -60 64 0 -56 60 0 56 60 0 60 64 0
@@ -26,10 +16,8 @@
 2 24 56 60 0 56 44 0
 4 16 -56 24 0 -56 27 -20 -56 40 -20 -56 40 0
 4 16 -56 60 0 -56 44 0 -56 44 -20 -56 48 -20
-
 4 16 56 24 0 56 40 0 56 40 -20 56 27 -20
 4 16 56 48 -20 56 44 -20 56 44 0 56 60 0
-
 1 16 0 54 -10 56 0 0 0 1 6 0 0 10 rect3.dat
 2 24 -60 27 -20 -60 52 -20
 2 24 60 27 -20 60 52 -20
@@ -137,7 +125,6 @@
 4 16 -44 20 -26.8102 -44 20 40 -44 24 40 -44 24 0
 4 16 56 24 40 56 24 0 56 20 -14.8261 56 20 40
 4 16 44 24 40 44 20 40 44 20 -26.8102 44 24 0
-
 1 16 -42 24 20 -2 0 0 0 -1 0 0 0 20 rect2a.dat
 1 16 42 24 20 0 0 2 0 -1 0 20 0 0 rect2a.dat
 1 16 58 24 20 -2 0 0 0 -1 0 0 0 20 rect.dat
@@ -145,7 +132,6 @@
 1 16 0 24 -10 7 0 0 0 3 0 0 0 -7 2-4cylo.dat
 1 16 0 24 -10 7 0 0 0 1 0 0 0 -7 2-4ndis.dat
 3 16 -60 24 0 -60 27 -20 -60 0 0
-
 4 16 -40 16 -27.8696 -40 24 -33.75 -40 24 40 -40 16 40
 2 24 -40 24 40 -40 24 -33.75
 4 16 -7 24 -17 -7 24 0 -40 24 0 -40 24 -33.75

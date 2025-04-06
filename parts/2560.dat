@@ -1,20 +1,8 @@
 0 Boat Base  8 x 16
 0 Name: 2560.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-04-11 [PTadmin] Official Update 1998-04
-0 !HISTORY 2002-07-11 [sbliss] Made BFC compliant; moved sidewall studs to subfile
-0 !HISTORY 2003-01-29 [sbliss] Updated box primitives
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2011-01-06 [MagFors] Used sub-file 6054s01, optimized
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 2 24 -40 56 -80 40 56 -80
 2 24 40 56 80 -40 56 80
 4 16 -40 56 -80 -40 56 -76 40 56 -76 40 56 -80
@@ -108,4 +96,3 @@
 1 16 0 24 -40 1 0 0 0 1 0 0 0 1 stug2-4x4.dat
 1 16 -80 24 40 1 0 0 0 1 0 0 0 1 stug2-4x4.dat
 1 16 -80 24 -40 1 0 0 0 1 0 0 0 1 stug2-4x4.dat
-

@@ -1,13 +1,9 @@
 0 Hinge Panel  2 x  4 x  3.333 with Aquashark, Blue Outlines and Square Pattern
 0 Name: 2582pa1.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Aquazone, Set 6190
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2582s01.dat
 4 16 -25.448 40.701 -30 -26.487 40.101 -30 -26.648 40.701 -30 -26.487 41.301 -30
 4 16 -25.448 40.701 -30 -26.487 41.301 -30 -26.048 41.74 -30 -25.448 41.9 -30

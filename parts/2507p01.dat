@@ -1,23 +1,11 @@
 0 Windscreen 10 x  4 x  2.333 Canopy with Silver Frame Pattern
 0 Name: 2507p01.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-0 !KEYWORDS Model Team, 5600, 5599
+0 !KEYWORDS 5599, 5600, Model Team
 0 !CMDLINE -c33
-
-0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
-0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-02-23 [MagFors] Changed colour 383 to 80 (printed silver)
-0 !HISTORY 2013-02-23 [MagFors] inlined pattern, used subfile
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2507s01.dat
-
-0 // Unpatterned front faces
 4 16 -40 46 -136 -40 4 -4 -40 -4 -4 -40 -4 -16
 4 16 -20 52 -196 -20 46 -196 20 46 -196 20 52 -196
 4 16 39 52 -139 39 46 -139 40 46 -136 40 52 -136
@@ -33,8 +21,6 @@
 3 16 -40 4 4 -40 4 -4 -40 46 -136
 4 16 20 46 -196 20 -4 -76 40 -4 -16 40 46 -136
 4 16 -20 46 -196 -40 46 -136 -40 -4 -16 -20 -4 -76
-
-0 // Patterned area
 4 16 40 -4 -4 40 -4 -10 -40 -4 -10 -40 -4 -4
 4 16 14 -4 -74 -14 -4 -74 -33.6877 -4 -16 33.6877 -4 -16
 4 16 -14 43.6923 -190.462 -14 -2.4615 -79.6923 14 -2.4615 -79.6923 14 43.6923 -190.462

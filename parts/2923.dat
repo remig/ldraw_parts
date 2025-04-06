@@ -1,25 +1,9 @@
 0 Hinge Bar  2.5 with  2 and  3 Fingers on Ends
 0 Name: 2923.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS train catenary holder, robot finger, claw, pantograph, arm
-
-0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [PTadmin] Renamed from 2880 (2006-11-30)
-0 !HISTORY 2008-07-08 [DeannaEarley] BFCd (2008-02-24)
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2010-07-15 [MMR1988] Add bumps, correct gaps, primitive substitution
-0 !HISTORY 2010-07-16 [MagFors] Closed hairline gaps
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
+0 !KEYWORDS arm, Claw, pantograph, robot finger, train catenary holder
 1 16 0 0 -20 4 0 0 0 0 4 0 1 0 4-4edge.dat
 1 16 0 0 26 3.71086 0 1.53723 1.53723 0 -3.71086 0 1 0 5-8edge.dat
 1 16 0 0 34 3.71086 0 -1.53723 1.53723 0 3.71086 0 1 0 3-8edge.dat

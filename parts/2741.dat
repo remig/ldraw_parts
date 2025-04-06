@@ -1,17 +1,8 @@
 0 Technic Steering Wheel Large
 0 Name: 2741.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
-0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2004-08-02)
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 0 -17 0 43 0 0 0 43 0 0 0 43 t04o1429.dat
 1 16 0 -17 0 43 0 0 0 43 0 0 0 43 t04i1429.dat
 1 16 0 -17 0 0 0 -43 0 43 0 43 0 0 t04o1429.dat
@@ -452,4 +443,3 @@
 4 16 11 -10.3 -13 13 -10.3 -7 12.7 -10 -6.7 10.5 -10 -13.3
 4 16 14 -10.3 -7 12 -10.3 -13 12.3 -10 -13.3 14.5 -10 -6.7
 4 16 10.5 -10 -13.3 12.3 -10 -13.3 12 -10.3 -13 11 -10.3 -13
-0

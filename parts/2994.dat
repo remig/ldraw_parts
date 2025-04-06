@@ -1,16 +1,9 @@
 0 Wheel 12 x 20 with Technic Axle Hole and 6 Pegholes
 0 Name: 2994.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
 0 !KEYWORDS 30.4 x 14
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
-0 // Axle hole
-
 1 16 0 0 20 10 0 0 0 0 10 0 -20 0 4-4cyli.dat
 1 16 0 0 20 10 0 0 0 0 10 0 -1 0 4-4edge.dat
 1 16 0 0 5 10 0 0 0 0 10 0 -1 0 4-4edge.dat
@@ -65,8 +58,8 @@
 1 16 0 0 4 30 0 0 0 0 30 0 1 0 4-4edge.dat
 1 16 0 0 7.5 7.5 0 0 0 0 7.5 0 -1 0 4-4ring3.dat
 1 16 0 0 4 -7.5 0 0 0 0 7.5 0 1 0 4-4ring3.dat
-1 16 0 0 12.5 -2.083 0 0 0 0 2.083 0 1 0 4-4rin11.dat
-1 16 0 0 -12.5 2.083 0 0 0 0 2.083 0 -1 0 4-4rin11.dat
+1 16 0 0 12.5 -2.083 0 0 0 0 2.083 0 1 0 4-4ring11.dat
+1 16 0 0 -12.5 2.083 0 0 0 0 2.083 0 -1 0 4-4ring11.dat
 1 16 0 0 -7.5 23 0 0 0 0 23 0 -5 0 4-4cyli.dat
 1 16 0 0 12.5 23 0 0 0 0 23 0 -5 0 4-4cyli.dat
 1 16 0 0 4 23 0 0 0 0 23 0 -8 0 4-4cyli.dat
@@ -126,4 +119,3 @@
 1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\2994s01.dat
 1 16 0 0 0 -0.5 -0.866 0 0.866 -0.5 0 0 0 1 s\2994s01.dat
 1 16 0 0 0 0.5 -0.866 0 0.866 0.5 0 0 0 1 s\2994s01.dat
-0 
