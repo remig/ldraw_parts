@@ -1,0 +1,13 @@
+0 Minifig Hips and Legs with Dark Blue and Gold Loincloth Pattern
+0 Name: 73200bpq2.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bpq2.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+0 BFC CERTIFY CCW
+0 !KEYWORDS Bricklink 970c00pb0082, Brickowl 288328, Pharaoh's Quest
+0 !KEYWORDS Rebrickable 970c03pr0196, set 7327, Anubis Guard
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815bpq2.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cpq1.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cpq1.dat

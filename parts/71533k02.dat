@@ -1,0 +1,9 @@
+0 ~Technic Pneumatic Tube End (Non-Bulged)
+0 Name: 71533k02.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4-4ring3.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4-4ring4.dat
+1 16 0 0 0 3 0 0 0 3 0 0 0 3 4-4edge.dat
+1 16 0 0 0 5 0 0 0 5 0 0 0 5 4-4edge.dat

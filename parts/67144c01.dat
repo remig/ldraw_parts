@@ -1,0 +1,13 @@
+0 Sheet Plastic  8.5 x  7 Motorcycle Windscreen (Formed)
+0 Name: 67144c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !CATEGORY Sheet Plastic
+0 !KEYWORDS bike, Ducati Panigale, Set 42107
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67144c01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\67144c01s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67144c01s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67144c01s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\67144c01s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\67144c01s03.dat

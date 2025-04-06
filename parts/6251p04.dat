@@ -1,0 +1,13 @@
+0 Animal Cat Crouching with Black Eyes, Nose and Whisker Dots Pattern
+0 Name: 6251p04.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS Bricklink 6251pb04, creature, dacta, educational, mousetrap, pet
+0 !KEYWORDS set 3149, set 5823
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6251s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6251s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6251p04s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6251p04s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6251s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6251s03.dat
