@@ -1,19 +1,12 @@
 0 Rock Stepped with White Lightning Pattern
 0 Name: 10178p06.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Monster Fighters, Moonstone
 0 !CMDLINE -c34
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10178s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\10178s02.dat
-0 // front pattern
 4 15 -0.05 -38.05 -8.25 -0.45 -42.6 -8.25 -2.15 -39.35 -8.25 -1 -36.15 -8.25
 4 15 1.6 -35.45 -8.25 -0.05 -38.05 -8.25 -1 -36.15 -8.25 0.5 -35.05 -8.25
 4 15 1.6 -35.45 -8.25 0.5 -35.05 -8.25 1.95 -34.6 -8.25 3.4 -34.45 -8.25

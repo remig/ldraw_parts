@@ -1,19 +1,10 @@
 0 Minifig Police Helmet
 0 Name: 13789.dat
 0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Constable, Bobby
-
-0 !HISTORY 2014-01-07 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-01-08 [angmarec] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-01-16 [Philo] Rebuilt inside, separated patternable areas, added keywords
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS Bobby, Constable
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13789s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\13789s01.dat
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 -1 stud4a.dat
@@ -24,8 +15,6 @@
 1 16 0 -10 0 0 0 8 0 1 0 8 0 0 4-4edge.dat
 1 16 0 -10 0 0 0 8.66667 0 1 0 8.66667 0 0 4-4edge.dat
 1 16 0 -10 0 0 0 8.66667 0 -1 0 8.66667 0 0 4-4disc.dat
-0 // Patternable areas
-0 // Left
 5 24 0 -18.529 -7.343 0 -21.223 -3.331 -0.992 -20.878 -3.371 0.992 -20.878 -3.371
 5 24 0 -15.911 -8.542 0 -18.529 -7.343 -0.838 -18.224 -7.43 0.838 -18.224 -7.43
 5 24 0 -9.692 -14.15 0 -6.976 -15.049 1.29 -9.931 -13.987 -1.29 -9.931 -13.987
@@ -62,7 +51,6 @@
 5 24 -1.551 -10.792 -13.569 0 -9.692 -14.15 -1.089 -11.966 -13 -1.29 -9.931 -13.987
 5 24 -2.642 -16.705 -6.51 -0.838 -18.224 -7.43 -0.992 -20.878 -3.371 -0.988 -16.137 -8.309
 5 24 -0.838 -18.224 -7.43 -0.992 -20.878 -3.371 -2.642 -16.705 -6.51 0 -18.529 -7.343
-0 // Right
 3 16 0.988 -16.137 -8.309 2.642 -16.705 -6.51 0.838 -18.224 -7.43
 3 16 0 -18.529 -7.343 0.838 -18.224 -7.43 0.992 -20.878 -3.371
 3 16 0.992 -20.878 -3.371 0 -21.223 -3.331 0 -18.529 -7.343

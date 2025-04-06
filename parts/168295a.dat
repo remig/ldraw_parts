@@ -1,17 +1,10 @@
 0 Sticker  5.4 x  7.9 with Holographic Stripes and Red Triangles
 0 Name: 168295a.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
-0 BFC CERTIFY CCW
-
-0 !KEYWORDS Spyrius, Set 6959
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP 1 0 88.572 96 -88.572 0.707107 -0.597924 -0.377474 0 0.533829 -0.845593 0.707107 0.597924 0.377474 168295a.dat
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 BFC CERTIFY CCW
+0 !KEYWORDS Set 6959, Spyrius
 3 0 -78.8954 -0.25 -46.4472 -74.1 -0.25 -48 -74.1 -0.25 -45
 4 0 -78.8954 -0.25 -46.4472 -74.1 -0.25 -45 -74.1 -0.25 -42 -76.6667 -0.25 -36
 1 0 -73.1 -0.25 -48 0 0 -6 0 1 0 -6 0 0 48\7-24chrd.dat
@@ -305,8 +298,6 @@
 1 80 71.1 -0.25 -45 0 0 3 0 1 0 -3 0 0 48\7-24chrd.dat
 4 80 70 -0.25 -36 37 -0.25 -36 37 -0.25 -48 71.1 -0.25 -48
 4 80 72.8977 -0.25 -38.2236 70 -0.25 -36 71.1 -0.25 -48 73.9977 -0.25 -44.2235
-
-0 // Back
 1 16 -52.7 0 48 0 0 -6 0 -1 0 6 0 0 48\5-24chrd.dat
 1 16 -73.1 0 -48 0 0 -6 0 -1 0 -6 0 0 48\7-24chrd.dat
 1 16 52.7 0 48 0 0 6 0 -1 0 6 0 0 48\5-24chrd.dat
@@ -334,4 +325,3 @@
 1 16 -73.1 -0.25 -48 0 0 -6 0 0.25 0 -6 0 0 48\7-24cyli.dat
 1 16 52.7 -0.25 48 0 0 6 0 0.25 0 6 0 0 48\5-24cyli.dat
 1 16 -52.7 -0.25 48 0 0 -6 0 0.25 0 6 0 0 48\5-24cyli.dat
-0

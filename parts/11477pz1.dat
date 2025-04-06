@@ -1,15 +1,11 @@
 0 Slope Brick Curved  2 x  1 with 7 Reddish Brown Arrowheads Pattern
 0 Name: 11477pz1.dat
 0 Author: Vincent Messenet [Cheenzo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Bricklink 11477pb057, Set 41615, Brickheadz, Hedwig, Wing, Feathers, Harry, Potter
-
+0 !KEYWORDS Brickheadz, Bricklink 11477pb057, Feathers, Harry Potter, Hedwig
+0 !KEYWORDS Set 41615, Wing
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11477s01.dat
-
 4 70 2 -15.776 15.25 0 -15.882 17.5 1.75 -15.765 15 2 -15.765 15
 3 70 0 -15.882 17.5 0 -15.8 15.75 1.75 -15.765 15
 4 70 0 -15.882 17.5 -2 -15.776 15.25 -2 -15.765 15 0 -15.8 15.75
@@ -97,7 +93,6 @@
 3 16 10 -10.51 -8.284 -10 -10.51 -8.284 0 -8.59 -12.25
 3 16 0 -7.491 -14.5 -2.25 -6.698 -15.75 2.25 -6.698 -15.75
 3 16 2.25 -6.698 -15.75 -2.25 -6.698 -15.75 -10 -4 -20
-
 5 24 10 -7.5316 -14.436 -10 -7.5316 -14.436 10 -10.5099 -8.284 10 -3.9999 -20
 5 24 10 -10.5099 -8.284 -10 -10.5099 -8.284 10 -12.8827 -1.648 10 -7.5316 -14.436
 5 24 10 -12.8827 -1.648 -10 -12.8827 -1.648 10 -14.6036 5.36 10 -10.5099 -8.284

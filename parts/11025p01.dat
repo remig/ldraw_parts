@@ -1,18 +1,10 @@
 0 ~Electric Mindstorms EV3 Bottom Shell with Port Id. Pattern
 0 Name: 11025p01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-05-20 {LEGO MINDSTORMS Team} Original part shape
-0 !HISTORY 2012-07-05 [Philo] Complete rebuild for LDraw Parts Tracker
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 71 0 0 0 1 0 0 0 1 0 0 0 1 s\11025s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11025s02.dat
-0 // Input ports Id. patterns
 1 71 -28.9 -49.9 -139 0 0 -2.2 -2.2 0 0 0 1 0 1-4chrd.dat
 1 15 -28.9 -49.9 -139 0 0 -0.55 -0.55 0 0 0 1 0 1-4ring4.dat
 1 71 -28.9 -49.9 -139 0 0 -2.75 -2.75 0 0 0 1 0 1-4ndis.dat
@@ -231,7 +223,6 @@
 3 71 -31.65 -52.65 -139 -28.9 -52.65 -139 -72 -55 -139
 3 71 -28.9 -52.65 -139 -9.1 -52.65 -139 -72 -55 -139
 3 71 -9.1 -52.65 -139 -6.35 -52.65 -139 -72 -55 -139
-0 // Output ports Id. pattern
 1 71 -38.9 -49.9 139 0 0 -2.2 -2.2 0 0 0 -1 0 1-4chrd.dat
 1 15 -38.9 -49.9 139 0 0 -0.55 -0.55 0 0 0 -1 0 1-4ring4.dat
 1 71 -38.9 -49.9 139 0 0 -2.75 -2.75 0 0 0 -1 0 1-4ndis.dat
@@ -509,7 +500,6 @@
 3 71 14.35 -42.35 139 72 -41 139 11.65 -42.35 139
 3 71 -47.1 -52.65 139 -66.9 -52.65 139 -72 -55 139
 3 71 -44.35 -52.65 139 -47.1 -52.65 139 -72 -55 139
-0 // Side ports pattern
 4 71 -89.5 -45.3 47.3 -89.5 -45.3 48.8 -89.5 -41.9 48.8 -89.5 -42 47.3
 4 71 -89.5 -42 47.3 -89.5 -41.9 48.8 -89.5 -40.9 48.4 -89.5 -41.2 47
 4 71 -89.5 -41.2 47 -89.5 -40.9 48.4 -89.5 -40.2 47.2 -89.5 -40.8 46

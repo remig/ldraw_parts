@@ -1,18 +1,11 @@
 0 Minifig Skirt  1.5L Fringed with Stepped Edge (Formed)
 0 Name: 18200c01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Offset torso by y=-0.5LDU
-
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Hipwear
-0 !KEYWORDS Set 71007, Series 12, Collectible, Battle Goddess
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !KEYWORDS Battle Goddess, Collectible, Series 12, Set 71007
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\600880c01s01.dat
 3 16 19 0 -10.25 19.2117 6.291 4.1078 19 0 9.75
 3 16 19 0 -10.25 19.2821 7.3102 2.9917 19.2117 6.291 4.1078
@@ -161,8 +154,6 @@
 3 16 18.0059 23.0575 -9.9805 18.1615 19.1822 -10.1857 18.0388 23.0565 -10.2283
 3 16 18.0955 19.1807 -9.9531 19.5658 18.1769 -8.6796 19.7735 18.1751 -8.7803
 3 16 18.0955 19.1807 -9.9531 19.7735 18.1751 -8.7803 18.1615 19.1822 -10.1857
-0 // Unmatched edges
-0 // Added lines/Condlines
 5 24 19 0 -10.25 19.2117 6.291 4.1078 19 0 9.75 19.2821 7.3102 2.9917
 5 24 19.2117 6.291 4.1078 19 0 9.75 19 0 -10.25 19.1456 6.2936 8.7811
 5 24 19 0 -10.25 19.2821 7.3102 2.9917 19.2117 6.291 4.1078 19.5782 12.0266 -2.0135

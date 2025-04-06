@@ -1,18 +1,11 @@
 0 Minifig Skirt  0.7L with 11 Diamond Points (Formed)
 0 Name: 16820c01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Offset torso by y=-0.5LDU
-
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Hipwear
 0 !KEYWORDS Lisa, Simpson, Simpsons
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\600880c01s01.dat
 3 16 18.75 0 9.75 18.9999 9.5859 0.2161 18.75 0 -10
 3 16 18.75 0 -10 18.9999 9.5859 0.2161 19.0102 9.7138 -0.2268

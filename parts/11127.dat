@@ -1,15 +1,8 @@
 0 Rock  1 x  1 Crystal  4 Point
 0 Name: 11127.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-03-08 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2013-05-03 [Rolf] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 2 24 -9.246 19 3.74 -9.246 19 -3.74
 2 24 3.74 19 9.246 -3.74 19 9.246
 2 24 9.246 19 -3.74 9.246 19 3.74
@@ -163,13 +156,9 @@
 1 16 0 -1.158 -11.633 3.631 0 0 0 0.552 1.158 0 -1 0.766 rect.dat
 1 16 11.908 -1.575 0 0 0.834 -1.042 0 1 1.574 3.631 0 0 rect.dat
 1 16 0 -1.887 12.116 -3.631 0 0 0 0.552 1.887 0 1 -1.25 rect.dat
-
-0 // Stud4
 1 16 0 20 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 0 4 0 6 0 0 0 16 0 0 0 6 4-4edge.dat
 1 16 0 4 0 -6 0 0 0 -16 0 0 0 6 4-4disc.dat
 0 BFC INVERTNEXT
 1 16 0 4 0 6 0 0 0 16 0 0 0 6 4-4cyli.dat
-
-0 // Stud
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2.dat

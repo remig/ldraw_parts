@@ -1,18 +1,10 @@
 0 Minifig Gun Laser Kryptonian
 0 Name: 13952.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Weapon, Pistol
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-09-22 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !KEYWORDS Pistol, Weapon
 1 16 0 0 0 4 0 0 0 -1 0 0 0 4 4-4edge.dat
 1 16 0 0 0 4 0 0 0 -1 0 0 0 4 4-4disc.dat
 1 16 0 0 0 4 0 0 0 -19 0 0 0 4 4-4cyli.dat
@@ -954,7 +946,6 @@
 2 24 4.176 -18.08 -15.17 4.5 -16.675 -14.257
 2 24 4.176 -15.883 -12.401 4.5 -17.288 -13.314
 2 24 4.5 -16.675 -14.257 4.176 -15.27 -13.345
-0 // Added lines/Condlines
 5 24 -4.654 -22.742 -10.297 -4.023 -22.203 -12.63 -3.25 -24.005 -11.117 -4.763 -21.364 -12.086
 5 24 -4.023 -22.203 -12.63 -3.25 -24.005 -11.117 -4.654 -22.742 -10.297 -3.25 -22.779 -13.004
 5 24 -4.654 -22.742 -10.297 -4.763 -21.364 -12.086 -4.023 -22.203 -12.63 -5.404 -21.142 -9.258

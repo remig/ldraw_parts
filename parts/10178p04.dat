@@ -1,19 +1,12 @@
 0 Rock Stepped with Black Bat Pattern
 0 Name: 10178p04.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Monster Fighters, Moonstone
 0 !CMDLINE -c36
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10178s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\10178s02.dat
-0 // front pattern
 4 0 2.03 -20.95 -8.25 1.77 -21.5 -8.25 1.6 -21.45 -8.25 1.45 -20.93 -8.25
 4 0 2.15 -20.1 -8.25 2.03 -20.95 -8.25 1.45 -20.93 -8.25 1.1 -20.45 -8.25
 4 0 2.1 -19.2 -8.25 2.15 -20.1 -8.25 1.1 -20.45 -8.25 0 -20.5 -8.25

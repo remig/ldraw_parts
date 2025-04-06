@@ -1,19 +1,12 @@
 0 Rock Stepped with Gold Egyptian Eye of Horus Pattern
 0 Name: 10178p02.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Monster Fighters, Moonstone
 0 !CMDLINE -c52
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10178s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\10178s02.dat
-0 // front pattern
 4 16 0.477 -43.018 -8.25 -0.477 -43.018 -8.25 -3.558 -36.972 -8.25 3.558 -36.972 -8.25
 4 16 3.558 -36.972 -8.25 -3.558 -36.972 -8.25 -3.88 -27.728 -8.25 3.88 -27.728 -8.25
 4 16 14.913 -7.101 -8.25 -14.913 -7.101 -8.25 -9.25 -6.153 -8.25 9.25 -6.153 -8.25

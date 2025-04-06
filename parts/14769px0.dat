@@ -1,20 +1,11 @@
 0 Tile  2 x  2 Round with Round Underside Stud with Coloured Clock Pattern
 0 Name: 14769px0.dat
 0 Author: Bertrand Lequy [Berth]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS yellow submarine, Beatles, set 21306, BrickLink 14769pb155
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-0 !HISTORY 2018-03-14 [cwdee] Update description
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
+0 !KEYWORDS Beatles, BrickLink 14769pb155, set 21306, yellow submarine
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
 1 16 0 0 0 20 0 0 0 1 0 0 0 20 4-4ering.dat
-
 4 4 0 0 0 -0.89811 0 0.17864 -0.9157 0 0 -0.89811 0 -0.17864
 4 4 0 0 0 -0.89811 0 -0.17864 -0.846 0 -0.35042 -0.76138 0 -0.50874
 4 4 0 0 0 -0.76138 0 -0.50874 -0.6475 0 -0.6475 -0.50874 0 -0.76138

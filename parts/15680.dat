@@ -1,20 +1,13 @@
 0 Figure Friends Legs with Full Length Skirt
 0 Name: 15680.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Hips Rotation point: Y=-47.4, Z=2.7
-
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15680s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\15680s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15680s02.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\15680s02.dat
-0 // Patternable Front
 5 24 12.792 -4.8339 -9.2264 0 0 -9.46 13.8 0 -9.46 0 -4.6667 -8.978
 5 24 11.8328 -9.4621 -8.7157 0 -4.6667 -8.978 12.792 -4.8339 -9.2264 0 -9.3329 -8.4425
 5 24 11.8328 -9.4621 -8.7157 0 -9.3329 -8.4425 0 -4.6667 -8.978 11.1 -14 -8.06

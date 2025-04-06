@@ -1,21 +1,11 @@
 0 Minifig Hat with Wide Brim Down
 0 Name: 13788.dat
 0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
-0 !HISTORY 2014-01-08 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-01-08 [angmarec] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-01-19 [MagFors]  Rearranged subfiles structure
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13788s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13788s02.dat
-
-0 // outside surface
 4 16 6.907 -1.747 14.898 11.792 -3.294 9.851 12.74 1.155 9.288 7.488 2.776 14.797
 3 16 0.051 -1.296 16.604 7.488 2.776 14.797 -0.02 3.441 16.88
 3 16 0.051 -1.296 16.604 6.907 -1.747 14.898 7.488 2.776 14.797

@@ -1,18 +1,9 @@
-0 Sticker  1.1 x  1.5 with Global Container Cargo Logo
+0 Sticker  1.1 x  1.5 with Blue Globe, Yellow Box and Curved Arrows
 0 Name: 169675a.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 4555, Train, Transport, Station
-
-
-
-
-0 // Main
-
+0 !KEYWORDS Set 4555, Station, Train, Transport
 1 16 0 -0.25 0 1 0 0 0 1 0 0 0 1 s\169675as01.dat
 1 16 0 -.25 0 15 0 0 0 .25 0 0 0 -11 box5-12.dat
 4 16 0 -.25 10 13 -.25 10 15 -.25 11 -15 -.25 11

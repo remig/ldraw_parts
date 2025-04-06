@@ -1,21 +1,9 @@
 0 Sticker  1.9 x  7.9 Technic Supercar 4x4x4 Logo
 0 Name: 168315a.dat
 0 Author: Imre Papp [ampi]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
 0 !KEYWORDS set 8880
-
-0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06
-0 !HISTORY 2007-05-05 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-01-08 [cwdee] Correct part number, add dimensions
-0 !HISTORY 2012-01-09 [MagFors] Corrected overlaps
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // sticker pattern
-
 4 6 -29.34 -0.25 11.14 -28.85 -0.25 11.02 -29.77 -0.25 10.48 -29.74 -0.25 10.88
 4 6 -28.85 -0.25 11.02 -28.65 -0.25 10.67 -29.54 -0.25 10.08 -29.77 -0.25 10.48
 4 6 -28.65 -0.25 10.67 -28.75 -0.25 10.21 -29.12 -0.25 9.98 -29.54 -0.25 10.08
@@ -670,12 +658,9 @@
 3 15 -40.97 -0.25 7.92 -39.91 -0.25 6.42 -40.22 -0.25 6.3
 3 4 -34.32 -0.25 2.5 -33.13 -0.25 2.45 -28.56 -0.25 -2.53
 3 4 -33.13 -0.25 2.45 -31.94 -0.25 2.73 -28.56 -0.25 -2.53
-
 0 thin box
 4 0 79 0 -19 79 0 19 -79 0 19 -79 0 -19
 4 0 -79 -0.25 -19 79 -0.25 -19 79 0 -19 -79 0 -19
 4 0 79 -0.25 -19 79 -0.25 19 79 0 19 79 0 -19
 4 0 79 -0.25 19 -79 -0.25 19 -79 0 19 79 0 19
 4 0 -79 -0.25 19 -79 -0.25 -19 -79 0 -19 -79 0 19
-
-0

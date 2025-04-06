@@ -1,19 +1,12 @@
-0 Minifig Bird Wing
+0 Minifig Arm Bird Wing
 0 Name: 11263.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Chicken, Arm
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-05-18 [Philo] File preparation for LDraw Parts Tracker
-
+0 !KEYWORDS Chicken, Costume
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11263s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\11263s01.dat
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11263s02.dat
+1 16 0 0 0 -1 0 0 0 -0.25882 -0.96593 0 -0.96593 0.25882 knob1.dat
 5 24 10.236 28.203 0 9.998 28.184 0 10.155 27.6 1.312 10.155 27.6 -1.312
 5 24 9.998 24.359 0 12.034 23.867 0 11.269 25.055 1.873 11.269 25.055 -1.873
 5 24 16.221 23.92 0 14.061 27.757 0 13.696 26.693 3.529 13.696 26.693 -3.529

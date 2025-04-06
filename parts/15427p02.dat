@@ -1,20 +1,11 @@
 0 Minifig Hair Ponytail Off-centre with Magenta Stripe Pattern
 0 Name: 15427p02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
 0 !KEYWORDS Friends, Natasha, set 41093
-
-0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-12-29 [MagFors] File preparation for LDraw Parts Tracker
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15427s01.dat
-0 // Patterned surface
 3 26 -14.94 18.435 -3.679 -14.613 18.422 -4.436 -15.274 14.199 -5.811
 3 26 -14.628 14.756 -6.771 -15.274 14.199 -5.811 -14.613 18.422 -4.436
 3 26 -11.35 6.639 -12.603 -13.184 11.92 -10.481 -9.977 8.522 -14.317

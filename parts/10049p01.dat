@@ -1,21 +1,12 @@
-0 Minifig Shield Broad w/ Spiked Bottom, Cutout Corner, Hand Pat.
+0 Minifig Shield Broad with Spiked Bottom, Cutout Corner with White Handprint Pattern
 0 Name: 10049p01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Lord of the Rings
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
-0 // Main body
-
+0 !KEYWORDS Bricklink 10049pb01, Lord of the Rings, Set 10237, Set 9476
+0 !KEYWORDS Uruk-hai
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10049s01.dat
-
-0 // Front Face
 4 15 -4.9 -18.8 -8.47 -5.6 -18.6 -8.358 -6 -17.9 -8.272 -4.1 -18.6 -8.583
 4 15 -3.6 -17.9 -8.632 -4.1 -18.6 -8.583 -6 -17.9 -8.272 -6 -16.8 -8.23
 4 15 -3.3 -16.8 -8.635 -3.6 -17.9 -8.632 -6 -16.8 -8.23 -5.7 -15.9 -8.242
@@ -200,11 +191,7 @@
 3 16 11.133 -22.822 -8.243 20 -10 -6.875 14.47 -21.002 -7.841
 3 16 10.6 13.5 -6.934 0 22 -7.675 6.5 21.1 -7.059
 3 16 6.5 21.1 -7.059 0 22 -7.675 6.5 22 -7.025
-
-0 // Front Face Conditional Lines
 5 24 -12.15 -10.196 -7.06 0 22 -7.675 -11.15 -13.114 -7.319 -6.5 21.1 -6.823
 5 24 -12.15 -10.196 -7.06 -6.5 21.1 -6.823 0 22 -7.675 -10.5 15.7 -6.558
 5 24 -6.5 21.1 -6.823 0 22 -7.675 -12.15 -10.196 -7.06 -6.5 22 -6.8
-
-0 // Front Face Center Line
 2 24 0 22 -7.675 0 -28.5 -9.569

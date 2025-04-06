@@ -1,18 +1,9 @@
 0 Animal Dog Chihuahua with Face Pattern
 0 Name: 12888p01.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-17 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-12-17 [Steffen] File preparation for LDraw Parts Tracker
-0 !HISTORY 2018-06-18 [MagFors] Added cond-lines, reworked pattern
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12888s01.dat
-0 // eyes
 4 0 -4.581 -33.676 -14.915 -4.434 -33.856 -14.918 -4.848 -34.288 -14.491 -5.188 -33.873 -14.483
 4 0 -4.663 -33.458 -14.965 -4.581 -33.676 -14.915 -5.188 -33.873 -14.483 -5.378 -33.371 -14.599
 3 0 -4.663 -33.458 -14.965 -5.378 -33.371 -14.599 -4.668 -33.237 -15.06
@@ -137,8 +128,6 @@
 5 24 3.386 -32.838 -16.152 5.246 -35.478 -13.859 1.318 -34.032 -16.309 6.687 -32.687 -14.422
 5 24 -4.84 -35.547 -13.936 -0.905 -33.892 -16.442 -1.668 -36.997 -14.053 -2.738 -32.695 -16.393
 5 24 1.318 -34.032 -16.309 5.246 -35.478 -13.859 1.693 -37.255 -14 3.386 -32.838 -16.152
-
-0 // mouth
 4 0 0.24 -28.9 -20.877 0.34 -29 -20.943 0.339 -29.315 -21.122 -0.06 -29.2 -21.017
 3 0 -0.019 -29.335 -21.097 -0.06 -29.2 -21.017 0.339 -29.315 -21.122
 4 0 -0.06 -28.8 -20.79 0.24 -28.9 -20.877 -0.06 -29.2 -21.017 -0.509 -28.8 -20.745

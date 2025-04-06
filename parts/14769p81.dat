@@ -1,23 +1,15 @@
 0 Tile  2 x  2 Round with Round Underside Stud with Magenta Star and Record Pattern
 0 Name: 14769p81.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15535s02.dat
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\15535s02.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\15535s02.dat
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\15535s02.dat
 1 16 0 4 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat
-
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
-
 1 16 0 0 0 20 0 0 0 1 0 0 0 20 4-4ering.dat
-
 4 15 9.943 0 14.193 10.429 0 13.919 10.15 0 14.45 8.868 0 15.557
 3 15 8.868 0 15.557 7.725 0 15.4 9.943 0 14.193
 4 15 6.8 0 15.8 8.868 0 15.557 7.283 0 16.615 5.575 0 17.458

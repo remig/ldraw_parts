@@ -1,18 +1,10 @@
 0 Claw Flexible  4L with Bar  0.5L
 0 Name: 11089.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Bar
-0 !KEYWORDS Tooth, Barb, Horn
-
-0 !HISTORY 2013-06-27 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2013-06-27 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS Barb, Horn, Tooth
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11089s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11089s01.dat
 1 16 0 -20 -5 3.5 0 0 0 0 3.5 0 -8.7 0 4-4cyli.dat

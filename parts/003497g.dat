@@ -1,17 +1,10 @@
 0 Sticker Minifig Torso with Black Suit with Two Buttons and Red Tie
 0 Name: 003497g.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Set 1589
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\004315s01.dat
-
 4 4 2 -0.25 15 -2 -0.25 15 -1 -0.25 12 1 -0.25 12
 4 15 1 -0.25 12 -1 -0.25 12 -1 -0.25 11.5 1 -0.25 11.5
 4 4 1 -0.25 11.5 -1 -0.25 11.5 -2 -0.25 0 2 -0.25 0
@@ -78,7 +71,6 @@
 3 0 -1.5 -0.25 -4.5 -18 -0.25 -15 -1.5 -0.25 -6
 3 0 -1.5 -0.25 -11 -18 -0.25 -15 -1.5 -0.25 -12.5
 3 0 -1.5 -0.25 -9.5 -18 -0.25 -15 -1.5 -0.25 -11
-
 1 15 0 -0.25 -6 1.5 0 0 0 1 0 0 0 1.5 4-4disc.dat
 1 15 0 -0.25 -11 1.5 0 0 0 1 0 0 0 1.5 4-4disc.dat
 1 0 0 -0.25 -6 1.5 0 0 0 1 0 0 0 1.5 4-4ndis.dat

@@ -1,18 +1,11 @@
 0 ~Pullback Motor  6 x  5 x  3 Screw Head Side
 0 Name: 12787.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Technic
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12787s03.dat
 1 16 30 -30 -70 0 -1 0 0 0 -1 1 0 0 s\12787s01.dat
-0 // Hole 1
 0 BFC INVERTNEXT
 1 16 10 -62 -102 0 -3 0 -4 0 0 0 0 -4 1-4cylo.dat
 0 BFC INVERTNEXT
@@ -61,7 +54,6 @@
 3 16 9 -64.88 -96.34 9 -66 -94.972 9 -66 -98
 2 24 9 -58 -102 9 -58.0863 -101.566
 2 24 9 -62.5737 -98.1141 9 -63.5308 -98.3044
-0 // Hole 2
 0 BFC INVERTNEXT
 1 16 7 -62 -33 0 -7 0 0 0 -2.5 2.5 0 0 4-4cylo.dat
 1 16 7 -62 -33 0 -1 0 0 0 -0.5 0.5 0 0 4-4ring5.dat
@@ -70,7 +62,6 @@
 1 16 7 -62 -33 0 2 0 -4 0 0 0 0 -4 3-4cylo.dat
 0 BFC INVERTNEXT
 1 16 10 -62 -33 0 -3 0 0 0 -4 4 0 0 1-4cylo.dat
-0 // Hole 3
 0 BFC INVERTNEXT
 1 16 7 7 -102 0 -7 0 0 0 2.5 -2.5 0 0 4-4cylo.dat
 1 16 7 7 -102 0 -1 0 0 0 0.5 -0.5 0 0 4-4ring5.dat
@@ -79,7 +70,6 @@
 1 16 7 7 -102 0 2 0 4 0 0 0 0 4 3-4cylo.dat
 0 BFC INVERTNEXT
 1 16 10 7 -102 0 -3 0 0 0 4 -4 0 0 1-4cylo.dat
-0 // Hole 4
 0 BFC INVERTNEXT
 1 16 9 7 -25 0 -2 0 4 0 0 0 0 4 4-4cyli.dat
 1 16 7 7 -25 0 -1 0 0.5 0 0 0 0 0.5 4-4ring5.dat

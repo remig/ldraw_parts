@@ -1,19 +1,11 @@
 0 ~Animal Horse Poseable Body Right
 0 Name: 10353.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Foot tube is at x=-10 y=70.5 z=-66.9
 0 !HELP Rider studs are at x=+/-10 y=13.5 z=-40.9
 0 !HELP Head pivot point is at y=-6.4 z=-74.7
-
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-11-18 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2013-11-18 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 0 13.5 -40.9 0 0 1 0 1 0 -1 0 0 stug2-2x1.dat
 1 16 -10 70.5 -66.9 -1 0 0 0 -1 0 0 0 1 stud23.dat
 0 BFC INVERTNEXT
@@ -527,7 +519,6 @@
 2 24 -14.665 -6.368 -87.285 -14.334 -11.192 -86.326
 2 24 -15.136 -18.015 -79.502 -15.91 -18.975 -74.678
 2 24 -13.059 60.839 -68.259 -10.913 61.2 -70.627
-0 // middle
 3 16 0 -8.328 19.455 -4.017 -8.328 19.455 -3.969 -15.388 15.331
 3 16 0 -8.328 19.455 -3.969 -15.388 15.331 0 -15.5134 15.0393
 4 16 -4.017 -8.328 19.455 0 -8.328 19.455 0 0 21.112 -4.017 0 21.112

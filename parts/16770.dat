@@ -1,18 +1,10 @@
 0 Claw Wide with Clip
 0 Name: 16770.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Animal
-0 !KEYWORDS Tooth, Talon, Barb
-
-0 !HISTORY 2014-10-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-03-21 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
+0 !KEYWORDS Barb, Talon, Tooth
 1 16 0 0 0 0 -1 0 -1 0 0 0 0 -1 clip12.dat
 2 24 3.0317 3.2013 -6.6381 3.0043 4.2266 -6.2319
 2 24 3.0043 4.2266 -6.2319 2.987 5.2259 -5.2545
@@ -248,7 +240,6 @@
 2 24 2.543 5.077 -24.435 2.25 5.077 -24.435
 2 24 -2.953 5.122 -7.57 -2.25 5.122 -7.57
 2 24 -2.543 5.077 -24.435 -2.25 5.077 -24.435
-0 // Added lines/Condlines
 5 24 3.449 1.922 -51.928 2.27 1.36 -54.566 2.726 5.676 -56.686 2.207 -4.154 -50.611
 5 24 3.449 1.922 -51.928 2.207 -4.154 -50.611 2.27 1.36 -54.566 4.799 -4.794 -39.387
 5 24 4.799 -4.794 -39.387 2.207 -4.154 -50.611 3.449 1.922 -51.928 2.362 -9.285 -45.128

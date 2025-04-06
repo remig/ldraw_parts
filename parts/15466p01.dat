@@ -1,15 +1,8 @@
 0 ~Electric Brick  2 x  4 with 16GB USB Flash Drive - Bottom Plate with 16GB Pattern
 0 Name: 15466p01.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
-0 // Interior is guesstimated
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15466s01.dat
 1 16 -8.7 4 -16.6 -1.3 0 0 0 -1 0 0 0 1.3 4-4disc.dat
 3 16 -7 4 -21.4 -4 4 -27 -7 4 -24

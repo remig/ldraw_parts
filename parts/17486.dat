@@ -1,21 +1,13 @@
 0 Minifig Robot Leg  1 x  2 x  1.667 with Pin
 0 Name: 17486.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS star wars, droid, astromech
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !KEYWORDS astromech, droid, Star Wars
 4 16 20 30 0 16 30 4 16 30 16 20 30 20
 4 16 20 30 0 -20 30 0 -16 30 4 16 30 4
 4 16 20 30 20 16 30 16 -16 30 16 -20 30 20
 4 16 -20 30 0 -20 30 20 -16 30 16 -16 30 4
-
-0 // inside foot
 1 16 0 30 10 0 0 16 0 1 0 6 0 0 recte4.dat
 1 16 0 26 9.5 13 0 0 0 1 0 0 0 5.5 recte3.dat
 2 24 13 26 4 16 26 4
@@ -44,8 +36,6 @@
 1 16 0 24.2705 10 0 0 4 0 -6.9178 0 4 0 0 3-16cyls.dat
 1 16 0 20 10 3.69552 0 1.53073 0 4.2705 0 1.53073 0 -3.69552 5-8cyli.dat
 1 16 0 24.2705 10 1 0 0 0 -1.4324 0 0 0 1 stud3a.dat
-
-0 // outside foot
 1 16 0 30 10 0 0 20 0 -4 0 10 0 0 box4o4a.dat
 1 16 0 26 10 -20 0 0 0 1 0 0 0 10 recte3.dat
 2 24 10 16 14 20 26 20
@@ -64,8 +54,6 @@
 3 16 -3 16 10 -10 16 14 -7 16 10
 4 16 7 16 0 10 16 0 10 16 14 7 16 10
 4 16 -7 16 0 -7 16 10 -10 16 14 -10 16 0
-
-0 // leg
 1 16 0 10 5.5 7 0 0 0 1 0 0 0 -4.5 recte3.dat
 0 BFC INVERTNEXT
 1 16 0 13 10 3 0 0 0 0 3 0 -4 0 box5-2p.dat
@@ -86,8 +74,6 @@
 1 16 5 13 10 2 0 0 0 0 3 0 -1 0 rect2a.dat
 0 BFC INVERTNEXT
 1 16 5 13 0.5 -2 0 0 0 -1.5 1.5 0 0.5 0 box2-7.dat
-
-0 // hip
 2 24 -10 8 0 -7 10 1
 2 24 10 8 0 7 10 1
 2 24 10 8 10 7 10 10
@@ -109,8 +95,6 @@
 4 16 8 8 10 7 10 10 3 10 10 0 8 10
 4 16 0 8 10 -3 10 10 -7 10 10 -8 8 10
 2 24 3 10 10 -3 10 10
-
-0 // pin
 1 16 0 0 0 8 0 0 0 0 8 0 1 0 4-4edge.dat
 1 16 0 0 0 4 0 0 0 0 4 0 1 0 4-4edge.dat
 1 16 0 0 0 1 0 0 0 0 1 0 1 0 confric.dat

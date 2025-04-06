@@ -1,18 +1,11 @@
-0 Tile  2 x  2 Round with Round Underside Stud with Fire Element Pattern 
+0 Tile  2 x  2 Round with Round Underside Stud with Fire Element Pattern
 0 Name: 14769pm1.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Elves
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
 1 16 0 0 0 20 0 0 0 1 0 0 0 20 4-4ering.dat
-
 4 16 -18.478 0 7.654 -15.6 0 10.921 -14.418 0 12.458 -14.142 0 14.142
 3 16 -14.142 0 14.142 -14.418 0 12.458 -13.089 0 13.867
 3 16 -13.089 0 13.867 -11.625 0 15.134 -14.142 0 14.142

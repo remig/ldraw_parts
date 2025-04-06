@@ -1,19 +1,11 @@
 0 Tile  2 x  2 Round with Round Underside Stud with Red and Pink Fan Pattern
 0 Name: 14769px1.dat
 0 Author: Bertrand Lequy [Berth]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS yellow, submarine, Beatles, set 21306
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS Beatles, set 21306, submarine, yellow
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
 1 16 0 0 0 20 0 0 0 1 0 0 0 20 4-4ering.dat
-
 4 72 0 0 0 -0.47886 0 0.19835 -0.51831 0 0 -0.47886 0 -0.19835
 4 72 0 0 0 -0.47886 0 -0.19835 -0.3665 0 -0.3665 -0.19835 0 -0.47886
 4 72 0 0 0 -0.19835 0 -0.47886 0 0 -0.51831 0.19835 0 -0.47886

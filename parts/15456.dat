@@ -1,11 +1,8 @@
 0 Plate  2 x  2 with Towball and Centre Hole
 0 Name: 15456.dat
 0 Author: Owen Burgoyne [C3POwen]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 0 4 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
 4 16 -20 8 20 -16 8 16 -16 8 -16 -20 8 -20
@@ -28,7 +25,6 @@
 4 16 -20 0 20 -6 0 6 6 0 6 20 0 20
 4 16 20 0 20 6 0 6 6 0 -6 20 0 -20
 4 16 20 0 -20 6 0 -6 -6 0 -6 -20 0 -20
-
 1 16 0 4 -20 3.8 0 0 0 0 3.8 0 1 0 4-4edge.dat
 1 16 0 4 -20.3 -0.2 0 0 0 0 -0.2 0 0.3 0 4-4con19.dat
 1 16 0 4 -20.3 4 0 0 0 0 -4 0 -11.4 0 4-4cylo.dat

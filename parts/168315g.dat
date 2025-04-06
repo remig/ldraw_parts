@@ -1,18 +1,8 @@
 0 Sticker  1.1 x  3.9 Technic Supercar Instrument Panel 1
 0 Name: 168315g.dat
 0 Author: Imre Papp [ampi]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2012-01-08 [cwdee] Renamed from 168135g, add dimensions
-0 !HISTORY 2012-11-04 [MagFors] Closed gaps, improved shape of digits
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
-0 // sticker pattern
-
 4 14 -22.93 -0.25 -8.47 -17.27 -0.25 -8.47 -17.27 -0.25 -9.75 -22.93 -0.25 -9.75
 4 14 -20.61 -0.25 -3.84 -14.76 -0.25 -4.84 -15.53 -0.25 -5.64 -22.17 -0.25 -5.64
 4 14 -18.69 -0.25 -1.7 -13.35 -0.25 -3.38 -14.13 -0.25 -4.17 -19.85 -0.25 -2.97
@@ -587,7 +577,6 @@
 4 0 3.77 -0.25 -6.17 5.96 -0.25 1.6 7.52 -0.25 1.6 5.33 -0.25 -6.17
 4 2 4.28 -0.25 -2.62 4.05 -0.25 -2.38 4.06 -0.25 -2.04 4.52 -0.25 -1.85
 4 2 4.52 -0.25 -1.85 5.33 -0.25 0.93 5.96 -0.25 1.6 3.77 -0.25 -6.17
-0 // thin box
 4 0 -19.58 0 11 19.58 0 11 19.58 -0.25 11 -19.58 -0.25 11
 4 0 19.58 -0.25 11 19.58 0 11 39 0 -8.42 39 -0.25 -8.42
 4 0 39 -0.25 -8.42 39 0 -8.42 39 0 -11 39 -0.25 -11
@@ -596,4 +585,3 @@
 4 0 -19.58 0 11 -19.58 -0.25 11 -39 -0.25 -8.42 -39 0 -8.42
 4 0 19.58 0 11 -19.58 0 11 -39 0 -8.42 39 0 -8.42
 4 0 39 0 -8.42 -39 0 -8.42 -39 0 -11 39 0 -11
-

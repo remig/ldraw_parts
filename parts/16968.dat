@@ -1,17 +1,9 @@
 0 Brick  1 x  4 Disk Shooter
 0 Name: 16968.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Constraction
-
-0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-03-22 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 30 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 -30 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
@@ -285,8 +277,6 @@
 2 24 -23.032 8.325 2.125 -28.535 8.325 2.801
 2 24 -28.535 8.325 -2.801 -29.543 15.5 -2.924
 2 24 -29.543 15.5 2.924 -28.535 8.325 2.801
-
-0 // Inside
 4 16 -16.215 18.75 6.25 16.215 18.75 6.25 15.336 18.75 0 -15.336 18.75 0
 4 16 16.215 18.75 -6.25 -16.215 18.75 -6.25 -15.336 18.75 0 15.336 18.75 0
 1 16 -34.5 2.75 0 0 0 1.75 0 -1 0 6.25 0 0 rect3.dat
@@ -309,8 +299,6 @@
 1 16 32.75 11.375 0 0 -1 0 -7.375 0 0 0 0 -6.25 rect.dat
 1 16 31.375 18.75 0 0 0 -1.375 0 -1 0 -6.25 0 0 rect3.dat
 1 16 34.5 4 0 1.75 0 0 0 -1 0 0 0 -6.25 rect2p.dat
-
-0 // Inside
 1 16 8.625 0.65 -6.4883 0 1 0 -0.65 0 0 0 0 0.7617 rect.dat
 1 16 0 0.65 -7.25 0 0 -8.625 0.65 0 0 0 -1 0 rect3.dat
 1 16 16.7785 0.65 -7.25 0 0 5.4165 -0.65 0 0 0 -1 0 rect.dat

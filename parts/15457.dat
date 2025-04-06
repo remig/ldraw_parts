@@ -1,13 +1,8 @@
 0 Technic Worm Gear 3L with Bush Ends
 0 Name: 15457.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 2 24 -7 0 -3 -7 0 -5
 2 24 7 0 3 7 0 5
 1 16 0 0 -30 2.77164 0 -1.14805 1.14805 0 2.77164 0 1 0 7-8ring2.dat
@@ -220,7 +215,6 @@
 3 16 7.0002 0.0001 14 7.391 3.0615 14 6.4671 2.6788 14
 3 16 7.391 -3.0615 14 7.391 3.0615 14 7.0002 0.0001 14
 3 16 6.4672 -2.6788 14 7.391 -3.0615 14 7.0002 0.0001 14
-0 // Screw
 1 16 0 0 -7 7 0 0 0 0 -7 0 14 0 4-4cylo.dat
 0 BFC INVERTNEXT
 1 16 0 0 -10 3 0 0 0 0 3 0 20 0 4-4cylo.dat

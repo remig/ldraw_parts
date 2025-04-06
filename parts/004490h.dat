@@ -1,22 +1,14 @@
 0 Sticker  2.3 x  1.8 with "WANTED DEAD OR ALIVE" Sign
 0 Name: 004490h.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS set 365, western, wild west, cowboy
-0 !KEYWORDS fugitive, jail, poster, billboard, bounty, reward
-0 !KEYWORDS bandit, bandido, desperado, gangster, gunman, hijacker, holdup man
-0 !KEYWORDS hooligan, marauder, outlaw, plunderer, robber, villain, bad guy,
-0 !KEYWORDS eiusmod tempor incidunt ut, placeholder text, lorem ipsum
-
-0 // Small Box
+0 !KEYWORDS bad guy, bandido, bandit, billboard, bounty, cowboy, desperado
+0 !KEYWORDS eiusmod tempor incidunt ut, fugitive, gangster, gunman, hijacker
+0 !KEYWORDS holdup man, hooligan, jail, lorem ipsum, marauder, outlaw
+0 !KEYWORDS placeholder text, plunderer, poster, reward, robber, set 365
+0 !KEYWORDS villain, western, wild west
 1 16 0 -0.25 0 17.5 0 0 0 0.25 0 0 0 22.5 box5-12.dat
-
-0 // Pattern
-0 // Black
 1 0 7.3 -.25 5.5 .8 0 0 0 1 0 0 0 1.5 1-4ndis.dat
 1 0 8.1 -.25 5.8 1.9 0 0 0 1 0 0 0 2.5 1-4chrd.dat
 1 0 8.1 -.25 3.1 1.9 0 0 0 1 0 0 0 -2.5 1-4chrd.dat
@@ -489,8 +481,6 @@
 3 0 -2.1 -.25 -6.9 -2.1 -.25 -8.21 -1.56 -.25 -6.9
 3 0 -2.64 -.25 -1.6 -2.1 -.25 -1.6 -2.1 -.25 -.29
 3 0 -2.1 -.25 -.29 -2.1 -.25 -1.6 -1.56 -.25 -1.6
-
-0 // White
 1 15 8.1 -.25 5.8 1.9 0 0 0 1 0 0 0 2.5 1-4ndis.dat
 1 15 7.3 -.25 5.5 .8 0 0 0 1 0 0 0 1.5 1-4chrd.dat
 1 15 8.1 -.25 3.1 1.9 0 0 0 1 0 0 0 -2.5 1-4ndis.dat
@@ -1002,7 +992,6 @@
 4 15 7.021 -.25 -18.248 7.934 -.25 -18.613 8.186 -.25 -18.613 6.589 -.25 -16.3
 3 15 6.589 -.25 -16.3 6.769 -.25 -18.248 7.021 -.25 -18.248
 3 15 6.589 -.25 -16.3 8.186 -.25 -18.613 8.481 -.25 -18.613
-0 // www.holly-wood.it
 4 15 6.589 -.25 -16.3 8.481 -.25 -18.613 8.716 -.25 -18.613 10.052 -.25 -16.3
 3 15 10.052 -.25 -16.3 8.858 -.25 -18.632 9.033 -.25 -18.592
 4 15 10.052 -.25 -16.3 9.033 -.25 -18.592 9.185 -.25 -18.622 9.694 -.25 -18.423

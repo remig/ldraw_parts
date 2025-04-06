@@ -1,17 +1,9 @@
 0 Dome  2 x  2 Inverted with Stud and Tube
 0 Name: 15395.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Sphere
-
-0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-01-18 [Philo] Complete rewrite for LDraw parts tracker
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 4 0 1 0 0 0 -1 0 0 0 -1 stud4a.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
@@ -46,7 +38,6 @@
 1 16 0 4 0 4.5 0 0 0 -4 0 0 0 4.5 4-4cyli.dat
 1 16 0 4 0 1.5 0 0 0 -1 0 0 0 1.5 4-4ring3.dat
 1 16 0 0 0 0.5 0 0 0 -1 0 0 0 0.5 4-4ring8.dat
-0 // Added lines/Condlines
 5 24 11.0868 0.4 4.5924 12 0.4 0 7.3912 2.6 3.0616 14.7824 -3.4 6.1232
 5 24 8.4852 0.4 8.4852 11.0868 0.4 4.5924 5.6568 2.6 5.6568 11.3136 -3.4 11.3136
 5 24 4.5924 0.4 11.0868 8.4852 0.4 8.4852 3.0616 2.6 7.3912 6.1232 -3.4 14.7824

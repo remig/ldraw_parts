@@ -1,18 +1,10 @@
 0 Slide  7 x 12 x  6.333 Half Turn
 0 Name: 11267.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Staircase
 0 !KEYWORDS Friends
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-10-07 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 -80 0 -10 0 0 -1 0 1 0 1 0 0 stug-4x1.dat
 1 16 -60 2.75 -10 1 0 0 0 -1.3125 0 0 0 -1 stud3.dat
 1 16 -100 2.75 -10 1 0 0 0 -1.3125 0 0 0 -1 stud3.dat
@@ -929,8 +921,6 @@
 2 24 -99.9 2.74 1.5 -99.9 2.74 3.757
 2 24 -99.9 8 21.5 -81.546 8 21.5
 2 24 -99.9 -0.706 21.5 -81.546 8 21.5
-0 // Stud4
-0 // Inside
 4 16 -116.25 8 -16.25 -43.75 8 -16.25 -40 8 -20 -120 8 -20
 1 16 -80 5.375 -16.25 36.25 0 0 0 0 2.625 0 -1 0 rect.dat
 4 16 -63.75 5.23 16.25 -63.75 8 16.25 -63.75 8 -3.75 -63.75 2.75 3.757
@@ -949,7 +939,6 @@
 2 24 -96.25 2.75 3.757 -96.25 2.75 -3.75
 2 24 -96.25 -5.832 3.757 -96.25 2.75 3.757
 2 24 -96.25 8 16.25 -96.25 -0.236 16.25
-0 // Inside
 3 16 59.034 138.82 3.775 43.75 120.859 3.775 55.419 127.224 16.225
 3 16 43.75 120.859 3.775 43.75 112.684 16.225 55.419 127.224 16.225
 3 16 55.419 127.224 16.225 69.443 135.701 16.225 59.034 138.82 3.775

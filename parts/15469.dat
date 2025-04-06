@@ -1,15 +1,9 @@
 0 Brick  2 x  2 Round with 4 Petals Base and Axle Hole
 0 Name: 15469.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-11-28 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
+0 !KEYWORDS Flower
 1 16 0 0 0 1 0 0 0 10.75 0 0 0 1 axl3hol8.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 axl3ho10.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 axl3hol9.dat
@@ -35,7 +29,6 @@
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\15469s01.dat
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\15469s01.dat
 1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\15469s01.dat
-
 5 24 20.465 3.2 0 18.908 3.2 7.832 18.478 0 7.654 22.226 9.444 7.777
 5 24 18.908 3.2 7.832 14.471 3.2 14.471 14.142 0 14.142 17.643 8.575 14.729
 5 24 14.471 3.2 14.471 7.832 3.2 18.908 7.654 0 18.478 14.729 8.575 17.643

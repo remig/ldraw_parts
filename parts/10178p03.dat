@@ -1,19 +1,12 @@
 0 Rock Stepped with Black Wolf Pattern
 0 Name: 10178p03.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Monster Fighters, Moonstone
 0 !CMDLINE -c38
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10178s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\10178s02.dat
-0 // front pattern
 3 0 -2.54 -27.33 -8.25 -3.19 -26.23 -8.25 -2.11 -26.65 -8.25
 4 0 -2.16 -28.2 -8.25 -2.54 -27.33 -8.25 -2.11 -26.65 -8.25 -0.08 -29.72 -8.25
 3 0 -0.58 -29.77 -8.25 -2.16 -28.2 -8.25 -0.08 -29.72 -8.25

@@ -1,21 +1,12 @@
 0 Minifig Gollum
 0 Name: 10057.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP top stud base at y = -48
-0 !HELP  left arm connects at  14 -38.5 -6.75
+0 !HELP left arm connects at 14 -38.5 -6.75
 0 !HELP right arm connects at -14 -38.5 -6.75
-
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Lord of the Rings, LOTR
-
-0 !HISTORY 2014-01-11 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-01-11 [Wesley] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 -48 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10057s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10057s02.dat
@@ -23,7 +14,6 @@
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10057s03.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\10057s03.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10057s04.dat
-0 // conditional lines between subfiles
 5 24 0 -55.673 -15.623 0 -59.974 -18.831 4.233 -59.338 -18.968 -4.233 -59.338 -18.968
 5 24 0 -51.089 -15.63 0 -55.673 -15.623 3.955 -55.356 -15.918 -3.955 -55.356 -15.918
 5 24 0 -59.974 -18.831 0 -61.593 -23.755 4.713 -60.836 -23.604 -4.713 -60.836 -23.604

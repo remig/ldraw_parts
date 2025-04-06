@@ -1,20 +1,9 @@
 0 ~Animal Horse Poseable Head Left with Black Bridle and White Blaze Pattern
 0 Name: 10350p01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-11-18 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2013-11-18 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-0 !HISTORY 2013-12-31 [smr] Fixed overlapping triangle
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10350s01.dat
-0 // Patternable areas
-0 // Head Top
 4 0 3.764 -50.896 -43.398 7.433 -49.279 -40.662 7.1098 -49.7008 -40.6498 3.7371 -51.4856 -42.8944
 3 16 3.61 -54.268 -40.518 3.7371 -51.4856 -42.8944 7.1098 -49.7008 -40.6498
 3 0 7.4193 -49.6173 -40.5663 7.1098 -49.7008 -40.6498 7.433 -49.279 -40.662
@@ -191,7 +180,6 @@
 5 24 5.642 -37.797 -52.103 0 -37.797 -52.103 0 -32.164 -55.32 6.713 -43.686 -48.782
 5 24 0 -50.896 -43.398 3.764 -50.896 -43.398 3.61 -54.268 -40.518 0 -43.686 -48.782
 5 24 0 -43.686 -48.782 6.713 -43.686 -48.782 3.764 -50.896 -43.398 0 -37.797 -52.103
-0 // Head side
 3 16 10.869 -31.168 -24.123 8.34 -20.352 -28.61 9.636 -30.289 -23.036
 4 0 10.2282 -25.2291 -28.2561 9.962 -22.762 -29.973 8.34 -20.352 -28.61 9.2256 -22.9 -28.2
 3 16 10.869 -31.168 -24.123 9.2256 -22.9 -28.2 8.34 -20.352 -28.61

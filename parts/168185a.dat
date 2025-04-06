@@ -1,18 +1,8 @@
 0 Sticker  1 x  4 with Red/Green "Octan"
 0 Name: 168185a.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-0 !HISTORY 2012-01-09 [cwdee] Corrected dimensions
-0 !HISTORY 2012-01-10 [MagFors] Closed gaps, removed duplicated surface, reduced filesize with Rectifier
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // based on the work of Thomas Burger
-
 4 0 23 -0.25 -7.5 23.5 -0.25 -6.75 23.5 -0.25 3 23 -0.25 3.5
 4 0 23.5 -0.25 3 27.75 -0.25 3 28.25 -0.25 3.5 23 -0.25 3.5
 4 0 27.75 -0.25 3 27.75 -0.25 1 28.5 -0.25 1.5 28.25 -0.25 2.5
@@ -74,10 +64,8 @@
 4 0 13 -0.25 -7.59 14.75 -0.25 -7.5 14.5 -0.25 -7.25 13 -0.25 -7.16
 4 0 14.75 -0.25 -7.5 16.25 -0.25 -6.75 15.75 -0.25 -6.5 14.5 -0.25 -7.25
 4 0 16.25 -0.25 -6.75 17 -0.25 -6 16.5 -0.25 -6 15.75 -0.25 -6.5
-0 // fixer
 3 2 16.7 -0.25 -1.75 17 -0.25 2 16.492 -0.25 -0.718
 3 0 28.25 -0.25 3.5 27.75 -0.25 3 28.25 -0.25 2.5
-0 //
 4 0 17 -0.25 -6.75 17 -0.25 -6 16.5 -0.25 -6.75 16.5 -0.25 -7.5
 3 0 16.25 -0.25 -6.75 16.5 -0.25 -6.75 17 -0.25 -6
 4 0 16.5 -0.25 -7.5 21.25 -0.25 -7.5 20.5 -0.25 -6.75 17 -0.25 -6.75
@@ -339,7 +327,4 @@
 3 16 36.5 -0.25 0.75 40 -0.25 10 35.75 -0.25 2
 4 16 31.5 -0.25 -7.5 30 -0.25 -10 40 -0.25 -10 36.5 -0.25 -7.5
 4 16 40 -0.25 -10 40 -0.25 10 36.5 -0.25 0.75 36.5 -0.25 -7.5
-0 //
-0 // Created wholly or in part by Quad2Dat
-0 // Thanks James
 1 16 0 -0.25 0 40 0 0 0 0.25 0 0 0 10 box5-12.dat

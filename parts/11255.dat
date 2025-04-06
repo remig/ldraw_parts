@@ -1,18 +1,10 @@
 0 Minifig Hair Long with Curls
 0 Name: 11255.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
+0 !CATEGORY Minifig Headwear
 0 !KEYWORDS Judge, Peruke
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-05-26 [BlackBrick89] File preparation for LDraw Parts Tracker
-
-0 // Created with Philo at Billund Airport
-
 1 16 0 -4 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 3 16 -18.298 23.455 -3.451 -20.312 20.091 -4.024 -20.711 19.977 2.597
@@ -1468,8 +1460,6 @@
 3 16 -4.0837 .7099 -9.8594 -3.0616 -4 -7.3912 -2.4667 .6388 -10.048
 3 16 2.3659 .5517 -9.9051 0 -4 -8 3.0616 -4 -7.3912
 3 16 0 .8108 -10.8601 -1.0142 .7194 -10.4875 0 -4 -8
-
-
 2 24 -8.3511 5.0562 -9.7543 -8.5388 5.7888 -9.6288
 2 24 -8.2531 4 -9.8197 -8.3511 5.0562 -9.7543
 2 24 -8.5388 5.7888 -9.6288 -8.2662 9.0025 -9.8111
@@ -2321,7 +2311,6 @@
 2 24 -9.471 21.931 -9.527 -6.228 23.058 -11.327
 2 24 -6.228 23.058 -11.327 -4.978 24.93 -12.592
 2 24 -.118 -7.904 4.332 -2.775 -7.923 6.805
-
 5 24 -19.435 14.218 -3.662 -15.624 11.303 -6.911 -17.302 11.079 -3.256 -17.271 13.977 -8.2
 5 24 -20.312 20.091 -4.024 -18.499 17.313 -3.493 -19.211 17.083 2.583 -17.718 20.163 -10.521
 5 24 14.9 24.016 -12.257 13.086 30.601 -17.074 14.206 34.385 -14.65 13.137 26.554 -17.351

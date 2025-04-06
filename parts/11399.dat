@@ -1,13 +1,8 @@
 0 Plate  4 x  4 with 2 Clips Horizontal (Open C-Clips)
 0 Name: 11399.dat
 0 Author: Owen Burgoyne [C3POwen]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stug4-3x3.dat
 0 BFC INVERTNEXT
 1 16 0 8 0 36 0 0 0 -4 0 0 0 36 box5.dat

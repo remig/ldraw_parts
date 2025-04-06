@@ -1,18 +1,10 @@
 0 Minifig Moustache
 0 Name: 15439.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Neckwear
 0 !KEYWORDS Mustache
-
-0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2017-04-26 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 4 16 -0.001 0 8.231 3.157 0 7.589 3.145 -2.532 7.605 -0.001 -2.532 8.23
 3 16 5.927 0 5.69 5.812 -2.532 5.823 3.157 0 7.589
 3 16 3.157 0 7.589 5.812 -2.532 5.823 3.145 -2.532 7.605
@@ -749,8 +741,6 @@
 2 24 -11.455 -1.318 -12.629 -10.494 -1.559 -13.173
 2 24 0.002 -8.066 -14.728 0.022 -6.933 -13.072
 2 24 -12.295 -2.911 -7.94 -11.74 -0.406 -9.295
-0 // Unmatched edges
-0 // Added lines/Condlines
 5 24 3.157 0 7.589 3.145 -2.532 7.605 -0.001 0 8.231 5.812 -2.532 5.823
 5 24 -0.001 -2.532 8.23 -0.001 0 8.231 3.145 -2.532 7.605 -3.147 -2.532 7.605
 5 24 5.927 0 5.69 5.812 -2.532 5.823 3.157 0 7.589 7.628 -2.539 3.109
