@@ -1,18 +1,10 @@
 0 Minifig Torso with Green Stripes and Leather Strap Pattern
 0 Name: 973p3t.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // Torso
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neckmark (Black: Black)
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Front Pattern
 4 0 10.7 2.9 -10 11.37 2.9 -10 11.33 3.129 -10 11.213 3.331 -10
 4 0 10.7 2.9 -10 11.213 3.331 -10 11.035 3.48 -10 10.816 3.56 -10
 4 0 10.7 2.9 -10 10.816 3.56 -10 10.584 3.56 -10 10.365 3.48 -10
@@ -1067,7 +1059,6 @@
 4 16 -14.811 4.7 -10 -14.345 2 -10 -13.192 1.675 -10 -13.889 5.169 -10
 3 16 -12 0 -10 -13.192 1.675 -10 -14.345 2 -10
 3 16 -12 0 -10 -11.886 1.675 -10 -13.192 1.675 -10
-0 // Back Pattern
 4 0 7.786 0.869 10 6.173 1.363 10 6.356 2.039 10 8.014 1.531 10
 4 0 6.173 1.363 10 4.53 1.75 10 4.668 2.436 10 6.356 2.039 10
 4 0 4.53 1.75 10 2.866 2.027 10 2.958 2.721 10 4.668 2.436 10

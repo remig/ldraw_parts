@@ -1,17 +1,10 @@
 0 Slope Brick Curved  4 x  2 with Yellow and Green Program Start Icon Pattern
 0 Name: 93606p01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Curve, Wedge, Arrow, Boost, Set 17101
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS Arrow, Boost, curve, Set 17101, wedge
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93606s01.dat
-
 4 2 5.2 4.6431 1 5.7 4.847 -0.1 5.8 4.7543 0.4 5.6 4.6802 0.8
 4 14 2.5 2.1772 14.3 0 2.1587 14.4 5.2 4.6431 1 4.9 2.2885 13.7
 4 14 7.4 2.5109 12.5 4.9 2.2885 13.7 5.2 4.6431 1 5.6 4.6802 0.8

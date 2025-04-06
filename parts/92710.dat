@@ -1,17 +1,8 @@
 0 Boat Hull Floating 28 x  8 Bottom
 0 Name: 92710.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-10-05 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
-0 // Note: Structure inside hull is simplified.
-
 4 16 34.1421 66.408 210.145 -34.875 66.3465 270.7 -34.1421 66.408 210.145 29.5242 66.408 192.801
 4 16 29.5242 66.408 192.801 -34.1421 66.408 210.145 -29.5242 66.408 192.801 16.986 66.4102 180.358
 4 16 -29.5242 66.408 192.801 -34.1421 66.408 210.145 -33.8895 54.6225 210.271 -29.4199 55.7255 193.18

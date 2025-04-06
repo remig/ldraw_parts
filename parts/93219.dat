@@ -1,14 +1,10 @@
 0 Minifig Baseball Cap with Button on Top
 0 Name: 93219.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
 0 !KEYWORDS Set 6001096
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93219s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\93219s01.dat
 1 16 0 -8.5 0 -6 0 0 0 -1 0 0 0 6 4-4disc.dat

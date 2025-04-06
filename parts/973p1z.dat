@@ -1,13 +1,9 @@
-0 Minifig Torso Female Top with Dark Pink Stripes and Flower Necklace Pattern
+0 Minifig Torso with Female Top with Dark Pink Stripes and Flower Necklace Pattern
 0 Name: 973p1z.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Bricklink 973pb1978
-
+0 !KEYWORDS Bricklink 973pb1978, set 10261, Set 10297
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 4 85 -15.6215 14.9982 -10 -18.3255 30.8002 -10 -17.5975 30.1762 -10 -15.4135 17.2802 -10

@@ -1,28 +1,15 @@
 0 Minifig Torso with Leather Jacket Pattern
 0 Name: 973p28.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2002-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-0 !KEYWORDS Town, Futbal, Soccer, Football, zipper, motorcycle
+0 !KEYWORDS football, Futbal, Motorcycle, Soccer, town, Zipper
 0 !CMDLINE -c0
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2000-11-05 [cwdee] Moved neck mark from s\973s01.dat
-0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
-0 !HISTORY 2002-02-17 [Deckard] Fixed invalid line color and gap around collar
-0 !HISTORY 2002-02-19 [sbliss] Rewrapped polygons for BFC compliance
-0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
-0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 4 16 12 0 10 -12 0 10 -14.345 2 10 14.345 2 10
 4 16 14.345 2 10 -14.345 2 10 -19 29 10 19 29 10
 4 16 19 29 10 -19 29 10 -19 32 10 19 32 10
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-
 4 4 -7 0 -10 7 0 -10 4.5 5 -10 -4.5 5 -10
 4 4 -4.5 5 -10 4.5 5 -10 2.5 10 -10 -2.5 10 -10
 4 4 -2.5 10 -10 2.5 10 -10 1 15 -10 -1 15 -10
@@ -33,7 +20,6 @@
 4 15 0.75 19.5 -10 1 15.5 -10 2 22 -10 1 21 -10
 4 15 -2 22 -10 -1 15.5 -10 -0.75 19.5 -10 -1 21 -10
 3 16 -3 22 -10 3 22 -10 0 32 -10
-
 1 15 8.75 7 -10 0.75 0 0 0 0 0.75 0 1 0 4-4disc.dat
 1 16 8.75 7 -10 0.75 0 0 0 0 0.75 0 1 0 4-4ndis.dat
 1 15 7.5 13 -10 0.75 0 0 0 0 0.75 0 1 0 4-4disc.dat
@@ -74,7 +60,6 @@
 3 16 1 15 -10 7 15.5 -10 1 15.5 -10
 4 16 1 15.5 -10 7 15.5 -10 3 22 -10 2 22 -10
 4 16 2.5 10 -10 6.75 12.25 -10 6.75 13.75 -10 1 15 -10
-
 1 15 -8.75 7 -10 0.75 0 0 0 0 0.75 0 1 0 4-4disc.dat
 1 16 -8.75 7 -10 0.75 0 0 0 0 0.75 0 1 0 4-4ndis.dat
 1 15 -7.5 13 -10 0.75 0 0 0 0 0.75 0 1 0 4-4disc.dat
@@ -115,7 +100,6 @@
 3 16 -1 15.5 -10 -7 15.5 -10 -1 15 -10
 4 16 -3 22 -10 -7 15.5 -10 -1 15.5 -10 -2 22 -10
 4 16 -6.75 13.75 -10 -6.75 12.25 -10 -2.5 10 -10 -1 15 -10
-
 4 15 10.5 23 -10 12.5 23 -10 12.25 27 -10 10.75 27 -10
 4 16 10.75 27 -10 12.25 27 -10 12.5 28.5 -10 10.5 28.5 -10
 4 15 10.5 28.5 -10 12.5 28.5 -10 13.5 29.5 -10 9.5 29.5 -10
@@ -171,4 +155,3 @@
 3 16 -11 25 -10 -10.432 24.432 -10 -10.671 25.987 -10
 4 16 -9.5 19.75 -10 -8.25 19.75 -10 -8 20 -10 -9.75 20 -10
 4 16 -10.671 25.897 -10 -9.75 20 -10 -9.5 20 -10 -10.5 26.5 -10
-0

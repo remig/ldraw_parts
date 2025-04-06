@@ -1,21 +1,15 @@
 0 Minifig Torso with Jail Stripes and "23768" Pattern
 0 Name: 973p7k.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS Jailbreak Joe, Police, Prisoner
+0 !KEYWORDS Jailbreak Joe, police, Prisoner
 0 !CMDLINE -c15
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 3 0 0 14.1569 -10 -15.2388 14.1569 -10 -15.695 16.8029 -10
 3 0 -13.414 3.5729 -10 -13.8702 6.2189 -10 0 6.2189 -10
 4 0 -8.6614 8.8649 -10 -14.3264 8.8649 -10 -14.7826 11.5109 -10 -8.6614 11.5109 -10

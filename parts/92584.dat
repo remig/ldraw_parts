@@ -1,16 +1,10 @@
 0 Plate 10 x 10 without Corner without Studs in Center
 0 Name: 92584.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Wing
-0 !KEYWORDS space, shuttle
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
+0 !KEYWORDS shuttle, Space
 1 16 0 4 0 0 0 -100 -4 0 0 0 100 0 box2-5.dat
 4 16 96 8 96 -96 8 96 -100 8 100 100 8 100
 4 16 -96 8 96 -96 8 -96 -100 8 -100 -100 8 100
@@ -71,4 +65,3 @@
 1 16 30 0 10 0 0 -1 0 1 0 1 0 0 stud.dat
 1 16 50 0 40 0 0 -1 0 1 0 1 0 0 stug-1x2.dat
 1 16 70 0 50 0 0 -1 0 1 0 1 0 0 stud.dat
-

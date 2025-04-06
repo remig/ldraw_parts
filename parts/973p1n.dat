@@ -1,23 +1,13 @@
 0 Minifig Torso with Racing Jacket and Two Stars Red Pattern
 0 Name: 973p1n.dat
 0 Author: Mark Chittenden [mdublade]
-0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-0 !HISTORY 2017-09-30 [MagFors] bfc'd
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Plain back
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 14.345 2 10 19 29 10 -19 29 10 -14.345 2 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
-0 // Neck mark
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // Front
 4 0 16 27 -10 3.5 23 -10 4.5 24.32 -10 15 27.68 -10
 4 0 16 31 -10 16 27 -10 15 27.68 -10 15 29.68 -10
 4 0 3.5 27 -10 16 31 -10 15 29.68 -10 4.5 26.32 -10

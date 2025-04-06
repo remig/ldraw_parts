@@ -1,20 +1,10 @@
 0 Animal Cat Standing Looking Left with Tan Eyes and Brown Stripes Pattern
 0 Name: 93089p03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Kitty, Friends
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-11-07 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS Friends, Kitty
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93089s01.dat
-
-0 // Face
 4 15 10.499 -30.99 -15.292 10.638 -30.664 -15.205 10.738 -30.425 -14.966 10.77 -30.338 -14.64
 4 15 10.499 -30.99 -15.292 10.77 -30.338 -14.64 10.728 -30.425 -14.314 10.622 -30.664 -14.075
 4 15 10.499 -30.99 -15.292 10.622 -30.664 -14.075 10.48 -30.99 -13.988 10.341 -31.316 -14.075
@@ -373,8 +363,6 @@
 3 16 8.679 -32.699 -24.091 9.8 -26.903 -24.215 11.013 -29.905 -18.527
 3 16 8.679 -32.699 -24.091 5.834 -32.568 -27.47 9.8 -26.903 -24.215
 3 16 5.834 -32.568 -27.47 6.234 -25.809 -28.29 9.8 -26.903 -24.215
-
-0 // Tail and head stripes
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93089p01s02.dat
 1 70 0 0 0 1 0 0 0 1 0 0 0 1 s\93089p01s03.dat
 4 16 0.593 -47.408 17.574 1.175 -47.125 17.605 2.086 -46.694 17.768 2.481 -46.517 17.927

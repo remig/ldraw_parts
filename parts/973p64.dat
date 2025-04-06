@@ -1,25 +1,11 @@
 0 Minifig Torso with Unitron Pattern
 0 Name: 973p64.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
-0 !HISTORY 2000-11-05 [cwdee] Moved neck mark from s\973s01.dat
-0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-12-22 [Holly-Wood] Fixed T-Junction, BFCed
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
-0 // Pattern
-
-0 // Black
 1 0 -2.5 3 -10 1 0 0 0 0 1 0 1 0 4-4ndis.dat
 1 0 -5.5 3 -10 1 0 0 0 0 1 0 1 0 4-4ndis.dat
-1 0 13 22 -10  0.5 0 0 0 0 0.5 0 1 0 4-4ring1.dat
+1 0 13 22 -10 0.5 0 0 0 0 0.5 0 1 0 4-4ring1.dat
 4 0 -4.5 4 -10 -3.5 4 -10 -3.5 2 -10 -4.5 2 -10
 4 0 -6.5 2 -10 -8 2 -10 -8 3.5 -10 -6.5 4 -10
 3 0 -8 3.5 -10 -8 5 -10 -6.5 4 -10
@@ -128,8 +114,6 @@
 3 0 14.545 20 -10 16 30 -10 18 32 -10
 3 0 9 20 -10 8.5 20 -10 8.5 22.5 -10
 4 0 5.5 4 -10 5.5 3 -10 5 2.5 -10 5 4.5 -10
-
-0 // Yellow
 1 14 13 22 -10 0.5 0 0 0 0 0.5 0 1 0 4-4disc.dat
 4 14 -8 5 -10 -12.514 12 -10 -6.5 12 -10 0 5 -10
 4 14 -0.967 10.321 -10 0.55 8.05 -10 0 5 -10 -6.5 12 -10
@@ -164,8 +148,6 @@
 4 14 -6.5 15 -10 -1.5 15 -10 -1.5 13 -10 -6.5 12 -10
 3 14 -0.967 10.321 -10 -6.5 12 -10 -1.5 13 -10
 4 14 -11.25 3.5 -10 -12.514 12 -10 -8 5 -10 -8 3.5 -10
-
-0 // Main Color
 1 16 -2.5 3 -10 1 0 0 0 0 1 0 1 0 4-4disc.dat
 1 16 -5.5 3 -10 1 0 0 0 0 1 0 1 0 4-4disc.dat
 1 16 13 22 -10 1 0 0 0 0 1 0 1 0 4-4ndis.dat
@@ -229,14 +211,8 @@
 3 16 5 2 -10 5 2.5 -10 7.5 2.5 -10
 4 16 5 2 -10 7.5 2.5 -10 10 2.5 -10 11.5 2 -10
 3 16 11.5 2 -10 10 2.5 -10 12 2.5 -10
-
-0 // Subpart
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.DAT
-
-0 // Neckmark
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Back
 4 16 -19 29 10 19 29 10 19 32 10 -19 32 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
 4 16 14.345 2 10 -14.345 2 10 -12 0 10 12 0 10

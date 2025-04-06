@@ -1,15 +1,9 @@
 0 Minifig Maracas with Green Border Pattern
 0 Name: 90508p01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-
-0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-
 1 16 0 -31 0 1 0 0 0 1 0 0 0 1 s\90508p01a.dat
 1 16 0 -31 0 0 0 -1 0 1 0 1 0 0 s\90508p01a.dat
 1 16 0 -31 0 0 0 1 0 1 0 -1 0 0 s\90508p01a.dat
@@ -21,7 +15,6 @@
 1 16 0 -7.75 0 0.5 0 0 0 0.4 0 0 0 0.5 4-4con10.dat
 1 16 0 -7.35 0 1 0 0 0 0.35 0 0 0 1 4-4con4.dat
 1 16 0 8 0 -4 0 0 0 -15 0 0 0 4 4-4cylc.dat
-0 // Added lines/Condlines
 5 24 8 -17.3 0 7.3912 -17.3 3.0616 7.62218 -18 3.15727 6 -11.9 0
 5 24 7.3912 -17.3 3.0616 5.6568 -17.3 5.6568 5.83357 -18 5.83357 5.5434 -11.9 2.2962
 5 24 5.6568 -17.3 5.6568 3.0616 -17.3 7.3912 3.15727 -18 7.62218 4.2426 -11.9 4.2426

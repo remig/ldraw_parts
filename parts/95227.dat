@@ -1,15 +1,8 @@
 0 Boat Base  8 x 16 x  2.333 with Pegholes
 0 Name: 95227.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2015-03-20 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 2 24 -140.622 35.707 80 -149.675 24.04 80
 2 24 -130.526 46.369 80 -140.622 35.707 80
 2 24 -160 0 80 -120 0 80
@@ -173,7 +166,6 @@
 3 16 -119.427 56 80 -116 56 76 -116 56 64
 3 16 116 56 64 116 56 76 119.427 56 80
 3 16 116 56 60 116 56 64 119.427 56 80
-0 // Pegholes
 1 16 0 24 70 1 0 0 0 1 0 0 0 1 s\95227s01.dat
 1 16 20 24 70 1 0 0 0 1 0 0 0 1 s\95227s01.dat
 1 16 80 24 70 1 0 0 0 1 0 0 0 1 s\95227s01.dat
@@ -272,7 +264,6 @@
 3 16 -86.363 28 80 -89 33 80 -120 24 80
 4 16 -120 24 80 120 24 80 86.363 28 80 -86.363 28 80
 4 16 -88 34 60 88 34 60 116 28 60 -116 28 60
-0 // Stud tubes
 1 16 0 28 0 1 0 0 0 -1 0 0 0 -1 stud4h.dat
 1 16 0 28 20 1 0 0 0 -1 0 0 0 -1 stud4h.dat
 1 16 0 28 40 1 0 0 0 -1 0 0 0 -1 stud4h.dat
@@ -310,7 +301,6 @@
 1 16 40 28 70 1 0 0 0 -7 0 0 0 1 stud3.dat
 1 16 60 28 70 1 0 0 0 -7 0 0 0 1 stud3.dat
 1 16 100 28 70 1 0 0 0 -7 0 0 0 1 stud3.dat
-0 // Middle top/bottom surfaces
 1 16 0 28 0 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
 1 16 0 24 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
 1 16 0 28 20 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
@@ -337,7 +327,6 @@
 4 16 -6 24 46 -120 24 80 -120 24 -80 -6 24 -46
 4 16 6 24 46 120 24 80 -120 24 80 -6 24 46
 4 16 6 24 -46 120 24 -80 120 24 80 6 24 46
-0 // Middle studs
 1 16 -60 24 0 0 0 1 0 1 0 -1 0 0 stug-6x6.dat
 1 16 60 24 0 0 0 1 0 1 0 -1 0 0 stug-6x6.dat
 1 16 0 24 -70 0 0 1 0 1 0 -1 0 0 stug2-4x1.dat
@@ -354,7 +343,6 @@
 1 16 -50 24 70 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 50 24 70 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 110 24 70 0 0 1 0 1 0 -1 0 0 stud.dat
-0 // Side studs
 1 16 140 24 -70 1 0 0 0 1 0 0 0 1 s\95227s02.dat
 1 16 140 24 -50 1 0 0 0 1 0 0 0 1 s\95227s02.dat
 1 16 140 24 -30 1 0 0 0 1 0 0 0 1 s\95227s02.dat

@@ -1,16 +1,11 @@
 0 Minifig Torso Jacket Open over Red and Light Green Top with Necklace Pattern
 0 Name: 973p1w.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Bricklink 973pb1963
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 17 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 4 288 13.35 6.4 10 13.2 3.95 10 13.6 4.05 10 13.75 6.45 10
 4 288 13.35 6.4 10 13.75 6.45 10 13.7 9.2 10 13.35 9.2 10
 4 288 13.35 9.2 10 13.7 9.2 10 13.3 12.6 10 12.85 12.55 10

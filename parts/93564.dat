@@ -1,17 +1,9 @@
-0 Minifig Electric Guitar
+0 Minifig Electric Guitar V Shape
 0 Name: 93564.dat
 0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-
-0 !HISTORY 2012-09-20 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2012-09-20 [angmarec] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93564s02.dat
 1 16 0 13.05 -2.5 0 1 0 -1 0 0 0 0 1 s\93564s01.dat
 1 16 0 26.305 -2.5 0 1 0 -1 0 0 0 0 1 s\93564s01.dat
@@ -21,7 +13,6 @@
 1 16 -2.59 -34.911 -3.25 0 0 -1.25 -1.25 0 0 0 0.75 0 4-4cylc.dat
 1 16 -1.295 -38.443 -3.25 0 0 -1.25 -1.25 0 0 0 0.75 0 4-4cylc.dat
 1 16 0 -41.976 -3.25 0 0 -1.25 -1.25 0 0 0 0.75 0 4-4cylc.dat
-0 // Patternable surface
 4 16 -0.931 -47.499 -2.5 -1.526 -46.726 -2.5 0.93 -47.499 -2.5 0 -47.792 -2.5
 4 16 -1.526 -46.726 -2.5 -6.305 -33.687 -2.5 1.526 -46.726 -2.5 0.93 -47.499 -2.5
 4 16 6.304 -33.687 -2.5 1.526 -46.726 -2.5 -6.305 -33.687 -2.5 4.662 -31.335 -2.5

@@ -1,16 +1,10 @@
-0 Minifig Hair Female Long Straight with Left Side Part
+0 Minifig Hair Female Long Straight with Left Side Parting
 0 Name: 92083.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-01-25 [Philo] File preparation for LDraw Parts Tracker
-
+0 !KEYWORDS Amy Farrah Fowler, Big Bang Theory
 1 16 0 -5 0 1 0 0 0 -1.25 0 0 0 1 stud4.dat
 1 16 0 -5 0 8.66667 0 0 0 -1 0 0 0 8.66667 4-4disc.dat
 1 16 0 -5 0 8.66667 0 0 0 -1 0 0 0 8.66667 4-4edge.dat
@@ -22,7 +16,6 @@
 1 16 0 3 0 12.01043 0 -4.97488 0 19.5 0 4.97488 0 12.01043 2-4cyli.dat
 0 BFC INVERTNEXT
 1 16 0 3 0 12.01043 0 4.97488 0 19.5 0 4.97488 0 -12.01043 1-8cyli.dat
-
 3 16 -7.816 23 10.511 -8.844 28.067 11.32 -4.653 28.206 13.093
 3 16 -4.653 28.206 13.093 -4.9749 22.5 12.0104 -7.816 23 10.511
 4 16 -9.1923 11.498 -9.1923 -12.0104 22.5 -4.9749 -12.0104 3 -4.9749 -9.192 4 -9.192
@@ -370,8 +363,6 @@
 2 24 16.101 33.644 10.312 14.457 34.326 10.311
 2 24 14.457 34.326 10.311 12.635 34.161 10.313
 2 24 14.686 26.956 -8.753 15.06 28.744 -10.237
-
-
 3 16 4.134 -10.471 1.604 4.06 -10.436 2.414 -0.572 -11.308 1.098
 3 16 -0.572 -11.308 1.098 4.06 -10.436 2.414 -0.278 -11.16 2.196
 3 16 3.485 33.623 17.23 1.365 34.71 19.65 3.794 32.546 17.4

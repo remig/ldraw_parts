@@ -1,17 +1,9 @@
 0 Figure Friends Hair Decoration, Heart with Pin
 0 Name: 96485.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Figure Accessory
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-08-01 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 5.5 0 2 0 0 0 -5.5 0 0 0 2 4-4cylc.dat
 4 16 -1.589 0 7.116 -3.858 0 8.264 -3.854 -4.733 8.264 -1.589 -4.81 7.116
 4 16 -3.858 0 8.264 -1.589 0 7.116 -2.064 0 -9.859 -5.339 0 -7.846
@@ -170,9 +162,6 @@
 2 24 0 -2.875 4.2 2.456 -2.875 5.159
 2 24 1.765 -2.875 -7.255 0 -2.875 -7.694
 2 24 4.722 -2.875 -5.111 1.765 -2.875 -7.255
-
-0 // Unmatched edges
-0 // Added lines/Condlines
 5 24 -3.858 0 8.264 -3.854 -4.733 8.264 -1.589 0 7.116 -6.398 -4.568 8.237
 5 24 -1.589 -4.81 7.116 -1.589 0 7.116 -3.854 -4.733 8.264 0 0 6.549
 5 24 -6.397 0 8.237 -6.398 -4.568 8.237 -3.858 0 8.264 -8.643 -4.354 7.04

@@ -1,19 +1,12 @@
 0 Handle for Bucket  1 x  1 x  1
 0 Name: 95344.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Grip is at y = -17.5
-
 0 BFC CERTIFY CCW
 0 !CATEGORY Container
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 6 -17.5 0 0 -12 0 4 0 0 0 0 4 4-4cylc.dat
 1 16 -6 -17.5 0 0 12 0 4 0 0 0 0 -4 4-4disc.dat
-
 0 BFC INVERTNEXT
 1 16 -13 0 0 0 -1.8 0 -1.8 0 0 0 0 -1.8 4-8sphe.dat
 1 16 -13 0 0 0 -1 0 -1.8 0 0 0 0 -1.8 4-4edge.dat
@@ -36,7 +29,6 @@
 1 16 -12 -15 3.6 -1 0 0 0 0 -1 0 -1 0 1-4ring1.dat
 1 16 -12 -15 3.6 -2 0 0 0 0 -2 0 -1 0 1-4ring1.dat
 1 16 -12 -15 -3.6 0 0 -4 -4 0 0 0 7.2 0 1-4cylo.dat
-
 0 BFC INVERTNEXT
 1 16 13 0 0 0 1.8 0 -1.8 0 0 0 0 1.8 4-8sphe.dat
 1 16 13 0 0 0 1 0 -1.8 0 0 0 0 1.8 4-4edge.dat

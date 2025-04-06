@@ -1,28 +1,13 @@
 0 Minifig Torso with Gold Ice Planet Pattern
 0 Name: 973p61.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1999-04-16 [sbliss] Updated 973-4t.dat to s\973s01.dat; added back surface
-0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 2000-11-05 [cwdee] Moved neck mark from s\973s01.dat
-0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-01-24 [MagFors] BFCed, inlined pattern subfile, corrected gold colour
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -19 29 10 19 29 10 19 32 10 -19 32 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
 4 16 14.345 2 10 -14.345 2 10 -12 0 10 12 0 10
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Decoration
 1 1 5.5 2.75 -10 1.25 0 0 0 0 -1.25 0 1 0 4-4disc.dat
 1 1 -5.5 2.75 -10 -1.25 0 0 0 0 -1.25 0 1 0 4-4disc.dat
 4 1 7.5 26.5 -10 7.5 25.5 -10 3.25 25.5 -10 3.25 26.5 -10
@@ -226,7 +211,6 @@
 4 16 0.5 3.5 -10 1 1.5 -10 -1 1.5 -10 -0.5 3.5 -10
 3 16 -13 2 -10 -14.345 2 -10 -13.5 3 -10
 3 16 14.345 2 -10 13 2 -10 13.5 3 -10
-0 // inlined subfile
 1 82 5.5 2.75 -10 1.25 0 0 0 0 -1.25 0 1 0 4-4ndis.dat
 1 82 -5.5 2.75 -10 -1.25 0 0 0 0 -1.25 0 1 0 4-4ndis.dat
 4 82 4.25 1.5 -10 0 1 -10 1 1.5 -10 2.5 2 -10

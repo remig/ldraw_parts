@@ -1,13 +1,8 @@
 0 Train Steam Cylinder  2 x  2 x  1.667 Curved - Interior Smooth
 0 Name: 947a.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 1 16 -10 0 0 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 10 0 0 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 20 8 -20 0 -1 0 -8 0 0 0 0 -8 1-4edge.dat
@@ -72,4 +67,3 @@
 4 16 -20 6 -22 -20 8 -22 -20 8 -27 -20 3 -26
 4 16 -20 0 -16 -20 3 -16 -20 3 -20 -20 0 -20
 4 16 -20 0 -10 -20 8 -10 -20 8 -16 -20 0 -16
-0

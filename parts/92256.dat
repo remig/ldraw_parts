@@ -1,20 +1,11 @@
 0 Figure Friends Hair Long Wavy
 0 Name: 92256.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Top accessory position: Y = -10.5, Z = 0.86
 0 !HELP Side accessory position: X = -17.8, Y = 3.55, Z = 2.45
-
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
-
-0 !HISTORY 2014-07-20 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-07-20 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 -5.265 0 1 0 0 0 -1.31625 0 0 0 1 stud4od.dat
 2 24 12.65 12.698 -3.607 12.451 7.439 -5.045
 2 24 11.061 4.352 -6.969 10.01 3.423 -8.177
@@ -1781,7 +1772,6 @@
 4 16 -1.732 -5.265 -0.14 -1 -5.265 -0.872 -2.2962 -5.265 -5.5434 -4.2426 -5.265 -4.2426
 4 16 -1.732 -5.265 -0.14 -4.2426 -5.265 -4.2426 -5.5434 -5.265 -2.2962 -6 -5.265 0
 3 16 -1.732 -5.265 -0.14 -6 -5.265 0 -2 -5.265 0.86
-0 // Added lines/Condlines
 5 24 -15.979 23.112 -2.572 -17.183 26.36 -0.697 -13.547 23.159 -1.768 -19.881 25.742 -1.475
 5 24 -17.183 26.36 -0.697 -13.547 23.159 -1.768 -15.979 23.112 -2.572 -14.474 22.486 2.078
 5 24 -13.547 23.159 -1.768 -13.639 19.53 -5.428 -15.979 23.112 -2.572 -14.474 22.486 2.078

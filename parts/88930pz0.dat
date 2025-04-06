@@ -1,20 +1,13 @@
 0 Slope Brick Curved  2 x  4 with Underside Studs with Black Lines and Dark Red Rectangle Pattern
 0 Name: 88930pz0.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS BrickLink 88930pb075, Brickheadz, Set 41590, Iron Man
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS Brickheadz, BrickLink 88930pb075, Iron Man, Set 41590
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61068s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\88930s01.dat
 1 16 20 0 0 1 0 0 0 1 0 0 0 1 s\88930s01.dat
 1 16 -20 0 0 1 0 0 0 1 0 0 0 1 s\88930s01.dat
-
 3 0 -34.758 -8.581 -12.265 -35.793 -10.159 -8.998 -35.692 -7.573 -14.352
 4 0 -34.758 -8.581 -12.265 -35.692 -7.573 -14.352 -34.354 -8.085 -13.293 -32.774 -9.33 -10.714
 3 0 -31.783 -9.056 -11.283 -32.774 -9.33 -10.714 -34.354 -8.085 -13.293
@@ -95,7 +88,6 @@
 4 16 40 -15.638 12.616 19.938 -15.638 12.616 19.938 -15.366 10.729 40 -14.593 5.357
 4 16 19.938 -15.638 12.616 40 -15.638 12.616 40 -15.99 20 19.938 -15.94 18.95
 4 16 18.879 -15.94 18.95 19.938 -15.94 18.95 40 -15.99 20 -40 -15.99 20
-
 5 24 -40 -15.638 12.616 40 -15.638 12.616 -40 -14.593 5.357 -40 -15.99 20
 5 24 -40 -14.593 5.357 40 -14.593 5.357 -40 -12.873 -1.653 -40 -15.638 12.616
 5 24 -40 -12.873 -1.653 40 -12.873 -1.653 -40 -10.501 -8.29 -40 -14.593 5.357

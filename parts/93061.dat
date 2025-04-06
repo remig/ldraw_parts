@@ -1,23 +1,14 @@
 0 Arm Skeleton with Vertical Clip Bent 53.13
 0 Name: 93061.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Turn 36.87 degrees around x-axis to place hand at 0 16 -30
 0 !HELP Uncomment the next line for a horizontal hand and underarm
 0 !HELP 1 14 40 0 0 1 0 0 0 0.8 0.6 0 -0.6 0.8 93061.dat
-
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
 1 16 0 30.8 -14.4 1 0 0 0 0.8 -0.6 0 0.6 0.8 clip7.dat
-0 // underarm
 1 16 0 26.9 -9.2 -4 0 0 0 -5.7 3.2 0 7.6 2.4 4-4cyli.dat
-0 // bend
 1 16 0 20 0 -4 0 0 0 0.6 -2 0 -0.8 -4 2-4edge.dat
 1 16 0 21.2 -1.6 0 0 -4 -3.2 -1.2 0 -2.4 1.6 0 1-4cyls.dat
 1 16 0 21.2 -1.6 0 0 4 -3.2 -1.2 0 -2.4 1.6 0 1-4cyls.dat
@@ -53,7 +44,5 @@
 1 16 0 18 0 0 0 4 0 2 0 -4 0 0 1-4cyls.dat
 1 16 0 18 0 0 0 -4 0 2 0 -4 0 0 1-4cyls.dat
 1 16 0 18 0 4 0 0 0 2 0 0 0 4 2-4cyli.dat
-0 // upperarm
 1 16 0 6.5 0 0 0 -4 0 11.5 0 4 0 0 4-4cyli.dat
 1 16 0 0 0 0 -1 0 0 0 1 -1 0 0 clip7.dat
-

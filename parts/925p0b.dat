@@ -1,20 +1,10 @@
 0 Brick  1 x  8 with VW Logo and "FÖRSÄLJNING" Bold Pattern
 0 Name: 925p0b.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-01-06 [tchang] Change Underside without Center Studs
-0 !HISTORY 2014-01-28 [tchang] Suppress quad overlapping inside R
-0 !HISTORY 2014-02-01 [tchang] Change reference Logo
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\925s01.dat
-
 1 16 -64.4 12.4 -10 0.72 0 0 0 0.72 0 0 0 1 s\925p06s01.dat
-
 4 1 -50.2 7.2 -10 -50.2 18.2 -10 -45.4 18.2 -10 -45.4 14.2 -10
 4 1 -45.4 14.2 -10 -41.6 14.2 -10 -41.6 12 -10 -45.4 12 -10
 3 1 -50.2 7.2 -10 -45.4 14.2 -10 -45.4 12 -10
@@ -110,7 +100,6 @@
 4 1 65.6 8.8 -10 66.5 8.9 -10 67.5 7.5 -10 65.8 7.2 -10
 4 1 67 9.4 -10 68.8 8.3 -10 67.5 7.5 -10 66.5 8.9 -10
 3 1 68.8 8.3 -10 67 9.4 -10 69.3 9.4 -10
-
 4 16 71 13 -10 80 24 -10 80 0 -10 70.4 11.5 -10
 4 16 65.8 16 -10 66.6 15.4 -10 66.7 14.8 -10 65 16 -10
 4 16 63.7 14.9 -10 64.1 15.5 -10 65 16 -10 66.7 14.8 -10
@@ -268,4 +257,3 @@
 4 16 -54 24 -10 -54 0 -10 -56.84 4.84 -10 -56.84 19.96 -10
 4 16 -71.96 4.84 -10 -56.84 4.84 -10 -54 0 -10 -80 0 -10
 3 16 -21.4 9.4 -10 -21.4 11.8 -10 -20.7 11.2 -10
-0

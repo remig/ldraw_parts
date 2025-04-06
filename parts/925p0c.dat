@@ -1,19 +1,11 @@
 0 Brick  1 x  8 with VW Logo / "SALG" / VW Logo Pattern
 0 Name: 925p0c.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-01-06 [tchang] Change Underside without Center Studs
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\925s01.dat
-
 1 16 -44 12.2 -10 0.8 0 0 0 0.8 0 0 0 1 s\925p06s01.dat
 1 16 44 12.2 -10 0.8 0 0 0 0.8 0 0 0 1 s\925p06s01.dat
-
 4 1 -23.1 16.2 -10 -25.22 16.19 -10 -24.94 17.07 -10 -24.46 17.65 -10
 4 1 -23.3 15.4 -10 -23.3 14.6 -10 -25.2 14.6 -10 -25.2 15.3 -10
 4 1 -23.3 15.4 -10 -25.2 15.3 -10 -25.22 16.19 -10 -23.1 16.2 -10
@@ -81,7 +73,6 @@
 4 1 25.3 8.9 -10 23.1 9 -10 23.1 10.2 -10 25.3 10.23 -10
 4 1 24.6 7.1 -10 23.9 6.7 -10 23.1 9 -10 25.2 7.8 -10
 3 1 23.1 9 -10 25.3 8.9 -10 25.2 7.8 -10
-
 4 16 -22.1 16.6 -10 -20.7 16.6 -10 -21.3 13.4 -10 -23.3 15.4 -10
 4 16 -23.87 12.93 -10 -25.2 14.6 -10 -23.3 14.6 -10 -22.8 13.4 -10
 3 16 -23.3 15.4 -10 -23.1 16.2 -10 -22.1 16.6 -10

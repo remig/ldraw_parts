@@ -1,18 +1,10 @@
 0 Brick  1 x  8 with "SERVIZIO" and VW Logo Pattern
 0 Name: 925p0j.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-01-06 [tchang] Change Underside without Center Studs
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\925s01.dat
-
 1 16 53 12 -10 1 0 0 0 1 0 0 0 1 s\925p06s01.dat
-
 4 1 -60.9 18.7 -10 -60.6 18.7 -10 -60.3 18.1 -10 -60.3 15.9 -10
 4 1 -60.3 15.9 -10 -60.7 15.4 -10 -61 15.4 -10 -60.9 18.7 -10
 4 1 -59.9 16.4 -10 -60.3 15.9 -10 -60.3 18.1 -10 -60 18 -10
@@ -179,7 +171,6 @@
 4 1 -30 18.4 -10 -28.6 18.7 -10 -27.5 18.7 -10 -26.6 18.4 -10
 4 1 -26.7 17.8 -10 -26.6 18.4 -10 -26.2 17.9 -10 -26.3 17.6 -10
 4 1 -30.6 13 -10 -31 12.2 -10 -32.4 12.4 -10 -29.9 15.8 -10
-
 4 16 -57.6 18.6 -10 -58.8 18.3 -10 -60.6 18.7 -10 -50 24 -10
 4 16 -60 18 -10 -60.3 18.1 -10 -60.6 18.7 -10 -58.8 18.3 -10
 4 16 -58.6 17.5 -10 -56.7 18 -10 -56.1 13.2 -10 -59.9 16.4 -10

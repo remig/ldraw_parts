@@ -1,15 +1,9 @@
 0 Minifig Torso with Insectoids Female, Blue Diamond under Circuits Pattern
 0 Name: 973p58.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Gypsy Moth
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
@@ -1409,4 +1403,3 @@
 3 16 -12.83 9.77 -10 -15.4 15.9 -10 -14.5 14.65 -10
 4 80 -13.7 13.7 -10 -14.5 14.65 -10 -14.1 15.1 -10 -13.4 14.3 -10
 4 16 -14.1 15.1 -10 -14.6 16.1 -10 -10.2 17.4 -10 -13.4 14.3 -10
-

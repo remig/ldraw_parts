@@ -1,18 +1,10 @@
 0 Brick  1 x  8 with VW Logo and "GARAGE" Normal Pattern
 0 Name: 925p0e.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-01-06 [tchang] Change Underside without Center Studs
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\925s01.dat
-
 1 16 -55 12.2 -10 1 0 0 0 1 0 0 0 1 s\925p06s01.dat
-
 4 1 -27.4 14.4 -10 -26.8 15.8 -10 -24.7 14.8 -10 -24.9 13.6 -10
 4 1 -24.2 15.8 -10 -26.8 15.8 -10 -25.9 17 -10 -24.9 17.9 -10
 4 1 -27.6 12.8 -10 -27.4 14.4 -10 -24.9 13.6 -10 -25 12.4 -10
@@ -176,7 +168,6 @@
 3 1 50 19.2 -10 50 18.4 -10 49.3 18.7 -10
 4 1 47.5 17.9 -10 48.8 18.7 -10 49.3 18.7 -10 50 18.4 -10
 3 1 48.1 16.7 -10 47.5 17.9 -10 50 18.4 -10
-
 4 16 -65.5 22.7 -10 -65.5 1.7 -10 -80 0 -10 -80 24 -10
 4 16 -44.5 22.7 -10 -65.5 22.7 -10 -80 24 -10 -30 24 -10
 4 16 -80 0 -10 -65.5 1.7 -10 -44.5 1.7 -10 -30 0 -10

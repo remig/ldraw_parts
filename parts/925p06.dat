@@ -1,18 +1,10 @@
 0 Brick  1 x  8 with VW Logo and "LEGO" Pattern
 0 Name: 925p06.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-01-06 [tchang] Change Underside without Center Studs
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\925s01.dat
-
 1 16 -60.3 12.4 -10 1 0 0 0 1 0 0 0 1 s\925p06s01.dat
-
 4 1 -21.31 2.68 -10 -21.31 21 -10 -18.49 18.83 -10 -18.49 2.68 -10
 4 1 -18.49 18.83 -10 -21.31 21 -10 -7.95 21 -10 -7.95 18.83 -10
 4 1 -4.53 21 -10 -1.7 18.83 -10 -1.7 10.6 -10 -4.53 2.68 -10
@@ -81,7 +73,6 @@
 3 1 58.15 11.86 -10 58.01 10.09 -10 55.35 11.85 -10
 4 1 54.34 7.94 -10 55.15 9.75 -10 57.59 8.45 -10 56.9 6.95 -10
 4 1 55.94 5.61 -10 53.26 6.46 -10 54.34 7.94 -10 56.9 6.95 -10
-
 3 16 -7.95 21 -10 -21.31 21 -10 -24 24 -10
 4 16 -4.53 21 -10 -7.95 21 -10 -24 24 -10 25.54 21.31 -10
 4 16 -24 24 -10 -21.31 21 -10 -21.31 2.68 -10 -24 0 -10

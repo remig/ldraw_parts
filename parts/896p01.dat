@@ -1,13 +1,8 @@
 0 Baseplate 14 x 20 with Rounded Corners + Set 355 Dots Pattern
 0 Name: 896p01.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
 1 16 90 0 90 1 0 0 0 1 0 0 0 1 studp01.dat
 1 16 -50 0 90 1 0 0 0 1 0 0 0 1 studp01.dat
 1 16 -70 0 90 1 0 0 0 1 0 0 0 1 studp01.dat
@@ -120,4 +115,3 @@
 1 16 -160 0 100 -40 0 0 0 4 0 0 0 40 1-4cyli.dat
 1 16 160 0 -100 40 0 0 0 4 0 0 0 -40 1-4cyli.dat
 1 16 -160 0 -100 -40 0 0 0 4 0 0 0 -40 1-4cyli.dat
-0

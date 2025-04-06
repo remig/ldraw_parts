@@ -1,20 +1,12 @@
 0 Minifig Torso with Green Futuron Pattern
 0 Name: 973p6i.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Space
-
 0 !CMDLINE -c15
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // back pattern
 4 0 10.7 27.7 10 10.7 31.4 10 9.9 31.4 10 9.9 28.1 10
 4 0 10.7 27.7 10 9.9 28.1 10 9.9 27.4 10 10.2 26.9 10
 4 0 10.7 27.7 10 10.2 26.9 10 13 26.9 10 12.5 27.7 10
@@ -89,8 +81,6 @@
 3 16 10.2 26.9 10 9 27.4 10 14.8 23.7 10
 3 16 -11.4 1.1 10 -12.55 1.5 10 -12 0 10
 4 2 -17.8 27.4 10 -13.4 2.5 10 -12.55 1.5 10 -11.4 1.1 10
-
-0 // front pattern
 1 82 -5.4 1.7 -10 0.45 0 0 0 0.45 0 0 0 1 s\3004p90b.dat
 3 2 3.4 2.3 -10 2.4044 3.6539 -10 2.6766 3.8929 -10
 4 2 2.7131 4.2461 -10 4.8 8 -10 3.4 2.3 -10 2.6766 3.8929 -10

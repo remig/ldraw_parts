@@ -1,13 +1,9 @@
 0 Slope Brick Curved  4 x  1 Double with Black Belt with Pockets Pattern
 0 Name: 93273pz1.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 41498, Brickheadz, Boba Fett
-
+0 !KEYWORDS Boba Fett, Brickheadz, Set 41498
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93273s01.dat
 4 0 -10 -4.6341 39.001 -10 -7.5317 34.436 -8.8 -7.5317 34.436 -8.8 -5.3964 37.8
 3 0 -10 -4.6341 39.001 -8.8 -5.3964 37.8 0.888 -5.3964 37.8
@@ -165,7 +161,6 @@
 4 16 7.8 -7.5317 -34.436 5.193 -7.5317 -34.436 5.193 -7.147 -35.042 7.8 -5.3964 -37.8
 4 16 9 -4.6341 -39.001 -10 -4.6341 -39.001 -10 -4 -40 10 -4 -40
 4 16 10 -7.5317 -34.436 9 -7.5317 -34.436 9 -4.6341 -39.001 10 -4 -40
-
 5 24 10 -7.5317 34.436 -10 -7.5317 34.436 10 -4 40 10 -10.51 28.284
 5 24 10 -10.51 28.284 -10 -10.51 28.284 10 -7.5317 34.436 10 -12.8828 21.648
 5 24 10 -12.8828 21.648 -10 -12.8828 21.648 10 -10.51 28.284 10 -14.6037 14.64

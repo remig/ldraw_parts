@@ -1,13 +1,8 @@
 0 Tile  8 x 16 with Runway and SHIELD Logo Pattern
 0 Name: 90498pb0.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\90498s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\90498pb0s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\90498pb0s01.dat
@@ -17,7 +12,6 @@
 3 16 -160 0 80 0 0 66.5 160 0 80
 3 16 159 0 0 160 0 -80 160 0 80
 3 16 -160 0 80 -160 0 -80 -159 0 0
-0 // Centre Pattern
 4 16 -40.5 0 0 -40.154 0 5.286 -44.119 0 5.808 -44.5 0 0
 4 16 -40.154 0 -5.286 -40.5 0 0 -44.5 0 0 -44.119 0 -5.808
 4 16 -39.12 0 -10.482 -40.154 0 -5.286 -44.119 0 -5.808 -42.984 0 -11.517

@@ -1,18 +1,10 @@
 0 Brick  1 x  8 with VW Logo and "FÖRSÄLJNING" Normal Pattern
 0 Name: 925p0a.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-01-06 [tchang] Change Underside without Center Studs
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\925s01.dat
-
 1 16 -62 12.2 -10 1 0 0 0 1 0 0 0 1 s\925p06s01.dat
-
 3 1 -45.2 20.6 -10 -45.7 20.7 -10 -45.7 21.3 -10
 4 1 -44.65 20.24 -10 -45.2 20.6 -10 -45.7 21.3 -10 -42.39 20.52 -10
 4 1 -44.45 18.54 -10 -44.65 20.24 -10 -42.74 20.04 -10 -42.85 18.54 -10

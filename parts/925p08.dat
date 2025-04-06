@@ -1,18 +1,10 @@
 0 Brick  1 x  8 with VW Logo and "DEALER" Normal Pattern
 0 Name: 925p08.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-01-06 [tchang] Change Underside without Center Studs
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\925s01.dat
-
 1 16 -52.1 12.2 -10 1 0 0 0 1 0 0 0 1 s\925p06s01.dat
-
 4 1 -17.4 16.4 -10 -17.4 8 -10 -20.6 7.4 -10 -20.6 17.4 -10
 4 1 -11.8 16.4 -10 -17.4 16.4 -10 -20.6 17.4 -10 -11.4 18.2 -10
 3 1 -21.4 18.2 -10 -11.4 18.2 -10 -20.6 17.4 -10
@@ -87,7 +79,6 @@
 4 1 56.2 10.4 -10 56.1 10.9 -10 58.9 12 -10 59.4 10.7 -10
 4 1 56.1 10.9 -10 55.8 11.4 -10 57.5 13 -10 58.9 12 -10
 4 1 55.3 11.6 -10 56 13.5 -10 57.5 13 -10 55.8 11.4 -10
-
 4 16 49.9 8 -10 49.9 11.6 -10 55.3 11.6 -10 54.7 8 -10
 4 16 54.7 8 -10 55.3 11.6 -10 55.8 11.4 -10 55.4 8.4 -10
 4 16 55.4 8.4 -10 55.8 11.4 -10 56.1 10.9 -10 55.9 8.9 -10

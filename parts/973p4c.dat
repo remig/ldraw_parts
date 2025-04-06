@@ -1,21 +1,14 @@
 0 Minifig Torso with Scale Mail and Red Diamond Amulet Pattern
 0 Name: 973p4c.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS BrickLink 973px117, Castle, Kingdoms, Knight
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS BrickLink 973px117, Castle, Kingdoms, knight
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 4 0 -11.774 26.824 -10 -12.1952 26.1936 -10 -12.55 26.4363 -10 -12.0377 27.0877 -10
 4 0 -11.1436 27.2452 -10 -11.774 26.824 -10 -12.0377 27.0877 -10 -11.2863 27.5897 -10
 4 0 -10.4 27.35 -10 -11.1436 27.2452 -10 -11.2863 27.5897 -10 -10.7585 27.6852 -10

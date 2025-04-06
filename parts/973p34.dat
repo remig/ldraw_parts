@@ -1,27 +1,13 @@
 0 Minifig Torso with Open Jacket over Striped Vest Pattern
 0 Name: 973p34.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
-0 !HISTORY 2000-11-05 [cwdee]   Moved neck mark from s\973s01.dat
-0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
-0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-01-22 [MagFors] BFCed, inlined pattern subfile, removed T-junctions
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 14.345 2 10 -14.345 2 10 -12 0 10 12 0 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
 4 16 19 32 10 -19 32 10 -19 29 10 19 29 10
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 1 484 -10.5 28.5 -10 0 0 0.5 0.5 0 0 0 1 0 4-4ndis.dat
 1 484 -6.5 28.5 -10 0 0 0.5 0.5 0 0 0 1 0 4-4ndis.dat
 1 484 7.5 28.5 -10 0 0 0.5 0.5 0 0 0 1 0 4-4ndis.dat
@@ -53,7 +39,6 @@
 4 484 7 29 -10 7 28 -10 4.5 25 -10 4.5 32 -10
 4 484 8 29 -10 7 29 -10 4.5 32 -10 9.5 32 -10
 4 484 8 28 -10 8 29 -10 9.5 32 -10 9.5 25 -10
-
 4 4 10 1 -10 -10 1 -10 -9 3 -10 9 3 -10
 4 15 9 3 -10 -9 3 -10 -5.5 5.5 -10 5.5 5.5 -10
 4 4 5.5 5.5 -10 -5.5 5.5 -10 -4.795 8 -10 4.795 8 -10
@@ -64,7 +49,6 @@
 4 15 -1.974 18 -10 -1.269 20.5 -10 1.269 20.5 -10 1.974 18 -10
 4 4 -1.269 20.5 -10 -0.564 23 -10 0.564 23 -10 1.269 20.5 -10
 3 15 0.564 23 -10 -0.564 23 -10 0 25 -10
-
 1 14 10.5 9 -10 0 0 -1 1 0 0 0 1 0 2-4ndis.dat
 1 14 8.666 15.5 -10 0 0 -1 1 0 0 0 1 0 2-4ndis.dat
 1 14 6.833 22 -10 0 0 -1 1 0 0 0 1 0 2-4ndis.dat
@@ -113,7 +97,6 @@
 4 14 -6.718 6.5 -10 -6.295 8 -10 -4.795 8 -10 -5.5 5.5 -10
 4 14 -4.5 32 -10 4.5 32 -10 3.5 31 -10 -3.5 31 -10
 4 14 10 4 -10 11.5 1 -10 10 1 -10 9 3 -10
-
 1 16 10.5 9 -10 0 0 1 1 0 0 0 1 0 2-4ndis.dat
 1 16 8.666 15.5 -10 0 0 1 1 0 0 0 1 0 2-4ndis.dat
 1 16 6.833 22 -10 0 0 1 1 0 0 0 1 0 2-4ndis.dat

@@ -1,13 +1,9 @@
 0 Minifig Torso with Halter Top with Green Apples and Lime Spots Pattern
 0 Name: 973p1x.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Bricklink 973pb2732
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 4 27 0.1 19.2 -10 -1.9343 18.0255 -10 -2.249 19.2 -10 -1.9343 20.3745 -10
@@ -447,7 +443,6 @@
 4 16 16.2843 17.9755 -10 16.599 19.15 -10 14.345 2 -10 15.3 13.35 -10
 4 16 12 11.95 -10 13.25 11.9 -10 12 10.45 -10 11.05 11.9 -10
 4 16 11.05 11.9 -10 9.7 10.1 -10 9.65 11.35 -10 10.507 12.15 -10
-
 4 27 0.7 19.9 10 2.7343 18.7255 10 3.049 19.9 10 2.7343 21.0745 10
 4 27 0.7 19.9 10 2.7343 21.0745 10 1.8745 21.9343 10 0.7 22.249 10
 4 27 0.7 19.9 10 0.7 22.249 10 -0.4745 21.9343 10 -1.3343 21.0745 10

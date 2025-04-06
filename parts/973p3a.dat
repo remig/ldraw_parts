@@ -1,24 +1,14 @@
 0 Minifig Torso with Pirate Ragged Shirt and Dagger Pattern
 0 Name: 973p3a.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS belt, rags, bandolier
-
-0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-04-08 [BlackBrick89] Colour and geometry cleanup
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !KEYWORDS bandolier, belt, rags
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 4 80 -3.5 13.25 -10 -5.5 10 -10 -6.5 10.75 -10 -4.5 14 -10
 4 80 -5.5 5.25 -10 -5.75 7 -10 -2.25 12.5 -10 -0.75 12.75 -10
 3 80 -5.5 5.25 -10 -6.25 5.75 -10 -5.75 7 -10

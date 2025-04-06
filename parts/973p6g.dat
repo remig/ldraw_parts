@@ -1,21 +1,12 @@
 0 Minifig Torso with Female Jumpsuit with Zipper, White and Gold Markings and Classic Space Logo Pattern
 0 Name: 973p6g.dat
 0 Author: Christophe Mitillo [Christophe_Mitillo]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS BrickLink 973pb1684, Wyldstyle
 0 !CMDLINE -c1
-0 !HISTORY 2015-10-25 [MagFors] Minor improvements
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // Neck mark
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-0 // Devant
 4 0 -0.25 22.3 -10 -0.15 22.1 -10 -0.75 22.1 -10 -0.75 22.3 -10
 4 0 0.15 22.6 -10 0.25 22.4 -10 -0.15 22.1 -10 -0.25 22.3 -10
 4 0 0.75 22.6 -10 0.75 22.4 -10 0.25 22.4 -10 0.15 22.6 -10
@@ -748,8 +739,6 @@
 4 16 -10.45 24.79 -10 -10.65 24.71 -10 -11.3 25.01 -10 -11.1 25.09 -10
 4 16 -8.85 24.19 -10 -9.2 23.85 -10 -9.35 24.11 -10 -9.15 24.19 -10
 4 16 -9.15 24.19 -10 -9.35 24.11 -10 -10 24.41 -10 -9.8 24.49 -10
-
-0 // Derriere
 4 15 3.402 18.209 10 3.668 18.071 10 3.655 18.37 10 3.389 18.509 10
 4 15 2.811 17.833 10 2.558 17.672 10 2.825 17.533 10 3.078 17.695 10
 4 15 3.402 18.209 10 3.149 18.048 10 3.415 17.909 10 3.668 18.071 10

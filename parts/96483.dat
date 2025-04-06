@@ -1,17 +1,9 @@
 0 Plant Flower with  5 Rounded Petals with Pin
 0 Name: 96483.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Friends, Figure, Accessory
-
-0 !HISTORY 2013-06-19 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2013-06-19 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
+0 !KEYWORDS Accessory, Figure, Friends
 1 16 0 5.5 0 2 0 0 0 -5.5 0 0 0 2 4-4cylc.dat
 1 16 0 0 0 5.3 0 0 0 -4 0 0 0 5.3 4-4cyli.dat
 1 16 0 0 0 5.3 0 0 0 1 0 0 0 5.3 4-4edge.dat
@@ -23,7 +15,6 @@
 1 16 0 -4.3 0 3.53333 0 0 0 -2.85 0 0 0 3.53333 t01i3333.dat
 1 16 0 -4.3 0 2.35556 0 0 0 1 0 0 0 2.35556 4-4edge.dat
 1 16 0 -4.3 0 2.35556 0 0 0 1 0 0 0 2.35556 4-4disc.dat
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\96483s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\96483s01.dat
 1 16 0 0 0 0.30902 0 -0.95106 0 1 0 0.95106 0 0.30902 s\96483s01.dat
@@ -34,7 +25,6 @@
 1 16 0 0 0 -0.30902 0 0.95106 0 1 0 0.95106 0 0.30902 s\96483s01.dat
 1 16 0 0 0 -0.80902 0 0.58779 0 1 0 -0.58779 0 -0.80902 s\96483s01.dat
 1 16 0 0 0 0.80902 0 0.58779 0 1 0 0.58779 0 -0.80902 s\96483s01.dat
-
 2 24 -0.189 -4.298 5.179 0 -4.294 5.218
 2 24 -2.785 -4.327 4.283 -2.594 -4.325 4.411
 2 24 -1.999 -4.276 4.825 -0.189 -4.298 5.179

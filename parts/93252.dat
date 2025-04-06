@@ -1,21 +1,14 @@
 0 Minifig Pharaoh's Staff with Forked End
 0 Name: 93252.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
 0 !KEYWORDS Pharaoh's Quest
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 0 BFC INVERTNEXT
 1 16 0 -7.5 0 4 0 0 0 -10 0 0 0 4 4-4cylc.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93252s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\93252s01.dat
-0 // socket/shaft edges
 2 24 3.5 0 0 3.23365 0 1.33945
 2 24 3.23365 0 1.33945 3.6956 0 1.5308
 2 24 3.5 0 0 3.23365 0 -1.33945
@@ -24,7 +17,6 @@
 2 24 -3.23365 0 -1.33945 -3.6956 0 -1.5308
 2 24 -3.5 0 0 -3.23365 0 1.33945
 2 24 -3.23365 0 1.33945 -3.6956 0 1.5308
-0 // staff
 1 16 0 0 0 3.5 0 0 0 94.458 0 0 0 3.5 4-4cyli.dat
 1 16 0 0 0 1 0 0 0 1.038 0 0 0 1 s\93247s02.dat
 1 16 0 0 0 1 0 0 0 1.038 0 0 0 -1 s\93247s02.dat

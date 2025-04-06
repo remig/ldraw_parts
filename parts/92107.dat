@@ -1,15 +1,9 @@
 0 Plate  6 x  8 Trap Door Frame with Flat Clips
 0 Name: 92107.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Hinge
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 1 16 60 4 50 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 40 4 50 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 20 4 50 1 0 0 0 -1 0 0 0 1 stud3.dat
@@ -44,7 +38,6 @@
 1 16 -60 1.5 0 0 -1 0 0 0 -1.5 -20 0 0 rect3.dat
 2 24 -60 8 40 -60 8 -40
 4 16 -60 3 20 -60 3 -20 -60 8 -40 -60 8 40
-0 // clips
 0 BFC INVERTNEXT
 1 16 -50 2 34 4 0 0 0 0 4 0 -8 0 2-4cylo.dat
 1 16 -50 2 34 4 0 0 0 0 4 0 -8 0 2-4ndis.dat
@@ -147,7 +140,6 @@
 5 24 -54 -0.5 40 -54 -0.5 28 -54 2 26 -55 -2 28
 1 16 -54.5 -1.25 34 0 -1 -0.5 0 0 -0.75 6 0 0 rect2a.dat
 1 16 -56.5 -1.25 34 0 -1.5 0 0 0 -0.75 6 0 0 box2-9.dat
-0 //
 0 BFC INVERTNEXT
 1 16 -50 2 -34 4 0 0 0 0 4 0 8 0 2-4cylo.dat
 1 16 -50 2 -34 4 0 0 0 0 4 0 8 0 2-4ndis.dat
@@ -250,7 +242,6 @@
 5 24 -54 -0.5 -40 -54 -0.5 -28 -54 2 -26 -55 -2 -28
 1 16 -54.5 -1.25 -34 0 -1 -0.5 0 0 -0.75 -6 0 0 rect2a.dat
 1 16 -56.5 -1.25 -34 0 -1.5 0 0 0 -0.75 -6 0 0 box2-9.dat
-0 //
 0 BFC INVERTNEXT
 1 16 0 8 0 76 0 0 0 -4 0 0 0 56 box4.dat
 4 16 -80 8 -60 -76 8 -56 76 8 -56 80 8 -60
@@ -262,7 +253,6 @@
 4 16 76 4 -56 64 4 -44 64 4 44 76 4 56
 4 16 76 4 56 64 4 44 -64 4 44 -76 4 56
 4 16 -76 4 56 -64 4 44 -64 4 -44 -76 4 -56
-0 // top
 4 16 80 0 -60 60 0 -40 -58 0 -40 -80 0 -60
 4 16 80 0 60 60 0 40 60 0 -40 80 0 -60
 4 16 -80 0 60 -58 0 40 60 0 40 80 0 60

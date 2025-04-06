@@ -1,19 +1,13 @@
 0 Minifig Torso with Jacket, Zippered Pockets and Classic Space Logo Pattern
 0 Name: 973p6j.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 1 0 8.4 6.9 -10 0.29 0 0 0 0.29 0 0 0 1 s\3004p90a.dat
 1 82 8.4 6.9 -10 0.29 0 0 0 0.29 0 0 0 1 s\3004p90b.dat
 4 71 6.6 22.6 -10 6.1 22.3 -10 5.4 22.2 -10 5.3 23.6 -10

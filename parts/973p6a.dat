@@ -1,24 +1,15 @@
 0 Minifig Torso with Space Police II Chief Pattern
 0 Name: 973p6a.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS SP2, Space Police 2, Law enforcement
+0 !KEYWORDS Law enforcement, SP2, Space Police 2
 0 !CMDLINE -c15
-
-0 !HISTORY 2009-05-24 [Eldar] add BFC, remove a gap, corrected some visual defects
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // COMMENT neck mark
 1 16 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // COMMENT plain back
 4 16 -19 29 10 19 29 10 19 32 10 -19 32 10
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
 4 16 14.345 2 10 -14.345 2 10 -12 0 10 12 0 10
-0 // COMMENT front pattern
 4 0 11.75 31.25 -10 17.75 31.25 -10 17.75 29.5 -10 11.75 29.5 -10
 4 0 11.75 29.5 -10 6.75 29.5 -10 6.75 31.25 -10 11.75 31.25 -10
 4 0 6.75 29.5 -10 -2.75 29.5 -10 -2.75 31.25 -10 6.75 31.25 -10
@@ -415,4 +406,3 @@
 3 0 14.5 13 -10 11.6 6.7 -10 11.6 8.1 -10
 3 0 11.6 8.1 -10 11.6 9.5 -10 14.5 13 -10
 3 16 -14.345 2 -10 -12.344 1.351 -10 -12 0 -10
-0 //

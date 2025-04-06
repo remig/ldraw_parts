@@ -1,18 +1,10 @@
 0 Brick  1 x  8 with VW Logo and "VERKAUF" Bold Pattern
 0 Name: 925p09.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-01-05 [tchang] Change Underside without Center Studs
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\925s01.dat
-
 1 16 -62 12.2 -10 1 0 0 0 1 0 0 0 1 s\925p06s01.dat
-
 4 1 -36.4706 16.1186 -10 -39.5912 6.1559 -10 -44.0628 6.1559 -10 -38.8316 20 -10
 4 1 -34.1954 20 -10 -29.06 6.1559 -10 -36.4706 16.1186 -10 -38.8316 20 -10
 3 1 -36.4706 16.1186 -10 -29.06 6.1559 -10 -33.4004 6.1559 -10
@@ -70,7 +62,6 @@
 4 1 52.9 11.6 -10 52.9 14.4 -10 59.2 14.4 -10 59.2 11.6 -10
 3 1 48.6409 6.1559 -10 52.9 11.6 -10 52.9 9.1 -10
 4 1 52.9 9.1 -10 59.2 9.1 -10 59.2 6.1 -10 48.6409 6.1559 -10
-
 3 16 -38.8316 20 -10 -48 24 -10 -34.1954 20 -10
 3 16 -27.6578 20 -10 -34.1954 20 -10 -48 24 -10
 3 16 -48 24 -10 -16.2 20 -10 -27.6578 20 -10
