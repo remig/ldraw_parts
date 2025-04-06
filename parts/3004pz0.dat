@@ -1,15 +1,9 @@
 0 Brick  1 x  2 with Bright Green Tie with Bright Light Orange Skulls Pattern
 0 Name: 3004pz0.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS 3004pb150, Set 41588, Brickheadz, The Joker
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS 3004pb150, Brickheadz, Set 41588, The Joker
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
 4 0 -20 14.14 -10 -20 15.836 -10 -9.117 5.6 -10 -4.967 0 -10
 4 0 -11.039 24 -10 -9.723 24 -10 -7.73 18.569 -10 -6.411 11.374 -10
@@ -442,4 +436,3 @@
 3 16 20 14.14 -10 20 0 -10 4.994 0 -10
 4 16 20 15.836 -10 9.144 5.6 -10 6.437 11.374 -10 11.066 24 -10
 3 16 11.066 24 -10 20 24 -10 20 15.836 -10
-0

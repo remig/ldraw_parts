@@ -1,23 +1,10 @@
 0 Brick  1 x  8 with Black "P 431" and "L 30 TON" and "T  9 TON" Pattern
 0 Name: 3008pt1.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 720-2, train
-
+0 !KEYWORDS Set 720-2, Train
 0 !CMDLINE -c1
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // Font: Tw Cen MT Bold
-
-
-
-0 // Main
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3008s01.dat
 4 16 37.294 19.845 -10 36.006 20.077 -10 18 24 -10 36 24 -10
 3 16 29.338 20 -10 29.338 14.951 -10 27.878 14.951 -10
@@ -268,8 +255,6 @@
 4 16 -48.994 7.551 -10 -49.951 7.4465 -10 -49.443 10.764 -10 -48.8 10.639 -10
 4 16 -47.887 9.721 -10 -47.764 9.084 -10 -47.892 8.415 -10 -48.994 7.551 -10
 4 16 -47.887 9.721 -10 -48.994 7.551 -10 -48.8 10.639 -10 -48.257 10.266 -10
-
-0 // Black
 4 0 -49.951 7.4465 -10 -48.838 5.178 -10 -53.223 5.178 -10 -50.518 7.482 -10
 3 0 -50.518 10.764 -10 -50.518 7.482 -10 -53.223 5.178 -10
 4 0 -50.479 13.039 -10 -50.518 10.764 -10 -53.223 5.178 -10 -53.223 18 -10

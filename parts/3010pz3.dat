@@ -1,15 +1,9 @@
 0 Brick  1 x  4 with Black Line, Light Orange Skull and Magenta Pockets Pattern
 0 Name: 3010pz3.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS 3010pb202, Set 41588, Brickheadz, The Joker
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !KEYWORDS 3010pb202, Brickheadz, Set 41588, The Joker
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 0 -36.756 12.11 -10 -37.879 19.245 -10 -36.271 18.113 -10 -35.587 13.767 -10
 3 0 -31.459 17 -10 -29.528 19.397 -10 -29.821 17.177 -10
@@ -290,4 +284,3 @@
 4 125 7.971 12.475 -10 7.886 12.636 -10 9.383 12.621 -10 9.534 12.19 -10
 4 125 8.032 12.104 -10 8.02 12.296 -10 9.58 11.756 -10 9.525 11.326 -10
 4 125 8.02 12.296 -10 7.971 12.475 -10 9.534 12.19 -10 9.58 11.756 -10
-0

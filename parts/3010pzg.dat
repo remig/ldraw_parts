@@ -1,13 +1,9 @@
-0 Brick  1 x  4 with White Insect Pattern
+0 Brick  1 x  4 with White Spider Pattern
 0 Name: 3010pzg.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 41497, Brickheadz, Venom
-
+0 !KEYWORDS Brickheadz, Set 41497, Venom
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 15 -40 24 -10 -20.851 18.085 -10 -21.031 15.12 -10 -40 19.749 -10
 4 15 -40 18.514 -10 -20.844 13.839 -10 -21.059 10.857 -10 -40 13.98 -10

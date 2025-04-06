@@ -1,17 +1,10 @@
 0 Brick  1 x  2 with Smiling Mouth Pattern
 0 Name: 3004pk0.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Disney, Cars, Guido
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS Cars, Disney, Guido
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
-
 4 0 -6.915 4.328 -10 -7.431 3.856 -10 -7.473 3.975 -10 -7.466 4.155 -10
 4 0 -6.915 4.328 -10 -7.33 3.744 -10 -7.378 3.785 -10 -7.431 3.856 -10
 4 0 -6.915 4.328 -10 -7.086 3.742 -10 -7.239 3.726 -10 -7.33 3.744 -10

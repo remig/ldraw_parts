@@ -1,20 +1,10 @@
 0 Minifig Martian Head with Clip
 0 Name: 30529.dat
 0 Author: Mark Chittenden [mdublade]
-0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-07-14 [mdublade] File preparation for LDraw Parts Tracker
-0 !HISTORY 2011-05-20 [Philo] Cleaned-up, subparted for patterns
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30529s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30529s01.dat
-
-0 // Top front surface
 3 16 0 -28.11 12.35 0 -29.71 7.7 5.47 -26.66 12.56
 3 16 5.47 -26.66 12.56 0 -29.71 7.7 6.16 -28.07 7.7
 3 16 10.77 -18.24 -5.73 14.86 -18.98 0.45 7.87 -21.3 -5.93
@@ -65,7 +55,6 @@
 3 16 -7.87 -21.3 -5.93 -10.77 -18.24 -5.73 -4.47 -18.77 -11.48
 4 16 -5.47 -26.66 12.56 -10.57 -22.93 12.78 -12.37 -23.64 7.7 -6.16 -28.07 7.7
 4 16 -10.57 -22.93 12.78 -14.52 -18.73 12.99 -17.33 -18.58 7.7 -12.37 -23.64 7.7
-0 // Top front condlines
 5 24 0 -28.11 12.35 0 -29.71 7.7 5.47 -26.66 12.56 -5.47 -26.66 12.56
 5 24 0 -29.71 7.7 5.47 -26.66 12.56 0 -28.11 12.35 6.16 -28.07 7.7
 5 24 0 -29.71 7.7 6.16 -28.07 7.7 5.47 -26.66 12.56 0 -28.51 0.55

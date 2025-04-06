@@ -1,22 +1,10 @@
 0 Brick  1 x  4 with Black "L 15.5 TON" and "T  9.1 TON" Pattern
 0 Name: 3010pt3.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 720-2, train
+0 !KEYWORDS Set 720-2, Train
 0 !CMDLINE -c4
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // Font: Tw Cen MT Condensed Bold
-
-
-
-
-0 // Main
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 16 6.558 4.739 -10 8.194 7.007 -10 7.128 4.538 -10 6.846 4.575 -10
 4 16 6.852 9.466 -10 8.194 7.007 -10 6.099 6.512 -10 6.466 9.222 -10
@@ -251,8 +239,6 @@
 4 16 6.596 20.292 -10 6.161 18.02 -10 6.244 19.667 -10 6.407 20.068 -10
 4 16 6.914 20.466 -10 7.24 20.521 -10 6.225 16.614 -10 6.596 20.292 -10
 4 16 6.161 17.512 -10 6.161 18.02 -10 6.596 20.292 -10 6.225 16.614 -10
-
-0 // Black
 4 0 -34.068 11 -10 -30.361 11 -10 -30.361 9.438 -10 -32.367 9.438 -10
 4 0 -32.367 3.072 -10 -34.068 3.072 -10 -34.068 11 -10 -32.367 9.438 -10
 4 0 -23.519 3.072 -10 -25.068 4.525 -10 -25.068 11 -10 -23.519 11 -10

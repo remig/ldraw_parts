@@ -1,15 +1,10 @@
 0 Panel  4 x  6 x  6 Sloped with Light Grey Rocks Pattern
 0 Name: 30156p01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Ninja
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30156s01.dat
-
 4 71 -58.15 7.6599 16.17 -58.2 11.014 14.493 -45.95 11.819 14.0905 -58.05 4.5742 17.7129
 4 71 -57.85 3.4561 18.2719 -58.05 4.5742 17.7129 -45.95 11.819 14.0905 -57.3 2.7406 18.6297
 4 71 -56.45 2.3828 18.8086 -57.3 2.7406 18.6297 -45.95 11.819 14.0905 -54.7 2.2487 18.8757

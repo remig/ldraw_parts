@@ -1,17 +1,10 @@
-0 Slope Brick 55  1 x  6 x  5 with Red and DkGray Pattern
+0 Slope Brick 55  1 x  6 x  5 with Red Quadrilateral and Dark Grey Lines and Symbols Pattern
 0 Name: 30249ps0.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, T-16, Skyhopper
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
+0 !KEYWORDS BrickLink 30249px1, Set 4477, Skyhopper, Star Wars, T-16
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30249s01.dat
-0 // Pattern 1
 4 8 10 119 5 10 76 5 10 76 3 10 119 3
 4 8 10 119 -15 10 76 -15 10 76 -17 10 119 -17
 4 8 10 119 -36 10 76 -36 10 76 -38 10 119 -38
@@ -178,7 +171,6 @@
 4 8 10 103.055 -43.848 10 104.167 -45.511 10 106.33 -44.615 10 105.939 -42.654
 4 8 10 100.848 -46.055 10 102.511 -47.167 10 104.167 -45.511 10 103.055 -43.848
 4 8 10 100.848 -46.055 10 99.654 -48.939 10 101.615 -49.33 10 102.511 -47.167
-0 // Pattern 2
 4 8 -10 119 3 -10 76 3 -10 76 5 -10 119 5
 4 8 -10 119 -17 -10 76 -17 -10 76 -15 -10 119 -15
 4 8 -10 119 -38 -10 76 -38 -10 76 -36 -10 119 -36

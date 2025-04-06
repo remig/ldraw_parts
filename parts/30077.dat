@@ -1,16 +1,8 @@
 0 Fence  1 x  6 x  2
 0 Name: 30077.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-05-11 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed and use more primitives (2006-01-19)
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
 1 16 -42 44 0 0 0 -2 0 4 0 2 0 0 box4-7a.dat
 1 16 42 44 0 0 0 2 0 4 0 -2 0 0 box4-7a.dat
 1 16 20 44 0 1 0 0 0 -1 0 0 0 1 stud3.dat
@@ -124,4 +116,3 @@
 2 24 -14 8.701 10 -16.688 4.688 10
 2 24 -14 8.701 10 -11.312 4.688 10
 2 24 -14 8.701 10 -14 8.701 -10
-0

@@ -1,18 +1,9 @@
 0 Panel Wall  3 x  4 x  6
 0 Name: 30246.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS castle, turret, tower
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-01-15 [Eldar] Add BFC
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
+0 !KEYWORDS Castle, tower, turret
 2 24 -40 144 30 -6 144 30
 2 24 40 144 30 6 144 30
 2 24 20 144 -30 -20 144 -30
@@ -115,7 +106,6 @@
 2 24 -10 72 -26 10 72 -26
 2 24 -10 72 -30 -10 72 -26
 2 24 10 72 -30 10 72 -26
-
 1 16 -30 0 20 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 -30 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 -10 0 20 1 0 0 0 1 0 0 0 1 stud2.dat
@@ -155,7 +145,6 @@
 1 16 0 144 30 -2 0 0 0 -1 0 0 0 -2 2-4ring3.dat
 1 16 0 140 30 5.657 0 -5.657 0 1 0 -5.657 0 -5.657 1-4edge.dat
 1 16 0 144 30 5.657 0 -5.657 0 1 0 -5.657 0 -5.657 1-4edge.dat
-
 4 16 -8 140 26 -8 140 22 -36 140 22 -36 140 26
 4 16 36 140 26 36 140 22 8 140 22 8 140 26
 4 16 0 140 22 -18 140 -26 -36 140 -8 -36 140 22

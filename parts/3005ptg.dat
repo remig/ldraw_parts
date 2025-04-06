@@ -1,21 +1,8 @@
 0 Brick  1 x  1 with Blue "G" Pattern
 0 Name: 3005ptg.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2003-12-09 [Steffen] made use of existing subfile
-0 !HISTORY 2004-04-04 [Steffen] deleted 1 identical line
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-05-11 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-12-18 [Holly-Wood] BFCed
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
-0 // Pattern
-
 4 1 3.179 5.533 -10 2.413 7.38 -10 4.035 8.464 -10 5.45 7.05 -10
 4 1 0.5 5 -10 0.5 7 -10 2.413 7.38 -10 3.179 5.533 -10
 4 1 0.5 7 -10 0.5 5 -10 -2.179 5.533 -10 -1.413 7.38 -10
@@ -54,6 +41,4 @@
 4 16 1 14.5 -10 -3.035 15.536 -10 -1.413 16.619 -10 0.5 17 -10
 3 16 1 14.5 -10 0.5 17 -10 2.413 16.619 -10
 4 16 1 14.5 -10 2.413 16.619 -10 4.535 15.536 -10 4.5 14.5 -10
-
-0 // Subfile
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3005s01.dat

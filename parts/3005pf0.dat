@@ -1,17 +1,10 @@
 0 Brick  1 x  1 with Blue Cow and Flower Pattern
 0 Name: 3005pf0.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Milk Carton
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3005s01.dat
-
 4 15 5.8 4.3 -10 5.3713 4.0525 -10 5.305 4.3 -10 5.3713 4.5475 -10
 4 15 5.8 4.3 -10 5.3713 4.5475 -10 5.5525 4.7287 -10 5.8 4.795 -10
 4 15 5.8 4.3 -10 5.8 4.795 -10 6.0475 4.7287 -10 6.2287 4.5475 -10

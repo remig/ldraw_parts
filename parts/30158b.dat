@@ -1,19 +1,9 @@
 0 ~Minifig Backpack Openable Front
 0 Name: 30158b.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Neckwear
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-0 !HISTORY 2012-12-24 [cwdee] Update category
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
-0 // tabs
-
 0 BFC INVERTNEXT
 1 16 -27.5 40.1 6 -4 0 0 0 8 0 0 0 -4 4-4cylo.dat
 1 16 -27.5 40.1 6 0 0 -4 0 1 0 4 0 0 2-4ring1.dat
@@ -48,8 +38,6 @@
 4 16 23.5 48.1 10 23.5 48.1 2 20 48.1 -2 20 48.1 14
 4 16 27.5 48.1 -2 20 48.1 -2 23.5 48.1 2 27.5 48.1 2
 4 16 27.5 48.1 10 23.5 48.1 10 20 48.1 14 27.5 48.1 14
-0 // main
-
 3 16 4.2 14.38 24.915 4.2 19.92 24.915 1.7 19.24 24.915
 3 16 0 10.38 24.915 4.2 14.38 24.915 -4.2 14.38 24.915
 4 16 -1.7 27.2 24.445 -1.7 21.3 24.445 1.7 21.3 24.445 1.7 27.2 24.445
@@ -636,4 +624,3 @@
 5 24 12.67 17.09 20.589 6.03 21.74 20.171 4.2 19.92 20.335 12.81 24.17 19.953
 5 24 20 0 -2.315 10.96 0.08 13.155 20 0 11.024 -10.96 0.08 13.155
 5 24 -20 0 -2.315 -10.96 0.08 13.155 -20 0 11.024 10.96 0.08 13.155
-0 

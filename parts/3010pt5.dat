@@ -1,13 +1,8 @@
 0 Brick  1 x  4 with "QH 44" Pattern
 0 Name: 3010pt5.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 0 -1 12.25 -10 -1 6.5 -10 -4 6.5 -10 -4 21 -10
 4 0 5 21 -10 5 6.5 -10 2 6.5 -10 2 12.25 -10
@@ -123,7 +118,5 @@
 4 16 0 24 -10 -7.5 21.5 -10 -16.75 21 -10 -40 24 -10
 3 16 5 21 -10 15.25 17.5 -10 15.25 15.25 -10
 3 16 0 24 -10 15.25 17.5 -10 5 21 -10
-0
 0 Pattern created wholly or in part by Quad2Dat
 0 Thanks James
-0

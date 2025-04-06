@@ -1,13 +1,9 @@
 0 Brick  1 x  4 with Metallic Gold Eye-Shaped Medallion Pattern
 0 Name: 3010pzf.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 41493, Brickheadz, Dr. Strange
-
+0 !KEYWORDS Brickheadz, Dr. Strange, Set 41493
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 0 -38.292 1 -10 -39 1 -10 -39 1.671 -10 -36.435 2.114 -10
 4 0 -36.435 2.114 -10 -39 1.671 -10 -36.516 3.164 -10 -34.122 3.234 -10

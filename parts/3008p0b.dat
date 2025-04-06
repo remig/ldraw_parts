@@ -1,19 +1,11 @@
 0 Brick  1 x  8 with Chrome Gold "720" Pattern
 0 Name: 3008p0b.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS set 720, train
-
+0 !KEYWORDS set 720, Train
 0 !CMDLINE -c0
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3008s01.dat
-
 4 334 -22.4915 20.6453 -10 -23.475 21.504 -10 25.175 21.504 -10 24.2915 20.6453 -10
 4 334 -22.4915 2.15471 -10 -23.475 1.196 -10 -23.475 21.504 -10 -22.4915 20.6453 -10
 4 334 24.2915 2.15471 -10 25.175 1.196 -10 -23.475 1.196 -10 -22.4915 2.15471 -10

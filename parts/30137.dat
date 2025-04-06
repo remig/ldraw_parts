@@ -1,20 +1,9 @@
 0 Brick  1 x  4 Log
 0 Name: 30137.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS log, timber, palisade, wall, western
-
-0 !HISTORY 1997-10-29 [PTadmin] Official Update 1997-16
-0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
-0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed and use more primitives (2005-11-16)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
+0 !KEYWORDS log, palisade, timber, Wall, western
 0 BFC INVERTNEXT
 1 16 0 24 0 36 0 0 0 -20 0 0 0 6 box5.dat
 1 16 30 0 0 1 0 0 0 1 0 0 0 1 stud.dat
@@ -266,4 +255,3 @@
 4 16 16 0 6 16 0 -6 24 0 -6 24 0 6
 4 16 40 24 7.071 36 24 6 -36 24 6 -40 24 7.071
 4 16 -40 24 -7.071 -36 24 -6 36 24 -6 40 24 -7.071
-0

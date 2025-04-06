@@ -1,17 +1,9 @@
 0 Fence  2 x 12 x  6
 0 Name: 30110.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS Belville, stable
-0 !HISTORY 2010-09-10 {The LEGO Universe Team} Original part shape
-0 !HISTORY 2010-10-17 [MagFors] File preparation for LDraw Parts Tracker
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
-0 // Also known as partnumber 60791
-
+0 !KEYWORDS Belville, Stable
 1 16 70 140 -10 1 0 0 0 -1 0 0 0 1 stud3a.dat
 1 16 70 124 -10 4 0 0 0 16 0 0 0 4 4-4cyli.dat
 4 16 80 144 -30 76 144 -26 76 144 6 80 144 10
@@ -97,14 +89,12 @@
 3 16 60 0 10 60 32 -6 60 16 -6
 4 16 60 0 10 60 16 -6 60 16 -10 60 0 -10
 1 16 70 0 0 0 0 -1 0 1 0 1 0 0 stud2.dat
-0 //
 1 16 0 104 -10 60 0 0 0 0 8 0 4 0 box3u4a.dat
 1 16 0 104 -10 60 0 0 0 0 8 0 4 0 rect2p.dat
 1 16 0 64 -10 60 0 0 0 0 8 0 4 0 box3u4a.dat
 1 16 0 64 -10 60 0 0 0 0 8 0 4 0 rect2p.dat
 1 16 0 24 -10 60 0 0 0 0 8 0 4 0 box3u4a.dat
 1 16 0 24 -10 60 0 0 0 0 8 0 4 0 rect2p.dat
-0 //
 1 16 -70 140 -10 1 0 0 0 -1 0 0 0 1 stud3a.dat
 1 16 -70 124 -10 4 0 0 0 16 0 0 0 4 4-4cyli.dat
 4 16 -60 144 -30 -64 144 -26 -64 144 6 -60 144 10
@@ -190,4 +180,3 @@
 3 16 -80 0 10 -80 32 -6 -80 16 -6
 4 16 -80 0 10 -80 16 -6 -80 16 -10 -80 0 -10
 1 16 -70 0 0 0 0 -1 0 1 0 1 0 0 stud2.dat
-0 //

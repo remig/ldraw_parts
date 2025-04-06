@@ -1,21 +1,8 @@
 0 Car Base  4 x  5 with 2 Seats
 0 Name: 30149.dat
 0 Author: Bram Lambrecht
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-01 [guyvivan] Made BFC compliant (2005-11-22)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
-0 // Bottom details
-
-
-
 1 16 0 4 -10 -1 0 0 0 -1 0 0 0 -1 stud4.dat
 1 16 -20 4 -10 -1 0 0 0 -1 0 0 0 -1 stud4.dat
 1 16 20 4 -10 -1 0 0 0 -1 0 0 0 -1 stud4.dat
@@ -973,4 +960,3 @@
 1 16 30 -24 -40 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 54 -14 20 0 -1 0 -1 0 0 0 0 -1 stud2.dat
 1 16 -54 -14 20 0 1 0 1 0 0 0 0 -1 stud2.dat
-0

@@ -1,19 +1,10 @@
 0 Brick  1 x  1 with Orange Slices Pattern
 0 Name: 3005pf1.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Juice Carton
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-0 !HISTORY 2017-01-10 [PTadmin] Renamed from 3005bpf1 to correct file naming error
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3005s01.dat
-
 4 2 4.2 4.6 -10 3.8044 4.3126 -10 3.711 4.6 -10 3.8044 4.8874 -10
 4 2 4.2 4.6 -10 3.8044 4.8874 -10 4.0489 5.0651 -10 4.3511 5.0651 -10
 4 2 4.2 4.6 -10 4.3511 5.0651 -10 4.5956 4.8874 -10 4.689 4.6 -10

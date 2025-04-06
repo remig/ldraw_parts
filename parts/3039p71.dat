@@ -1,13 +1,8 @@
 0 Slope Brick 45  2 x  2 with Red "1" in Yellow Outline Pattern
 0 Name: 3039p71.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 3 4 -0.672 3.255 -13.255 -1.195 3.703 -13.703 -0.859 6.582 -16.582
 3 4 -1.195 3.703 -13.703 -1.872 4.072 -14.072 -0.859 6.582 -16.582

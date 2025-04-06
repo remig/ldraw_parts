@@ -1,19 +1,9 @@
 0 Barrel  4 x  4 x  3.5
 0 Name: 30139.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
 0 !CATEGORY Container
-
-0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-11-22 [anathema] Added !CATEGORY and BFC'd
-0 !HISTORY 2010-12-04 [anathema] Rebuilt with subpart and more primitives
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 1 16 0 0 0 38 0 0 0 -1 0 0 0 -38 4-4disc.dat
 1 16 0 0 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 20 0 0 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -101,10 +91,10 @@
 1 16 0 0 0 35.107 0 14.542 0 1 0 -14.542 0 35.107 1-8edge.dat
 1 16 0 5 0 14.542 0 -35.107 0 1 0 35.107 0 14.542 1-8edge.dat
 1 16 0 5 0 -35.107 0 -14.542 0 1 0 14.542 0 -35.107 1-8edge.dat
-1 16 0 5 0 -1.848 0 -0.765 0 -1 0 -0.765 0 1.848 1-8rin19.dat
-1 16 0 5 0 0.765 0 -1.848 0 -1 0 -1.848 0 -0.765 1-8rin19.dat
-1 16 0 5 0 1.848 0 0.765 0 -1 0 0.765 0 -1.848 1-8rin19.dat
-1 16 0 5 0 -0.765 0 1.848 0 -1 0 1.848 0 0.765 1-8rin19.dat
+1 16 0 5 0 -1.848 0 -0.765 0 -1 0 -0.765 0 1.848 1-8ring19.dat
+1 16 0 5 0 0.765 0 -1.848 0 -1 0 -1.848 0 -0.765 1-8ring19.dat
+1 16 0 5 0 1.848 0 0.765 0 -1 0 0.765 0 -1.848 1-8ring19.dat
+1 16 0 5 0 -0.765 0 1.848 0 -1 0 1.848 0 0.765 1-8ring19.dat
 5 24 35.107 0 14.542 35.107 5 14.542 38 0 0 26.87 0 26.87
 5 24 35.107 0 -14.542 35.107 5 -14.542 26.87 0 -26.87 38 0 0
 5 24 -14.542 0 35.107 -14.542 5 35.107 0 0 38 -26.87 0 26.87
@@ -139,4 +129,3 @@
 1 16 0 0 0 14.542 0 -35.107 0 5 0 35.107 0 14.542 1-8cyli.dat
 0 BFC INVERTNEXT
 1 16 0 0 0 -35.107 0 -14.542 0 5 0 14.542 0 -35.107 1-8cyli.dat
-0 

@@ -1,13 +1,8 @@
 0 Technic Grille  1 x  4 with 2 Pins
 0 Name: 30622.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
 1 16 0 0 20 8 0 0 0 1 0 0 0 8 4-4edge.dat
 1 16 0 0 -20 8 0 0 0 1 0 0 0 8 4-4edge.dat
 1 16 0 0 -20 1 0 0 0 -1 0 0 0 1 connect6.dat
@@ -80,9 +75,9 @@
 1 16 10 -8 -40 4 0 0 0 0 4 0 1 0 1-4ndis.dat
 1 16 10 -8 40 4 0 0 0 0 4 0 -1 0 1-4ndis.dat
 0 BFC INVERTNEXT
-1 16 10 -8 -40 4 0 0 0 0 4 0 13.778 0 1-4cyli.DAT
+1 16 10 -8 -40 4 0 0 0 0 4 0 13.778 0 1-4cyli.dat
 0 BFC INVERTNEXT
-1 16 10 -8 40 4 0 0 0 0 4 0 -13.778 0 1-4cyli.DAT
+1 16 10 -8 40 4 0 0 0 0 4 0 -13.778 0 1-4cyli.dat
 1 16 10 -8 -24.444 4 0 0 0 0 4 -1.778 1 0 1-4edge.dat
 1 16 10 -8 24.444 4 0 0 0 0 4 1.778 1 0 1-4edge.dat
 0 BFC INVERTNEXT
@@ -94,9 +89,9 @@
 1 16 -10 -8 -40 -4 0 0 0 0 4 0 1 0 1-4edge.dat
 1 16 -10 -8 40 -4 0 0 0 0 4 0 1 0 1-4edge.dat
 0 BFC INVERTNEXT
-1 16 -10 -8 -40 -4 0 0 0 0 4 0 24.444 0 1-4cyli.DAT
+1 16 -10 -8 -40 -4 0 0 0 0 4 0 24.444 0 1-4cyli.dat
 0 BFC INVERTNEXT
-1 16 -10 -8 40 -4 0 0 0 0 4 0 -24.444 0 1-4cyli.DAT
+1 16 -10 -8 40 -4 0 0 0 0 4 0 -24.444 0 1-4cyli.dat
 1 16 -10 -8 -40 -4 0 0 0 0 4 0 1 0 1-4ndis.dat
 1 16 -10 -8 40 -4 0 0 0 0 4 0 -1 0 1-4ndis.dat
 1 16 -10 -8 -15.556 -4 0 0 0 0 4 1.778 1 0 1-4edge.dat
@@ -753,4 +748,3 @@
 4 16 12.64 -22.5 -40 14.956 -17.808 -40 14.956 -17.808 -22.345 12.64 -22.5 -21.725
 4 16 16.636 -12.852 40 14.956 -17.808 40 14.956 -17.808 22.345 16.636 -12.852 23
 4 16 16.636 -12.852 -23 14.956 -17.808 -22.345 14.956 -17.808 -40 16.636 -12.852 -40
-0

@@ -1,13 +1,9 @@
-0 Hose Air Pump 16 x 14 x 13 Valves & Pump w. Dark Grey Casing & Ring (Complete)
+0 Hose Air Pump 16 x 14 x 13 Valves and Pump with Dark Grey Casing and Ring (Complete)
 0 Name: 30587c01p01.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Unofficial_Shortcut
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Angle for rotation = 41.25
-
 0 BFC CERTIFY CCW
-
 1 8 0 0 0 1 0 0 0 1 0 0 0 1 30587.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 30588.dat
 1 8 0 0 0 1 0 0 0 1 0 0 0 1 30589.dat

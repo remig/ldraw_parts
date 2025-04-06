@@ -1,20 +1,9 @@
-0 ~Electric Light and Sound Brick  4 x 12 x  2 Laser Drill Base (Needs Work)
+0 ~Electric Light & Sound Brick  4 x 12 x  2 Laser Drill Base (Needs Work)
 0 Name: 30346.dat
 0 Author: Jude Parrill [theJudeAbides]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
-0 !KEYWORDS Rock Raiders
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2002-03-28 [Xanthra47]     Original Part Shape
-0 !HISTORY 2013-09-02 [theJudeAbides] Moved to separate file, fixed, BFCed
-0 !HISTORY 2018-02-07 [Steffen]       moved button to separate file, replaced stud
-
-0 // TODO: Fix battery-box/inner-area to be more accurate.
-
-0 // Main Body - Exterior
+0 !KEYWORDS rock raiders
 1 16 0 52 40 0 0 1 0 -1 0 -1 0 0 stug4-1x7.dat
 0 BFC INVERTNEXT
 1 16 0 56 40 0 0 16 0 -4 0 -76 0 0 box5.dat
@@ -55,8 +44,6 @@
 2 24 -36 16 -20 -20 0 -20
 1 16 0 0 -30 20 0 0 0 1 0 0 0 10 rect.dat
 1 16 0 28 -40 -20 0 0 0 0 28 0 1 0 rect3.dat
-
-0 // Main Body - Interior (Battery Area) [Needs Work]
 3 16 20 0 -20 36 16 -20 32 16 -20
 4 16 20 0 -20 32 16 -20 -32 16 -20 -20 0 -20
 3 16 -20 0 -20 -32 16 -20 -36 16 -20
@@ -96,8 +83,6 @@
 1 16 0 24 -20 0 0 -36 4 0 0 0 -1 0 rect2p.dat
 4 16 -20 44 -20 -36 28 -20 36 28 -20 20 44 -20
 1 16 0 44 48 0 0 -20 0 1 0 68 0 0 rect.dat
-
-0 // Front Area - Main Laser
 1 16 0 20 -100 0 0 20 20 0 0 0 60 0 3-4cylo.dat
 1 16 -10 40 -40 10 0 0 0 0 10 0 -60 0 2-4cylo.dat
 2 24 0 40 -40 0 40 -100
@@ -172,13 +157,11 @@
 4 16 0 0 -124 -7 3 -124 -4 6 -124 0 6 -124
 1 16 0 10 -124 1 0 0 0 0 -1 0 1 0 stud2a.dat
 1 16 0 10 -124 6 0 0 0 0 -6 0 1 0 4-4edge.dat
-1 47 0 10 -125 0 0 4 4 0 0 0 -4 0 4-8sphe.DAT
+1 47 0 10 -125 0 0 4 4 0 0 0 -4 0 4-8sphe.dat
 0 BFC INVERTNEXT
 1 16 -10 40 -124 0 0 6 6 0 0 0 24 0 4-4cylo.dat
 1 16 -10 40 -124 0 0 8 8 0 0 0 24 0 4-4cylo.dat
 1 16 -10 40 -124 0 0 2 2 0 0 0 1 0 4-4ring3.dat
-
-0 // Front Area - Antenna
 2 24 40 20 -20 32.382 20 -27.618
 2 24 40 20 -20 32.382 20 -35.236
 3 16 40 20 -20 32.382 20 -27.618 32.382 20 -35.236
@@ -227,7 +210,6 @@
 2 24 18.247 28 -63.506 18.247 28 -40
 4 16 18.247 28 -40 20 28 -40 20 28 -60 18.247 28 -63.506
 2 24 40 28 -20 18.247 28 -63.506
-
 2 24 25 22 -50 25.304 23.531 -49.392
 4 16 25 22 -50 25.304 23.531 -49.392 25.304 23.531 -52 25 22 -52
 5 24 25.304 23.531 -49.392 25.304 23.531 -52 25 22 -52 26.172 24.828 -52
@@ -281,9 +263,7 @@
 4 16 25 22 -52 25.304 20.469 -51.392 32.696 20.469 -36.608 33 22 -36
 1 16 29 22 -43 0 0 4 0 1 0 -1 0 8 rect.dat
 1 16 29 22 -96 0 0 4 4 0 0 0 44 0 4-4cyli.dat
-1 16 29 22 -96 0 0 4 4 0 0 0 -4 0 4-8sphe.DAT
-
-0 // Front Area - Antenna Supports
+1 16 29 22 -96 0 0 4 4 0 0 0 -4 0 4-8sphe.dat
 1 16 29 22 -58 -4 0 0 0 0 4 0 1 0 4-4edge.dat
 1 16 29 22 -64 -4 0 0 0 0 4 0 1 0 4-4edge.dat
 1 16 29 22 -64 -6 0 0 0 0 -6 0 6 0 7-8cyli.dat
@@ -311,7 +291,6 @@
 2 24 24.757 26.243 -58 24.757 26.243 -64
 2 24 18.759 26.243 -64 18.759 26.243 -62.483
 2 24 18.759 26.243 -62.483 21 26.243 -58
-
 1 16 29 22 -78 -4 0 0 0 0 4 0 1 0 4-4edge.dat
 1 16 29 22 -84 -4 0 0 0 0 4 0 1 0 4-4edge.dat
 1 16 29 22 -84 -6 0 0 0 0 -6 0 6 0 7-8cyli.dat

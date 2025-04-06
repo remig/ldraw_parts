@@ -1,24 +1,11 @@
 0 Minifig Mechanical Legs
 0 Name: 30376.dat
 0 Author: Nathan Wright
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, battle droid, Episode 1, Phantom Menace, Episode 2
-0 !KEYWORDS Attack of the Clones, robot, droid, clip, clip-on, super battle droid
-
+0 !KEYWORDS Attack of the Clones, battle droid, Clip, clip-on, droid, Episode 1
+0 !KEYWORDS Episode 2, Phantom Menace, Robot, Star Wars, super battle droid
 0 !CMDLINE -c487
-
-0 !HISTORY 2003-09-15 [fwcain] fixed type-5 lines (removed extra zeroes)...
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2014-12-24 [Philo] BFCed with Windz, closed gap, corrected wrong intersection lines
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 2 24 -19 2 8 19 2 8
 1 16 0 8 4 -4 0 0 0 -1 0 0 0 4 rect3.dat
 1 16 0 7 0 1 0 0 0 0 -1 0 1 0 rect.dat
@@ -73,7 +60,6 @@
 5 24 4 -33.3 4.6 -4 -33.3 4.6 4 -35.5 6.1 4 -33 4.3
 5 24 19 0 0 19 8 0 19 8 4 18.3 8 -3.4
 5 24 -19 8 0 -19 0 0 -19 0 4 -18.3 0 -3.4
-0 // Left leg
 2 24 19 8 8 19 2 8
 1 16 16 5.5 4 0 1 0 -2.5 0 0 0 0 4 rect3.dat
 1 16 4 5.5 4 0 -1 0 -2.5 0 0 0 0 -4 rect1.dat
@@ -231,7 +217,6 @@
 1 16 9 0 -0.5 0 1 0 0 0 -1.5 1.5 0 0 1-4edge.dat
 1 16 9 -18 0 0 1 0 -2.82843 0 -2.82843 2.82843 0 -2.82843 1-4edge.dat
 1 16 5 -18 0 0 1 0 -2.82843 0 -2.82843 2.82843 0 -2.82843 1-4edge.dat
-0 // Right leg
 2 24 -19 8 8 -19 2 8
 1 16 -16 5.5 4 0 -1 0 2.5 0 0 0 0 4 rect3.dat
 1 16 -4 5.5 4 0 1 0 -2.5 0 0 0 0 4 rect1.dat

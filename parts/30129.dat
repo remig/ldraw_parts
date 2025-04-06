@@ -1,14 +1,9 @@
 0 Support Pole  1 x 20 Tepee
 0 Name: 30129.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP To assemble the tepee, rotate pole 23.578 degrees from vertical
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 1 16 0 0 -300 0 0 1 0 1 0 -1 0 0 peghole.dat
 1 16 0 10 -300 0 0 1 0 -1 0 1 0 0 peghole.dat
 0 BFC INVERTNEXT
@@ -293,4 +288,3 @@
 2 24 -6.35343 8.5355 -201.957 -6.30832 8.6956 -201.717
 2 24 -6.4356 7.8284 -203.016 -6.35343 8.5355 -201.957
 2 24 -6.30832 8.6956 -201.717 -6.23507 9 -200.186
-0

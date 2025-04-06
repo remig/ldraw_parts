@@ -1,22 +1,10 @@
 0 Minifig Binoculars with Round Eyepiece
 0 Name: 30162.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
 0 !KEYWORDS Adventurers, City
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-03-11 [Steffen] BFCed
-0 !HISTORY 2012-03-14 [Steffen] modified with WINDZ for BFC compliance
-0 !HISTORY 2015-10-10 [MagFors] Closed gaps
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 2 24 2 0 5.61 2 0 -5.61
 2 24 2 0 5.61 2 4 5.61
 2 24 2 0 6 2 4 6
@@ -73,7 +61,6 @@
 2 24 5.54 4 2.3 4.25 4 4.25
 2 24 4.25 4 4.25 2.3 4 5.54
 2 24 2.3 4 5.54 2 4 5.61
-
 2 24 -2 0 5.61 -2 0 -5.61
 2 24 -2 0 5.61 -2 4 5.61
 2 24 -2 0 6 -2 4 6
@@ -130,7 +117,6 @@
 2 24 -5.54 4 2.3 -4.25 4 4.25
 2 24 -4.25 4 4.25 -2.3 4 5.54
 2 24 -2.3 4 5.54 -2 4 5.61
-
 1 16 -6 0 8 0 0 -4 -4 0 0 0 -1 0 2-4chrd.dat
 1 16 6 0 8 0 0 4 4 0 0 0 -1 0 2-4chrd.dat
 1 16 -6 0 8 0 0 -4 4 0 0 0 1 0 2-4edge.dat
@@ -141,7 +127,6 @@
 1 16 6 0 -7 0 0 -4 4 0 0 0 1 0 2-4edge.dat
 1 16 -6 0 -10 0 0 -4 4 0 0 0 1 0 2-4edge.dat
 1 16 6 0 -10 0 0 4 4 0 0 0 1 0 2-4edge.dat
-
 4 16 -6 4 8 -6 -4 8 6 -4 8 6 4 8
 4 16 -2 4 6 2 4 6 6 -4 6 -6 -4 6
 4 16 -6 4 8 6 4 8 6 4 6 -6 4 6
@@ -158,17 +143,14 @@
 2 24 -6 4 -7 6 4 -7
 2 24 -6 -4 -10 6 -4 -10
 2 24 -6 4 -10 6 4 -10
-
 4 16 2 0 6 6 0 6 6 0 -6 2 0 -6
 4 16 -2 0 6 -2 0 -6 -6 0 -6 -6 0 6
-
 1 16 6 0 -7 -4 0 0 0 0 -4 0 13 0 3-4cyli.dat
 1 16 -6 0 -7 4 0 0 0 0 -4 0 13 0 3-4cyli.dat
 1 16 6 0 -10 0 0 4 -4 0 0 0 3 0 2-4cyli.dat
 1 16 6 0 6 0 0 4 -4 0 0 0 2 0 2-4cyli.dat
 1 16 -6 0 -10 0 0 -4 -4 0 0 0 3 0 2-4cyli.dat
 1 16 -6 0 6 0 0 -4 -4 0 0 0 2 0 2-4cyli.dat
-
 1 16 6 0 8 3 0 0 0 0 3 0 1 0 4-4cylo.dat
 1 16 -6 0 8 3 0 0 0 0 3 0 1 0 4-4cylo.dat
 1 16 6 0 9 4 0 0 0 0 4 0 1 0 4-4cylo.dat
@@ -177,28 +159,22 @@
 1 16 6 0 8 2.5 0 0 0 0 2.5 0 2 0 4-4cylo.dat
 0 BFC INVERTNEXT
 1 16 -6 0 8 2.5 0 0 0 0 2.5 0 2 0 4-4cylo.dat
-
 1 16 6 0 9 1 0 0 0 0 1 0 1 0 4-4ring3.dat
 1 16 -6 0 9 1 0 0 0 0 1 0 1 0 4-4ring3.dat
-
 1 16 6 0 10 -1 0 0 0 0 1 0 -1 0 4-4ring3.dat
 1 16 6 0 10 -0.5 0 0 0 0 0.5 0 -1 0 4-4ring5.dat
-
 1 16 -6 0 10 -1 0 0 0 0 1 0 -1 0 4-4ring3.dat
 1 16 -6 0 10 -0.5 0 0 0 0 0.5 0 -1 0 4-4ring5.dat
-
 1 16 -6 0 -18 4.2426 0 -4.2426 4.2426 0 4.2426 0 8 0 3-4cylo.dat
 1 16 -6 0 -10 -6 0 0 0 0 6 0 -1 0 4-4disc.dat
 0 BFC INVERTNEXT
 1 16 -6 0 -12 4 0 0 0 0 4 0 -6 0 4-4cylc.dat
 1 16 -6 0 -18 2 0 0 0 0 2 0 1 0 4-4ring2.dat
-
 1 16 6 0 -18 -4.2426 0 4.2426 4.2426 0 4.2426 0 8 0 3-4cylo.dat
 1 16 6 0 -10 -6 0 0 0 0 6 0 -1 0 4-4disc.dat
 0 BFC INVERTNEXT
 1 16 6 0 -12 4 0 0 0 0 4 0 -6 0 4-4cylc.dat
 1 16 6 0 -18 2 0 0 0 0 2 0 1 0 4-4ring2.dat
-
 0 BFC INVERTNEXT
 1 16 0 -6 -18 1.7574 0 -1.7574 1.7574 0 1.7574 0 8 0 1-4cylo.dat
 1 16 0 -6 -18 1.7574 0 -1.7574 1.7574 0 1.7574 0 1 0 1-4ndis.dat
@@ -207,7 +183,6 @@
 3 16 -1.7574 -4.2426 -18 0 0 -18 0 -2.4852 -18
 3 16 1.7574 -4.2426 -10 0 0 -10 0 -2.4852 -10
 3 16 0 -2.4852 -10 0 0 -10 -1.7574 -4.2426 -10
-
 0 BFC INVERTNEXT
 1 16 0 6 -18 -1.7574 0 1.7574 -1.7574 0 -1.7574 0 8 0 1-4cylo.dat
 1 16 0 6 -18 -1.7574 0 1.7574 -1.7574 0 -1.7574 0 1 0 1-4ndis.dat

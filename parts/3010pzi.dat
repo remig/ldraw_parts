@@ -1,13 +1,9 @@
 0 Brick  1 x  4 with Red Spider Pattern
 0 Name: 3010pzi.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 41497, Brickheadz, Spider-Man
-
+0 !KEYWORDS Brickheadz, Set 41497, Spider-Man
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 4 -12.868 11.873 -10 -12.78 10.047 -10 -15.563 8.083 -10 -15.739 11.735 -10
 4 4 -12.25 17.062 -10 -12.25 15.234 -10 -15.125 13.406 -10 -15.125 17.062 -10

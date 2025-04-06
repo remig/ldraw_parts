@@ -1,13 +1,8 @@
 0 ~Hose Air Pump 16 x 14 x 13 Valve Lock Ring (Needs Work)
 0 Name: 30589.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 // Needs work - Inside not accurate
-
 2 24 49.732 -8 82.138 47.666 -8 78.56
 2 24 47.666 -8 78.56 56.01 -8 72.993
 2 24 96 -8 -2 96 -4 -2
@@ -486,8 +481,8 @@
 5 24 -12.006 -4 91.209 -12.006 -8 91.209 -23.81 -8 88.863 -2 -4 91.868
 1 16 0 0 0 0 0 -104 0 -4 0 104 0 0 48\3-4cyli.dat
 1 16 0 -4 0 0 0 100 0 -4 0 100 0 0 48\4-4cyli.dat
-1 16 0 0 0 4 0 0 0 -1 0 0 0 4 48\4-4rin25.dat
-1 16 0 -4 0 4 0 0 0 1 0 0 0 4 48\4-4rin25.dat
+1 16 0 0 0 4 0 0 0 -1 0 0 0 4 48\4-4ring25.dat
+1 16 0 -4 0 4 0 0 0 1 0 0 0 4 48\4-4ring25.dat
 1 16 0 -4 0 0 0 -104 0 1 0 104 0 0 48\3-4edge.dat
 1 16 0 0 0 0 0 -104 0 1 0 104 0 0 48\3-4edge.dat
 1 16 0 -8 0 0 0 100 0 1 0 100 0 0 48\4-4edge.dat
@@ -498,7 +493,6 @@
 1 16 0 0 0 104 0 0 0 1 0 0 0 104 48\5-48edge.dat
 1 16 0 -4 0 0 0 104 0 1 0 104 0 0 48\1-12edge.dat
 1 16 0 0 0 0 0 104 0 1 0 104 0 0 48\1-12edge.dat
-0 // Pointer
 3 16 61.7321 0 83.57 74.321 0 87.78 63.3152 0 82.5136
 3 16 77.328 0 85.143 74.7958 0 72.1062 73.5384 0 73.5384
 4 16 77.328 0 85.143 73.5384 0 73.5384 63.3152 0 82.5136 74.321 0 87.78

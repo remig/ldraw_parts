@@ -1,18 +1,9 @@
 0 Bracket  1 x  2 - Dish  4 x  4
 0 Name: 30209.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2004-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-0 !KEYWORDS Plate  1 x  2, dish, disc, disk, Space, Insectoids, Star Wars
-
-0 !HISTORY 2003-06-28 [Steffen] 48ed part, fixed CATEGORY, KEYWORDS syntax
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
-0 // 1 x 2 plate
+0 !KEYWORDS Insectoids, Plate 1 x 2, Space, Star Wars, disc, dish, disk
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT
 1 16 0 8 0 16 0 0 0 -4 0 0 0 6 box5.dat
@@ -68,7 +59,6 @@
 4 16 16 8 9 16 8 13.5 16 4 13.5 16 4 9
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-
 0 disc section
 1 16 0 4 12 10 0 0 0 0 10 0 1.375 0 48\1-4disc.dat
 1 16 0 4 12 0 0 -10 10 0 0 0 1.375 0 48\1-4disc.dat
@@ -81,7 +71,6 @@
 1 16 0 4 16 0 0 -9.5 -9.5 0 0 0 -1.25 0 48\1-4disc.dat
 0 BFC INVERTNEXT
 1 16 0 4 16 .95 0 0 0 0 .95 0 1.25 0 s\3960s03.dat
-
 0 axle hub
 1 16 0 4 30 0 0 -1 1 0 0 0 -14 0 axlehol5.dat
 1 16 0 4 30 7.392 0 -3.064 3.064 0 7.392 0 -14 0 3-8cyli.dat
@@ -174,14 +163,14 @@
 1 16 0 4 29 39 0 0 0 0 39 0 1 0 48\4-4edge.dat
 1 16 0 4 30 39 0 0 0 0 39 0 1 0 48\4-4edge.dat
 1 16 0 4 30 38 0 0 0 0 38 0 1 0 48\4-4edge.dat
-1 16 0 4 30 1 0 0 0 0 1 0 -4 0 48\1-4rin38.dat
-1 16 0 4 30 0 0 -1 1 0 0 0 -4 0 48\1-4rin38.dat
-1 16 0 4 30 -1 0 0 0 0 -1 0 -4 0 48\1-4rin38.dat
-1 16 0 4 30 0 0 1 -1 0 0 0 -4 0 48\1-4rin38.dat
-1 16 0 4 29 1 0 0 0 0 1 0 -4 0 48\1-4rin39.dat
-1 16 0 4 29 0 0 -1 1 0 0 0 -4 0 48\1-4rin39.dat
-1 16 0 4 29 -1 0 0 0 0 -1 0 -4 0 48\1-4rin39.dat
-1 16 0 4 29 0 0 1 -1 0 0 0 -4 0 48\1-4rin39.dat
+1 16 0 4 30 1 0 0 0 0 1 0 -4 0 48\1-4ring38.dat
+1 16 0 4 30 0 0 -1 1 0 0 0 -4 0 48\1-4ring38.dat
+1 16 0 4 30 -1 0 0 0 0 -1 0 -4 0 48\1-4ring38.dat
+1 16 0 4 30 0 0 1 -1 0 0 0 -4 0 48\1-4ring38.dat
+1 16 0 4 29 1 0 0 0 0 1 0 -4 0 48\1-4ring39.dat
+1 16 0 4 29 0 0 -1 1 0 0 0 -4 0 48\1-4ring39.dat
+1 16 0 4 29 -1 0 0 0 0 -1 0 -4 0 48\1-4ring39.dat
+1 16 0 4 29 0 0 1 -1 0 0 0 -4 0 48\1-4ring39.dat
 1 16 10 14 30 1 0 0 0 0 1 0 -1 0 stud2a.dat
 0 BFC INVERTNEXT
 1 16 10 14 30 -2.828 0 2.828 -2.828 0 -2.828 0 -12 0 4-4cyli.dat
@@ -454,4 +443,3 @@
 2 24 24.2 -4.5 30 24.2 -4.5 20.45
 2 24 24.2 -4.5 20.45 15.8 -4.5 17.8
 2 24 15.8 -4.5 30 15.8 -4.5 17.8
-0

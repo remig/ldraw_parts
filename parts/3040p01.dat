@@ -1,21 +1,9 @@
 0 Slope Brick 45  2 x  1 with 3 Buttons 3 Lamps on Yellow Pattern
 0 Name: 3040p01.dat
 0 Author: William Howard [WilliamH]
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3040s01.dat
-
-0 // Unpatterned face
-0 // 4 16 10 0 -38.284 10 0 -10 -10 0 -10 -10 0 -38.284
-
-0 // To edit the pattern, set the rotation point to (0, 0, -10)
-0 // and rotate the remaining lines 45degress clockwise about the X-axis
-0 // After making any changes, rotate the pattern back into place
 4 14 10 19.9998 -29.9998 10 0 -10 8 1.46442 -11.4644 8 18.5354 -28.5354
 4 14 -8 18.5354 -28.5354 -8 1.46443 -11.4644 -10 0 -10 -10 19.9998 -29.9998
 4 14 -10 19.9998 -29.9998 10 19.9998 -29.9998 8 18.5354 -28.5354 -8 18.5354 -28.5354
@@ -53,4 +41,3 @@
 4 16 6 2.92884 -12.9288 6 5.75726 -15.7573 8 7.17148 -17.1715 8 1.46442 -11.4644
 4 16 6 8.58569 -18.5857 6 11.4141 -21.4141 8 12.8283 -22.8283 8 7.17148 -17.1715
 4 16 6 14.2425 -24.2425 6 17.071 -27.071 8 18.5354 -28.5354 8 12.8283 -22.8283
-0

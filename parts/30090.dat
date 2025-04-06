@@ -1,19 +1,9 @@
-0 Minifig Diver Mask
+0 ~Minifig Helmet Visor Diver Mask (Obsolete)
 0 Name: 30090.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !CATEGORY Minifig Headwear
-
-0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
-0 !HISTORY 2009-10-20 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-0 !HISTORY 2012-12-24 [cwdee] Update category
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !CATEGORY Obsolete
 1 16 15 6.5 0 0 -1 0 1.5 0 0 0 0 1.5 4-4edge.dat
 1 16 15 6.5 0 0 -1 0 1.5 0 0 0 0 1.5 4-8sphe.dat
 1 16 -15 6.5 0 0 1 0 -1.5 0 0 0 0 1.5 4-4edge.dat
@@ -598,7 +588,6 @@
 4 16 1.21 12.2 -17.03 2.3 12.73 -16.95 -2.3 12.73 -16.95 -1.21 12.2 -17.03
 4 16 2.3 12.73 -16.95 3.14 13.59 -16.8 -3.14 13.59 -16.8 -2.3 12.73 -16.95
 3 16 0 17.84 -17.13 -3.14 13.59 -16.8 3.14 13.59 -16.8
-0 // Unmatched edges
 2 24 9.7 15.87 -18.88 11.37 14.79 -18.88
 2 24 11.37 14.79 -18.88 12.49 13.16 -18.88
 2 24 -11.37 14.79 -18.88 -9.7 15.87 -18.88
@@ -641,7 +630,6 @@
 2 24 17.32 2.57 -4.69 16.56 2.57 -4.69
 2 24 17.41 1.63 -3.06 17.32 2.57 -4.72
 2 24 16.43 12.68 -12.21 16.74 11.37 -9.94
-0 // Added lines/Condlines
 2 24 -16.22 11.37 -8.19 -16.1 2.44 -8.19
 2 24 -16.1 2.44 -8.19 -16.23 2.57 -8.19
 2 24 -16.23 2.57 -8.19 -16.65 3.24 -8.19
@@ -1463,4 +1451,3 @@
 2 24 16.55 2.57 -4.69 16.4 3.53 -6.44
 2 24 17.16 3.58 -6.44 16.33 3.58 -6.44
 3 16 16.55 2.57 -4.69 16.33 3.58 -6.44 17.16 3.58 -6.44
-0

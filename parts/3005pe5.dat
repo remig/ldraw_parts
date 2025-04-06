@@ -1,15 +1,9 @@
 0 Brick  1 x  1 with Black Eyes and White Pupils Pattern
 0 Name: 3005pe5.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3005s01.dat
-0 // pattern
 4 15 5.804 18.086 -10 5.4 17.986 -10 4.996 18.086 -10 4.653 18.371 -10
 4 15 6.147 18.371 -10 5.804 18.086 -10 4.653 18.371 -10 4.424 18.797 -10
 4 15 6.376 18.797 -10 6.147 18.371 -10 4.424 18.797 -10 4.344 19.3 -10

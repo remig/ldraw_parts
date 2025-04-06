@@ -1,11 +1,8 @@
 0 Slope Brick 45  2 x  1 Double with Bottom Stud Holder
 0 Name: 3044c.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 BFC INVERTNEXT
 1 16 0 24 0 6 0 0 0 -4 0 0 0 16 box4o4a.dat
 4 16 10 24 20 6 24 16 -6 24 16 -10 24 20

@@ -1,19 +1,10 @@
 0 Brick 16 x  8 Sports Field Section
 0 Name: 30489.dat
 0 Author: John Riley [jriley]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS court, grass, soccer, football
-0 !KEYWORDS basketball, sport, ball, playing, pitch
-
-0 !HISTORY 2013-08-01 [theJudeAbides] Fixed extruding quads, used more primitives, cleaned up file
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
-0 // Bottom Surfaces
-
+0 !KEYWORDS ball, basketball, court, football, grass, pitch, playing, Soccer
+0 !KEYWORDS sport
 4 16 -80 24 160 -76 24 156 -76 24 124 -80 24 120
 4 16 -40 24 160 -44 24 156 -76 24 156 -80 24 160
 3 16 -44 24 156 -40 24 160 -40 24 140
@@ -68,8 +59,6 @@
 4 16 -58 24 40 -44 24 36 -76 24 36 -60 24 40
 3 16 -44 24 36 -58 24 40 -40 24 40
 4 16 -58 24 40 -60 24 40 -60 24 120 -58 24 120
-
-0 // Inner Inside Surfaces
 0 BFC INVERTNEXT
 1 16 0 10 120 0 0 40 -14 0 0 0 18 0 box3u4a.dat
 0 BFC INVERTNEXT
@@ -124,8 +113,6 @@
 2 24 -40 -4 -39.001 -40 -4 -40
 0 BFC INVERTNEXT
 1 16 -40 10 80 0 -18 0 -14 0 0 0 0 40 box3u2p.dat
-
-0 // Outer Inside Surface
 0 BFC INVERTNEXT
 1 16 -60 24 140 16 0 0 0 -28 0 0 0 16 box5.dat
 1 16 -40 20 158 0 -1 0 4 0 0 0 0 2 rect2a.dat
@@ -268,8 +255,6 @@
 4 16 -76 16 120 -76 -4 120 -76 -4 104 -76 4 104
 4 16 -76 4 104 -76 4 56 -76 16 40 -76 16 120
 4 16 -76 16 40 -76 4 56 -76 -4 56 -76 -4 40
-
-0 // Underside Studs
 1 16 -60 -4 140 0 0 1 0 -7 0 -1 0 0 stud4.dat
 1 16 0 4 148 -1 0 0 0 -3 0 0 0 -1 stug3-1x3.dat
 1 16 60 -4 140 0 0 1 0 -7 0 -1 0 0 stud4.dat
@@ -384,8 +369,6 @@
 1 16 -60 -4 0 4.24264 0 -4.24264 0 -4 0 4.24264 0 4.24264 3-4edge.dat
 1 16 -60 -4 20 0 0 1 0 -7 0 -1 0 0 stud4.dat
 1 16 -68 4 80 0 0 1 0 -3 0 -1 0 0 stug3-1x3.dat
-
-0 // Bottom Surface
 4 16 40 -4 138 40 -4 120 -40 -4 120 -40 -4 138
 4 16 -58 -4 120 -40 -4 120 -56 -4 56 -58 -4 56
 4 16 -40 -4 120 40 -4 120 56 -4 56 -56 -4 56
@@ -406,8 +389,6 @@
 1 16 0 -4 0 0 0 10 0 2.609 0 -10 0 0 r04o4600.dat
 1 16 0 -4 0 -10 0 0 0 2.609 0 0 0 -10 r04o4600.dat
 1 16 0 -4 0 0 0 -10 0 2.609 0 10 0 0 r04o4600.dat
-
-0 // Outer Surface
 2 24 -80 -8 160 -80 24 160
 2 24 -80 24 160 -40 24 160
 4 16 -80 -8 160 -40 16 160 -40 24 160 -80 24 160
@@ -513,8 +494,6 @@
 1 16 0 18 0 6 0 0 0 18 0 0 0 6 4-4edge.dat
 1 16 0 18 0 2 0 0 0 -1 0 0 0 2 4-4ring3.dat
 1 16 0 18 0 2 0 0 0 -1 0 0 0 2 4-4ring4.dat
-
-0 // Top Studs
 1 16 0 0 150 0 0 1 0 1 0 -1 0 0 stug-2x1.dat
 1 16 70 0 80 0 0 1 0 1 0 -1 0 0 stug-1x2.dat
 1 16 70 0 -80 0 0 1 0 1 0 -1 0 0 stug-1x2.dat

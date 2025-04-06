@@ -1,21 +1,14 @@
 0 Brick  1 x  2 with Black Lion on Red/Gold Shield Pattern
 0 Name: 3004ph1.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS Harry Potter, Hogwarts School of Witchcraft and Wizardry
-0 !KEYWORDS Gryffindor House, Godric Gryffindor, Lion, Red and Gold
-0 !KEYWORDS Coat of Arms
+0 !KEYWORDS Coat of Arms, Godric Gryffindor, Gryffindor House, Harry Potter
+0 !KEYWORDS Hogwarts School of Witchcraft and Wizardry, Lion, Red and Gold
 0 !CMDLINE -c19
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
 1 320 0 0 0 1 0 0 0 1 0 0 0 1 s\3004ph1a.dat
 1 334 0 0 0 1 0 0 0 1 0 0 0 1 s\3004ph1b.dat
-
 4 0 0 15.8 -10 0 17.1 -10 1.8 15 -10 .8 14.9 -10
 4 0 1.8 15 -10 2.2 14.1 -10 0 13.5 -10 .8 14.9 -10
 4 0 3.8 12.9 -10 3.2 13.5 -10 3.8 14.1 -10 4 13.6 -10
@@ -110,4 +103,3 @@
 3 16 -3 20.1 -10 -5 18 -10 -20 24 -10
 3 16 -2 21 -10 -3 20.1 -10 -20 24 -10
 3 16 0 22 -10 -2 21 -10 -20 24 -10
-0

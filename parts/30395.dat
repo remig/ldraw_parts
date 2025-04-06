@@ -1,25 +1,13 @@
 0 Hook with Towball
 0 Name: 30395.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Crane
-
-0 !HISTORY 2010-02-01 [arezey] Split subfile into quarters, changed orientation, added !CATEGORY
-0 !HISTORY 2012-08-06 [MMR1988] Edgeline and End of File corrected
-0 !HISTORY 2012-11-18 [MMR1988] Some more fixes
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-0 !HISTORY 2017-04-05 [MagFors] Corrected the size of the ball
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 0 0 0 0 -1.142857 0 1.142857 0 1.142857 0 0 s\30395s01.dat
 1 16 0 0 0 0 0 1.142857 0 1.142857 0 1.142857 0 0 s\30395s01.dat
 1 16 0 0 0 0 0 -1.142857 0 1.142857 0 -1.142857 0 0 s\30395s01.dat
 1 16 0 0 0 0 0 1.142857 0 1.142857 0 -1.142857 0 0 s\30395s01.dat
-
 1 16 0 20 -4 0 0 1 1 0 0 0 1 0 stud2.dat
 1 16 0 20 4 0 0 -1 1 0 0 0 -1 0 stud2.dat
 1 16 0 20 -4 7.0711 0 7.071 7.071 0 -7.0711 0 1 0 3-4edge.dat
@@ -30,11 +18,9 @@
 2 24 -4.378 28.871 4 -7.071 27.0711 4
 1 16 0 20 -4 7.0711 0 7.071 7.071 0 -7.0711 0 8 0 3-4cyli.dat
 4 16 -4.378 28.871 -4 -7.071 27.0711 -4 -7.071 27.0711 4 -4.378 28.871 4
-
 1 16 0 10 0 -4 0 0 0 -2 0 0 0 4 4-4cyli.dat
 1 16 0 10 0 1 0 0 0 -1 0 0 0 1 cylj4x10.dat
 1 16 0 0 0 4 0 0 0 -4 0 0 0 -4 4-4cyl1sph2.dat
-
 1 16 0 40 4 -2.2961 0 -5.5433 -5.5433 0 2.2961 0 1 0 2-4edge.dat
 0 BFC INVERTNEXT
 1 16 0 40 -4 -2.2961 0 -5.5433 -5.5433 0 2.2961 0 8 0 2-4cyli.dat

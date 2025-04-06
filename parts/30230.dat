@@ -1,11 +1,8 @@
 0 Wing Insectoid Large with Arm Hinge
 0 Name: 30230.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30231s03.dat
 1 16 -45 -1 346 1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 -45 -1 346 6 0 0 0 1 0 0 0 6 4-4edge.dat

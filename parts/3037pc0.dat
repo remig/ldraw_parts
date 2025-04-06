@@ -1,15 +1,9 @@
 0 Slope Brick 45  2 x  4 with '268', Map Lines, Bar Gauges Pattern
 0 Name: 3037pc0.dat
 0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3037s01.dat
-
 4 4 -12.07 18.58984 -28.58984 -11.16 19.02117 -29.02117 -10.05 19.17674 -29.17674 -12.68 17.94637 -27.94637
 4 4 -12.9 17.16148 -27.16148 -12.68 17.94637 -27.94637 -10.05 19.17674 -29.17674 -12.68 16.37659 -26.37659
 4 4 -12.07 15.73313 -25.73313 -12.68 16.37659 -26.37659 -10.05 19.17674 -29.17674 -11.16 15.30179 -25.30179

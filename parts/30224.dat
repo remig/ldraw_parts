@@ -1,20 +1,11 @@
 0 Animal Fish Ornamental
 0 Name: 30224.dat
 0 Author: Mark Chittenden [mdublade]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
-0 !HISTORY 2010-07-13 [mdublade] File preparation for LDraw Parts Tracker
-0 !HISTORY 2016-08-19 [Holly-Wood] Sanded mesh, symsplitted, primitive substitution, BFCed, regenerated conds.
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30224s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30224s01.dat
 1 16 0 0 0 -1 0 0 0 -2 0 0 0 1 stud3.dat
-
 5 24 0 .005 -5.752 0 0 -4 2.313 -.117 -5.762 -2.313 -.117 -5.762
 5 24 0 -.197 -7.604 0 .005 -5.752 -1.925 -.289 -7.611 1.925 -.289 -7.611
 5 24 0 -.75 -8.23 0 -.197 -7.604 1.668 -.815 -8.244 -1.668 -.815 -8.244

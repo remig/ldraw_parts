@@ -1,18 +1,8 @@
 0 Brick  1 x  6 with White "LEGO" Pattern
 0 Name: 3009p03.dat
 0 Author: Arne Hackstein
-0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 1998-05-21 [PTadmin] Official Update 1998-05
-0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [Steffen] Made use of subfile (2003-07-03)
-0 !HISTORY 2008-07-08 [mikeheide] Recreated pattern (2007-11-13)
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3009s01.dat
 4 15 -26.5 15 -10 -26.5 4 -10 -30.5 4 -10 -30.5 19 -10
 4 15 -30.5 19 -10 -19.25 19 -10 -19.25 15 -10 -26.5 15 -10
@@ -105,7 +95,3 @@
 3 15 0 11.5 -10 5 14.25 -10 4.5 12.75 -10
 4 16 4.75 10.25 -10 4.5 11.5 -10 7 14.75 -10 7 12.25 -10
 4 16 4.5 11.5 -10 4.5 12.75 -10 5 14.25 -10 7 14.75 -10
-0
-0 // Pattern created wholly or in part by Quad2Dat
-0 // Thanks James
-0

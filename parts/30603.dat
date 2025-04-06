@@ -1,14 +1,9 @@
 0 Slope Brick  2 x  2 x  1 with Flanges and Pistons
 0 Name: 30603.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
-1 16 0 15.618 0 1 0 0 0 -2.0955 0 0 0 1 STUD4A.dat
+1 16 0 15.618 0 1 0 0 0 -2.0955 0 0 0 1 stud4a.dat
 0 BFC INVERTNEXT
 1 16 0 15.618 0 6 0 0 0 -0.53 0 0 0 6 4-4cyli.dat
 0 BFC INVERTNEXT
@@ -614,4 +609,3 @@
 1 16 -16.669 14.83 -9.349 0.355092 -0.334418 -0.109882 -0.350701 -0.349532 -0.0695384 0.0303051 -0.126456 0.482794 4-4con4.dat
 1 16 -16.669 14.83 -9.349 1.77546 -0.668837 -0.549411 -1.75351 -0.699065 -0.347691 0.151525 -0.252913 2.41397 4-4edge.dat
 1 16 -16.669 14.83 -9.349 1.77546 0.133767 -0.549411 -1.75351 0.139813 -0.347691 0.151525 0.0505827 2.41397 4-4cyli.dat
-0

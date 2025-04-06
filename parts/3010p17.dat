@@ -1,18 +1,10 @@
-0 Brick  1 x  4 with Red Envelope Pattern Left-Aligned
+0 Brick  1 x  4 with Red Envelope Left-Aligned Pattern
 0 Name: 3010p17.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-
 0 !KEYWORDS Set 116-2, Train, USA Version
 0 !CMDLINE -c14
-
-
-
-0 // Main
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 16 3 4.25 -10 3 21 -10 4.5 23 -10 4.5 1 -10
 4 16 -23.25 21 -10 -40 24 -10 4.5 23 -10 1.5 21 -10
@@ -37,8 +29,6 @@
 4 16 4.5 1 -10 4.5 23 -10 40 24 -10 40 0 -10
 3 16 4.5 23 -10 -40 24 -10 40 24 -10
 3 16 40 0 -10 -40 0 -10 4.5 1 -10
-
-0 // Red
 3 4 -9.0858 14.1642 -10 -9.7346 14.5978 -10 1.5 21 -10
 4 4 -23.25 21 -10 1.5 21 -10 -9.7346 14.5978 -10 -10.5 14.75 -10
 3 4 -10.5 14.75 -10 -11.2654 14.5978 -10 -23.25 21 -10

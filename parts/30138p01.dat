@@ -1,24 +1,13 @@
-0 Minifig Headdress Indian Warbonnet with Coloured Feathers Pattern
+0 Minifig Headdress American Indian Warbonnet with Coloured Feathers Pattern
 0 Name: 30138p01.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS west, wild west, western, american nativ, chief, chieftain, tyee, leader
-0 !KEYWORDS set 5317, set 5392, set 5923, set 6709, set 6746, set 6763, set 6766
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-03-14 [Holly-Wood] File preparation for LDraw Parts Tracker
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-0 !HISTORY 2018-03-25 [cwdee] Correct description spelling
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // Pattern
-0 // Red
-
+0 !KEYWORDS Bricklink 30138pb01, Brickowl 765016, chief, chieftain, leader
+0 !KEYWORDS Native American, Rebrickable 30138pr0001, set 5317, set 5392
+0 !KEYWORDS set 5923, set 6709, set 6746, set 6763, set 6766, tyee, west
+0 !KEYWORDS western, wild west
 3 4 0 -5.086 -12.935 1.426 -4.931 -12.866 0 -11.056 -10.363
 3 4 14.044 1.304 -7.587 14.146 2.153 -7.048 16.014 -1.136 -4.395
 3 4 16.014 -1.136 -4.395 15.894 -1.923 -4.927 14.044 1.304 -7.587
@@ -88,7 +77,6 @@
 4 4 -13.302 -6.302 -7.385 -13.893 -5.607 -6.636 -11.998 -1.349 -9.162 -11.619 -2.118 -9.641
 3 4 -13.211 0.362 -8.135 -14.903 -3.168 -5.197 -15.894 -1.923 -4.927
 3 4 15.894 -1.923 -4.927 14.903 -3.168 -5.197 13.211 0.362 -8.135
-0 // Gold Chrome
 3 334 5.434 -2.832 -12.499 8.692 -1.789 -11.303 6.848 -4.332 -11.816
 3 334 6.848 -4.332 -11.816 8.692 -1.789 -11.303 8.437 -3.431 -11.5
 3 334 11.136 -0.365 -10.208 11.619 -2.118 -9.641 8.692 -1.789 -11.303
@@ -124,7 +112,6 @@
 4 334 20.129 11.601 -3.382 20 4.701 3.584 20.061 3.248 0.124 20.152 8.127 -4.801
 4 334 19.977 8.175 5.003 20 4.701 3.584 20.129 11.601 -3.382 20.068 13.054 0.077
 3 334 20.005 11.635 3.55 19.977 8.175 5.003 20.068 13.054 0.077
-0 // Blue
 3 1 12.517 -11.577 -6.91 11.463 -9.144 -8.591 14.027 -7.372 -7.243
 3 1 14.027 -7.372 -7.243 14.796 -9.938 -5.742 12.517 -11.577 -6.91
 3 1 11.463 -9.144 -8.591 12.517 -11.577 -6.91 9.463 -10.412 -9.158
@@ -159,7 +146,6 @@
 3 1 -17.687 -7.061 -4.33 -15.758 -5.504 -5.927 -14.027 -7.372 -7.243
 3 1 -15.758 -5.504 -5.927 -17.687 -7.061 -4.33 -18.721 -0.922 -2.613
 3 1 -19.33 -3.922 -1.934 -18.721 -0.922 -2.613 -17.687 -7.061 -4.33
-0 // Black
 3 0 17.487 46.162 31.734 15.993 41.135 25.103 16.471 44.61 23.941
 3 0 16.471 44.61 23.941 17.773 48.409 30.502 17.487 46.162 31.734
 3 0 22.513 8.217 19.659 20.651 8.259 14.963 21.58 11.109 20.565
@@ -389,6 +375,4 @@
 3 0 -11.515 -18.15 1.218 -12.162 -21.16 3.713 -14.107 -19.975 5.038
 3 0 -14.107 -19.975 5.038 -12.162 -21.16 3.713 -14.576 -23.324 7.122
 3 0 -14.576 -23.324 7.122 -12.162 -21.16 3.713 -12.275 -22.789 6.046
-
-0 // Subfile
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30138s01.dat

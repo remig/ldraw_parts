@@ -1,20 +1,13 @@
 0 Minifig Mechanical Torso with Tan Three Dot Insignia Pattern
 0 Name: 30375ps6.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, Episode 1, minifig-scale
-0 !KEYWORDS battle droid, security, set 7877
+0 !KEYWORDS battle droid, Episode 1, minifig-scale, security, set 7877
+0 !KEYWORDS Star Wars
 0 !CMDLINE -c320
-
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30375s01.dat
 1 19 0 0 0 1 0 0 0 1 0 0 0 1 s\30375s03.dat
-
 4 16 -4.9071 -20.7071 -8.80581 -4.2 -20 -8.85 -4.2 -21 -8.7875 -4.5827 -20.9239 -8.79226
 4 16 -5.2 -20 -8.85 -4.2 -20 -8.85 -4.9071 -20.7071 -8.80581 -5.1239 -20.3827 -8.82608
 4 19 -1.53639 -21.63639 -8.74773 0 -21 -8.7875 -0.9 -21.9 -8.73125 -1.24443 -21.83151 -8.73553

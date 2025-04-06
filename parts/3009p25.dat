@@ -1,14 +1,9 @@
 0 Brick  1 x  6 with 24 Black Squares Pattern
 0 Name: 3009p25.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS boat, ferry, windows, Viking Line Ferry
-
-0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
-
+0 !KEYWORDS boat, ferry, Viking Line Ferry, windows
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3009s01.dat
 4 16 -60 0 -10 -60 24 -10 -57.5 24 -10 -57.5 0 -10
 4 16 57.5 0 -10 57.5 24 -10 60 24 -10 60 0 -10
@@ -59,4 +54,3 @@
 4 16 42.5 16 -10 37.5 16 -10 37.5 24 -10 42.5 24 -10
 4 16 52.5 0 -10 47.5 0 -10 47.5 8 -10 52.5 8 -10
 4 16 52.5 16 -10 47.5 16 -10 47.5 24 -10 52.5 24 -10
-0

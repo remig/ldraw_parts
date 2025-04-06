@@ -1,21 +1,9 @@
 0 Minifig Robot Leg  1 x  2 x  2.333 with Pin
 0 Name: 30362a.dat
 0 Author: John Van Zwieten [jvan]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS r2d2, r2-d2, star wars, droid, astromech
-
-0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-04 [MMR1988] Fixed double edges, used more prims, fixed t-junctions
-0 !HISTORY 2014-11-04 [Philo] BFCed, minor improvements
-0 !HISTORY 2014-12-02 [Philo] Improved geometry
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !KEYWORDS astromech, droid, R2-D2, r2d2, Star Wars
 1 16 0 27.1 5.5 0 0 7 0 1 0 4.5 0 0 recte4.dat
 0 BFC INVERTNEXT
 1 16 0 18.5 10 3 0 0 0 0 8.5 0 -1 0 box5-2p.dat

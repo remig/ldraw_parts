@@ -1,15 +1,8 @@
 0 Car Spoiler  3 x  4 x  6
 0 Name: 30626.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-08-25 {The LEGO Universe Team} Original part shape
-0 !HISTORY 2008-02-11 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 2 24 -37.9 -54.4398 20 -42.01 -54.4398 20
 2 24 -28.45 -33.4698 20 -37.9 -54.4398 20
 2 24 42.01 -54.4398 20 37.9 -54.4398 20
@@ -410,7 +403,6 @@
 4 16 -0.6536 -35.6598 1.25 0.6536 -35.6598 1.25 0.6408 -36.3998 0 -0.6408 -36.3998 0
 3 16 -37.9 -54.4398 20 -37.89 -54.4298 12.96 -28.45 -33.4698 20
 4 16 0.2931 -29.7198 20 0.2931 -29.7198 1.25 -0.2931 -29.7198 1.25 -0.2931 -29.7198 20
-0 // Connexion beam with pins/hole
 1 16 20 0 0 0 0 -1 -1 0 0 0 1 0 connect.dat
 1 16 -20 0 0 0 0 -1 -1 0 0 0 1 0 connect.dat
 1 16 -20 0 0 0 0 -9 -9 0 0 0 20 0 2-4cyli.dat
@@ -522,4 +514,3 @@
 2 24 -17.88 -9 0 -17.88 -9 20
 2 24 -21.6 -8.68 20 -21.6 -8.68 0
 3 16 46.73 -54.4298 16.15 45.35 -50.0998 3 42.01 -54.4298 14.35
-0 //

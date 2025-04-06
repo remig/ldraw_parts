@@ -1,15 +1,9 @@
 0 Slope Brick 45  2 x  2 with Attitude Indicator and Flight Controls Pattern
 0 Name: 3039pc9.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
-
 1 0 13.4 17.8898 -27.8898 -2 0 0 0 0.70711 1.41421 0 0.70711 -1.41421 2-4disc.dat
 1 16 13.4 17.8898 -27.8898 -2 0 0 0 0.70711 1.41421 0 0.70711 -1.41421 2-4ndis.dat
 1 0 13.4 6.0811 -16.0811 2 0 0 0 0.70711 -1.41421 0 0.70711 1.41421 2-4disc.dat

@@ -1,22 +1,10 @@
 0 Brick  1 x  4 with Black "IKA 83" Pattern
 0 Name: 3010pt4.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 720-2, train
+0 !KEYWORDS Set 720-2, Train
 0 !CMDLINE -c15
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // Font: Tw Cen MT Condensed Bold
-
-
-
-
-0 // Main
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 3 16 15.15 13.116 -10 15.071 11.883 -10 14.376 12.565 -10
 3 16 13.092 16.969 -10 12.486 17.747 -10 12.804 17.521 -10
@@ -129,8 +117,6 @@
 3 16 -19.192 20 -10 -22.402 20 -10 7 24 -10
 3 16 -18.45 20 -10 -19.192 20 -10 7 24 -10
 3 16 7 24 -10 -15.484 20 -10 -18.45 20 -10
-
-0 // Black
 4 0 -31.04 20 -10 -31.04 5.973 -10 -34.072 5.973 -10 -34.072 20 -10
 4 0 -19.192 20 -10 -22.384 12.648 -10 -25.211 12.914 -10 -22.402 20 -10
 4 0 -25.256 12.386 -10 -25.256 12.914 -10 -25.211 12.914 -10 -25.211 12.386 -10

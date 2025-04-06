@@ -1,15 +1,9 @@
 0 Slope Brick 45  2 x  2 with Windows in Computer Screen Pattern
 0 Name: 3039pca.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
-
 4 0 -15.68 1.975 -11.976 -14.43 1.975 -11.976 -15.088 1.305 -11.305 -16.262 1.363 -11.363
 4 0 -12.431 1.975 -11.976 -11.432 1.975 -11.976 -12.156 1.247 -11.247 -13.622 1.254 -11.254
 3 0 -13.622 1.254 -11.254 -13.431 1.975 -11.976 -12.431 1.975 -11.976

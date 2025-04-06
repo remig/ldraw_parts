@@ -1,13 +1,8 @@
 0 Windscreen  3 x  6 x  5 Canopy with Octagonal Design Pattern
 0 Name: 30366ps1.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30366s01.dat
 1 16 0 60 0 1 0 0 0 1 0 0 0 1 s\30366p2a.dat
 1 16 0 60 0 -1 0 0 0 1 0 0 0 1 s\30366p2a.dat
@@ -178,4 +173,3 @@
 5 24 -46.195 79.135 -26.6 -48.295 72.94 -26.6 -35.358 74.646 -32.39 -55.434 82.962 -20
 5 24 -48.295 72.94 -26.6 -49.57 66.525 -26.6 -36.965 69.904 -32.39 -57.954 75.528 -20
 5 24 -49.57 66.525 -26.6 -50 60 -26.6 -37.941 64.994 -32.39 -59.484 67.83 -20
-0

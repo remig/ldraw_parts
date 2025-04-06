@@ -1,21 +1,8 @@
 0 Brick  1 x  6 with Thin Black "POLICE" Pattern
 0 Name: 3009p18.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [mikeheide] Designed complete new pattern (2005-10-08)
-0 !HISTORY 2009-01-04 [mikeheide] Updated title
-0 !HISTORY 2009-06-14 [PTadmin] Moved from 3009p18b
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2011-04-24 [tchang] Change CERTIFY CW to CCW, used DATHeader
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3009s01.dat
 4 0 -43 3.5 -10 -43 21.5 -10 -39 21.5 -10 -39 7 -10
 4 0 -35.25 15.5 -10 -35.25 12 -10 -39 12 -10 -39 15.5 -10
@@ -135,7 +122,3 @@
 4 16 -34.4846 11.8097 -10 -33.8358 11.2678 -10 -33.8358 7.7322 -10 -34.4846 7.1903 -10
 4 16 -33.4022 10.4567 -10 -33.4022 8.5433 -10 -33.8358 7.7322 -10 -33.8358 11.2678 -10
 3 16 -33.25 9.5 -10 -33.4022 8.5433 -10 -33.4022 10.4567 -10
-0 //
-0 // Pattern created wholly or in part with Quad2Dat
-0 // Thanks James
-0 //
