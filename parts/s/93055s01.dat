@@ -1,15 +1,8 @@
 0 ~Minifig Sword Katana (Dragon Guard) Blade Half
 0 Name: s\93055s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2017-04-11 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 3 16 0 -14.411 4 2.411 -14.604 3.886 1.531 -14.159 3.696
 3 16 4.355 -12.768 2.52 3.155 -12.546 2.34 2.411 -14.604 3.886
 3 16 2.411 -14.604 3.886 3.615 -14.828 3.818 4.355 -12.768 2.52
@@ -1120,7 +1113,6 @@
 2 24 4.696 -34.517 4.245 4.129 -39.669 4.569
 2 24 3.437 -37.809 4.911 4.085 -38.771 4.711
 2 24 4.739 -34.517 2.601 4.154 -39.716 2.93
-0 // Added lines/Condlines
 5 24 2.411 -14.604 3.886 1.531 -14.159 3.696 0 -14.411 4 3.155 -12.546 2.34
 5 24 4.355 -12.768 2.52 3.155 -12.546 2.34 2.411 -14.604 3.886 3.234 -12 1.339
 5 24 3.155 -12.546 2.34 2.411 -14.604 3.886 4.355 -12.768 2.52 1.531 -14.159 3.696

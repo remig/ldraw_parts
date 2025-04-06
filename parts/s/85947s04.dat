@@ -1,16 +1,8 @@
 0 ~Minifig Head Alien Squidman Eye and Head Top
 0 Name: s\85947s04.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-01-06 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2013-01-06 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
-0 // eye
 3 16 14.75 -17.52 -14.8 15.95 -19.01 -15.13 18.54 -18.59 -11.47
 3 16 19.02 -19.36 -12.27 18.54 -18.59 -11.47 15.95 -19.01 -15.13
 3 16 18.54 -18.59 -11.47 19.02 -19.36 -12.27 22.53 -18.19 -11.02
@@ -113,7 +105,6 @@
 5 24 22.39 -19.23 -12.03 23.61 -20.28 -14.98 25.27 -18.62 -13.48 21.9 -20.48 -14.01
 5 24 23.61 -20.28 -14.98 25.27 -18.62 -13.48 22.39 -19.23 -12.03 24.13 -20.22 -16.91
 5 24 25.27 -18.62 -13.48 24.13 -20.22 -16.91 26.46 -18.37 -16.84 23.61 -20.28 -14.98
-0 // top
 4 16 13.22 -18.71 -4.9 16.34 -17.46 -3.19 9.74 -20.42 2.96 6.7 -21.57 -0.42
 3 16 9.74 -20.42 2.96 16.34 -17.46 -3.19 12.41 -18.4 4.33
 3 16 6.7 -21.57 -0.42 9.21 -17.72 -7.69 13.22 -18.71 -4.9

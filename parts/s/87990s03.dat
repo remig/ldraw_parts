@@ -1,14 +1,8 @@
 0 ~Minifig Hair with Ponytail and Swept Sideways Fringe without Patternable Areas
 0 Name: s\87990s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-11-19 [Philo] File preparation for LDraw Parts Tracker
-
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4o.dat
 0 BFC INVERTNEXT
 1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat

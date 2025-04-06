@@ -1,15 +1,8 @@
 0 ~Train Track 12V Point Left: Main Part Body (Needs Work)
 0 Name: s\864s01.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // Needs work: The part's geometry is not yet modeled in full detail.
-
 1 16 311.655 4 159.949 -0.999925 0 0.0122715 0 1 0 -0.0122715 0 -0.999925 s\864s03.dat
 1 16 294.971 4 159.539 -0.999322 0 0.0368072 0 1 0 -0.0368072 0 -0.999322 s\864s03.dat
 1 16 278.302 4 158.72 -0.998118 0 0.0613207 0 1 0 -0.0613207 0 -0.998118 s\864s03.dat
@@ -122,7 +115,6 @@
 1 16 44.436 8 101.663 -0.91421 0 0.405241 0 1 0 -0.405241 0 -0.91421 s\864s07.dat
 1 16 29.263 8 94.713 -0.903989 0 0.427555 0 1 0 -0.427555 0 -0.903989 s\864s07.dat
 1 16 14.265 8 87.393 -0.893224 0 0.449611 0 1 0 -0.449611 0 -0.893224 s\864s07.dat
-0 // the next line is the center of symmetry
 1 16 -0.549 8 79.709 -0.881921 0 0.471397 0 1 0 -0.471397 0 -0.881921 s\864s07.dat
 1 16 -294.971 8 0.461 -0.999322 0 0.0368072 0 1 0 -0.0368072 0 -0.999322 s\864s07.dat
 1 16 -278.302 8 1.28 -0.998118 0 0.0613207 0 1 0 -0.0613207 0 -0.998118 s\864s07.dat

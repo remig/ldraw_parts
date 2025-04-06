@@ -1,13 +1,8 @@
 0 ~Wheel Minifig Bicycle with Integral Tyre Rim
 0 Name: s\92851s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 0 0 -6.5 2 0 0 0 0 2 0 2.5 0 4-4cylc.dat
 1 16 0 0 -4 2 0 0 0 0 2 0 1 0 4-4ring1.dat
 1 16 0 0 -4 4 0 0 0 0 4 0 1 0 48\4-4aring.dat
@@ -122,7 +117,6 @@
 2 24 7.0522 13.2587 -1.8 5.757 13.8986 -1.8
 2 24 9.1568 11.9339 -1.8 7.9563 12.7367 -1.8
 2 24 7.9563 12.7367 -1.8 2.4349 3.1733 -1.8
-
 1 16 0 0 6.5 1.93185 0 -0.51764 0.51764 0 1.93185 0 -2.5 0 4-4cylc.dat
 1 16 0 0 4 1.93185 0 -0.51764 0.51764 0 1.93185 0 -1 0 4-4ring1.dat
 1 16 0 0 4 3.8637 0 -1.03528 1.03528 0 3.8637 0 -1 0 48\4-4aring.dat

@@ -1,15 +1,8 @@
 0 ~Figure Friends Accessories Bag Round Ruffle Half
 0 Name: s\93090s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2014-11-10 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 2 24 1.08 -2.9 -9.065 0 -2.769 -8.84
 2 24 2.667 -3.38 -9.742 1.08 -2.9 -9.065
 2 24 4.076 -3.337 -9.059 2.667 -3.38 -9.742
@@ -310,7 +303,6 @@
 3 16 11.871 -11.92 -6.388 11.671 -13.178 -6.178 9.368 -12.651 -6.012
 3 16 8.526 -15.214 -4.347 9.368 -12.651 -6.012 11.39 -14.816 -4.231
 3 16 9.368 -12.651 -6.012 11.671 -13.178 -6.178 11.39 -14.816 -4.231
-
 5 24 6.849 -9.004 -8.431 4.956 -8.466 -8.533 5.105 -7.729 -8.482 6.303 -9.297 -8.263
 5 24 4.956 -8.466 -8.533 5.105 -7.729 -8.482 6.849 -9.004 -8.431 0 -7.593 -8.647
 5 24 5.105 -7.729 -8.482 7.155 -8.528 -8.236 6.849 -9.004 -8.431 5.839 -7.461 -7.932

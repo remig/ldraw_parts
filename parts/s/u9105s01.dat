@@ -1,13 +1,8 @@
 0 ~Figure Fabuland Mouse Half without Eye and Whiskers Areas
 0 Name: s\u9105s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 3 16 -2.485 -4.541 14.75 -1.051 -2.586 13.298 -2.573 -1.991 12.358
 3 16 -2.573 -1.991 12.358 -6.065 -2.603 11.973 -2.485 -4.541 14.75
 3 16 -4.724 -1.356 10.688 -6.065 -2.603 11.973 -2.573 -1.991 12.358
@@ -3324,4 +3319,3 @@
 5 24 0 -40.833 -15.88 -4.62 -41 -15.88 -1.796 -38.28 -18.201 -2.52 -42.656 -14.62
 5 24 -16.8 -39.261 -8.74 -15.96 -41.932 -7.48 -16.688 -40.01 -7.764 -15.96 -38.796 -10
 5 24 -16.8 -36.188 -11.68 -16.8 -39.261 -8.74 -17.769 -36.55 -9.907 -15.96 -38.796 -10
-

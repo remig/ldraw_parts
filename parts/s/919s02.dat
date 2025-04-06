@@ -1,13 +1,8 @@
 0 ~Electric Battery Box with Pinholes Box Half
 0 Name: s\919s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 100 0 -20 0 0 -1 0 1 0 -1 0 0 s\919s01.dat
 1 16 -100 0 -20 0 0 1 0 1 0 -1 0 0 s\919s01.dat
 1 16 80 -50 -20 0 -1 0 -20 0 0 0 0 -20 1-4disc.dat
@@ -77,4 +72,3 @@
 1 16 -40 -40 -38 0 0 -10 -10 0 0 0 1 0 1-4edge.dat
 1 16 57 -40 -38 0 0 10 -10 0 0 0 1 0 1-4edge.dat
 1 16 -60 40 -38 0 0 10 10 0 0 0 1 0 1-4edge.dat
-0

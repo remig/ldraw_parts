@@ -1,13 +1,8 @@
 0 ~Sticker with Heat Sensitive UFO Drawing Foreground - Half
 0 Name: s\s12s02.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 4 16 -9.99 -0.25 11.215 -10.175 -0.25 11.77 -10.73 -0.25 11.955 -10.73 -0.25 11.03
 4 16 -10.73 -0.25 10.29 -9.99 -0.25 10.66 -9.99 -0.25 11.215 -10.73 -0.25 11.03
 4 16 -11.655 -0.25 11.03 -11.47 -0.25 10.475 -10.73 -0.25 10.29 -10.73 -0.25 11.03

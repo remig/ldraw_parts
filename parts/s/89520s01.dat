@@ -1,14 +1,8 @@
 0 ~Minifig Helmet Castle Closed with Eye Slit Half
 0 Name: s\89520s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2019-03-03 [Philo] File preparation for LDraw Parts Tracker
-
 3 16 11.512 9.796 -6.975 11.175 7.885 -7.575 11.688 4.5 -6.222
 4 16 11.512 9.796 -11.752 11.157 7.784 -12.135 11.175 7.885 -7.575 11.512 9.796 -6.975
 3 16 11.175 7.885 -7.575 11.157 7.784 -12.135 10.731 7.008 -8.148
@@ -588,7 +582,6 @@
 2 24 4.117 -4.59 -15.07 4.432 -4.287 -14.995
 2 24 2.437 -5.279 -15.668 4.117 -4.59 -15.07
 2 24 2.142 -5.423 -15.75 2.437 -5.279 -15.668
-
 4 16 13 2.5 0 12.0107 2.5 4.9751 12.0107 19.8309 4.9751 13 20.294 0
 4 16 9.1923 2.5 9.1923 9.1923 19.5413 9.1923 12.0107 19.8309 4.9751 12.0107 2.5 4.9751
 4 16 9.1923 2.5 9.1923 4.9751 2.5 12.0107 4.9751 19.3928 12.0107 9.1923 19.5413 9.1923

@@ -1,11 +1,8 @@
-0 ~Minifig Armour Shoulder Pads with Porcupine Spikes Half
+0 ~Minifig Armour Shoulder Pads with Top Spikes Half
 0 Name: s\88295s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 3 16 21.75 5.448 -0.02 21.358 5.228 2.087 23.59 6.913 4.354
 3 16 23.59 6.913 4.354 21.358 5.228 2.087 22.078 5.654 6.295
 3 16 21.75 5.448 -0.02 23.578 6.9 -4.375 21.348 5.223 -2.113

@@ -1,14 +1,8 @@
 0 ~Figure Fabuland Horse Head Asymmetric Areas
 0 Name: s\u592s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
-0 // Front Wisp
 3 16 9.9 -38.4 -12.3 9.2 -37.7 -13.8 9.6 -37.1 -13.3
 3 16 9.2 -37.7 -13.8 9.1 -36.7 -14.4 9.6 -37.1 -13.3
 3 16 9.8 -36.5 -13.4 9.6 -37.1 -13.3 9.1 -36.7 -14.4
@@ -889,7 +883,6 @@
 5 24 -10.3 -41 -10.2 -11.1 -38.2 -11.6 -9.4 -39.6 -11.2 -12.5 -39 -10.8
 5 24 -11.1 -38.2 -11.6 -9.4 -39.6 -11.2 -10.3 -41 -10.2 -11.1 -36.7 -12.2
 5 24 -11.1 -38.2 -11.6 -11.1 -36.7 -12.2 -9.4 -39.6 -11.2 -12.7 -38.3 -11.2
-0 // Back Wisp
 3 16 4.5 -31.9 17.7 5.6 -31.3 17.6 4.2 -31 18.2
 3 16 4.9 -32.8 17.1 5.6 -31.3 17.6 4.5 -31.9 17.7
 3 16 6.7 -30.8 17.5 7 -32.7 16.4 7.1 -30.6 16.8

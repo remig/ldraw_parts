@@ -1,11 +1,8 @@
 0 ~| Brickstuff Logo White
 0 Name: s\t1012s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 15 0 0 2.4388 -2.3557 0 0.6312 -2.4388 0 0 -2.3557 0 -0.6312
 4 15 0 0 2.4388 -2.3557 0 -0.6312 -2.1121 0 -1.2194 -1.7245 0 -1.7245
 3 15 0 0 2.4388 -1.7245 0 -1.7245 -1.2194 0 -2.1121

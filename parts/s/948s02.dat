@@ -1,13 +1,8 @@
 0 ~Train Track  4.5V Point Left - Inner Curve Segment
 0 Name: s\948s02.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 5 24 320 16 150 320 8 150 298.284 16 149.621 341.716 16 149.621
 4 16 320 16 150 320 8 150 298.284 8 149.621 298.284 16 149.621
 5 24 320 16 154 320 12 154 298.144 16 153.619 341.856 16 153.619
@@ -48,4 +43,3 @@
 2 24 320 16 170 297.586 16 169.609
 2 24 297.865 8 161.614 320 8 162
 2 24 297.865 0 161.614 320 0 162
-0

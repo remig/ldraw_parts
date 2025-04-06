@@ -1,13 +1,8 @@
 0 ~Figure Friends Girl Torso with Bikini Top Scale Belt Pattern Half
 0 Name: s\92241p09s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 4 16 4.33 18 -8.26 4.1075 16.4575 -8.3271 3.28 16.93 -8.4161 2.68 17.56 -8.4733
 3 16 2.47 18 -8.4877 4.33 18 -8.26 2.68 17.56 -8.4733
 4 16 6.43 18 -7.56 6.5315 15.6214 -7.531 5.28 15.9 -7.9472 4.33 18 -8.26

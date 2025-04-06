@@ -1,13 +1,8 @@
 0 ~Minifig Helmet Underwater - One Half
 0 Name: s\87754s01.dat
 0 Author: Tomas Kralicek [RabbiT_CZ]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 -20 10 20 0 1 0 1 0 0 0 0 1 peghole.dat
 1 16 -20 10 20 0 1 0 -9 0 0 0 0 9 7-8edge.dat
 0 BFC INVERTNEXT
@@ -26,7 +21,6 @@
 1 16 -10 24 20 6 0 0 0 -1 0 0 0 6 4-4edge.dat
 1 16 -10 22 20 -8 0 0 0 1 0 0 0 8 1-4edge.dat
 1 16 -10 22 20 -8 0 0 0 1 0 0 0 -8 1-16edge.dat
-
 1 16 0 -10 -7.5 -5 0 0 0 0 -5 0 1 0 1-4disc.dat
 1 16 0 -10 -7.5 -5 0 0 0 0 -5 0 1 0 1-4edge.dat
 1 16 0 -10 -7.5 -5 0 0 0 0 -5 0 2 0 1-4cyli.dat
@@ -36,15 +30,12 @@
 1 16 0 -4 13 -2 0 0 0 0 -2 0 1 0 1-4edge.dat
 1 16 0 -4 12 -2 0 0 0 0 -2 0 1 0 1-4edge.dat
 1 16 0 -4 13 -2 0 0 0 0 -2 0 -1 0 1-4cyli.dat
-
 1 16 -14.5 9.5 -3 0 1 0 -1.5 0 0 0 0 1.5 4-4edge.dat
 1 16 -14.5 9.5 -3 0 1 0 -1.5 0 0 0 0 1.5 4-4ndis.dat
 0 BFC INVERTNEXT
 1 16 -14.5 9.5 -3 0 1 0 -1.5 0 0 0 0 1.5 4-8sphe.dat
-
 1 16 -4 25.477 -20.965 0 -1.5 0 2.4 0 0 0 0 -2.4 2-4cylo.dat
 1 16 -5.5 25.477 -20.965 0 -.5 0 .8 0 0 0 0 -.8 2-4con2.dat
-
 2 24 -19.646 2.095 10.423 -19.378 1.398 8.073
 2 24 -19.491 -1.476 10.713 -20 1.062 14.288
 2 24 -20 1.685 16.5556 -20 1.685 16.556

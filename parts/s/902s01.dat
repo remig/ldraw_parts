@@ -1,15 +1,8 @@
 0 ~Electric Light Reflector Round  2 x  2 x  0.667 - Eighth
 0 Name: s\902s01.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
-0 !HISTORY 2009-05-06 [westrate] File preparation for LDraw Parts Tracker
-0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-
 4 16 4.25 -6.75 7.36 2.2 -6.75 8.21 1.61 -5.14 6 3.09 -5.13 5.35
 4 16 3.09 -5.13 5.35 4.36 -5.12 4.36 6.01 -6.75 6.01 4.25 -6.75 7.36
 4 16 12.9 -16.25 12.9 9.13 -16.25 15.8 8.44 -16.25 14.61 11.93 -16.25 11.93
@@ -181,4 +174,3 @@
 5 24 4.09 -3.33 11.39 4.18 -4.64 11.89 4.18 -3.78 11.89 3.88 -4.64 10
 2 24 5.05 0 6.4 4.18 0 8.11
 5 24 3.88 -2.27 10 2.59 -1.66 9.68 4.02 -1.66 9.09 4.09 -3.33 11.39
-0

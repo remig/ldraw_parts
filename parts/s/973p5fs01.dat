@@ -1,11 +1,8 @@
 0 ~Minifig Torso with Dress with Wavy Lines Lower Part Pattern
 0 Name: s\973p5fs01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 -1.89 19.42 0 1.09 22.04 0 1.31 21.82 0 0 19.35 0
 4 71 12.36 7.42 0 11.78 7.42 0 12.07 8.07 0 12.36 8.22 0
 4 71 10.47 7.85 0 10.11 7.56 0 10.04 8.29 0 10.47 8.44 0

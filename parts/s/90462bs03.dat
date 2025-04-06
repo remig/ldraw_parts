@@ -1,11 +1,8 @@
 0 ~Minifig Headdress Nemes Inside Surface
 0 Name: s\90462bs03.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 3 16 8.935 24.348 -9.684 6.384 21.145 -11.526 8.611 19.857 -9.97
 3 16 12.295 14.384 -4.865 12.691 22.575 -3.583 11.238 17.545 -6.883
 3 16 11.238 17.545 -6.883 12.691 22.575 -3.583 11.12 23.718 -7.111

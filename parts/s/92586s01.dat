@@ -1,15 +1,8 @@
 0 ~Animal Dog German Shepherd without Face
 0 Name: s\92586s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2012-11-07 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2012-11-07 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 3 16 -6.75 -7.08 -36.41 -7.16 -10.95 -33.49 -7.71 -6.38 -33.22
 3 16 -3.02 1.2 -46.18 -5.05 -2.66 -41.11 -4.03 1.69 -41.13
@@ -1395,7 +1388,6 @@
 2 24 6.4 26.75 -15.83 8.57 21.78 -16.11
 4 16 6.98 0 6.4 -0.01 0 6.46 -0.48 0 -15.3 4.68 0 -15.47
 4 16 -0.48 0 -15.3 -0.01 0 6.46 -7.12 0 6.28 -4.72 0 -15.47
-0 // Added lines/Condlines
 5 24 -6.75 -7.08 -36.41 -7.16 -10.95 -33.49 -7.71 -6.38 -33.22 -5.19 -10.71 -37.25
 5 24 -7.16 -10.95 -33.49 -7.71 -6.38 -33.22 -6.75 -7.08 -36.41 -7.86 -9.7 -32.3
 5 24 -7.71 -6.38 -33.22 -6.75 -7.08 -36.41 -7.16 -10.95 -33.49 -6.25 1.01 -34.49

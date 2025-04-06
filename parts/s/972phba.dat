@@ -1,15 +1,8 @@
 0 ~Minifig Leg Left with Greatcoat - Purple Detail
 0 Name: s\972phba.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2004-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
-0 !HISTORY 2007-09-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 4 16 12 11.25 -6 8 11 -6 6 6.74 -6 17.5 10 -6
 3 16 4.25 0 -9 10.5 0 -9 9.5 0.5 -8.895
 4 16 13.5 3.42 -8.28 13 3.42 -8.28 10.5 0 -9 16 1.75 -8.63
@@ -27,4 +20,3 @@
 4 16 11.25 3.42 -8.28 13 5.35 -6.955 13.5 6.74 -6 6 6.74 -6
 3 16 5 3.42 -8.28 11.25 3.42 -8.28 6 6.74 -6
 3 16 17.75 6.74 -6 17.5 10 -6 6 6.74 -6
-0

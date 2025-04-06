@@ -1,13 +1,8 @@
 0 ~Animal Friends Bird with Eyes, Feathers and Magenta Beak Pattern Half
 0 Name: s\98388p04s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 2 24 0 -29.171 -18.233 3.314 -30.744 -18.218
 2 24 3.314 -30.744 -18.218 6.161 -34.649 -18.27
 2 24 6.161 -34.649 -18.27 2.586 -37.55 -20.584

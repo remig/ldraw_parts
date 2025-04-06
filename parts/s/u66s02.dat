@@ -1,18 +1,12 @@
 0 ~Sheet Plastic  6 x 12 Triangular - Surface
 0 Name: s\u66s02.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 88 0 32 0 0 4 0 1 0 -4 0 0 2-4ndis.dat
 1 16 74 0 32 0 0 -4 0 1 0 -4 0 0 2-4ndis.dat
 1 16 0 0 198 -4 0 0 0 1 0 0 0 -4 2-4ndis.dat
 1 16 0 0 0 7 0 0 0 1 0 0 0 7 4-4ndis.dat
-
 4 16 -13.24 0 -21.56 -7 0 -7 -19.13 0 -17.79 -16.46 0 -20.11
 4 16 -7 0 0 -21 0 -14.79 -19.13 0 -17.79 -7 0 -7
 4 16 -7 0 7 -21.92 0 -11.38 -21 0 -14.79 -7 0 0

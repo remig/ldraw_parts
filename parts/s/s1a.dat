@@ -1,15 +1,8 @@
 0 ~Sticker System with Classic Space Pattern - Gold
 0 Name: s\s1a.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Subpart UPDATE 2003-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 4 16 -3.194 -0.25 9.737 -2.933 -0.25 9.405 -3.324 -0.25 9.298 -3.636 -0.25 9.517
 3 16 -1.04 -0.25 9.46 -1.407 -0.25 9.104 -1.431 -0.25 9.484
 4 16 -1.04 -0.25 9.46 -0.619 -0.25 9.152 -1.04 -0.25 8.843 -1.407 -0.25 9.104
@@ -93,4 +86,3 @@
 4 16 -3.69 -0.25 -10.97 -0.399 -0.25 -11.311 -4.749 -0.25 -12.185 -4.76 -0.25 -11.463
 4 16 -5.582 -0.25 -11.294 -4.76 -0.25 -11.463 -4.749 -0.25 -12.185 -5.822 -0.25 -11.968
 3 16 -5.582 -0.25 -11.294 -5.822 -0.25 -11.968 -5.895 -0.25 -11.373
-0

@@ -1,11 +1,8 @@
-0 ~Electric Technic Motor Back without Centre Pin Hole
+0 ~Electric Technic Motor Back without Centre Pin Hole (Obsolete)
 0 Name: s\u9373s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 22 2 40 22 50 40 20 40 40 20 16 40
 4 16 24 4 40 24 48 40 22 50 40 22 2 40
 4 16 27 8 40 27 44 40 24 48 40 24 4 40

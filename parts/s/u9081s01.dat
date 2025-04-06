@@ -1,25 +1,10 @@
 0 ~Tyre  7/ 22 x 26 Racing Slick - Half of 1/6
 0 Name: s\u9081s01.dat
 0 Author: Ingolf Weisheit [stahlwollschaf]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
-0 // subpart for u9081.dat: one half of a 60deg segment (symmetrical to xy-plane and zy-plane, 60deg)
-0 // origin: center of wheel
-
-0 // groove on inner radius r=33.125
-
 0 BFC INVERTNEXT
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11140s03.dat 
-
-0 // an outer torus with an elliptical cross-section R=33.125, ry=4, rz=8.75
-0 // major radius R=33.125 on xy-plane
-0 // major radius is in hires (48), minor radius is lowres (16)
-0 // in order not to create an unnecessary amount of facets
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11140s03.dat
 4 16 0 -33.125 -8.75 0 -34.6557 -8.0839 -4.5235 -34.3592 -8.0839 -4.3237 -32.8416 -8.75
 4 16 0 -34.6557 -8.0839 0 -35.9534 -6.1872 -4.6929 -35.6458 -6.1872 -4.5235 -34.3592 -8.0839
 4 16 0 -35.9534 -6.1872 0 -36.8205 -3.3485 -4.806 -36.5055 -3.3485 -4.6929 -35.6458 -6.1872
@@ -120,4 +105,3 @@
 5 24 -30.0127 -17.3279 -8.0839 -31.1366 -17.9767 -6.1872 -32.0177 -13.2622 -8.0839 -27.4942 -21.0971 -8.0839
 5 24 -31.1366 -17.9767 -6.1872 -31.8875 -18.4103 -3.3485 -33.2166 -13.7588 -6.1872 -28.5238 -21.8871 -6.1872
 5 24 -31.8875 -18.4103 -3.3485 -32.1512 -18.5625 0 -34.0177 -14.0906 -3.3485 -29.2117 -22.4149 -3.3485
-

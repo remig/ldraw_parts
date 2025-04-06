@@ -1,13 +1,8 @@
 0 ~Slope Brick Curved  2 x  4 with Underside Studs with Yellow Arches and Circles Pattern - Quarter
 0 Name: s\88930pz1s01.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 3 14 -19.459 -12.414 -2.938 -18.241 -12.402 -2.97 -19.459 -12.873 -1.653
 3 14 -18.241 -12.402 -2.97 -17.065 -12.37 -3.061 -19.459 -12.873 -1.653
 4 14 -17.845 -14.624 5.573 -19.459 -14.635 5.651 -19.459 -14.593 5.357 -16.367 -14.593 5.357

@@ -1,16 +1,8 @@
 0 ~Minifig Torso with Cavalry General Pattern - Gold
 0 Name: s\973pw1c.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
-0 // Gold
-
-
 4 16 -10.65 0 -10 -11.06 0 -10 -11.48 0.85 -10 -11.11 0.88 -10
 4 16 -11.11 0.88 -10 -11.48 0.85 -10 -12.02 2.22 -10 -11.62 2.25 -10
 4 16 -11.62 2.25 -10 -12.02 2.22 -10 -12.344 3.683 -10 -11.88 3.71 -10
@@ -45,4 +37,3 @@
 4 16 4.245 2.485 -10 3.488 1.746 -10 2.262 2.637 -10 3.199 2.637 -10
 3 16 2.262 2.637 -10 2.73 3.585 -10 3.199 2.637 -10
 4 16 1.973 1.746 -10 1.215 2.485 -10 2.262 2.637 -10 3.488 1.746 -10
-0

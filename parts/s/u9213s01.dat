@@ -1,15 +1,8 @@
 0 ~Fabuland Tree Structure
 0 Name: s\u9213s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !CATEGORY Plant
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 -12 0 30 0 0 0 7 0 0 0 30 48\4-4cyli.dat
 1 16 0 -12 0 30 0 0 0 1 0 0 0 30 48\4-4edge.dat
 1 16 0 -12 0 30 0 0 0 1 0 0 0 30 48\4-4disc.dat
@@ -89,7 +82,6 @@
 2 24 3.9157 -5 -29.7442 -0.0004 -5 -29.9994
 2 24 -0.0004 -5 -29.9994 -3.9161 -5 -29.7452
 2 24 -3.9161 -5 -29.7452 -6 -5 -29.3295
-0 // Tree
 1 16 -36.2 -194.4 -3 18.3848 0 -18.3848 -18.3848 0 -18.3848 0 6 0 3-8cylo.dat
 1 16 3.8 -192.4 -3 28.2792 0 -10.0142 -10.0142 0 -28.2792 0 6 0 5-16cylo.dat
 1 16 59.2 -150 -3 18.3848 0 18.3848 18.3848 0 -18.3848 0 6 0 5-16cylo.dat

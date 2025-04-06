@@ -1,11 +1,8 @@
-0 ~Electric Spike Prime Distance Sensor Lighting Ring Half
+0 ~Electric Powered Up Distance Sensor Lighting Ring Half
 0 Name: s\u9465s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 BFC INVERTNEXT
 1 16 0 0 2 -11.08655 0 4.5922 -4.5922 0 -11.08655 0 12 0 3-8cylo.dat
 1 16 0 0 0 -14.78207 0 6.12293 -6.12293 0 -14.78207 0 14 0 3-8cylo.dat

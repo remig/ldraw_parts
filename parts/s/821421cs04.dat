@@ -1,18 +1,8 @@
 0 ~Sticker "Octan", Letters "tan", Black Bordered
 0 Name: s\821421cs04.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-
-
-0 // Thinner Lines
-0 // For multiple use in different colors
-
-
-0 // Main
 4 16 1.639 0 5.692 .997 0 5.692 -3.812 0 2.439 1.639 0 2.665
 3 16 -2.363 0 .87 -3.812 0 2.439 -3.812 0 .916
 4 16 1.639 0 2.665 -3.812 0 2.439 -2.363 0 .87 -2.251 0 .832
@@ -83,8 +73,6 @@
 4 16 29.581 0 -7.089 29.505 0 .414 25.271 0 -1.45 25.332 0 -1.908
 3 16 29.581 0 -7.089 25.332 0 -1.908 25.332 0 -7.089
 4 16 29.435 0 .803 29.244 0 1.244 28.899 0 1.715 29.505 0 .414
-
-0 // Black
 4 0 1.639 0 2.665 2.027 0 3.053 2.027 0 6.081 1.639 0 5.692
 4 0 .997 0 5.692 1.639 0 5.692 2.027 0 6.081 .878 0 6.081
 4 0 1.639 0 2.665 5.108 0 2.665 5.497 0 3.053 2.027 0 3.053

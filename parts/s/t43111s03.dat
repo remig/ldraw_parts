@@ -1,11 +1,8 @@
 0 ~| Hubelino Stud Tube Straight Track
-0 Name: t43111s03.dat
+0 Name: s\t43111s03.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 44 0 14 0 0 0 1 0 0 0 14 4-4edge.dat
 1 16 0 44 0 16 0 0 0 1 0 0 0 16 4-4edge.dat
 0 BFC INVERTNEXT
@@ -79,4 +76,4 @@
 2 24 -16 32.5895 0 -14.7824 33.1238 6.1232
 2 24 -14 33.467 0 -13.7772 33.5648 -1.1204
 2 24 -13.7772 33.5648 -7.6273 -14.7824 33.1238 -6.1232
-2 24 -16 32.5895 0 -14.7824 33.1238 -6.1232 
+2 24 -16 32.5895 0 -14.7824 33.1238 -6.1232

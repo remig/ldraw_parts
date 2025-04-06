@@ -1,13 +1,8 @@
 0 ~Minifig Ring Understud
 0 Name: s\87748s03.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 1 16 0 1 0 0 0 8 0 13 0 8 0 0 4-4cylo.dat
 1 16 0 1 0 0 0 -8 0 -13 0 8 0 0 4-4ndis.dat
 0 BFC INVERTNEXT
@@ -83,4 +78,3 @@
 3 16 12.99 1 1.5 8 1 0.924 8 1 8
 4 16 8 1 -0.154 8 1 0.924 12.99 1 1.5 11.991 1 -0.231
 4 16 11.991 1 -0.231 11.991 1 -6.923 8 1 -4.619 8 1 -0.154
-0 //

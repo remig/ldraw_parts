@@ -1,11 +1,8 @@
-0 ~Electric Spike Prime Medium Motor Front Bottom Half
+0 ~Electric Powered Up Medium Angular Motor Front Bottom Half
 0 Name: s\u9365s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 2 24 27 -9 50 29 -9 50
 2 24 27 -9 50 27 7 50
 2 24 29 9 50 19 9 50

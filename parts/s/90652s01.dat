@@ -1,17 +1,9 @@
 0 ~Constraction Shell  2.5 x  5 x  8 Chest Flat without Front Surface
 0 Name: s\90652s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // ball clip
-
 1 16 0 0 0 1 0 0 0 0 1 0 -1 0 s\90640s03.dat
-0 // double connector
 1 16 0 -50 -33.5 0 0 -1 -1 0 0 0 1 0 s\90640s05.dat
 0 BFC INVERTNEXT
 1 16 0 -60 -30 4.5 0 0 0 0 4.5 0 -4 0 4-4cylo.dat
@@ -19,10 +11,8 @@
 0 BFC INVERTNEXT
 1 16 0 -40 -30 4.5 0 0 0 0 4.5 0 -4 0 4-4cylo.dat
 1 16 0 -40 -30 4.5 0 0 0 0 4.5 0 -1 0 4-4ndis.dat
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\90652s02.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\90652s02.dat
-
 2 24 0 69.641 -26.756 0 69.641 -21.288
 2 24 0 30.009 -23.628 0 14.432 -25.004
 2 24 0 35.69 -29.069 0 30.009 -23.628

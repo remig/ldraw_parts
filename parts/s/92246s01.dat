@@ -1,21 +1,14 @@
 0 ~Figure Friends Male Left Arm Structure
 0 Name: s\92246s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
-0 // Shoulder
 1 16 0 0 0 0 1 0 0 0 6 6 0 0 4-4disc.dat
 1 16 0 0 0 0 -8.5 0 0 0 2 -2 0 0 4-4cylo.dat
 1 16 -11.5 0 0 0 1 0 0 0 2 -2 0 0 4-4cylc.dat
 1 16 -8.5 0 0 0 -2 0 0 0 2.5 -2.5 0 0 4-4cylo.dat
 1 16 -8.5 0 0 0 -1 0 0 0 0.5 -0.5 0 0 4-4ring4.dat
 1 16 -10.5 0 0 0 1 0 0 0 0.5 0.5 0 0 4-4ring4.dat
-0 // Hand
 0 BFC INVERTNEXT
 1 16 13.5 30.3 12.3 -4 0 0 0 0 -4 0 -11 0 2-4cylo.dat
 1 16 13.5 30.3 12.3 -6 0 0 0 0 -6 0 -11 0 2-4cylo.dat

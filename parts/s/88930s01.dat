@@ -1,15 +1,8 @@
 0 ~Slope Brick Curved  2 x  4 Underside Stud
 0 Name: s\88930s01.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
-0 // small circle
-
 2 24 -5.61 -9.93 1.93 -5.54 -10.02 2.3
 2 24 -6 -9.22 0 -5.61 -9.93 1.93
 2 24 -5.54 -10.02 2.3 -4.24 -10.51 4.24
@@ -32,7 +25,6 @@
 2 24 -4.31 -7.48 -4.14 -5.48 -8.35 -2.39
 2 24 -4.24 -7.43 -4.24 -4.31 -7.48 -4.14
 2 24 -5.54 -8.38 -2.3 -6 -9.22 0
-0 // big circle
 2 24 -7.62 -9.93 1.93 -7.39 -10.21 3.06
 2 24 -8 -9.22 0 -7.62 -9.93 1.93
 2 24 -7.39 -10.21 3.06 -5.66 -10.86 5.66

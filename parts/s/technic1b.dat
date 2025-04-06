@@ -1,16 +1,10 @@
 0 ~Technic Logo (Rounded Font) - Background
 0 Name: s\technic1b.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP width = 79.5, height = 20.5
 0 !HELP to be used with technic1a.dat
-
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
 4 16 -36.96 0 -8.29 -39.17 0 7.46 -39.49 0 8.01 -39.75 0 -10.25
 4 16 -34.61 0 6.8 -34.82 0 7.1 -38.82 0 7.14 -36.96 0 -8.29
 4 16 -28.25 0 -9.2 -29.62 0 -8.14 -34.92 0 -9.46 -35.52 0 -9.94

@@ -1,16 +1,8 @@
 0 ~Minifig Torso with Six Button Suit and Anchor Pattern - Gold
 0 Name: s\973p05a.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Subpart UPDATE 2004-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-09-13 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
-0 // Buttons
 1 16 5.75 17.5 -10 0.75 0 0 0 0 0.75 0 1 0 4-4disc.dat
 1 16 -5.75 17.5 -10 0.75 0 0 0 0 0.75 0 1 0 4-4disc.dat
 1 16 3 23 -10 0.75 0 0 0 0 0.75 0 1 0 4-4disc.dat
@@ -49,4 +41,3 @@
 3 16 9 11.5 -10 9 12.25 -10 8.25 11.875 -10
 3 16 10 11.5 -10 10.75 11.875 -10 10 12.25 -10
 2 16 8.25 11.875 -10 10.75 11.875 -10
-0

@@ -1,15 +1,9 @@
 0 ~Figure Fabuland Hippo Half with Blank Patterned Areas
 0 Name: s\u9109s00.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9109s01.dat
-0 // Eye area
 3 16 -11.421 -33.711 -12.811 -15.35 -34.447 -11.187 -13.302 -32.438 -12.952
 3 16 -11.421 -33.711 -12.811 -12.385 -35.331 -11.739 -15.35 -34.447 -11.187
 3 16 -13.906 -37.877 -10.256 -15.35 -34.447 -11.187 -12.385 -35.331 -11.739

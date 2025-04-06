@@ -1,13 +1,8 @@
 0 ~Constraction Shell  2.5 x  3 x  8 Flat - Half
 0 Name: s\90636s02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 0 BFC INVERTNEXT
 1 16 0 0 -20 0 0 4.5 -4.5 0 0 0 -4.4 0 2-4cyli.dat
 0 BFC INVERTNEXT
@@ -16,7 +11,6 @@
 1 16 0 0 -24.4 4.5 0 0 0 0 -4.5 0 -1.1 0 1-4cyls.dat
 1 16 0 0 -25.5 0 0 4.5 4.5 0 0 0 1 1.1 2-4edge.dat
 1 16 0 0 -25.5 0 0 4.5 4.5 0 0 0 -1 1.1 2-4disc.dat
-
 4 16 3.637 27.3 -24 3.637 27.3 -24.274 1.246 28.003 -24.89 1.246 28.003 -24
 3 16 4.72 26.604 -24 3.637 27.3 -24.274 3.637 27.3 -24
 3 16 17.065 65.628 -19.046 15.551 82.917 -18.09 0 58.14 -23.968

@@ -1,14 +1,8 @@
 0 ~Umbrella  8 x  8 with Curved Tabs -  1/8
 0 Name: s\958s03.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-06-05 [Holly-Wood] Fixed concave quads, regenerated conds, added triangle at top
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\958s01.dat
 3 16 -7.649 0 -18.477 7.649 0 -18.477 0 0 0
 5 24 0 0 0 -7.649 0 -18.477 7.649 0 -18.477 -34.295 1.33 -14.213
@@ -50,7 +44,6 @@
 4 16 21.38 27.7 -80 16.57 28 -80 15.74 28 -76 20.23 27.7 -76
 3 16 21.38 27.7 -80 20.23 27.7 -76 24.04 26.83 -76
 3 16 24.04 26.83 -76 25.46 26.83 -80 21.38 27.7 -80
-
 5 24 16.57 28 -80 11.25 27.7 -76 11.76 27.7 -80 15.74 28 -76
 5 24 21.38 27.7 -80 15.74 28 -76 16.57 28 -80 20.23 27.7 -76
 5 24 -15.74 28 -76 -11.76 27.7 -80 -11.25 27.7 -76 -16.57 28 -80

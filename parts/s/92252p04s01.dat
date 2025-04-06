@@ -1,13 +1,8 @@
 0 ~Figure Friends Foot with Shoe with Stripe Pattern, Lower
 0 Name: s\92252p04s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 3 16 2.5599 -5.3687 12.1767 4.2737 -6.0482 12.9827 2.7 0 12.7
 3 16 6.0726 -5.5386 13.7136 5.4 0 13.9 4.2737 -6.0482 12.9827
 3 16 1.5 0 10.2 1 0 7 0.9185 -2.5494 6.7911

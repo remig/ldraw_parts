@@ -1,16 +1,8 @@
 0 ~Garage Door Counterweight without Hinge Pin
 0 Name: s\822s02.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-01-17 [mikeheide] renamed, substituted stud.dat with 4-4cylc.dat, updated header
-0 !HISTORY 2011-05-14 [Steffen]   restructured files 822.dat, 823.dat
-0 !HISTORY 2017-12-23 [MagFors]   removed hingepin
-
-
 2 24 14.5 -8.5 -6.5 -60.5 -8.5 -6.5
 2 24 2.5 -18.5 -6.5 2.5 -21.5 -6.5
 2 24 2.5 -21.5 2 2.5 -8.5 2

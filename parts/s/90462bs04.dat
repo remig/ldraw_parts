@@ -1,11 +1,8 @@
 0 ~Minifig Headdress Nemes Forehead Surface
 0 Name: s\90462bs04.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 3 16 5.413 -2.634 -13.663 6.459 2.086 -14.824 7.474 -2.168 -12.639
 3 16 6.382 -5.355 -10.909 5.413 -2.634 -13.663 7.474 -2.168 -12.639
 3 16 16.52 -1.962 .081 16.349 2.917 -1.938 19.325 2.591 .221

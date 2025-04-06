@@ -1,13 +1,8 @@
 0 ~Minifig Head Robot without Front Surface
 0 Name: s\98384s01.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
 2 24 14 24 -10 14 24 10
 2 24 -14 24 -10 14 24 -10
 2 24 -14 24 -10 -14 24 10
@@ -136,7 +131,6 @@
 4 16 -8 0 -8 -14 0 -10 14 0 -10 8 0 -8
 4 16 -8 0 8 -14 0 10 -14 0 -10 -8 0 -8
 1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4ndis.dat
-
 2 24 14 5.69085 -1 14 8.69861 -1
 2 24 14 5.69085 -1 14.2591 5.66476 -0.948583
 2 24 14.2591 5.66476 -0.948583 14.383 5.65488 -0.924

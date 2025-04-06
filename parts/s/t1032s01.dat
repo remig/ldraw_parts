@@ -1,11 +1,8 @@
 0 ~| Vengit S-Brick Electric Contacts
 0 Name: s\t1032s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 494 2 -2 1 2 0 0 0 0 -2 0 1.5 0 box4-1.dat
 1 494 -6 -2 1 2 0 0 0 0 -2 0 1.5 0 box4-1.dat
 1 16 -2 -2 2 -2 0 0 0 0 -2 0 -1 0 rect.dat

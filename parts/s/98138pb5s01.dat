@@ -1,11 +1,8 @@
 0 ~Tile  1 x  1 Round Sand Green Iron Man Chest Reactor Pattern 1/5
 0 Name: s\98138pb5s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 15 0 0 0 1.7634 0 2.4271 1.362 0 2.673 .9271 0 2.8532
 4 15 0 0 0 .9271 0 2.8532 .4693 0 2.9631 0 0 3
 4 15 0 0 0 0 0 3 -.4693 0 2.9631 -.9271 0 2.8532
@@ -71,7 +68,6 @@
 3 378 .2 0 8.8 .2 0 5.0843 .7978 0 5.0372
 3 378 -.2 0 8.8 -.7978 0 5.0372 -.1983 0 5.0844
 3 378 -.2 0 8.8 -1.576 0 4.8504 -.7978 0 5.0372
-
 1 378 0 0 -6.75 .7 0 0 0 1 0 0 0 .7 4-4ndis.dat
 1 378 0 0 -6.75 .4 0 0 0 1 0 0 0 .4 4-4disc.dat
 4 0 -.4 0 -6.75 -.3696 0 -6.5969 -.6467 0 -6.4821 -.7 0 -6.75

@@ -1,17 +1,8 @@
 0 ~Minifig Torso with School Uniform - Trim Detail
 0 Name: s\973ph0a.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2013-03-11 [BlackBrick89] Removed the T-junctions
-0 !HISTORY 2013-12-13 [MagFors] Corrected overlapping quads
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 4 16 -18 32 -10 -19 32 -10 -19 29 -10 -18 31.5 -10
 4 16 19 29 -10 19 32 -10 18 32 -10 18 31.5 -10
 4 0 -17.5 31.5 -10 -18 31.5 -10 -18 29.75 -10 -17 30 -10

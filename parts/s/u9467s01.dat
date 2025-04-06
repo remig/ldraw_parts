@@ -1,11 +1,8 @@
-0 ~Electric Spike Prime Distance Sensor Front Half
+0 ~Electric Powered Up Distance Sensor Front Half
 0 Name: s\u9467s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 BFC INVERTNEXT
 1 16 40 0 0 0 0 20 -20 0 0 0 4 0 2-4cylo.dat
 0 BFC INVERTNEXT
@@ -40,7 +37,6 @@
 2 24 65 -25 9 65 -20 4
 1 16 68 -16.5 41.5 -1 0 0 0 1 -2.5 0 0 -2.5 rect3.dat
 1 16 68 16.5 41.5 1 0 0 0 -1 2.5 0 0 -2.5 rect3.dat
-
 2 24 67 27 51 67 -27 51
 0 BFC INVERTNEXT
 1 16 66 0 44 1 0 0 0 0 6.5 0 3 0 box3u2p.dat

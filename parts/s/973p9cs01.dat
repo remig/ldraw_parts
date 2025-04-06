@@ -1,11 +1,8 @@
 0 ~Minifig Torso Knit Sweater Pattern Half
 0 Name: s\973p9cs01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 -6.2 3.15 10 -5.7 3.35 10 -5.2 29.4 10 -5.7 29.4 10
 3 28 -0.4 16.3 10 0 15.8 10 0 16.8 10
 3 28 -0.4 17.8 10 0 17.3 10 0 18.3 10

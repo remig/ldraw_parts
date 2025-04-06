@@ -1,11 +1,8 @@
 0 ~Electric Power Functions Pole Reverser Top Side without Secondary Inverter
 0 Name: s\u9333s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 4 16 20 8 14 18 8 14 18 8 58 20 8 60
 4 16 20 8 60 7 8 60 10 0 60 20 0 60
 1 16 20 4 37 0 -1 0 4 0 0 0 0 23 rect3.dat

@@ -1,13 +1,8 @@
 0 ~Figure Friends Cropped Trousers Half without Patternable Surface
 0 Name: s\92251s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 4 16 12.93 -22.49 4.61 13.19 -23.13 4.37 12.92 -22.65 3.43 12.45 -21.51 3.9
 3 16 12.45 -21.51 3.9 12.47 -21.44 4.6 12.93 -22.49 4.61
 3 16 11.35 -24.47 1.3 10.72 -23.66 0.98 11.66 -24.54 2.03

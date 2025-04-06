@@ -1,11 +1,8 @@
 0 ~Minifig Hat Beanie Front Half
 0 Name: s\90541s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 3 16 3.1923 -4.4984 -12.3869 3.1391 -7.1884 -10.0987 0 -5.85 -11.7615
 3 16 3.06 -9.13 -7.3615 2.87 -11.1 -2.6415 0 -10.32 -5.4015
 3 16 13.36 -1.82 -4.5215 11.46 -0.13 -9.1115 13.36 1.39 -6.3815

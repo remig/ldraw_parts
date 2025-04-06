@@ -1,11 +1,8 @@
-0 ~Technic Axle Joiner 3 x 2 with Spring - Surface Half
+0 ~Technic Axle Joiner 3 x 2 with Axial Torsion Spring - Surface Half
 0 Name: s\985s01.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 -20 0 10 0 0 -6 0 1 0 -6 0 0 2-4ndis.dat
 1 16 -11 0 10 0 0 1 0 1 0 -1 0 0 2-4ndis.dat
 1 16 0 0 -10 0 0 -6 0 1 0 6 0 0 2-4ndis.dat
@@ -293,7 +290,6 @@
 4 16 -6 0 -16 -5 0 -19 0 0 -19 0 0 -16
 0 BFC INVERTNEXT
 1 16 0 0.5 2 0 0 -4 0 -0.5 0 4 0 0 2-4cylc.dat
-0 // Ellipsoid grooves
 0 BFC INVERTNEXT
 1 16 0 0 16 -1.125 0 0 0 0.5 0 0 0 1.125 1-4cylo.dat
 0 BFC INVERTNEXT
