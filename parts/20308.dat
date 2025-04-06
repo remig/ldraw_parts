@@ -1,0 +1,11 @@
+0 Animal Head Cuboid
+0 Name: 20308.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS Dog, Minecraft, Wolf
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20308s01.dat
+4 16 7.5 5.5 -41 -7.5 5.5 -41 -7.5 20 -41 7.5 20 -41
+4 16 -16 -12.5 -26 -16 20 -26 -7.5 20 -26 -7.5 5.5 -26
+4 16 -16 -12.5 -26 -7.5 5.5 -26 7.5 5.5 -26 16 -12.5 -26
+4 16 16 -12.5 -26 7.5 5.5 -26 7.5 20 -26 16 20 -26

@@ -1,0 +1,9 @@
+0 Technic Pneumatic Tube 27L
+0 Name: 21830-f1.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS 216 mm
+1 16 -270 0 0 0 1 0 1 0 0 0 0 1 71533k02.dat
+1 16 270 0 0 0 -1 0 -1 0 0 0 0 1 71533k02.dat
+1 16 -270 0 0 0 540 0 1 0 0 0 0 1 71533k03.dat

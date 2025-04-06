@@ -1,0 +1,16 @@
+0 Minifig Bundled Baby with Stud Holder on Back
+0 Name: 24067.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS child, papoose, swaddled
+1 16 0 -8 0 1 0 0 0 -2 0 0 0 1 stud4.dat
+1 16 0 -8 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat
+1 16 0 -8 0 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24067s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24067s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24067s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24067s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24067s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24067s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24067s04.dat

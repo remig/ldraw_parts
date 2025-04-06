@@ -1,0 +1,14 @@
+0 Minifig Skirt Ruffled with Red Half Pattern
+0 Name: 24087p02.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !CATEGORY Minifig Hipwear
+0 !KEYWORDS ballerina, ballet, Bricklink 24087pb02, Brickowl 210954, dance
+0 !KEYWORDS Harley Quinn, petticoat, Rebrickable 24087pr0002, set 70916
+0 !KEYWORDS The Lego Batman Movie, toe dancing, tutu
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24087s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24087s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\24087s02.dat
+1 4 0 0 0 -1 0 0 0 1 0 0 0 -1 s\24087s02.dat
+1 4 0 0 0 -1 0 0 0 1 0 0 0 1 s\24087s02.dat

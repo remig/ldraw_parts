@@ -1,0 +1,9 @@
+0 Technic Pneumatic Tube  6L
+0 Name: 21766-f1.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS 48 mm
+1 16 -60 0 0 0 1 0 1 0 0 0 0 1 71533k02.dat
+1 16 60 0 0 0 -1 0 -1 0 0 0 0 1 71533k02.dat
+1 16 -60 0 0 0 120 0 1 0 0 0 0 1 71533k03.dat
