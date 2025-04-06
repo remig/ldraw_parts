@@ -1,0 +1,11 @@
+0 Technic Dome  5 x  5 x  2.5
+0 Name: 4412.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS ball, hemisphere
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4412s00.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4412s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\4412s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4412s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\4412s02.dat

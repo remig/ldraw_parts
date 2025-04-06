@@ -1,0 +1,9 @@
+0 Hinge Plate  2 x  4.5 Top with Technic Pin Hole and  2 Holes
+0 Name: 43045.dat
+0 Author: Johann Eisner [technicbasics]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98286s01.dat
+4 16 -20 0 30 -6 0 6 6 0 6 20 0 30
+0 BFC INVERTNEXT
+1 16 0 4 20 6 0 0 0 4 0 0 0 6 4-4cylc.dat

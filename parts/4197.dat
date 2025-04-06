@@ -1,0 +1,15 @@
+0 Duplo Brick  2 x  6 x  2 with Raised Central  2 x  2 Section with Curved Sides
+0 Name: 4197.dat
+0 Author: Tim Lampmann [L4mpi]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !CATEGORY Brick
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4197s01.dat
+1 16 100 0 -40 -60 0 0 0 0 51.7 0 1 0 48\3-16ndis.dat
+1 16 -100 0 -40 60 0 0 0 0 51.7 0 1 0 48\3-16ndis.dat
+4 16 40 51.7 -40 40 0 -40 -40 0 -40 -40 51.7 -40
+4 16 120 96 -40 40 51.7 -40 -40 51.7 -40 -120 96 -40
+4 16 -77.038 47.76563 -40 -78 48 -40 -120 96 -40 -40 51.7 -40
+3 16 -78 48 -40 -120 48 -40 -120 96 -40
+3 16 78 48 -40 120 96 -40 120 48 -40
+4 16 120 96 -40 78 48 -40 77.038 47.76563 -40 40 51.7 -40

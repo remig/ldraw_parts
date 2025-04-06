@@ -1,0 +1,15 @@
+0 Minifig Arm Left with Blue Pinstriped Shirt Pattern
+0 Name: 3819pdgb.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !HELP Place at 15.552 9 0 relative to torso
+0 !HELP Then rotate about x axis to give require elevation of arm
+0 !HELP 0 = upper arm vertical
+0 !HELP -45 = lower arm horizontal
+0 !HELP -90 = upper arm horizontal
+0 !HELP -135 = lower arm vertical
+0 !HELP Then rotate -9.782 about z axis to align with slope of torso
+0 BFC CERTIFY CCW
+0 !KEYWORDS Bricklink 973pb4695c01, Brickowl 190976, CMF, Collectable
+0 !KEYWORDS Rebrickable 973c27h02pr0001, set 71033, Swedish Chef, The Muppets
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 3818pdgb.dat

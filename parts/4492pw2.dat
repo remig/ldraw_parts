@@ -1,0 +1,13 @@
+0 Animal Horse Head with Black/Red Tack and Feather Pattern
+0 Name: 4492pw2.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS american native, indian, set 6709, set 6746, set 6748, set 6763
+0 !KEYWORDS set 6766, western, wild west
+0 !CMDLINE -c6
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4492s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4492s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4492pw2s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4492pw2s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4492h.dat

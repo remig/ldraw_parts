@@ -1,0 +1,9 @@
+0 ~Animal Serpent Basilisk Tail/Neck S Curve - Bottom
+0 Name: 43747.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43747s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43747s02.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\43747s02.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\43748s02.dat

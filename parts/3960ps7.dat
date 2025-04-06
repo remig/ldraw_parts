@@ -1,0 +1,24 @@
+0 Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit with Four Light Bluish Grey Lower Sections Pattern
+0 Name: 3960ps7.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+0 !KEYWORDS Bricklink 3960pb010, Set 4504
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960ps7s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3960ps7s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3960ps7s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3960ps7s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\3960ps7s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\3960ps7s01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\3960ps7s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3960ps7s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960ps7s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3960ps7s02.dat
+1 71 0 0 0 1 0 0 0 1 0 0 0 -1 s\3960ps7s02.dat
+1 71 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3960ps7s02.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\3960ps7s02.dat
+1 71 0 0 0 0 0 -1 0 1 0 -1 0 0 s\3960ps7s02.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\3960ps7s02.dat
+1 71 0 0 0 0 0 1 0 1 0 -1 0 0 s\3960ps7s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s05.dat

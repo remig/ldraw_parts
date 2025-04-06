@@ -1,0 +1,9 @@
+0 Baseplate 50 x 50 Road 3-way Curve
+0 Name: 385a.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\385as01.dat
+4 16 500 0 -496 500 0 496 496 0 500 496 0 -500
+4 16 -496 0 -500 496 0 -500 496 0 500 -496 0 500
+4 16 -496 0 500 -500 0 496 -500 0 -496 -496 0 -500
