@@ -1,17 +1,10 @@
 0 Tile  1 x  4 with Black and Yellow Diagonal Stripes and Tow Rings Pattern
 0 Name: 2431pk1.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Disney, Cars, Tow Mater
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS Cars, Disney, Tow Mater
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
-
 4 0 -37.514 0 7.85 -37.279 0 7.665 -38.4 0 10 -40 0 10
 4 0 -36.72 0 4.629 -37.514 0 7.85 -40 0 10 -40 0 3.333
 3 0 -40 0 3.333 -36.191 0 -2.476 -36.521 0 -0.534

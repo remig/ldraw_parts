@@ -1,14 +1,9 @@
 0 ~Minifig Headdress Pumpkin Carved Stalk
 0 Name: 20694.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20695s03.dat
-0 // assumed inner structure
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20694s01.dat
 1 16 0 0 0 8 0 0 0 -4 0 0 0 8 4-4cylo.dat
 2 24 4.86348 -7.43 -4.86348 6.878 -7.43 0
 2 24 6.878 -7.43 0 4.86348 -7.43 4.86348
@@ -42,7 +37,6 @@
 3 16 0 -7.43 -6.87873 0 -4 -8 3.0616 -4 -7.3912
 3 16 0 -7.43 -6.87873 3.0616 -4 -7.3912 4.86348 -7.43 -4.86348
 3 16 4.86348 -7.43 -4.86348 3.0616 -4 -7.3912 5.6568 -4 -5.6568
-
 5 24 -7.3912 -4 3.0616 -4.864 -7.43 4.864 -6.87873 -7.43 0 -5.6568 -4 5.6568
 5 24 3.0616 -4 7.3912 0 -7.43 6.878 4.86348 -7.43 4.86348 0 -4 8
 5 24 -8 -4 0 -6.87873 -7.43 0 -7.3912 -4 -3.0616 -7.3912 -4 3.0616

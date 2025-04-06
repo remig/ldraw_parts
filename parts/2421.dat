@@ -1,20 +1,8 @@
-0 Propellor  3 Blade  4 Diameter
+0 Propeller  3 Blade  4 Diameter
 0 Name: 2421.dat
 0 Author: Lutz Uhlmann [El-Lutzo]
-0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
-0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
-0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
-0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [nielsk] BFC'd (2006-01-04)
-0 !HISTORY 2008-07-08 [technog] added intersect lines (2006-01-10)
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
 0 BFC INVERTNEXT
 1 16 0 5 0 4 0 0 0 -10 0 0 0 4 4-4cyli.dat
 1 16 0 5 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
@@ -49,4 +37,3 @@
 2 24 -5.656 2.1 -5.656 -6.342 0.17 -4.645
 2 24 -5.656 2.1 -5.656 -4.978 3.95 -6.109
 2 24 -3.061 3.25 -7.391 -4.978 3.95 -6.109
-0

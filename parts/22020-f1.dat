@@ -1,16 +1,8 @@
 0 Technic Shock Absorber 10L Damped Spring (Extended)
 0 Name: 22020-f1.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
-0 // Created with spring2dat H=80 R=10 D=20 S=10 T=2 B=2
-0 // Total Height = 86
-
 2 24 -10 4 0 -9.24 4.5 3.83
 2 24 -11 3 0 -10.16 3.5 4.21
 2 24 -10 2 0 -9.24 2.5 3.83

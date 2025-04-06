@@ -1,17 +1,9 @@
 0 Tile  1 x  4 with Ruler and Golden Trim Pattern
 0 Name: 2431pm0.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Elves, Set 41071
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
-0 // Subfile
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
 4 80 -30.155 0 -0.279 -29.866 0 -0.835 -29.251 0 -0.706 -30.229 0 0.054
 4 80 -29.251 0 -0.706 -29.866 0 -0.835 -29.492 0 -1.168 -29.153 0 -0.995

@@ -1,11 +1,9 @@
 0 Tile  3 x  2 with Angled End with Nexo Power Shield Pattern - Rocketship
 0 Name: 22385p017.dat
 0 Author: Johann Eisner [technicbasics]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
+0 !KEYWORDS Classic Space
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\22385s01.dat
 1 15 -2.2 0 -4.3 -1.45 0 0 0 1 0 0 0 -1.45 1-4ndis.dat
 1 15 -5.1 0 -7.2 1.45 0 0 0 1 0 0 0 1.45 1-4ndis.dat
@@ -305,7 +303,6 @@
 3 1 -6.503 0 .5 -5.973 0 -.072 -5.866 0 1.2
 3 1 -5.866 0 1.2 -5.973 0 -.072 -5.547 0 .627
 3 1 -5.547 0 .627 -5.973 0 -.072 -5.248 0 .389
-0 // Logo
 4 15 -3.219 0 8.117 -1.461 0 8.324 -1.431 0 8.697 -3.332 0 8.473
 4 15 -1.461 0 8.324 .242 0 7.845 .407 0 8.174 -1.431 0 8.697
 4 15 .242 0 7.845 1.629 0 6.753 1.912 0 6.991 .407 0 8.174

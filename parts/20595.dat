@@ -1,16 +1,9 @@
 0 Minifig Hair Long Tousled with Centre Parting
 0 Name: 20595.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
-
-0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-11-20 [Philo] File preparation for LDraw Parts Tracker
-
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4o.dat
 0 BFC INVERTNEXT
 1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
@@ -3662,7 +3655,6 @@
 2 24 20.768 26.286 4.062 19.397 26.983 2.175
 2 24 18.117 25.925 3.138 20.768 26.286 4.062
 2 24 -14.647 2.294 13.859 -15.153 2.08 13.312
-
 3 16 -9.192 4 -9.192 -9.583 6.428 -8.835 -12.0104 4 -4.9752
 3 16 -9.583 6.428 -8.835 -9.192 4 -9.192 -8.199 5.845 -10.191
 3 16 -9.192 4 -9.192 -8.9232 2.4691 -8.9232 -6.976 4.723 -11.067
@@ -3680,7 +3672,6 @@
 3 16 3.7936 0.3046 -9.1592 2.783 1.399 -11.366 0 0.8234 -10.8837
 3 16 0 0.8234 -10.8837 -2.117 0.904 -10.811 -3.794 0.3046 -9.159
 3 16 -3.794 0.3046 -9.159 -2.117 0.904 -10.811 -4.4144 1.1718 -10.6576
-
 3 16 8.1225 2.4691 -9.4583 9.936 2.437 -13.565 9.155 0.277 -14.26
 3 16 9.936 2.437 -13.565 8.1225 2.4691 -9.4583 8.7059 4 -9.5169
 3 16 9.936 2.437 -13.565 8.7059 4 -9.5169 9.657 5.415 -11.645

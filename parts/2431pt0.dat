@@ -1,13 +1,8 @@
 0 Tile  1 x  4 with "RALLY" Pattern
 0 Name: 2431pt0.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
 4 0 -37.8 0 -7.8 -33.2 0 -7.8 -32.792 0 -6 -37.233 0 -5.3
 4 16 -37.233 0 -5.3 -40 0 10 -40 0 -10 -37.8 0 -7.8
@@ -269,4 +264,3 @@
 4 0 -14.026 0 0.5 -9.715 0 0.5 -9.91 0 1.5 -14.186 0 1.5
 4 0 -17.55 0 -4.5 -13.227 0 -4.5 -13.387 0 -3.5 -16.998 0 -3.5
 4 0 -16.998 0 -3.5 -13.387 0 -3.5 -13.499 0 -2.8 -16.597 0 -2.8
-0

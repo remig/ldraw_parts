@@ -1,15 +1,10 @@
 0 Fabuland Roof Block with Dormer
 0 Name: 2048.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP 2049 shutter position: x=+/-43.5 y=91 z=-92
-
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Slope
-
 1 16 0 0 10 1 0 0 0 1 0 0 0 1 stug-1x12.dat
 1 16 0 0 -10 1 0 0 0 1 0 0 0 1 stug-1x12.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2048s01.dat

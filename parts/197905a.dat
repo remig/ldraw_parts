@@ -1,15 +1,9 @@
 0 Sticker  2.7 x  1.1 with Black "MC 5510" on White Background
 0 Name: 197905a.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Set 5510
-
-0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
 4 0 -25 -0.25 9 -27 -0.25 11 -27 -0.25 -11 -25 -0.25 -9
 4 0 -19.758 -0.25 0.763 -21.848 -0.25 3.902 -21.848 -0.25 -3.628 -19.758 -0.25 -3.628
 3 0 -18.804 -0.25 3.902 -21.848 -0.25 3.902 -19.758 -0.25 0.763
@@ -376,5 +370,4 @@
 3 15 25 -0.25 9 21.787 -0.25 1.979 22.024 -0.25 1.116
 3 15 25 -0.25 9 20.84 -0.25 3.323 21.392 -0.25 2.715
 3 15 25 -0.25 9 21.392 -0.25 2.715 21.787 -0.25 1.979
-
 1 16 0 -0.25 0 27 0 0 0 0.25 0 0 0 11 box5-12.dat

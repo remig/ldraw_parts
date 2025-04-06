@@ -1,11 +1,8 @@
-0 Tile  3 x  2 with Angled End with Nexo Power Shield Pattern - Magic Anti Evil Ultra Armour Upgrade
+0 Tile  3 x  2 with Angled End with Nexo Power Shield Pattern - Magic Anti Evil Ultra Armor Upgrade
 0 Name: 22385p126.dat
 0 Author: Johann Eisner [technicbasics]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\22385s01.dat
 4 120 0 0 -19.6 -13.2 0 -5.8 -15.6 0 -7.1 0 0 -22.8
 4 288 0 0 -19.6 0 0 -15.6 -9.6 0 -5.8 -12 0 -5.8
@@ -134,8 +131,8 @@
 4 15 0.71 0 -5.532 -0.71 0 -6.482 0.71 0 -6.482 2.22 0 -6.382
 3 15 0.71 0 -4.532 0.71 0 -5.532 2.22 0 -6.382
 3 15 2.22 0 -6.382 0.71 0 -6.482 0.71 0 -7.932
-4 0 -3.2 0 -5.5 -3.2 0 1.2 -5.65 0 -1.35 -5.65 0 -2.9
-4 0 5.65 0 -1.35 3.2 0 1.2 3.2 0 -5.5 5.65 0 -2.9
+4 288 -3.2 0 -5.5 -3.2 0 1.2 -5.65 0 -1.35 -5.65 0 -2.9
+4 288 5.65 0 -1.35 3.2 0 1.2 3.2 0 -5.5 5.65 0 -2.9
 3 288 -1.08 0 18.56 -1.17 0 18.186 -0.99 0 18.186
 4 288 -0.99 0 18.186 -1.17 0 18.186 -1.238 0 17.933 -0.922 0 17.933
 4 288 -0.922 0 17.933 -1.238 0 17.933 -1.328 0 17.701 -0.832 0 17.701

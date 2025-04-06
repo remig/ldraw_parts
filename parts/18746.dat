@@ -1,24 +1,15 @@
 0 Minifig Snowboard  2 x  6
 0 Name: 18746.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-
-0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-03-04 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 stug-1x2.dat
 1 16 0 2.744 0 0 0 1 0 -1.314 0 1 0 0 stug3-1x3.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18746s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\18746s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\18746s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\18746s01.dat
-
 4 16 -12.665 0.052 0 -12.876 0.04 -19.301 12.876 0.04 -19.301 12.665 0.052 0
 4 16 -12.876 0.04 -19.301 -13.103 -0.409 -36.095 13.103 -0.409 -36.095 12.876 0.04 -19.301
 4 16 -13.103 -0.409 -36.095 -12.871 -1.777 -46.48 12.871 -1.777 -46.48 13.103 -0.409 -36.095

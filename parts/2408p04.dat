@@ -1,24 +1,12 @@
 0 Panel 10 x  6 x 11 with Futuron Stripes Pattern
 0 Name: 2408p04.dat
 0 Author: Damien Guichard [BrickCaster]
-0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS space, launcher
-
-0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [nielsk] Fixed BFC (2006-01-04)
-0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
+0 !KEYWORDS launcher, Space
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2408s01.dat
-
 4 16 60 264 -170 60 144 -170 -60 144 -170 -60 264 -170
 4 16 60 48 -110 60 0 -30 -60 0 -30 -60 48 -110
-
 4 15 60 141.792 -168.62 60 136.704 -165.44 -60 136.704 -165.44 -60 141.792 -168.62
 4 15 60 133.312 -163.32 60 128.224 -160.14 -60 128.224 -160.14 -60 133.312 -163.32
 4 15 60 124.832 -158.02 60 119.744 -154.84 -60 119.744 -154.84 -60 124.832 -158.02
@@ -44,4 +32,3 @@
 4 16 60 136.704 -165.44 60 133.312 -163.32 -60 133.312 -163.32 -60 136.704 -165.44
 4 16 60 144 -170 60 141.792 -168.62 -60 141.792 -168.62 -60 144 -170
 4 16 60 50.2077 -111.381 60 47.9996 -110.001 -60 47.9996 -110.001 -60 50.2077 -111.381
-

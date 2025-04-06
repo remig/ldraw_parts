@@ -1,15 +1,9 @@
 0 Fabuland Window Shutter
 0 Name: 2049.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Window
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
 1 16 43.5 5 -2 0 0 -60 -60 0 0 0 4 0 48\1-8cylo.dat
 1 16 43.5 5 -2 0 0 -60 -60 0 0 0 4 0 48\1-8chrd.dat
 1 16 19.9 0 -1.5 0 0 17.5 -2.5 0 0 0 -0.5 0 box5.dat
@@ -126,7 +120,6 @@
 1 16 19.9 16.8 -1.5 17.5 0 0 0 0 -2.5 0 -0.5 0 box4-1.dat
 4 16 37.4 19.3 -2 2.4 19.3 -2 4.4 19.3 -1.5 37.4 19.3 -1.5
 2 24 37.4 19.3 -1.5 4.4 19.3 -1.5
-
 4 16 4.4 19.3 -1.5 4.4 -19.3 -1.5 2.4 -14.3 -1.5 2.4 14.3 -1.5
 4 16 2.4 30.5 -1.5 2.4 25.5 -1.5 1.8 25.5 -1.5 1.8 36.7 -1.5
 4 16 1.8 36.7 -1.5 38 36.7 -1.5 37.4 30.5 -1.5 2.4 30.5 -1.5

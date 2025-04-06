@@ -1,14 +1,8 @@
 0 Baseplate 32 x 32 Road 7-Stud Curve with River Pattern
 0 Name: 2359p03.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2010-04-09 [mikeheide] Moved portions from subpart
-0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2359s01.dat
 3 2 -236 0 -163 -227 0 -170 -236 0 -155
 4 2 -227 0 -170 -236 0 -163 -238 0 -163 -239 0 -168

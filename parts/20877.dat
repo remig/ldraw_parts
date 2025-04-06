@@ -1,16 +1,9 @@
 0 Minifig Hair Female Short Swept Sideways
 0 Name: 20877.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Headwear
-
-0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2018-12-10 [Philo] File preparation for LDraw Parts Tracker
-
 1 16 0 -4 0 8.66667 0 0 0 -1 0 0 0 8.66667 4-4disc.dat
 1 16 0 -4 0 8.66667 0 0 0 1 0 0 0 8.66667 4-4edge.dat
 0 BFC INVERTNEXT
@@ -18,7 +11,6 @@
 0 BFC INVERTNEXT
 1 16 0 3 0 3.06413 0 3.06413 0 -7 0 -3.06413 0 3.06413 1-4con2.dat
 1 16 0 -4 0 -1 0 0 0 -1 0 0 0 1 stud4.dat
-
 3 16 9.1924 3 -9.1924 9.1923 9.955 -9.1923 4.9752 4 -12.0104
 3 16 9.1924 3 -9.1924 12.0108 3 -4.9749 9.1923 9.955 -9.1923
 3 16 11.6744 15.893 -6.1404 10.982 14.728 -6.956 9.1923 9.955 -9.1923

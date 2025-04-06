@@ -1,17 +1,10 @@
 0 Tile  1 x  4 with Teeth Pattern
 0 Name: 2431pk0.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Disney, Cars, Tow Mater
-
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !KEYWORDS Cars, Disney, Tow Mater
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
-
 4 0 -25.962 0 4.837 -26.384 0 3.268 -26.245 0 2.972 -25.86 0 3.132
 4 0 -25.071 0 6.258 -25.962 0 4.837 -25.86 0 3.132 -25.442 0 3.473
 3 0 -23.852 0 7.413 -24.409 0 4.659 -23.868 0 5.221

@@ -1,14 +1,9 @@
-0 Duplo Door Frame  2 x  4 x  3 with Raised Door Outline
+0 ~Duplo Door Frame  2 x  4 x  3 with Raised Door Outline (Obsolete)
 0 Name: 2332.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
 0 !CATEGORY Container
-
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 0 BFC INVERTNEXT
 1 16 0 144 0 -76 0 0 0 -16 0 0 0 -36 box5.dat
 4 16 -80 0 -40 -80 144 -40 -80 144 40 -80 0 40
@@ -363,7 +358,6 @@
 1 16 -42.5 14 -42.5 0 0 2.5 0 5 0 2.5 0 0 4-4edge.dat
 1 16 -42.5 20 -42.5 0 0 2.5 0 5 0 2.5 0 0 4-4edge.dat
 1 16 -42.5 20 -42.5 0 0 2.5 0 -5 0 -2.5 0 0 4-4disc.dat
-0 // Aussen?sen
 2 24 65.08 47 -44.872 65.08 35 -44.872
 2 24 65.08 47 -45.872 59.08 47 -45.872
 2 24 65.08 47 -45 59.08 47 -45
@@ -426,7 +420,6 @@
 2 24 76.08 47 -45.872 70.08 47 -45.872
 2 24 76.08 47 -45 70.08 47 -45
 2 24 70.08 47 -44.872 70.08 35 -44.872
-0 // Aussen?sen
 2 24 65.08 109 -44.872 65.08 97 -44.872
 2 24 65.08 109 -45.872 59.08 109 -45.872
 2 24 65.08 109 -45 59.08 109 -45

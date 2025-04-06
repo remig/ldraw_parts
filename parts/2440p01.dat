@@ -1,15 +1,11 @@
-0 Hinge  6 x  3 Radar with Yellow  4 and Red/Yellow Stripes Patt.
+0 Hinge  6 x  3 Radar with Yellow "4" and Red/Yellow Stripes Pattern
 0 Name: 2440p01.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-0 !KEYWORDS blade, spoiler, panel
+0 !KEYWORDS Blade, Bricklink 2440pb002, Panel, Set 6526, Set 6551, Set 6669
+0 !KEYWORDS spoiler
 0 !CMDLINE -c0
-
-0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2440s01.dat
 4 14 -1.25 -3 10.0004 -0.75 -3 7.50049 3 -3 7.50049 5 -3 10.0004
 4 14 3 -3 -1.499 5 -3 0.7508 5 -3 10.0004 3 -3 7.50049
@@ -120,7 +116,6 @@
 3 16 -9 -3 16 -20.25 -3 -8.249 -19.75 -3 -8.749
 3 16 -8 -3 -8.999 -9 -3 -4.499 -19.75 -3 -8.749
 3 16 -19.75 -3 -8.749 -9 -3 -4.499 -9 -3 16
-
 2 24 -60 -4.5 -17 60 -4.5 -17
 2 24 -60 -4.5 17 60 -4.5 17
 4 16 -60 -3 -16 -60 -4.5 -17 60 -4.5 -17 60 -3 -16

@@ -1,18 +1,11 @@
 0 Minifig Shield Triangular Long with Black Pyramid and Sun Pattern
 0 Name: 18836pq0.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Collectible Minifigures, Series 13, Egyptian Warrior, Upside Down
-
-0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
+0 !KEYWORDS Collectible Minifigures, Egyptian Warrior, Series 13, Upside Down
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18836s01.dat
-
 4 0 -17.615 -3.1263 -12 -18 -9 -12 -19 -9 -12 -18.6065 -2.9958 -12
 4 0 -16.4667 2.6469 -12 -17.615 -3.1263 -12 -18.6065 -2.9958 -12 -17.4326 2.9057 -12
 4 0 -14.5746 8.2208 -12 -16.4667 2.6469 -12 -17.4326 2.9057 -12 -15.4985 8.6034 -12

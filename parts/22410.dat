@@ -1,15 +1,8 @@
 0 Wheel 21 x 37 Hard-Plastic with  7 Pin Holes
 0 Name: 22410.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2016-11-22 [Philo] File preparation for LDraw Parts Tracker
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 0 0 1 0 0 0 0 1 0 -1 0 connhole.dat
 1 16 0 0 10 9 0 0 0 0 9 0 -20 0 4-4cylo.dat
 1 16 0 0 -4.3 0 0 -9 9 0 0 0 -1 0 4-4edge.dat
@@ -56,7 +49,6 @@
 4 16 -9.5264 -5.5 -8.8 -6.3639 -6.3639 -8.8 -3.4443 -8.3151 -8.8 0 -11.0001 -8.8
 3 16 0 -11.0001 -8.8 -3.4443 -8.3151 -8.8 0 -9 -8.8
 3 16 0 -11.0001 -8.8 0 -9 -8.8 3.4443 -8.3151 -8.8
-
 1 16 0 -11.8 0 1.5 0 0 0 3.5 0 0 0 9.2 box4o8a.dat
 1 16 10.2191 5.9 0 -0.75 -3.03109 0 1.29904 -1.75 0 0 0 9.2 box4o8a.dat
 1 16 -10.2191 5.9 0 -0.75 3.03109 0 -1.29904 -1.75 0 0 0 9.2 box4o8a.dat

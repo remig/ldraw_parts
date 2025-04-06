@@ -1,19 +1,8 @@
 0 Car Base  7 x  4 x  0.667
 0 Name: 2441.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [nielsk] BFC'd and used more primitives (2006-01-04)
-0 !HISTORY 2008-07-08 [WilliamH] Fixed stud orientation (2006-06-09)
-0 !HISTORY 2008-07-09 [WilliamH] Used new wpin2a primitive (2006-06-26)
-0 !HISTORY 2010-07-25 [anathema] Added missing lines, reinstated original header
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
 1 16 22 5 50 0 -1 0 1 0 0 0 0 1 wpin2a.dat
 1 16 -22 5 50 0 1 0 1 0 0 0 0 1 wpin2a.dat
 1 16 22 5 -50 0 -1 0 1 0 0 0 0 1 wpin2a.dat
@@ -223,4 +212,3 @@
 2 24 -20 2 -40 -20 2 -46.11
 2 24 -20 8 -40 -20 8 -46.11
 2 24 -20 2 -60 -20 2 -53.89
-0

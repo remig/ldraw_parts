@@ -1,17 +1,11 @@
-0 Minifig Helmet Modern with Black, Blue and Silver Unitron Pattern
+0 ~Minifig Helmet Standard with Black, Blue and Silver Unitron Pattern (Obsolete)
 0 Name: 2446p51.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !CATEGORY Minifig Headwear
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !CATEGORY Obsolete
+0 !KEYWORDS set 6705
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2446s01.dat
-0 // Top
 4 0 -12.9853 -1.56536 3.18474 -13.1229 -1.86668 1.41943 -12.2095 -3.35488 0.70271 -11.992 -2.83914 3.6338
 4 0 -13.1229 -1.86668 1.41943 -12.5761 -1.90487 -3.30647 -11.9065 -3.4483 -1.55223 -12.2095 -3.35488 0.70271
 4 0 -12.9853 -1.56536 3.18474 -11.992 -2.83914 3.6338 -11.7819 -2.65936 4.8808 -12.5981 -1.33698 5.21885
@@ -1029,7 +1023,6 @@
 3 80 10.577 -4.65368 4.27348 10.5551 -4.7015 4.21313 11.992 -2.83914 3.6338
 3 80 12.2095 -3.35488 0.70271 10.4947 -4.814 4.11531 11.314 -4.814 0
 3 80 11.9065 -3.4483 -1.55223 12.2095 -3.35488 0.70271 11.314 -4.814 0
-0 // Lines & Condlines
 5 24 -15.1 4.778 4.157 -14.783 6.5 6.12 -15.4 6.5 4.5 -13.656 0.377 5.657
 5 24 -14.5 0.377 2.5 -14.5 4.5 -6 -13.566 0.377 -5.9 -14.5 5.881 -6.087
 2 24 -14.5 0.377 2.5 -15.1 4.778 4.157

@@ -1,21 +1,9 @@
 0 Wedge  2 x  3 with Brick  2 x  4 with Classic Space Logo Pattern
 0 Name: 2336p90.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
-0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-05-31 [nielsk] Made BFC compliant, made use of subfile
-0 !HISTORY 2013-08-10 [Steffen] changed gold color to 82
-0 !HISTORY 2013-12-16 [MagFors] Reworked pattern
-0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2336s01.dat
-
 3 16 20 -24 -4 14.742 -16.675 -21.092 15.256 -16.497 -21.507
 4 16 10 0 -60 15.165 -16.015 -22.632 14.873 -15.894 -22.913 12.73 -14.571 -26.002
 4 16 12.73 -14.571 -26.002 14.873 -15.894 -22.913 13.815 -15.567 -23.677 13.12 -15.097 -24.773

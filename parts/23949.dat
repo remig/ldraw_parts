@@ -1,14 +1,8 @@
 0 Slope Brick 45  2 x  6
 0 Name: 23949.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2017-12-10 [MagFors] Used more primitives
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 40 12 -10 1 0 0 0 -3 0 0 0 1 stud4a.dat
 1 16 40 12 -10 0 0 1 0 8 0 -1 0 0 stud4s2.dat
 1 16 20 12 -10 1 0 0 0 -3 0 0 0 1 stud4a.dat
@@ -19,7 +13,6 @@
 1 16 -20 12 -10 0 0 1 0 8 0 -1 0 0 stud4s2.dat
 1 16 -40 12 -10 1 0 0 0 -3 0 0 0 1 stud4a.dat
 1 16 -40 12 -10 0 0 1 0 8 0 -1 0 0 stud4s2.dat
-
 1 16 0 24 -10 -56 0 0 0 1 0 0 0 -16 recte3.dat
 1 16 0 24 -10 -60 0 0 0 1 0 0 0 -20 recte3.dat
 4 16 60 24 10 56 24 6 -56 24 6 -60 24 10
@@ -42,5 +35,4 @@
 4 16 -60 24 10 -60 24 -30 -60 20 -30 -60 0 10
 3 16 -60 0 10 -60 20 -30 -60 0 -10
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-1x6.dat
-0 // top surface
 4 16 60 20 -30 60 0 -10 -60 0 -10 -60 20 -30

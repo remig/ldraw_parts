@@ -1,16 +1,10 @@
 0 Fabuland Bench
 0 Name: 2041.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Figure Accessory
 0 !KEYWORDS Seat
-
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 1 16 0 2 0 60 0 0 0 2 0 0 0 10 box.dat
 1 16 0 -13.5 20.25 60 0 0 0 0 7.5 0 2 -2.25 box.dat
 1 16 0 -32.5 25.95 60 0 0 0 0 7.5 0 2 -2.25 box.dat

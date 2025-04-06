@@ -1,13 +1,9 @@
 0 Tile  1 x  4 with 11 Light Bluish Grey Rectangles Pattern
 0 Name: 2431pz4.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS BrickLink 2431pb526, Set 41620, Brickheadz, Stormtrooper
-
+0 !KEYWORDS Brickheadz, BrickLink 2431pb526, Set 41620, Stormtrooper
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
 4 16 36.3 0 -6.8 36.3 0 6.8 30.7 0 6.8 30.7 0 -6.8
 4 71 37.5 0 -8 36.3 0 -6.8 30.7 0 -6.8 29.5 0 -8

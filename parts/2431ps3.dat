@@ -1,22 +1,11 @@
 0 Tile  1 x  4 with SW Mini Jedi Starfighter Pattern
 0 Name: 2431ps3.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2015-06-20 [MagFors] Inlined subfiles, removed dithered colours
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
-
 3 462 12 0 8.25 12 0 6.25 16 0 6.25
 3 462 16 0 -6.25 12 0 -6.25 12 0 -8.25
-
 4 27 20 0 2.25 20 0 2 22.75 0 2 24 0 2.25
 3 27 20 0 2.25 18 0 0 20 0 2
 4 27 25 0 2.25 24 0 2.25 22.75 0 2 23 0 2
@@ -28,7 +17,6 @@
 4 27 32.25 0 -2.25 32.25 0 -2 32 0 -2 25 0 -2.25
 3 27 18 0 0 20 0 -2.25 20 0 -2
 3 27 32 0 -2 23 0 -2 25 0 -2.25
-
 4 7 -4 0 -7.75 4 0 -5.75 3.75 0 -5.57 -3.75 0 -7.44
 4 7 -3.75 0 -4.68 4 0 -2.65 3.1 0 -2.72 -4 0 -4.5
 3 7 39 0 4.25 38.54 0 4.11 39 0 4
@@ -97,7 +85,6 @@
 3 7 -4 0 7.75 -4 0 5.5 -3.75 0 7.44
 3 7 -4 0 5.25 -4 0 4.5 -3.75 0 4.68
 4 7 -4 0 5.5 -4 0 5.25 -3.75 0 4.68 -3.75 0 7.44
-
 4 16 20 0 2.25 24 0 2.25 0 0 8 4 0 5.75
 4 16 20 0 2.25 4 0 5.75 4 0 3.5 12 0 2
 3 16 20 0 2.25 12 0 2 18 0 0

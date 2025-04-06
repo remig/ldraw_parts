@@ -1,42 +1,31 @@
 0 Wheel Rim 11 x 18 Front with  5 Spokes
 0 Name: 18978a.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-0 !HISTORY 2016-07-09 [MagFors] Corrected description
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 0 -3.25 1.95 0 0 0 0 -1.95 0 0.5 0 bump5000.dat
 1 16 0 0 -3.25 3.9 0 0 0 0 -3.9 0 1 0 4-4edge.dat
 1 16 0 0 -3.25 1.95 0 0 0 0 -1.95 0 1 0 4-4ring1.dat
 1 16 0 0 -2.95 4.875 0 0 0 0 -4.875 0 1 0 4-4edge.dat
 1 16 0 0 -2.95 -0.975 0 0 0 0 -0.975 0 -0.3 0 4-4con4.dat
-
 1 16 0 0 0 1 0 0 0 0 -1 0 -1 0 stud4a.dat
 1 16 0 0 0 -6 0 0 0 0 -6 0 -1 0 4-4edge.dat
 1 16 0 0 0 -6 0 0 0 0 -6 0 -1 0 4-4disc.dat
 1 16 0 0 -2 8 0 0 0 0 8 0 1 0 4-4edge.dat
 1 16 0 0 -2 2.6667 0 0 0 0 -2.6667 0 -0.2 0 4-4con2.dat
 1 16 0 0 -2 8 0 0 0 0 8 0 2 0 4-4cyli.dat
-
 0 BFC INVERTNEXT
 1 16 0 0 -1 15.75 0 0 0 0 -15.75 0 4 0 4-4cylo.dat
 1 16 0 0 3 -1.75 0 0 0 0 -1.75 0 -1 0 4-4ring9.dat
-1 16 0 0 3 -1.25 0 0 0 0 -1.25 0 -1 0 4-4rin14.dat
+1 16 0 0 3 -1.25 0 0 0 0 -1.25 0 -1 0 4-4ring14.dat
 1 16 0 0 -1 18.75 0 0 0 0 -18.75 0 4 0 4-4cylo.dat
 1 16 0 0 -1 1.75 0 0 0 0 -1.75 0 1 0 4-4ring9.dat
-1 16 0 0 -1 1.25 0 0 0 0 -1.25 0 1 0 4-4rin14.dat
-
+1 16 0 0 -1 1.25 0 0 0 0 -1.25 0 1 0 4-4ring14.dat
 1 16 0 0 0 1 0 0 0 0 -1 0 1 0 s\18978as01.dat
 1 16 0 0 0 0.309 0 0.9511 0.9511 0 -0.309 0 1 0 s\18978as01.dat
 1 16 0 0 0 -0.809 0 0.5878 0.5878 0 0.809 0 1 0 s\18978as01.dat
 1 16 0 0 0 -0.809 0 -0.5878 -0.5878 0 0.809 0 1 0 s\18978as01.dat
 1 16 0 0 0 0.309 0 -0.9511 -0.9511 0 -0.309 0 1 0 s\18978as01.dat
-0 // edge lines
 2 24 5.813 -2.408 -2.128 6.144 -2.274 -2.105
 2 24 6.144 -2.274 -2.105 7.582 -2.104 -2
 2 24 4.156 -3.831 -2.173 4.134 -4.134 -2.162

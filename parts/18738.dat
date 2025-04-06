@@ -1,18 +1,10 @@
 0 Minifig Ice Axe with 3-Rib Handle
 0 Name: 18738.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
 0 !CATEGORY Minifig Accessory
 0 !KEYWORDS Hammer
-
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
-0 // Handle
-
 1 16 0 0 0 2 0 0 0 -1 0 0 0 2 4-4disc.dat
 1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4edge.dat
 0 BFC INVERTNEXT
@@ -37,7 +29,6 @@
 1 16 0 -3.5 0 0.25 0 0 0 -0.5 0 0 0 0.25 4-4con15.dat
 1 16 0 -4 0 3.75 0 0 0 1 0 0 0 3.75 4-4edge.dat
 1 16 0 -4.5 0 0.25 0 0 0 0.5 0 0 0 0.25 4-4con15.dat
-0 // Axe
 1 16 0 -25 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 -25 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
 1 16 0 -25 0 4 0 0 0 4 0 0 0 4 4-4cyli.dat
@@ -98,20 +89,20 @@
 4 16 4 -33 -13 4 -29.5 -13 3 -29.5 -1.75 3 -32.75 -1.75
 0 BFC INVERTNEXT
 1 16 -2.5 -25 7.25 0 5 0 0 0 -2.25 -4.5 0 0 1-4cyli.dat
-1 16 -2.5 -25 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4ndis.DAT
-1 16 2.5 -25 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4edge.DAT
-1 16 2.5 -25 7.25 0 -1 0 0 0 -2.25 -4.5 0 0 1-4ndis.DAT
-1 16 -2.5 -25 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4edge.DAT
+1 16 -2.5 -25 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4ndis.dat
+1 16 2.5 -25 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4edge.dat
+1 16 2.5 -25 7.25 0 -1 0 0 0 -2.25 -4.5 0 0 1-4ndis.dat
+1 16 -2.5 -25 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4edge.dat
 0 BFC INVERTNEXT
 1 16 -3 -26 -2.75 0 6 0 0 0 1 1 0 0 1-4cyli.dat
-1 16 -3 -26 -2.75 0 1 0 0 0 1 1 0 0 1-4ndis.DAT
-1 16 -3 -26 -2.75 0 1 0 0 0 1 1 0 0 1-4edge.DAT
-1 16 3 -26 -2.75 0 -1 0 0 0 1 1 0 0 1-4ndis.DAT
-1 16 3 -26 -2.75 0 1 0 0 0 1 1 0 0 1-4edge.DAT
-1 16 4 -26 -13 -1 -1 0 0 0 -3.5 11.25 0 0 1-4ndis.DAT
-1 16 4 -26 -13 -1 1 0 0 0 -3.5 11.25 0 0 1-4edge.DAT
-1 16 -4 -26 -13 1 1 0 0 0 -3.5 11.25 0 0 1-4ndis.DAT
-1 16 -4 -26 -13 1 1 0 0 0 -3.5 11.25 0 0 1-4edge.DAT
+1 16 -3 -26 -2.75 0 1 0 0 0 1 1 0 0 1-4ndis.dat
+1 16 -3 -26 -2.75 0 1 0 0 0 1 1 0 0 1-4edge.dat
+1 16 3 -26 -2.75 0 -1 0 0 0 1 1 0 0 1-4ndis.dat
+1 16 3 -26 -2.75 0 1 0 0 0 1 1 0 0 1-4edge.dat
+1 16 4 -26 -13 -1 -1 0 0 0 -3.5 11.25 0 0 1-4ndis.dat
+1 16 4 -26 -13 -1 1 0 0 0 -3.5 11.25 0 0 1-4edge.dat
+1 16 -4 -26 -13 1 1 0 0 0 -3.5 11.25 0 0 1-4ndis.dat
+1 16 -4 -26 -13 1 1 0 0 0 -3.5 11.25 0 0 1-4edge.dat
 0 BFC INVERTNEXT
 1 16 -4 -26 -13 1 6 0 0 0 -3.5 11.25 0 0 1-4cyli.dat
 0 BFC INVERTNEXT

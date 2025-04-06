@@ -1,15 +1,9 @@
 0 Minifig Head Cuboid with Minecraft Pumpkin Pattern
 0 Name: 19729p01.dat
 0 Author: Merlijn Wissink [legolijntje]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\19729s01.dat
-
 4 70 -3.5 15 -15 -10 15 -15 -10 12 -15 -6.5 12 -15
 4 70 -6.5 12 -15 -6.5 8.5 -15 -3.5 8.5 -15 -3.5 15 -15
 4 308 -3 28.5 -15 -7 28.5 -15 -7 25.5 -15 -3 25.5 -15

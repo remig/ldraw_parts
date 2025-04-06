@@ -1,20 +1,8 @@
 0 Arch  2 x  6 x  5 Ornamented
 0 Name: 2145.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2002-11-15 [hafhead] Fixed duplicate lines and bowtie quads- good enough!
-0 !HISTORY 2003-05-19 [pneaster] Fixed Remaining l3p errors, Added BFC
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-01-05 [Philo] Corrected wrong quads, made CCW, added missing condlines
-0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
 2 24 43.07 44 -14 43.07 112 -14
 2 24 -43.07 44 -14 -43.07 112 -14
 2 24 43.07 44 -6 43.07 112 -6
@@ -783,7 +771,6 @@
 1 16 -46 18 10 0 -1 0 0 0 -10 -10 0 0 1-4ndis.dat
 1 16 46 18 10 0 8 0 10 0 0 0 0 10 2-4cyli.dat
 1 16 -46 18 10 0 -8 0 10 0 0 0 0 10 2-4cyli.dat
-0 // Added lines/Condlines
 5 24 40.835 60 -14 40.835 60 -6 40.835 112 -14 40.4838 55.4325 -14
 5 24 -40.835 60 -6 -40.835 60 -14 -40.835 112 -14 -40.4838 55.4325 -14
 5 24 40.4838 55.4325 -14 40.4838 55.4325 -6 40.835 60 -6 39.4425 50.942 -14

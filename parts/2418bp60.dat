@@ -1,13 +1,9 @@
 0 Windscreen  6 x  6 Octagonal Canopy with Axlehole and Insectoids Pattern
 0 Name: 2418bp60.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Space, Set 6977
-
+0 !KEYWORDS Set 6977, Space
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2418s01.dat
 1 16 0 0 0 1 0 0 0 4 0 0 0 1 axlehole.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 axlehol2.dat

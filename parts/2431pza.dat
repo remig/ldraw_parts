@@ -1,13 +1,9 @@
 0 Tile  1 x  4 with Dark Red Rectangle and  2 Dark Red Trapezoids Pattern
 0 Name: 2431pza.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS Set 41498, Brickheadz, Boba Fett
-
+0 !KEYWORDS Boba Fett, Brickheadz, Set 41498
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
 3 16 -39.5 0 -1.8 -40 0 -10 -39.5 0 -9.5
 3 16 -39.5 0 6.3 -40 0 -10 -39.5 0 -1.8

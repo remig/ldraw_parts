@@ -1,14 +1,9 @@
-0 Minifig Leg Left with Dark Brown Boots Pattern
+0 ~Minifig Leg Left with Dark Brown Lower Leg Pattern (Obsolete)
 0 Name: 20460p06.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Move down 12 units to align with hips
-
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS 20926
-
+0 !KEYWORDS Set 71011
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20460s01.dat
 1 308 0 0 0 1 0 0 0 1 0 0 0 1 s\20460s02.dat

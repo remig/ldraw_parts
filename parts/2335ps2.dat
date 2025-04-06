@@ -1,15 +1,8 @@
 0 Flag  2 x  2 with SW Mini AT-ST Pattern
 0 Name: 2335ps2.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Part UPDATE 2004-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CW
-
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335s01.dat
 4 16 -2 0 10 -2 40 10 -2 40 50 -2 0 50
 4 16 2 0 50 2 40 50 2 34 49 2 6 49
@@ -76,4 +69,3 @@
 4 0 2 15 23 2 15 23.5 2 25 23.5 2 25 23
 4 0 2 37 28.5 2 25 23 2 25 23.5 2 36.927 29
 4 0 2 33.571 48.5 2 34.071 48.5 2 36.927 29 2 36.427 28.769
-0

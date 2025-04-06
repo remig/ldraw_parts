@@ -1,15 +1,9 @@
-0 Technic Rubber Pin for Chain Tread 38
+0 Technic Rubber Pin for Chain Tread 5 Wide
 0 Name: 24375.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 !HELP Position on 57518: X=+/-20 Y=-14, Z=-17
-
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
 1 16 0 1 0 -8 0 0 0 -1 0 0 0 8 4-4cylc.dat
 1 16 0 8 0 -2.2961 0 -5.54328 0 -7 0 -5.54328 0 2.2961 3-8cylo.dat
 1 16 0 8 0 2.2961 0 5.54328 0 -7 0 -5.54328 0 2.2961 3-8cylo.dat

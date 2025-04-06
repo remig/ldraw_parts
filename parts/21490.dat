@@ -1,16 +1,10 @@
 0 Figure Friends Cape Cloth Short with 2 Bottom Curves and 4 Heart Shaped Holes
 0 Name: 21490.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 0 BFC CERTIFY CCW
-
-0 !CATEGORY Canvas
-0 !KEYWORDS Cloak, Shawl, Drape, Poncho, Neckwear
-
-0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !CATEGORY Sheet Fabric
+0 !KEYWORDS Cloak, Drape, Neckwear, Poncho, Shawl
 4 16 -18.52 0 15.04 -19.98 0 16.02 -19.98 -0.3 16.02 -18.52 -0.3 15.04
 4 16 -19.98 0 16.02 -20.96 0 17.48 -20.96 -0.3 17.48 -19.98 -0.3 16.02
 4 16 -15.08 0 15.04 -16.8 0 14.7 -16.8 -0.3 14.7 -15.08 -0.3 15.04
